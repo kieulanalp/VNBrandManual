@@ -11413,6 +11413,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Width in between letters: 0.5cm (0.2in) [95588] Chiều rộng ở giữa các chữ cái: 0,5cm (0,2 in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T050441Z" creationid="Kieu Lan" creationdate="20210508T050441Z">
+        <seg>Width in between letters: 0.5cm (0.2in) [95588] khoảng cách giữa các chữ cái: 0,5cm (0,2 in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Width must be based on 7.6mm (0.3in) / person [335180]     Chiều rộng phải dựa trên 7.6mm (0.3in) / người</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T032925Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
