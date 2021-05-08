@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A secure storage area must be available where the luggage of registered guests can be stored temporarily.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T043203Z" creationid="LanHK" creationdate="20210507T043203Z">
+        <seg>A secure storage area must be available where the luggage of registered guests can be stored temporarily. Một khu vực chứa đồ an toàn phải có để tạm thời trữ hành lý của khách đã đăng ký </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sign must be provided adjacent to the call button(s) in lift lobbies and meet the following requirements: [56748]      Một biển báo phải được cung cấp liền kề với (các) nút gọi trong hành lang thang máy và đáp ứng các yêu cầu sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110416Z" creationid="LanHK" creationdate="20210419T110408Z">
@@ -586,6 +594,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011557Z" creationid="LanHK" creationdate="20210406T011549Z">
         <seg>Access Truy cập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access control is required at all doors used by guests from the car park area into interior guest room corridors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T043009Z" creationid="LanHK" creationdate="20210507T043004Z">
+        <seg>Access control is required at all doors used by guests from the car park area into interior guest room corridors. Yêu cầu có kiểm soát truy cập tại tất cả các cửa dành cho khách từ khu gửi xe tới bên trong tầng phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access control is required for lifts that go from basement car park areas to guest room floors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T102022Z" creationid="LanHK" creationdate="20210506T102022Z">
+        <seg>Access control is required for lifts that go from basement car park areas to guest room floors. Yêu cầu có kiểm soát truy cập đối với các thang máy đi từ các khu hầm gửi xe tới tầng phòng khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,10 +774,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Fire Rated Doors except for service riser and/or connecting guest room doors must be equipped with automatic door closers to ensure latching.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T070233Z" creationid="LanHK" creationdate="20210505T070226Z">
+        <seg>All Fire Rated Doors except for service riser and/or connecting guest room doors must be equipped with automatic door closers to ensure latching. Tất cả cửa chống cháy trừ cửa vào phòng bảo trì đường ống và/hoặc cửa phòng connecting phải có tay co tự động để đảm bảo cửa đóng khít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Guest Room entrance doors and door frames must achieve a minimum Fire Resistance of no less than 20 minutes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T070550Z" creationid="LanHK" creationdate="20210505T070550Z">
+        <seg>All Guest Room entrance doors and door frames must achieve a minimum Fire Resistance of no less than 20 minutes. Tất cả cửa ra vào phòng khách và khung cửa phải có mức độ chống cháy tối thiểu không ít hơn 20 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All buildings must be protected by a Fixed Fire Suppression System that is appropriate to the classification of fire loading in the location except: [581083]   Tất cả các tòa nhà phải được bảo vệ bởi Hệ thống chữa cháy cố định phù hợp với việc phân loại tải chống cháy ở vị trí ngoại trừ:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T024122Z" creationid="LanHK" creationdate="20210417T024122Z">
         <seg>All buildings must be protected by a Fixed Fire Suppression System that is appropriate to the classification of fire loading in the location except: [581083]   Tất cả các tòa nhà phải được bảo vệ bởi Hệ thống chữa cháy cố định phù hợp với mức độ nguy cơ cháy tiềm ẩn ở địa điểm cụ thể đó, ngoại trừ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All cabling and connections for the fire alarm and detection system must be protected against fire and physical damage for a minimum duration of 30 minutes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T090814Z" creationid="LanHK" creationdate="20210505T090814Z">
+        <seg>All cabling and connections for the fire alarm and detection system must be protected against fire and physical damage for a minimum duration of 30 minutes. Bất cứ dây cáp và kết nối nào của hệ thống báo động và phát hiện cháy đều được bảo vệ chống cháy và bảo vệ chống hư tổn vật lý trong tối thiểu 30 phút</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,10 +814,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All fire safety signage must be in the local language(s) and English.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T075416Z" creationid="LanHK" creationdate="20210506T075416Z">
+        <seg>All fire safety signage must be in the local language(s) and English. Tất cả biển báo bằng ngôn ngữ địa phương và tiếng Anh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All guest room doors are required to have a one-way view port installed and meet the following requirements: [56221]      Tất cả các cửa phòng khách phải lắp đặt lỗ nhìn một chiều và đáp ứng các yêu cầu sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T041322Z" creationid="Kieu Lan" creationdate="20210417T041322Z">
         <seg>All guest room doors are required to have a one-way view port installed and meet the following requirements: [56221]      Tất cả các cửa phòng khách phải lắp mắt thần một chiều và đáp ứng các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All guest room entrance doors must be fitted with an Electronic Door Locks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T042916Z" creationid="LanHK" creationdate="20210507T042916Z">
+        <seg>All guest room entrance doors must be fitted with an Electronic Door Locks. Tất cả cửa ra vào phòng khách phải có khóa điện tử</seg>
       </tuv>
     </tu>
     <tu>
@@ -1725,6 +1789,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>d</note>
+      <tuv lang="EN-US">
+        <seg>Brand Standards Manual - This document includes all brand standards that apply to Holiday Inn Resort hotels in Vietnam.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Brand Standards Manual - This document includes all brand standards that apply to Holiday Inn Resort hotels in Vietnam.&lt;t0/&gt; &lt;t1/&gt;Hướng dẫn tiêu chuẩn thương hiệu - Tài liệu này bao gồm tất cả các tiêu chuẩn thương hiệu áp dụng cho các khách sạn Holiday Inn Resort tại Việt Nam.</seg>
       </tuv>
@@ -2030,10 +2100,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calls must connect to an on-site location that is permanently staffed or directly to the emergency services.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T105946Z" creationid="LanHK" creationdate="20210506T105941Z">
+        <seg>Calls must connect to an on-site location that is permanently staffed or directly to the emergency services. Các cuộc gọi kết nối đến một vị trí trong khuôn viên khách sạn luôn có nhân viên trực hoặc trực tiếp tới đơn vị cứu hộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calls must not be answered by an auto-attendant at any time [56753]       cuộc gọi không được trả lời tự động bất cứ lúc nào</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110306Z" creationid="LanHK" creationdate="20210419T110306Z">
         <seg>Calls must not be answered by an auto-attendant at any time [56753]       Không được trả lời cuộc gọi bằng máy trả lời tự động bất cứ lúc nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calls must not be answered by an auto-attendant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T105956Z" creationid="LanHK" creationdate="20210506T105956Z">
+        <seg>Calls must not be answered by an auto-attendant. Không được trả lời cuộc gọi bằng máy trả lời tự động </seg>
       </tuv>
     </tu>
     <tu>
@@ -2624,7 +2710,7 @@
       <tuv lang="EN-US">
         <seg>Content published on: 08 Nov 2018 Nội dung được công bố ngày: 08 tháng 11 2018</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T043558Z" creationid="LanHK" creationdate="20210405T043558Z">
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210508T011436Z" creationid="LanHK" creationdate="20210405T043558Z">
         <seg>Content published on: 08 Nov 2018 Nội dung công bố ngày: 08 tháng 11 2018</seg>
       </tuv>
     </tu>
@@ -2634,6 +2720,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210331T052639Z" creationid="LanHK" creationdate="20210331T043838Z">
         <seg>Content published on: 08 Nov 2018&lt;t0/&gt; &lt;t1/&gt;Nội dung công bố ngày: 08 tháng 11 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuously illuminated or immediately illuminate upon entry by guest.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T074520Z" creationid="LanHK" creationdate="20210506T074520Z">
+        <seg>Continuously illuminated or immediately illuminate upon entry by guest. Được chiếu sáng liên tục hoặc chiếu sáng ngay lập tức khi có người bước vào</seg>
       </tuv>
     </tu>
     <tu>
@@ -2951,6 +3045,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directional exit signage must be provided when the exit is not immediately visible.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T075028Z" creationid="LanHK" creationdate="20210506T075028Z">
+        <seg>Directional exit signage must be provided when the exit is not immediately visible. Phải có biển chỉ hướng lối thoát hiểm khi không thể ngay lập tức nhìn thấy lối thoát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directly connected to back of house corridor for the ball room / function room.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -3063,6 +3165,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doors opening onto a balcony area must have a secondary device fitted to limit the initial opening of the balcony door.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T043833Z" creationid="LanHK" creationdate="20210507T043833Z">
+        <seg>Doors opening onto a balcony area must have a secondary device fitted to limit the initial opening of the balcony door. Cửa mở vào khu vực ban công phải có phụ kiện hạn chế mở cửa ban đầu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154714Z" creationid="Kieu Lan" creationdate="20210405T154714Z">
@@ -3099,6 +3209,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T121412Z" creationid="LanHK" creationdate="20210419T121412Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014113Z" creationid="LanHK" creationdate="20210504T014113Z">
+        <seg>Hạng mục</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,6 +3342,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electronic Door Locks must be approved by IHG.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T042924Z" creationid="LanHK" creationdate="20210507T042924Z">
+        <seg>Electronic Door Locks must be approved by IHG. Khóa điện tử phải được phê duyệt bởi IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elevators/lifts which have both front and rear door openings must have handrails on both side walls [12425] Thang máy / máy nâng có cả lỗ cửa trước và sau phải có tay vịn ở hai bên tường</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T025339Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -3272,6 +3398,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency Exits on the same floor that are remote from each other.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T100433Z" creationid="LanHK" creationdate="20210505T100433Z">
+        <seg>Emergency Exits on the same floor that are remote from each other. Lối thoát hiểm trên cùng tầng cách xa nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emergency Exits that are fitted with a Fire Door Retainer must meet the following: Lối thoát hiểm được trang bị Chốt cửa chống cháy phải đáp ứng các điều sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T085522Z" creationid="LanHK" creationdate="20210416T085333Z">
@@ -3300,6 +3434,14 @@ See also ID number Xem thêm số ID 26944</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T095738Z" creationid="LanHK" creationdate="20210416T095738Z">
         <seg>Emergency lighting should provide an average of 10 lux (1 foot candle) at floor level [847131] Chiếu sáng khẩn cấp phải cung cấp trung bình 10 lux ở mức sàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency power must be provided to illuminate signage for a minimum of 60 minutes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T075159Z" creationid="LanHK" creationdate="20210506T075159Z">
+        <seg>Emergency power must be provided to illuminate signage for a minimum of 60 minutes. Cung cấp điện khẩn cấp đủ đảm bảo chiếu sáng biển báo trong tối thiểu 60 phút.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3569,6 +3711,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Fire Escapes must be approved by a Qualified Person.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T042407Z" creationid="LanHK" creationdate="20210507T042407Z">
+        <seg>External Fire Escapes must be approved by a Qualified Person. Các lối thoát hiểm bên ngoài phải được chứng nhận bởi người có chuyên môn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External halyard is not permitted [79908]       Không cho phép dây kéo bên ngoài</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T113915Z" creationid="LanHK" creationdate="20210422T113915Z">
@@ -3813,6 +3963,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Flame retardancy status i.e. inherent/treated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flammable Materials stored in the main building or any of the interior corridor guest room areas of a hotel must be kept in fire proof lockers or cabinets of a minimum of 30 minutes fire resistance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T100951Z" creationid="LanHK" creationdate="20210506T100951Z">
+        <seg>Flammable Materials stored in the main building or any of the interior corridor guest room areas of a hotel must be kept in fire proof lockers or cabinets of a minimum of 30 minutes fire resistance. Các vật phẩm dễ cháy lưu trữ trong tòa nhà chính hoặc bất cứ khu vực hành lang phòng khách trong nhà nào của khách sạn phải được trữ trong locker chống cháy hoặc tủ chống cháy với mức chống cháy tối thiểu 30 phút</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5456,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In guest rooms, halogen bulbs are only permitted in ceiling lights.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T041825Z" creationid="LanHK" creationdate="20210507T041825Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In hotels with a Fixed Fire Suppression System the distance between emergency exits must not exceed 120m (400ft) [56040]      Trong các khách sạn có Hệ thống chữa cháy cố định, khoảng cách giữa các lối thoát hiểm không được vượt quá 120m (400ft)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T084735Z" creationid="LanHK" creationdate="20210416T084735Z">
@@ -5470,6 +5636,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012743Z" creationid="LanHK" creationdate="20210406T012743Z">
         <seg>Internal Doors Cửa trong nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Exit Doors on Emergency Egress routes must be operable from both sides.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T100638Z" creationid="LanHK" creationdate="20210505T100638Z">
+        <seg>Internal Exit Doors on Emergency Egress routes must be operable from both sides. Cửa thoát hiểm và các lối thoát hiểm trong nhà phải có thể vận hành từ cả hai phía</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,6 +6232,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighting in guest vending and laundry rooms must remain on or automatically illuminate upon entrance into the room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T042016Z" creationid="LanHK" creationdate="20210507T042016Z">
+        <seg>Lighting in guest vending and laundry rooms must remain on or automatically illuminate upon entrance into the room. Chiếu sáng trong phòng máy bán hàng và phòng giặt là cho khách phải luôn bật hoặc tự động bật khi có người bước vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting in the pantry/kitchen must meet the following: [80171] Chiếu sáng trong pantry / bếp phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -6182,6 +6364,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T015415Z" creationid="LanHK" creationdate="20210428T015415Z">
         <seg>Located conveniently to all public areas and meeting rooms [68802]      Đặt ở vị trí thuận tiện cho tất cả các khu vực công cộng và phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Located in a clearly visible location.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T105852Z" creationid="LanHK" creationdate="20210506T105850Z">
+        <seg>Located in a clearly visible location. Lắp đặt tại vị trí dễ thấy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6650,6 +6840,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More than 1001 people, minimum of four separate exits, to be validated by a Qualified Person.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T101015Z" creationid="LanHK" creationdate="20210505T101015Z">
+        <seg>More than 1001 people, minimum of four separate exits, to be validated by a Qualified Person. Nếu có hơn 1001 người, tối thiểu 4 lối thoát riêng biệt, cần thông qua đánh giá bởi người có chuyên môn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be clearly visible from the front desk [6316] Phải nhìn được rõ ràng từ lễ tân</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092818Z" creationid="LanHK" creationdate="20210426T092818Z">
@@ -6902,6 +7100,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T030803Z" creationid="LanHK" creationdate="20210405T030803Z">
         <seg>New Build&lt;t0/&gt; &lt;t1/&gt;Xây mới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Life Safety System installations must be Certified by a Qualified Person.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T042100Z" creationid="LanHK" creationdate="20210507T042100Z">
+        <seg>New Life Safety System installations must be Certified by a Qualified Person. Các lắp đặt mới ho hệ thống PCCC phải được chứng nhận bởi người có chuyên môn</seg>
       </tuv>
     </tu>
     <tu>
@@ -7971,6 +8177,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remarks</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T072022Z" creationid="LanHK" creationdate="20210504T072022Z">
+        <seg>Remarks Ghi chú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removal of rubbish [58842] Loại bỏ rác</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T100352Z" creationid="LanHK" creationdate="20210428T100352Z">
@@ -8340,6 +8554,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety signage displayed in the local language(s) and English.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T110615Z" creationid="LanHK" creationdate="20210506T110615Z">
+        <seg>Safety signage displayed in the local language(s) and English. Biển báo an toàn sử dụng (các) ngôn ngữ địa phương và tiếng Anh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sales and Revenue</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092022Z" creationid="LanHK" creationdate="20210405T092022Z">
@@ -8700,6 +8922,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Service riser shafts that are not fire stopped at every floor must be fitted with smoke detection at every third floor and at the top of the service riser.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T081038Z" creationid="LanHK" creationdate="20210505T081038Z">
+        <seg>Service riser shafts that are not fire stopped at every floor must be fitted with smoke detection at every third floor and at the top of the service riser. Các ống riser dịch vụ không có chống cháy lan ở mỗi tầng phải có đầu báo khói mỗi ba tầng và ở trên đỉnh ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sewage Disposal</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154718Z" creationid="Kieu Lan" creationdate="20210405T154718Z">
@@ -8768,6 +8998,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T073754Z" creationid="LanHK" creationdate="20210406T043618Z">
         <seg>Signage [18268] Biển bảng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signage must be illuminated by normal and Emergency Lighting that automatically comes on when the power supply to the normal lighting provision fails.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T075114Z" creationid="LanHK" creationdate="20210506T075114Z">
+        <seg>Signage must be illuminated by normal and Emergency Lighting that automatically comes on when the power supply to the normal lighting provision fails. Biển báo phải được chiếu sáng bình thường và cả chiếu sáng khẩn cấp tự động bật khi nguồn điện cấp cho chiếu sáng bình thường gặp sự cố</seg>
       </tuv>
     </tu>
     <tu>
@@ -8952,6 +9190,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T043556Z" creationid="LanHK" creationdate="20210428T043556Z">
         <seg>Stainless steel strainer [394066] Lưới lọc thép không gỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standby power for essential services must be available within 15 seconds of the main supply failure.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T075632Z" creationid="LanHK" creationdate="20210506T075632Z">
+        <seg>Standby power for essential services must be available within 15 seconds of the main supply failure. Nguồn điện khẩn cấp cho các dịch vụ thiết yếu phải có sau trong vòng 15 giây sau khi nguồn điện chính gặp sự cố.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9420,6 +9666,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The exposed metal of ladders, steps and handrails must be Corrosion Resistant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T103047Z" creationid="LanHK" creationdate="20210506T103047Z">
+        <seg>The exposed metal of ladders, steps and handrails must be Corrosion Resistant. Các phần kim loại lộ ra của thang treo, bậc thang và tay vịn phải có khả năng chống ăn mòn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The floor level [12390] Mức sàn</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T024718Z" creationid="Kieu Lan" creationdate="20210427T024718Z">
@@ -9492,6 +9746,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The level of lighting in a Swimming Pool area must allow the entire bottom of the swimming pool to be clearly seen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T105735Z" creationid="LanHK" creationdate="20210506T105735Z">
+        <seg>The level of lighting in a Swimming Pool area must allow the entire bottom of the swimming pool to be clearly seen. Mức chiếu sáng trong khu vực bể bơi phải cho phép nhìn rõ toàn bộ đáy bể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main elevator/lift lobby must meet the following: [12380] Sảnh thang máy chính / thiết bị nâng phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T020412Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -9536,6 +9798,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>The pantry/kitchen floor finish must meet the following: [79964] Hoàn thiện sàn nhà bếp/phòng pantry phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The power supply must be provided with two-way automatic change over.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210506T075752Z" creationid="LanHK" creationdate="20210506T075752Z">
+        <seg>The power supply must be provided with two-way automatic change over. Nguồn cấp điện phải có bộ chuyển mạch tự động hai chiều</seg>
       </tuv>
     </tu>
     <tu>
@@ -10316,6 +10586,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wall mirrors which go all the way to the floor must be protected by an anti-shatter base or film.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T043314Z" creationid="LanHK" creationdate="20210507T043314Z">
+        <seg>Wall mirrors which go all the way to the floor must be protected by an anti-shatter base or film. Gương gắn tường kéo dài đến chân tường phải được bảo vệ bằng ốp chân hoặc màng dán an chống vỡ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wall mounted privacy screens [99351]      Màn che kín đáo gắn tường</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T032446Z" creationid="LanHK" creationdate="20210428T032446Z">
@@ -10492,6 +10770,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a hotel is not protected by a Fixed Fire Suppression System, guest rooms equipped with stove type cooking equipment must have a Fixed Fire Suppression System.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T061851Z" creationid="LanHK" creationdate="20210505T061851Z">
+        <seg>Where a hotel is not protected by a Fixed Fire Suppression System, guest rooms equipped with stove type cooking equipment must have a Fixed Fire Suppression System. Nếu khách sạn không được bảo vệ bởi hệ thống chữa cháy cố định, phòng khách có bếp nấu phải được trang bị hệ thống chữa cháy cố định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a wheel chair refuge is provided in staircases it must meet the following: [356095] Trường hợp cung cấp chỗ cho xe lăn trong cầu thang, nó phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T045053Z" creationid="Kieu Lan" creationdate="20210427T040607Z">
@@ -10580,6 +10866,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where gas fires are provided an automatic ignition source with combustion controls to prevent gas from being released into the room is required.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210505T061258Z" creationid="LanHK" creationdate="20210505T061201Z">
+        <seg>Where gas fires are provided an automatic ignition source with combustion controls to prevent gas from being released into the room is required. Đối với thiết bị đốt gas, phải có nguồn đánh lửa tự động với bộ điều khiển quá trình đốt cháy để ngăn khí gas thoát vào phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where hotels licensed under any IHG® brand is included on a Hotel Management Company and / or Joint Website it must be clear that the hotel is a distinct business and maintain consumer confidence in its brands.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10640,6 +10934,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T030737Z" creationid="LanHK" creationdate="20210419T030737Z">
         <seg>Where provided Safe Deposit Boxes must meet the following requirements: [56184] Trường hợp có Két An Toàn, két phải đáp ứng các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where provided, house telephones in public areas must not connect directly to guest rooms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210507T024031Z" creationid="LanHK" creationdate="20210507T024031Z">
+        <seg>Where provided, house telephones in public areas must not connect directly to guest rooms. Nếu có điện thoại bàn tại các khu công cộng, điện thoại không được kết nối trực tiếp lên phòng khách</seg>
       </tuv>
     </tu>
     <tu>
