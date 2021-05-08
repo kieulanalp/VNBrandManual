@@ -1,0 +1,14 @@
+5/7/21 11:49 AM
+Project Statistics
+
+                 	Segments	 Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	   16342	197634	                     887695	                      1081650	     1	
+Remaining:       	   13528	154191	                     705760	                       855807	     1	
+Unique:          	   14099	188970	                     843029	                      1030438	     1	
+Unique Remaining:	   11954	147996	                     674916	                       820348	     1	
+
+
+Individual File Statistics:
+
+File Name                               	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Brand Standards Manual 2018 (VNver).docx	         16342	             13528	          14099	                    11954	     197634	         154191	      188970	                147996	                           887695	                               705760	                            843029	                                      674916	                            1081650	                                 855807	                             1030438	                                        820348	

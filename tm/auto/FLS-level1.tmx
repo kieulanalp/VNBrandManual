@@ -1,0 +1,3214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Chiếu sáng khẩn cấp" phải được cung cấp trong toàn bộ khách sạn, trong tất cả các lối ra, cầu thang, khu vực công cộng lớn hơn 15m2 và nơi lắp ráp và trong các khu vực nơi nhân viên có thể làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030234Z" creationid="LanHK" creationdate="20210413T030234Z">
+        <seg>"Chiếu sáng khẩn cấp" phải được cung cấp trong toàn bộ khách sạn, trong tất cả các lối ra, cầu thang, khu vực công cộng lớn hơn 15m2 và nơi tập trung đông người, và trong các khu vực nơi nhân viên có thể làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Công viên nước": Các hoạt động ở  công viên nước (bao gồm trượt ván) phải được Thương hiệu phê duyệt và đáp ứng các hướng dẫn của IHG về "công viên nước".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033619Z" creationid="LanHK" creationdate="20210413T033619Z">
+        <seg>"Công viên nước": Các hoạt động trò chơi công viên nước (bao gồm cầu trượt) phải được Thương hiệu phê duyệt và đáp ứng các hướng dẫn của IHG về "công viên nước".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Cửa thoát hiểm" bên trong trên các lối thoát phải mở được từ cả hai phía.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104005Z" creationid="LanHK" creationdate="20210407T104005Z">
+        <seg>"Cửa thoát hiểm" trong tòa nhà trên đường thoát hiểm phải mở được từ cả hai phía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Cửa thoát hiểm" phải cách xa nhau.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025947Z" creationid="LanHK" creationdate="20210413T025947Z">
+        <seg>"Cửa thoát hiểm" phải mở ra hướng thoát hiểm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Cửa thoát hiểm" phải xoay theo hướng đi ra.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104029Z" creationid="LanHK" creationdate="20210407T104029Z">
+        <seg>"Cửa thoát hiểm" phải mở ra hướng thoát hiểm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Hệ thống phun nước" chống cháy tự động: Tất cả các tòa nhà khách sạn "Mới Thi Công" và "chuyển đổi" phải có vòi phun tự động cho toàn bộ tòa nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023200Z" creationid="LanHK" creationdate="20210413T023200Z">
+        <seg>"Hệ thống sprinkler" chữa cháy tự động: Tất cả các tòa nhà khách sạn "Mới xây" và "Chuyển đổi" phải có vòi phun tự động cho toàn bộ tòa nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Khu vực chơi, phòng chơi và phòng trò chơi" dành riêng cho trẻ em: Các khu vực chơi chuyên dụng phải luôn đóng kín.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033653Z" creationid="LanHK" creationdate="20210413T033653Z">
+        <seg>"Khu vực chơi, phòng chơi và phòng trò chơi" dành riêng cho trẻ em: Các khu vực chơi cho trẻ em phải khép kín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Mới thi công": Kính được sử dụng trong các cửa sổ từ sàn đến trần và cửa trong suốt hoặc mờ, cổng và tường phải là "kính an toàn".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033713Z" creationid="LanHK" creationdate="20210413T033713Z">
+        <seg>Khách sạn "Xây mới": Kính được sử dụng trong các cửa sổ từ sàn đến trần và cửa, cổng và tường trong suốt phải là "kính an toàn".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Mới thi công": phải cung cấp các thiết bị phát hiện "khả định".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T040458Z" creationid="LanHK" creationdate="20210408T034336Z">
+        <seg>"Xây mới": phải cung cấp đầu báo "địa chỉ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Có thể bao gồm hành lang của khách, sân trước, phía sau nhà, không gian hội nghị, vv).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T081041Z" creationid="LanHK" creationdate="20210407T081041Z">
+        <seg>(Có thể bao gồm hành lang khách, giếng trời, khu BOH, không gian hội nghị, vv).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Kiểm tra chất lượng nước hệ thống nước lạnh trong nước (theo tiêu chuẩn W.H.O).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T021047Z" creationid="LanHK" creationdate="20210412T021047Z">
+        <seg>- Kiểm tra chất lượng nước hệ thống nước lạnh trong nhà (theo tiêu chuẩn W.H.O).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Thử nghiệm Legionella cho hệ thống nước nóng trong nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T020952Z" creationid="LanHK" creationdate="20210412T020952Z">
+        <seg>- Xét nghiệm khuẩn Legionella cho hệ thống nước nóng trong nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 đèn trong mỗi phòng khách (thường là tiền sảnh) phải được kết nối với máy phát khẩn cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030248Z" creationid="LanHK" creationdate="20210413T030248Z">
+        <seg>1 đèn trong mỗi phòng khách (thường là ở tiền sảnh) phải được kết nối với máy phát khẩn cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>180 sec delay)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073523Z" creationid="LanHK" creationdate="20210412T073512Z">
+        <seg>180 sec delay) Thông báo tới lực lượng cứu hỏa địa phương (tối đa chậm 180s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AMERICAN STANDARDS (NFPA) CÁC TIÊU CHUẨN MỸ (NFPA)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015354Z" creationid="LanHK" creationdate="20210415T015354Z">
+        <seg>CÁC TIÊU CHUẨN MỸ (NFPA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUSTRALIAN STANDARDS (AS) CÁC TIÊU CHUẨN ÚC (AS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015400Z" creationid="LanHK" creationdate="20210415T015400Z">
+        <seg>CÁC TIÊU CHUẨN ÚC (AS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate Fire Hydrant Pumps.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T075812Z" creationid="LanHK" creationdate="20210412T075803Z">
+        <seg>Activate Fire Hydrant Pumps. Kích hoạt Bơm trụ cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate Fire Sprinkler Pumps.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T075806Z" creationid="LanHK" creationdate="20210412T074528Z">
+        <seg>Activate Fire Sprinkler Pumps. Kích hoạt Bơm sprinkler cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate HVAC System Emergency Mode.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074502Z" creationid="LanHK" creationdate="20210412T074502Z">
+        <seg>Activate HVAC System Emergency Mode. Kích hoạt chế độ khẩn cấp của hệ thống HVAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate Smoke Ventilation Systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074425Z" creationid="LanHK" creationdate="20210412T074425Z">
+        <seg>Activate Smoke Ventilation Systems. Kích hoạt hệ thống thông khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate Stair Pressurization Systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074445Z" creationid="LanHK" creationdate="20210412T074445Z">
+        <seg>Activate Stair Pressurization Systems. Kích hoạt hệ thống tăng áp cầu thang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate the Alert Tones on All Other Floors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073903Z" creationid="LanHK" creationdate="20210412T073903Z">
+        <seg>Activate the Alert Tones on All Other Floors. Kích hoạt âm thanh báo động trên tất cả các tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Other Smoke/Heat Detectors</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080151Z" creationid="LanHK" creationdate="20210412T080151Z">
+        <seg>All Other Smoke/Heat Detectors Tất cả các đầu báo khói / đầu báo nhiệt khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All pressure, lifting and electrical installations that incorporate safety devices must be installed, tested, commissioned and maintained in accordance with manufacturers’ instructions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025440Z" creationid="LanHK" creationdate="20210413T025440Z">
+        <seg>`All pressure, lifting and electrical installations that incorporate safety devices must be installed, tested, commissioned and maintained in accordance with manufacturers’ instructions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix – A  [IHG Cause &amp; Effect Matrix] Phụ lục  - A [Ma Trận Nhân Quả của IHG]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032730Z" creationid="LanHK" creationdate="20210412T032730Z">
+        <seg>IHG Cause &amp; Effect Matrix   Phụ lục A - Ma Trận Nhân Quả của IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix – B [Fire Prevention] Phụ lục - B [Chống cháy]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095540Z" creationid="LanHK" creationdate="20210412T095540Z">
+        <seg>Fire Prevention   Phụ Lục B: Phòng chống Hỏa hoạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix – C [fire &amp; Smoke Compartmentation] Phụ lục – C [Ngăn lửa &amp; khói]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095733Z" creationid="LanHK" creationdate="20210412T095733Z">
+        <seg>Fire &amp; Smoke Compartmentation   Phụ lục C: Chống Cháy lan &amp; Khói lan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix – E [Egress, Exits &amp; Signage) Phụ lục – E [Lối thoát, Đường thoát &amp; Biển báo)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T045325Z" creationid="LanHK" creationdate="20210413T045325Z">
+        <seg>Egress, Exits &amp; Signage   Phụ Lục E: Lối Thoát, Đường Thoát &amp; Biển Báo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B. Dành cho 500 đến 1000 người: không ít hơn ba lối thoát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104526Z" creationid="LanHK" creationdate="20210407T104526Z">
+        <seg>B. 500 đến 1000 người: không ít hơn ba lối thoát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B. Để thi công 90 phút, cần có cửa và khung chống cháy 60 phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064743Z" creationid="LanHK" creationdate="20210407T064743Z">
+        <seg>B. Đối với kết cấu chống cháy 90 phút, yêu cầu có cửa và khung cửa chống cháy 60 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BRITISH STANDARD (BS) TIÊU CHUẨN ANH (BS)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015347Z" creationid="LanHK" creationdate="20210415T015347Z">
+        <seg>TIÊU CHUẨN ANH (BS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Biển báo "Chấp nhận mọi rủi ro khi sử dụng" được để ở lối vào trung tâm thể hình.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033132Z" creationid="LanHK" creationdate="20210413T033132Z">
+        <seg>Biển báo "Chấp nhận mọi rủi ro khi sử dụng" được gắn ở lối vào phòng tập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Biển báo lối ra được yêu cầu khi lối ra không được nhìn thấy ngay lập tức.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T111813Z" creationid="LanHK" creationdate="20210407T111813Z">
+        <seg>Biển báo chỉ hướng lối ra phải có khi không thể ngay lập tức nhìn thấy lối ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Biển báo thoát hiểm được cung cấp sao cho không có điểm nào trong lối thoát&gt; 30m từ một biển báo thoát có thể nhìn thấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T112102Z" creationid="LanHK" creationdate="20210407T112102Z">
+        <seg>Biển báo thoát hiểm được lắp đặt sao cho không có điểm nào trong lối thoát khẩn cấp vượt quá 30m tính từ một biển báo lối thoát có thể nhìn thấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Biển báo thoát hiểm được kết nối với máy phát khẩn cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T111915Z" creationid="LanHK" creationdate="20210407T111915Z">
+        <seg>Biển báo thoát hiểm được kết nối với máy phát điện khẩn cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Biển báo thoát hiểm: Biển báo thoát hiểm, bao gồm cả biển chỉ đường, phải được chiếu sáng bằng đèn thông thường và "đèn khẩn cấp" và được yêu cầu tại mỗi vị trí thoát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030031Z" creationid="LanHK" creationdate="20210413T030031Z">
+        <seg>Biển báo thoát hiểm: Biển báo thoát hiểm, bao gồm cả biển chỉ hướng lối thoát, phải được chiếu sáng bằng đèn thông thường và "đèn khẩn cấp" và phải có tại mỗi lối thoát hiểm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Biển báo: Một biển báo được chuẩn bị chuyên nghiệp phải được cung cấp liền kề với nút gọi trong hành lang thang máy, bằng ngôn ngữ địa phương và bằng tiếng Anh, đưa ra cảnh báo rõ ràng về việc sử dụng thang máy trong trường hợp hỏa hoạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033919Z" creationid="LanHK" creationdate="20210413T033919Z">
+        <seg>Biển báo: Một biển báo được chế tạo chuyên nghiệp phải được cung cấp bên cạnh nút gọi thang trong sảnh thang máy, bằng ngôn ngữ địa phương và bằng tiếng Anh, đưa ra cảnh báo rõ ràng về việc sử dụng thang máy trong trường hợp hỏa hoạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bàn là được cung cấp để sử dụng trong phòng khách có chế độ tắt tự động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032746Z" creationid="LanHK" creationdate="20210413T032746Z">
+        <seg>Bàn là sử dụng trong phòng khách có chế độ tắt tự động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Báo cháy và phát hiện: Bắt buộc có một hệ thống báo cháy tự động, khả định trong tất cả các khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T040013Z" creationid="LanHK" creationdate="20210413T030321Z">
+        <seg>Phát hiện và báo cháy: Bắt buộc có một hệ thống báo cháy địa chỉ tự động trong tất cả các khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Báo động phải cung cấp tối thiểu 75dBA ở đầu giường và 65dBA ở tất cả các khu vực khác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T034904Z" creationid="LanHK" creationdate="20210408T034904Z">
+        <seg>Báo động tối thiểu 75dBA ở vách đầu giường và 65dBA ở tất cả các khu vực khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Báo động được giám sát trong  FCC chính.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T044843Z" creationid="LanHK" creationdate="20210409T044843Z">
+        <seg>Báo động được giám sát trong khu điều khiển PCCC chính.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bơm chữa cháy: Cung cấp một máy bơm tự động khởi động và hai máy bơm chính tự động khởi động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031025Z" creationid="LanHK" creationdate="20210413T031025Z">
+        <seg>Bơm chữa cháy: Cung cấp một máy bơm bù áp tự động khởi động và hai máy bơm chính tự động khởi động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BẢNG TRÊN CHỈ RA MỨC ĐỘ TỶ LỆ XẢ KHÓI CHO CÁC HỘI TRƯỜNG, PHỤ THUỘC VÀO CHIỀU CAO CỘT KHÓI VÀ MỨC ĐỘ THOÁT NĂNG LƯỢNG TỪ RỦI RO CHÁY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T020326Z" creationid="LanHK" creationdate="20210415T020326Z">
+        <seg>Biểu đồ TRÊN CHỈ RA MỨC ĐỘ TỶ LỆ khói thải CHO CÁC giếng trời, PHỤ THUỘC VÀO CHIỀU CAO đám KHÓI VÀ MỨC ĐỘ giải phóng NĂNG LƯỢNG TỪ đám CHÁY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bảo vệ "gác mái": Trong các tòa nhà từ bốn tầng trở xuống, các khu vực "gác mái" phải được cung cấp thiết bị phun nước tự động hoặc được chia nhỏ bằng các tấm chắn nước (đai trắng phòng lửa) vào các khu vực không vượt quá 330m2.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023253Z" creationid="LanHK" creationdate="20210413T023253Z">
+        <seg>Bảo vệ kho đồ dự trữ: Trong các tòa nhà từ bốn tầng trở xuống, các khu vực chứa đồ dự trữ phải được lắp sprinkler tự động hoặc được chia thành các khu vực không vượt quá 330m2 được chống cháy lan cho mỗi khu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bất kỳ cửa sổ phòng khách phải được giới hạn mở tối đa 100mm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T103155Z" creationid="LanHK" creationdate="20210409T103155Z">
+        <seg>Bất kỳ cửa sổ phòng khách phải giới hạn mở tối đa 100mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bất kỳ khu vực có nguy cơ ngã trên cao phải được cung cấp một rào chắn, cố định an toàn, ổn định và khó cho trẻ em leo lên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033731Z" creationid="LanHK" creationdate="20210413T033731Z">
+        <seg>Bất kỳ khu vực có nguy cơ ngã từ trên cao phải được cung cấp rào chắn vĩnh viên, cố định an toàn, vững và khó cho trẻ em leo lên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bắt buộc có "các nắp cống chống vướng" đã được phê duyệt trong tất cả các bể bơi hiện có với một cống duy nhất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033606Z" creationid="LanHK" creationdate="20210410T024947Z">
+        <seg>· Cần có "nắp thoát sàn hồ bơi chống mắc kẹt" được phê duyệt trong tất cả các bể bơi với một ga thoát hiện có </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bắt buộc có một bức tường vững chắc đằng sau tất cả các gương.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032901Z" creationid="LanHK" creationdate="20210413T032901Z">
+        <seg>Bắt buộc có tường đặc đằng sau tất cả các gương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bắt buộc có thể nhìn vào phòng hoặc khu vực từ bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T031444Z" creationid="LanHK" creationdate="20210410T031440Z">
+        <seg>Bắt buộc từ bên ngoài có thể nhìn vào phòng hoặc khu vực chơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bể bơi cho trẻ em: Tường bể bơi trẻ em không được kéo dài quá 150mm so với mực nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033613Z" creationid="LanHK" creationdate="20210413T033613Z">
+        <seg>Bể trẻ em: Tường bể trẻ em không được cao quá 150mm so với mực nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bể bơi trẻ em phải có độ sâu nước tối đa 600mm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025026Z" creationid="LanHK" creationdate="20210410T025026Z">
+        <seg>Bể trẻ em có độ sâu nước tối đa 600mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bể tạo sóng (Bể sục hoặc bể spa) phải đáp ứng các yêu cầu sau:
+· Hẹn giờ hoạt động 15 phút phải được trang bị cơ chế điều khiển tắt thủ công dán nhãn (đối với bơm tuần hoàn nước), được lắp đặt theo hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033237Z" creationid="LanHK" creationdate="20210413T033237Z">
+        <seg>Bể tạo sóng (Bể sục hoặc bể spa) phải đáp ứng các yêu cầu sau:
+· Hẹn giờ hoạt động 15 phút phải được trang bị cơ chế tắt thủ công và được dán nhãn (đối với bơm tuần hoàn nước), được lắp đặt theo hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bộ ngắt mạch: "Bộ ngắt mạch nối đất" ("thiết bị dòng điện dư"), ở dạng bộ ngắt mạch hoặc ổ cắm được bảo vệ, được yêu cầu trong các khu vực sau:
+· Tất cả các ổ cắm điện trong khu vực giải trí trong vòng 12m từ mép hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033831Z" creationid="LanHK" creationdate="20210413T033831Z">
+        <seg>Cầu dao: "ngắt mạch rò nối đất" ("thiết bị giám sát dòng rò"), ở dạng bộ ngắt mạch hoặc ổ cắm được bảo vệ, được yêu cầu trong các khu vực sau:
+· Tất cả các ổ cắm điện trong khu vực giải trí trong vòng 12m từ mép hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C. Để thi công 120 phút, cần có cửa và khung định chống cháy 90 phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064758Z" creationid="LanHK" creationdate="20210407T064758Z">
+        <seg>C. Đối với kết cấu chống cháy 120 phút, yêu cầu có cửa và khung cửa chống cháy 90 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C. Đối với&gt; 1000 người: Phải tiến hành đánh giá rủi ro.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104539Z" creationid="LanHK" creationdate="20210407T104539Z">
+        <seg>C. &gt;1000 người: Phải tiến hành đánh giá rủi ro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHỈ SỐ TỶ LỆ XẢ KHÓI TỪ HỘI TRƯỜNG</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015716Z" creationid="LanHK" creationdate="20210415T015716Z">
+        <seg>CHỈ SỐ TỶ LỆ KHÓI thải TỪ giếng trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONSIDERATION MUST BE GIVEN TO: XEM XÉT NHƯ SAU:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T013734Z" creationid="LanHK" creationdate="20210415T013734Z">
+        <seg>Cần xem xét các vấn đề sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cascade Alarm Tone, Alarm Bell, Visual Signal Devices and Evacuation Sequence to all Areas if Alarm Condition is Not Responded to Within 3 minutes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074305Z" creationid="LanHK" creationdate="20210412T074305Z">
+        <seg>Cascade Alarm Tone, Alarm Bell, Visual Signal Devices and Evacuation Sequence to all Areas if Alarm Condition is Not Responded to Within 3 minutes. Âm thanh báo động, Chuông báo động âm lượng lớn, Thiết bị cảnh báo bằng hình ảnh và Trình tự sơ tán trên tất cả các khu vực nếu không có phản ứng với báo động ban đầu trong vòng 3 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check List – Appendix (6) Danh Sách – Phụ Lục (6)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032047Z" creationid="LanHK" creationdate="20210412T032044Z">
+        <seg>Check List – Appendix (6) Checklist – Phụ Lục (6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chiều rộng sàn hồ bơi rõ ràng tối thiểu phải là 1,5m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T021428Z" creationid="LanHK" creationdate="20210410T021428Z">
+        <seg>Chiều rộng pool deck không có vật cản tối thiểu phải là 1,5m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chất lượng nước: Tất cả các khách sạn sẽ nỗ lực để giảm rủi ro thương tích hoặc mất mát từ các rủi ro liên quan đến (nhưng không giới hạn ở) kho chứa nước, tháp giải nhiệt và bình ngưng bay hơi, hệ thống điều hòa không khí, dịch vụ nước nóng và lạnh, spa và bồn tắm xoáy nước, máy tạo độ ẩm và máy rửa không khí, hệ thống vòi phun nước và vòi, hệ thống tưới và phun sương làm vườn, đài phun nước trong nhà và các tính năng nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033822Z" creationid="LanHK" creationdate="20210413T033822Z">
+        <seg>Chất lượng nước: Tất cả các khách sạn sẽ nỗ lực để giảm rủi ro thương tích hoặc mất mát từ các rủi ro liên quan đến (nhưng không giới hạn ở) kho chứa nước, tháp giải nhiệt và bình ngưng bay hơi, hệ thống điều hòa không khí, dịch vụ nước nóng và lạnh, spa và bể nước xoáy, máy tạo độ ẩm và máy rửa không khí, hệ thống vòi phun nước và vòi, hệ thống tưới và phun sương làm vườn, đài phun nước và các trang trí bằng nước trong nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chế độ nhiệt độ nước: Phòng tắm của khách phải có nước nóng ở nhiệt độ tối đa 52 ° C và nước lạnh có sẵn mà không có biến động nhiệt độ hoặc thể tích đáng kể.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033816Z" creationid="LanHK" creationdate="20210413T033816Z">
+        <seg>Chế độ nhiệt độ nước: Phòng tắm của khách luôn phải có nước nóng ở nhiệt độ tối đa 52 ° C và nước lạnh mà không có biến động nhiệt độ hoặc thể tích đáng kể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chỉ yêu cầu tủ khóa lưu trữ dễ cháy nếu khu vực lưu trữ được kết nối với tòa nhà chính hoặc bất kỳ khu vực phòng khách hành lang bên trong.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T044518Z" creationid="LanHK" creationdate="20210409T044518Z">
+        <seg>Chỉ yêu cầu locker chứa đồ dễ cháy nếu khu vực kho được kết nối với tòa nhà chính hoặc bất kỳ hành lang khách bên trong nào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chống cháy 90 phút, hoặc chống cháy 60 phút với thiết bị phun nước, được yêu cầu cho cấu trúc của các tòa nhà "tầng trung".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025554Z" creationid="LanHK" creationdate="20210413T025554Z">
+        <seg>Chống cháy 90 phút, hoặc chống cháy 60 phút nếu có sprinkler được yêu cầu đối với kết cấu các tòa nhà "trung tầng".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chụp hút được miễn cho các nhà bếp "Điện" của Holiday Inn Express trừ khi quy định địa phương yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T031717Z" creationid="LanHK" creationdate="20210409T031717Z">
+        <seg>Được miễn hệ thống dập lửa gắn trên chụp hút mùi nếu không gian bếp hoàn toàn sử dụng thiết bị điện, trừ khi quy định địa phương có yêu cầu khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chữ trên bảng hiệu phải đủ lớn để dễ đọc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T022233Z" creationid="LanHK" creationdate="20210410T022233Z">
+        <seg>Chữ trên biển báo phải đủ lớn để dễ đọc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp chứng chỉ cho tất cả các sản phẩm / hệ thống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T042622Z" creationid="LanHK" creationdate="20210407T042622Z">
+        <seg>Xuất trình chứng chỉ/chứng nhận cho tất cả các sản phẩm / hệ thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp các kết nối tăng cường Thái Lan của phòng cứu hỏa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023436Z" creationid="LanHK" creationdate="20210413T023436Z">
+        <seg>Cung cấp đầu nối Siamese để lực lượng cứu hỏa kết nối cấp thêm nước cho hệ thống sprinkler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp các trạm chính của thang máy cứu hỏa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033857Z" creationid="LanHK" creationdate="20210413T033857Z">
+        <seg>Cung cấp các tủ chìa khóa thang máy cho lực lượng cứu hỏa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp cống xả 50 mm với van cách ly sau mỗi công tắc dòng chảy phun nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T044008Z" creationid="LanHK" creationdate="20210409T043623Z">
+        <seg>Van xả 50 mm với van cách ly sau mỗi công tắc dòng chảy sprinkler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp giấy chứng nhận chống cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064815Z" creationid="LanHK" creationdate="20210407T064815Z">
+        <seg>Xuất trình giấy chứng nhận mức độ chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp giấy chứng nhận chống hỏa hoạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064537Z" creationid="LanHK" creationdate="20210407T063524Z">
+        <seg>Xuất trình giấy chứng nhận về mức độ chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp giấy chứng nhận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064541Z" creationid="LanHK" creationdate="20210407T064541Z">
+        <seg>Xuất trình giấy chứng nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cung cấp một cống xả thử nghiệm tại điểm xa nhất của mỗi dòng nhánh phun nước (Có kích thước tương đương với lưu lượng của 1 đầu phun nước).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T044043Z" creationid="LanHK" creationdate="20210409T044043Z">
+        <seg>Cung cấp một van xả kiểm tra tại điểm xa nhất của mỗi nhánh sprinkler (Có kích thước tương đương với lưu lượng của 1 đầu phun nước).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CÁC PHÒNG YÊU CẦU ĐIỀU ÁP ĐỂ NGĂN CHẶN LỐI THOÁT MÙI (VÍ DỤ NẤU ĂN) KHỎI HỘI TRƯỜNG.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015546Z" creationid="LanHK" creationdate="20210415T015546Z">
+        <seg>CÁC PHÒNG có thể cần ĐIỀU ÁP ĐỂ NGĂN CHẶN MÙI (VÍ DỤ mùi NẤU ĂN) từ giếng trời bay vào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CÁC TÒA NHÀ HỘI TRƯỜNG PHẢI TRANG BỊ PHUN CHỮA CHÁY ĐẦY ĐỦ THEO CÙNG CÁC TIÊU CHUẨN QUỐC TẾ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015426Z" creationid="LanHK" creationdate="20210415T015426Z">
+        <seg>Các tòa có giếng trời PHẢI TRANG BỊ sprinkler ĐẦY ĐỦ THEO CÙNG CÁC TIÊU CHUẨN QUỐC TẾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các bể bên ngoài phải có khả năng được bảo vệ để ngăn chặn truy cập trái phép.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033312Z" creationid="LanHK" creationdate="20210413T033312Z">
+        <seg>Các bể bên ngoài phải có biện pháp bảo vệ để ngăn chặn truy cập trái phép.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các bể bơi độ sâu loại zero/ lối vào bãi biển phải hiển thị một biển báo "nước nông".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T024647Z" creationid="LanHK" creationdate="20210410T024647Z">
+        <seg>Các bể bơi có lối xuống bể bơi là dốc thoải phải có biển báo "nước nông".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các cuộn ống bổ sung có thể được yêu cầu theo quyết định của IHG, ví dụ nhưng không giới hạn ở các địa điểm từ xa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T105122Z" creationid="LanHK" creationdate="20210408T105122Z">
+        <seg>Các cuộn ống bổ sung có thể được yêu cầu theo quyết định của IHG, ví dụ nhưng không giới hạn ở các vị trí xa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các cơ sở rửa mắt, phải được cung cấp ở tất cả các địa điểm nơi "hóa chất nguy hiểm" được lưu trữ hoặc phân phối.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033846Z" creationid="LanHK" creationdate="20210413T033846Z">
+        <seg>Các trang thiết bị để rửa mắt phải được cung cấp ở tất cả các nơi "hóa chất nguy hiểm" được lưu trữ hoặc phân phối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các cơ sở thể hình phải được bao kín hoàn toàn và bảo vệ bằng khóa điện tử cho lối vào dùng khóa điện tử hoặc luôn được quản lý hoàn toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033040Z" creationid="LanHK" creationdate="20210413T033040Z">
+        <seg>Các cơ sở phòng tập phải kín hoàn toàn và được bảo vệ bằng khóa điện hoặc luôn luôn có nhân viên trực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các cầu thang áp lực: Tòa nhà "Mới Thi Công" và "Chuyển đổi": Tòa nhà "cao tầng" (Đối với các tòa nhà có chiều cao hiệu quả hơn 25m).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030157Z" creationid="LanHK" creationdate="20210413T030157Z">
+        <seg>Cầu thang tăng áp: đối với khách sạn "Xây mới" và "Chuyển đổi": Nhà "cao tầng" (tòa nhà có chiều cao kết cấu vượt quá 25m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các dấu hiệu quốc tế "Cấm Lặn" và 'Chấp nhận mọi rủi ro khi sử dụng', bằng ngôn ngữ địa phương và tiếng Anh, phải được hiển thị nổi bật ở nơi có thể nhìn thấy từ tất cả các khu vực trong và xung quanh hồ bơi và ở một vị trí đáng chú ý khi vào khu vực hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033407Z" creationid="LanHK" creationdate="20210413T033407Z">
+        <seg>Các biển hiệu quốc tế "Cấm Lặn" và 'Chấp nhận mọi rủi ro khi sử dụng', bằng ngôn ngữ địa phương và tiếng Anh, phải được gắn nổi bật ở nơi dễ thấy từ tất cả các khu vực trong và xung quanh hồ bơi và ở một vị trí dễ thấy khi vào khu vực hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các hệ thống kiểm soát khói phải được cung cấp như một phần của chiến lược an toàn tòa nhà và khi được yêu cầu bởi các quy tắc và tiêu chuẩn phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025742Z" creationid="LanHK" creationdate="20210413T025742Z">
+        <seg>Các hệ thống kiểm soát khói phải được cung cấp theo yêu cầu của chiến lược đảm bảo an toàn tòa nhà và theo các quy tắc và tiêu chuẩn phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các khách sạn phải cung cấp một phương tiện cảnh báo khách khiếm thính trong trường hợp báo động hoặc tin nhắn sơ tán bằng giọng nói.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030740Z" creationid="LanHK" creationdate="20210413T023115Z">
+        <seg>Các khách sạn phải cung cấp một phương tiện cảnh báo cho khách khiếm thính trong trường hợp xảy ra báo động hoặc thông báo sơ tán bằng giọng nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các khách sạn trong đó phần lớn các phòng được trang bị thiết bị nấu kiểu bếp lò phải lắp đặt một "hệ thống phun nước" tự động được phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T033354Z" creationid="LanHK" creationdate="20210409T033354Z">
+        <seg>Các khách sạn trong đó phần lớn các phòng được trang bị bếp lửa phải được bảo vệ đầy đủ bởi "hệ thống sprinkler" tự động được phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các lối thoát hiểm: Số lượng lối thoát cần thiết từ nơi lắp ráp, chẳng hạn như tất cả các khu vực công cộng, nhà hàng, phòng và phòng họp, phải theo các công suất phòng sau: A. Dành cho 50 đến 500 người: không ít hơn hai lối thoát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025942Z" creationid="LanHK" creationdate="20210413T025942Z">
+        <seg>Các lối thoát hiểm: Số lượng lối thoát cần thiết từ nơi đông người, chẳng hạn như tất cả các khu vực công cộng, nhà hàng, phòng và phòng họp, phải tuân theo các công suất phòng sau: A. 50 đến 500 người: không ít hơn hai lối thoát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các mạch loại A khác nhau giữa các mạch ngắn trên vòng lặp và mở trên vòng lặp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T041249Z" creationid="LanHK" creationdate="20210413T035642Z">
+        <seg>Mạch tín hiệu Class A phân biệt giữa ngắn mạch và hở mạch trên vòng lặp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng cho người khuyết tật được trang bị thiết bị báo cháy bằng mắt (Bên cạnh báo động âm thanh trong thiết bị phát hiện cháy).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T100120Z" creationid="LanHK" creationdate="20210408T100120Z">
+        <seg>Các phòng cho người khuyết tật được trang bị thiết bị báo cháy bằng mắt (Bên cạnh báo động âm thanh trong đầu báo khói).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng lưu trữ bị cấm mở vào cầu thang.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030137Z" creationid="LanHK" creationdate="20210413T030137Z">
+        <seg>Cấm các phòng kho mở vào cầu thang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng được cung cấp thiết bị phát hiện cháy "khả định" có thể được lập trình với hệ thống phát hiện và báo cháy hai giai đoạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T040135Z" creationid="LanHK" creationdate="20210408T031022Z">
+        <seg>Các phòng được cung cấp đầu báo khói "địa chỉ" có thể được lập trình với hệ thống phát hiện và báo cháy hai giai đoạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng được thiết kế cho khách khuyết tật phải có cổng nhìn bổ sung được lắp đặt ở độ cao 1,2m so với sàn nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T072159Z" creationid="LanHK" creationdate="20210409T072159Z">
+        <seg>Các phòng được thiết kế cho khách khuyết tật phải có mắt thần bổ sung được lắp đặt ở độ cao 1,2m so với sàn nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các quy định và quy tắc địa phương có thể khác với bên trên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095225Z" creationid="LanHK" creationdate="20210412T095225Z">
+        <seg>Các quy định và quy chế tại địa phương có thể khác với nội dung trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các số phải được đặt ở khoảng 1,5m so với sàn và bố trí sao cho có thể nhìn thấy rõ khi cửa hạ xuống / cầu thang ở vị trí mở hoặc đóng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T013154Z" creationid="LanHK" creationdate="20210407T113902Z">
+        <seg>Biển số tầng phải được đặt ở tầm cao khoảng 1,5m so với chiếu nghỉ và bố trí sao cho có thể nhìn thấy rõ khi cửa chiếu nghỉ / cửa cầu thang ở vị trí mở hoặc đóng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các thiết bị phát hiện và báo động carbon monoxide một hoặc nhiều trạm (liên kết với nhau) phải được lắp đặt trong mỗi phòng có chứa các thiết bị đốt nhiên liệu và, trừ khi được xác định theo đánh giá rủi ro, trong mỗi phòng khách cạnh phòng thiết bị đốt nhiên liệu hoặc đường thông hơi của nó, và trong mỗi hành lang hoặc khu vực chung liền kề với phòng thiết bị đốt nhiên liệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T025105Z" creationid="LanHK" creationdate="20210412T025105Z">
+        <seg>Các thiết bị phát hiện và báo động carbon monoxide một hoặc nhiều trạm (liên kết với nhau) phải được lắp đặt trong mỗi phòng có chứa các thiết bị đốt nhiên liệu và, trừ khi được xác định theo đánh giá rủi ro, trong mỗi phòng khách cạnh phòng thiết bị đốt nhiên liệu hoặc đường ống thông hơi của nó, và trong mỗi hành lang hoặc khu vực chung liền kề với phòng thiết bị đốt nhiên liệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các thiết bị đốt nhiên liệu bị ảnh hưởng bao gồm, nhưng không giới hạn ở bất kỳ lò, nồi hơi, máy nước nóng, máy tạo hơi nước, lò sưởi, máy sấy, thiết bị và máy móc, nhưng không bao gồm thiết bị nấu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T025132Z" creationid="LanHK" creationdate="20210412T025132Z">
+        <seg>Các thiết bị đốt nhiên liệu áp dụng bao gồm, nhưng không giới hạn ở, bất kỳ lò, nồi hơi, máy nước nóng, máy tạo hơi nước, lò sưởi, máy sấy, thiết bị và máy móc, nhưng không bao gồm thiết bị nấu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các thử nghiệm nước sau đây phải được tiến hành trước khi mở Khách sạn mới (có chứng nhận được cung cấp):
+- Thử nghiệm Legionella cho Tháp giải nhiệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T020757Z" creationid="LanHK" creationdate="20210412T020757Z">
+        <seg>Các thử nghiệm nước sau đây phải được tiến hành trước khi mở Khách sạn mới (có chứng nhận được cung cấp):
+- Xét nghiệm khuẩn Legionella cho Tháp giải nhiệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các tiêu chuẩn này cũng áp dụng cho các khách sạn hiện tại khi có các phần mở rộng và thay đổi và nơi xác định các khuyết tật an toàn tính mạng nghiêm trọng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T041820Z" creationid="LanHK" creationdate="20210407T041820Z">
+        <seg>Các tiêu chuẩn này cũng áp dụng cho các khách sạn hiện tại khi thực hiện mở rộng và thay đổi và nơi xác định có các lỗi/khiếm khuyết nghiêm trọng về an toàn tính mạng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các trạm cuộn vòi chữa cháy được lắp đặt tại tất cả các khu vực, có chiều dài tối đa 30m và thuộc loại cao su (38mm).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T105200Z" creationid="LanHK" creationdate="20210408T105200Z">
+        <seg>Các tủ cuộn vòi chữa cháy được lắp đặt tại tất cả các khu vực, có chiều dài tối đa 30m và là loại cao su (38mm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các trục riser dịch vụ không chống cháy ở mỗi tầng phải được phát hiện khói ở mọi tầng ba và trên đỉnh của riser dịch vụ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T063506Z" creationid="LanHK" creationdate="20210407T063506Z">
+        <seg>Các đường ống thẳng đứng không chống cháy ở mỗi tầng phải được lắp thiết bị báo khói mỗi ba tầng và trên đỉnh của đường ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các điện thoại này phải được cấu hình để kết nối với một vị trí tại chỗ được quản lý vĩnh viễn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T020840Z" creationid="LanHK" creationdate="20210410T020840Z">
+        <seg>Những điện thoại này phải được kết nối với một vị trí trong khuôn viên khách sạn luôn có nhân viên trực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các ống nước đứng (ống xả nước đứng) và cuộn ống phải được cung cấp trong tất cả các tòa nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023335Z" creationid="LanHK" creationdate="20210413T023335Z">
+        <seg>Các trụ nước cứu hỏa (ống nước đứng) và cuộn ống phải được cung cấp trong tất cả các khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các ống sưởi / làm mát, lỗ thông hơi và khu vực dịch vụ phải được thiết kế hoặc sửa đổi để ngăn chặn lối vào phòng khách trực quan trái phép.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032854Z" creationid="LanHK" creationdate="20210413T032854Z">
+        <seg>Các ống sưởi / điều hòa, lỗ thông hơi và khu vực dịch vụ phải được thiết kế hoặc chỉnh sửa để không nhìn trực tiếp vào phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cách ly chống cháy kết cấu 90 phút giữa nhà để xe và khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T083434Z" creationid="LanHK" creationdate="20210407T083434Z">
+        <seg>Kết cấu ngăn cách chống cháy 90 phút giữa nhà để xe và khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Có đủ hệ thống lưu trữ nước cho thiết bị phun nước trong 60 phút hoạt động liên tục (trừ khi nước cung cấp được kết hợp với hệ thống vòi trong trường hợp cần 120 phút).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023428Z" creationid="LanHK" creationdate="20210413T023428Z">
+        <seg>Dự trữ đủ nước cho hệ thống sprinkler hoạt động liên tục trong 60 phút (nếu nguồn cấp nước được kết nối với hệ thống trụ nước cứu hỏa, cần đảm bảo 120 phút).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cả hai đã được chỉ định, thiết kế, cài đặt và vận hành phù hợp bởi một kiến trúc sư độc lập, kỹ sư hoặc người lắp đặt được cấp phép.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T075829Z" creationid="LanHK" creationdate="20210407T075829Z">
+        <seg>Cả hai đã được chỉ định, thiết kế, cài đặt và vận hành đúng quy cách bởi một kiến trúc sư độc lập, kỹ sư hoặc người lắp đặt được cấp phép.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cấu trúc của tất cả các khách sạn phải có khả năng chống cháy không dưới 60 phút bao gồm giữa: 1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025517Z" creationid="LanHK" creationdate="20210413T025517Z">
+        <seg>Kết cấu của tất cả các khách sạn phải có khả năng chống cháy không dưới 60 phút bao gồm giữa: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cần có khoảng cách tối đa giữa các lối thoát hiểm khẩn cấp là 60m và "khoảng cách di chuyển" tối đa đến lối thoát khẩn cấp không được vượt quá 30m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T103850Z" creationid="LanHK" creationdate="20210407T103850Z">
+        <seg>Yêu cầu khoảng cách giữa các lối thoát hiểm khẩn cấp tối đa là 60m và "khoảng cách di chuyển" tối đa đến lối thoát hiểm không được vượt quá 30m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cần có pin dự phòng trong tối thiểu 90 phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T111855Z" creationid="LanHK" creationdate="20210407T111855Z">
+        <seg>Cần có nguồn điện dự phòng bằng pin tối thiểu 90 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cần có vòi phun nước bên trong ống xả nhà bếp, trần nhà cao, khu vực bể bơi trong nhà, bên trong phòng lạnh &amp; tủ đông, bên trong và trên phòng xông hơi, trong phòng tắm rộng hơn 5 m2, tất cả các phòng cơ khí, trần rỗng lớn hơn 800mm, bãi đỗ xe kín và đường đi, phòng PABX / Máy tính / ELV và phòng Máy phát điện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T101332Z" creationid="LanHK" creationdate="20210408T101332Z">
+        <seg>Cần có sprinkler bên trong ống xả nhà bếp, trần nhà cao, khu vực bể bơi trong nhà, bên trong phòng lạnh &amp; tủ đông, bên trong và phía trên phòng xông hơi, trong phòng tắm rộng hơn 5 m2, tất cả các phòng cơ khí, trần rỗng lớn hơn 800mm, bãi đỗ xe kín và đường đi, phòng PABX / Máy tính / ELV và phòng Máy phát điện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cầu thang phải thoát trực tiếp ra bên ngoài ở "cao trình mặt đất" hoặc thông qua "hành lang chống cháy" dẫn đến bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030128Z" creationid="LanHK" creationdate="20210413T030128Z">
+        <seg>Cầu thang phải thoát trực tiếp ra bên ngoài ở "tầng mặt đất" hoặc thông qua "hành lang chống cháy" dẫn ra bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cầu thang phải được chiếu sáng liên tục và được đánh dấu bằng các màu sắc và / hoặc kết cấu khác nhau sao cho phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T112412Z" creationid="LanHK" creationdate="20210407T112412Z">
+        <seg>Cầu thang phải được chiếu sáng liên tục và được đánh dấu bằng các màu sắc và / hoặc bề mặt khác nhau sao cho phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cầu thang phải được cung cấp tay vịn (s) sao cho phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030121Z" creationid="LanHK" creationdate="20210407T112420Z">
+        <seg>Cầu thang phải được cung cấp (các) tay vịn khi cần thiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cầu thang thoát hiểm khẩn cấp rộng tối thiểu 1,12m và cao 2,03m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025954Z" creationid="LanHK" creationdate="20210413T025954Z">
+        <seg>Cầu thang thoát hiểm rộng tối thiểu 1,12m và cao 2,03m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cầu thang thoát hiểm được cung cấp với tay vịn tối thiểu 864mm và chiều cao tối đa 965mm (cần có tay vịn cả hai bên nếu cầu thang rộng hơn 1,2m).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030003Z" creationid="LanHK" creationdate="20210413T030003Z">
+        <seg>Cầu thang thoát hiểm phải có tay vịn cao tối thiểu 864mm và tối đa 965mm (cần có tay vịn cả hai bên nếu cầu thang rộng hơn 1,2m).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cầu thang và bậc thang phải được đồng nhất về kích thước trong mỗi cầu thang.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T112304Z" creationid="LanHK" creationdate="20210407T112304Z">
+        <seg>Chiều rộng và chiều cao của các bậc thang phải đồng nhất về kích thước trong mỗi lượt cầu thang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa ban công: Cửa mở ra khu vực ban công phải có thiết bị khóa phụ được phê duyệt, nằm ngoài tầm với của trẻ em.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033718Z" creationid="LanHK" creationdate="20210413T033718Z">
+        <seg>Cửa ban công: Cửa mở ra khu vực ban công phải có khóa phụ được phê duyệt, nằm ngoài tầm với của trẻ em.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa kính cường lực có thể được bỏ qua từ lò sưởi, nơi bố trí bảo vệ phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T045929Z" creationid="LanHK" creationdate="20210409T045929Z">
+        <seg>Cửa kính cường lực được phép bỏ qua ở các lò sưởi đã có bố trí bảo vệ phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa kết nối phải chống cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T095306Z" creationid="LanHK" creationdate="20210409T095306Z">
+        <seg>Cửa giữa phòng connecting phải chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa phòng: Cửa chống cháy tối thiểu 20 phút cho tất cả các phòng khách và cửa phòng kết nối.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025645Z" creationid="LanHK" creationdate="20210413T025645Z">
+        <seg>Cửa phòng: Cửa chống cháy tối thiểu 20 phút cho tất cả các phòng khách và cửa phòng connecting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa ra vào các hồ bơi trong nhà không có giám sát trong các phòng kín yêu cầu khóa điện tử.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033322Z" creationid="LanHK" creationdate="20210413T033322Z">
+        <seg>Cửa ra vào các hồ bơi trong nhà trong các phòng kín không được giám sát phải có khóa điện tử.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa sổ phòng: Tất cả các cửa sổ phòng khách ở tầng trệt phải được trang bị khóa cửa sổ hoặc khóa bảo mật tiêu chuẩn thương mại chỉ có thể được mở từ bên trong phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033034Z" creationid="LanHK" creationdate="20210413T033034Z">
+        <seg>Cửa sổ phòng khách: Tất cả các cửa sổ phòng khách ở tầng trệt phải được trang bị chặn cửa sổ hoặc khóa an toàn thương phẩm chỉ có thể vận hành từ trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa sổ trong căn phòng này có thể mở hoàn toàn, khách với con nhỏ nên thận trọng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T032225Z" creationid="LanHK" creationdate="20210410T032225Z">
+        <seg>Cửa sổ trong căn phòng này có thể mở hoàn toàn, khách với con nhỏ nên thận trọng.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa sổ từ sàn đến trần, cửa kính và tường kính phải có thanh va chạm hoặc được đánh dấu để làm cho chúng rõ ràng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033709Z" creationid="LanHK" creationdate="20210413T033709Z">
+        <seg>Cửa sổ từ sàn đến trần, cửa kính và tường kính phải có thanh chống va chạm hoặc được đánh dấu rõ ràng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa thoát cuối cùng phải được trang bị thiết bị báo hoảng loạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104104Z" creationid="LanHK" creationdate="20210407T104104Z">
+        <seg>Cửa thoát cuối cùng phải được trang bị thanh đẩy cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa thoát hiểm không bao giờ được khóa (theo hướng thoát hiểm khẩn cấp) để ngăn chặn thoát hiểm khẩn cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030019Z" creationid="LanHK" creationdate="20210413T030019Z">
+        <seg>Cửa thoát hiểm không bao giờ được khóa (theo hướng thoát hiểm khẩn cấp) để cản trở việc thoát hiểm khẩn cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa thoát hiểm: Cửa thoát hiểm được trang bị khóa điện từ hoặc khóa tương tự phải tự động nhả ra khi kích hoạt hệ thống phát hiện / báo cháy và khi không cung cấp điện, ổ khóa phải an toàn ở vị trí mở khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030016Z" creationid="LanHK" creationdate="20210413T030016Z">
+        <seg>Cửa thoát hiểm: Cửa thoát hiểm được trang bị khóa điện từ hoặc các loại khóa tương tự phải tự động nhả ra khi kích hoạt hệ thống phát hiện / báo cháy, và, khi mất điện, ổ khóa phải chuyển sang vị trí mở khóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa ống giặt sàn của khách phải được  chống cháy và được trang bị một thiết bị tự đóng và tự khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T103446Z" creationid="LanHK" creationdate="20210407T103446Z">
+        <seg>Cửa ống giặt là trên tầng khách phải là cửa chống cháy và được trang bị tay co và khóa tự động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cửa: Phải cung cấp cửa: 1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025720Z" creationid="LanHK" creationdate="20210413T025720Z">
+        <seg>Giếng trời: Giếng trời phải có: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESIGN OF SMOKE CONTROL SYSTEM MUST COMPLY WITH RECOGNISED INTERNATIONAL STANDARDS SUCH AS: THIẾT KẾ HỆ THỐNG KIỂM SOÁT KHÓI TUÂN THỦ CÁC TIÊU CHUẨN QUỐC TẾ ĐƯỢC CÔNG NHÂN NHƯ:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015342Z" creationid="LanHK" creationdate="20210415T015342Z">
+        <seg>THIẾT KẾ HỆ THỐNG KIỂM SOÁT KHÓI TUÂN THỦ CÁC TIÊU CHUẨN QUỐC TẾ ĐƯỢC CÔNG nhận NHƯ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detection, Alarms &amp; Notification Phụ lục – D Thiết Bị Phát Hiện, Báo Động &amp; Thông Báo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032625Z" creationid="LanHK" creationdate="20210412T032602Z">
+        <seg>Detection, Alarms &amp; Notification   Phụ lục D: Thiết Bị Phát Hiện, Báo Động &amp; Thông Báo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable All BGM &amp; Audio Systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074326Z" creationid="LanHK" creationdate="20210412T074326Z">
+        <seg>Disable All BGM &amp; Audio Systems. Vô hiệu hóa toàn bộ các hệ thống BGM và âm thanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duct Type Smoke Detector</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T082003Z" creationid="LanHK" creationdate="20210412T082003Z">
+        <seg>Duct Type Smoke Detector Đầu báo khói trong đường ống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dây hệ thống phát hiện &amp; sơ tán hệ thống  là "Loại A" (Để cho phép giám sát đường dây).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T034622Z" creationid="LanHK" creationdate="20210413T023111Z">
+        <seg>Phương thức đấu nối hệ thống đầu báo &amp; thông báo sơ tán là "Loại A" (Để cho phép giám sát đường dây).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dù họ không ở đâu, IHG có quyền yêu cầu thử nghiệm được hoàn thành thỏa đáng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T042558Z" creationid="LanHK" creationdate="20210407T042558Z">
+        <seg>Ở đâu không có cơ quan được công nhận, IHG có quyền yêu cầu thử nghiệm được hoàn thành thỏa đáng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dựa trên nhu cầu thị trường cá nhân của khách sạn, quản lý khách sạn phải xác định thời gian các cửa này bị khóa (mà không ảnh hưởng đến việc thoát hiểm khẩn cấp).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T071712Z" creationid="LanHK" creationdate="20210409T071712Z">
+        <seg>Dựa trên nhu cầu thị trường cụ thể của từng khách sạn, quản lý khách sạn phải xác định thời gian khóa các cửa này (mà không ảnh hưởng đến việc thoát hiểm khẩn cấp).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Egress, Exits &amp; Signage Phụ Lục – E Lối Thoát, Đường Thoát &amp; Biển Báo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032628Z" creationid="LanHK" creationdate="20210412T032611Z">
+        <seg>Egress, Exits &amp; Signage   Phụ Lục E: Lối Thoát, Đường Thoát &amp; Biển Báo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Rooms)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T081953Z" creationid="LanHK" creationdate="20210412T081953Z">
+        <seg>Electrical Rooms) Các hệ thống cứu hỏa đặc biệt khác (vd. phòng điện)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevators Các Thanh Máy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033852Z" creationid="LanHK" creationdate="20210413T033852Z">
+        <seg>Elevators Các Thang Máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Generator Monitoring (Fault, Manual, Auto)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T094943Z" creationid="LanHK" creationdate="20210412T094943Z">
+        <seg>Emergency Generator Monitoring (Fault, Manual, Auto) Giám sát máy phát điện khẩn cấp (Lỗi, máy vận hành tay, máy vận hành tự động)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Power &amp; Lighting Phụ lục - F Nguồn Điện Khẩn Cấp &amp; Chiếu Sáng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032638Z" creationid="LanHK" creationdate="20210412T032638Z">
+        <seg>Emergency Power &amp; Lighting   Phụ lục F: Nguồn Điện &amp; Chiếu Sáng Khẩn Cấp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extinguishing Systems Các Hệ Thông Chữa Cháy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032653Z" creationid="LanHK" creationdate="20210412T032653Z">
+        <seg>Extinguishing Systems Phụ lục G: Các Hệ Thông Chữa Cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLAMMABLE LIQUIDS STORE CỬA HÀNG CÁC CHẤT DỄ CHÁY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095624Z" creationid="LanHK" creationdate="20210412T095617Z">
+        <seg>(Biển báo) FLAMMABLE LIQUIDS STORE KHO CHẤT DỄ CHÁY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire &amp; Smoke Compartmentation Phụ lục – C Ngăn lửa &amp; khói</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032622Z" creationid="LanHK" creationdate="20210412T032551Z">
+        <seg>Fire &amp; Smoke Compartmentation   Phụ lục C: Chống Cháy lan &amp; Khói lan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Prevention Phụ Lục – B Chống Cháy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032619Z" creationid="LanHK" creationdate="20210412T032519Z">
+        <seg>Fire Prevention   Phụ Lục B: Phòng chống Hỏa hoạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Pumps (Running, Availability, Fault)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T094733Z" creationid="LanHK" creationdate="20210412T094713Z">
+        <seg>Fire Pumps (Running, Availability, Fault) Bơm cứu hỏa (đang hoạt động, số lượng có thể sử dụng, lỗi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire System/Wiring Fault/Detector Removal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095051Z" creationid="LanHK" creationdate="20210412T095051Z">
+        <seg>Fire System/Wiring Fault/Detector Removal Lỗi hệ thống chữa cháy hoặc dây nối / gỡ bỏ đầu báo khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Systems Electrical Power Supply Monitoring</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T094832Z" creationid="LanHK" creationdate="20210412T094832Z">
+        <seg>Fire Systems Electrical Power Supply Monitoring Giám sát nguồn cấp điện cho hệ thống cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Water Supply Monitoring (Low Level, low pressure)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T094756Z" creationid="LanHK" creationdate="20210412T094756Z">
+        <seg>Fire Water Supply Monitoring (Low Level, low pressure) Giám sát nguồn nước cứu hỏa (mực nước thấp, áp lực thấp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Water Systems Freeze Protection Monitoring</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T094917Z" creationid="LanHK" creationdate="20210412T094917Z">
+        <seg>Fire Water Systems Freeze Protection Monitoring Giám sát chống đóng băng hệ thống nước cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Health Facilities Các Cơ Sở Sức Khỏe &amp; Thể Hình</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033038Z" creationid="LanHK" creationdate="20210413T033038Z">
+        <seg>Fitness &amp; Health Facilities Các Cơ Sở Chăm sóc Sức Khỏe &amp; Phòng tập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giấy chứng nhận tuân thủ phải có sẵn để kiểm tra trước khi khách sạn được mở và sau đó luôn sẵn sàng bởi IHG hoặc các đại lý được chỉ định của nó.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T081934Z" creationid="LanHK" creationdate="20210407T081934Z">
+        <seg>Giấy chứng nhận tuân thủ phải có sẵn để kiểm tra trước khi khách sạn được mở cửa và để kiểm tra thường xuyên bởi IHG hoặc các đơn vị được IHG chỉ định.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Room Smoke Detector</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080134Z" creationid="LanHK" creationdate="20210412T080134Z">
+        <seg>Guest Room Smoke Detector Đầu báo khói trong phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gương khử bạc bị cấm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T070647Z" creationid="LanHK" creationdate="20210409T070647Z">
+        <seg>Cấm sử dụng gương mà lớp tráng bạc đã bong tróc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gương treo tường (trần đến sàn) phải là kính cường lực 6,4mm hoặc "kính an toàn", được lắp đặt với khớp mộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033112Z" creationid="LanHK" creationdate="20210413T033112Z">
+        <seg>Gương treo tường (trần đến sàn) phải là kính cường lực 6,4mm hoặc "kính an toàn", được lắp đặt với mối nối butt joint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hai cửa chống cháy và khói trong 30 phút giữa nhà để xe và khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T083453Z" creationid="LanHK" creationdate="20210407T083453Z">
+        <seg>Hai cửa chống cháy và chặn khói trong 30 phút giữa nhà để xe và khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health and Safety (including Guest &amp; Staff Safety) Sức Khỏe &amp; An Toàn (bao gồm An Toàn Nhân Viên &amp; Khách)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033659Z" creationid="LanHK" creationdate="20210413T033659Z">
+        <seg>Health and Safety (including Guest &amp; Staff Safety) Sức Khỏe &amp; An Toàn (bao gồm An Toàn cho Nhân Viên &amp; Khách)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horn type evacuation speakers for locations with high ambient noise (Eg Chiller plant room) Loa di tản kiểu còi cho các vị trí có tiếng ồn xung quanh cao (ví dụ: phòng thực vật Chiller)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T022707Z" creationid="LanHK" creationdate="20210413T022707Z">
+        <seg>Horn type evacuation speakers for locations with high ambient noise (Eg Chiller plant room) Loa thông báo sơ tán kiểu còi cho các vị trí có tiếng ồn môi trường cao (ví dụ: phòng máy chiller)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hydrant System Pressure Switch</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T082015Z" creationid="LanHK" creationdate="20210412T082015Z">
+        <seg>Hydrant System Pressure Switch Công tắc áp suất cho hệ thống trụ cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hàng rào phải có các cọc thẳng đứng, không cho phép một quả cầu 100mm đi qua.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T020637Z" creationid="LanHK" creationdate="20210410T020637Z">
+        <seg>Hàng rào có các cọc đứng, không cho phép vật hình cầu kích thước 100mm lọt qua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành lý: Luôn có một khu vực lưu trữ an toàn nơi hành lý của khách đã đăng ký có thể được lưu trữ tạm thời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032912Z" creationid="LanHK" creationdate="20210413T032912Z">
+        <seg>Hành lý: Luôn có một khu vực kho an toàn nơi hành lý của khách đã đăng ký có thể được lưu trữ tạm thời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hóa chất bể bơi phải được dán nhãn rõ ràng và được lưu trữ trong một khu vực thông gió tốt, có khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033650Z" creationid="LanHK" creationdate="20210413T033650Z">
+        <seg>Hóa chất bể bơi phải được dán nhãn rõ ràng và được bảo quản trong một khu vực thông gió tốt, có khóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hệ thống "chiếu sáng khẩn cấp" phải được tự động, pin dự phòng (90 phút) và được kết nối với máy phát khẩn cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T021858Z" creationid="LanHK" creationdate="20210408T021858Z">
+        <seg>Hệ thống "chiếu sáng khẩn cấp" phải vận hành tự động, nguồn điện dự phòng bằng pin 90 phút và được kết nối với máy phát điện khẩn cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hệ thống dây loại A phải quay trở lại và được kết thúc trong bảng điều khiển.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T041316Z" creationid="LanHK" creationdate="20210413T040706Z">
+        <seg>Dây điện trong mạch Class A phải quay trở lại và kết thúc trong bảng điều khiển.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hệ thống phát hiện và báo cháy được liên kết với hệ thống của khách sạn, với các trạm kéo thủ công (điểm gọi) được đặt tại tất cả các điểm thoát khỏi nhà để xe.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T101406Z" creationid="LanHK" creationdate="20210407T101406Z">
+        <seg>Hệ thống phát hiện và báo cháy liên kết với hệ thống của khách sạn, với các cần gạt/nút báo cháy khẩn vận hành thủ công (Call Point) được đặt tại tất cả các điểm thoát khỏi nhà để xe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hệ thống phải được trang bị nguồn khẩn cấp tự động với nguồn cung cấp tối thiểu 24 giờ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T025402Z" creationid="LanHK" creationdate="20210408T025402Z">
+        <seg>Hệ thống phải được trang bị nguồn điện khẩn cấp tự động với cung cấp điện tối thiểu 24 giờ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hồ sơ kiểm tra phải được lưu giữ và luôn có để xem xét.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025444Z" creationid="LanHK" creationdate="20210410T025444Z">
+        <seg>Hồ sơ kiểm tra phải được lưu giữ và luôn sẵn có để xem xét.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hộp ký gửi an toàn: Trường hợp cung cấp hộp ký gửi an toàn, chúng phải được đặt trong khu vực an toàn và có mục đích.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032916Z" creationid="LanHK" creationdate="20210413T032916Z">
+        <seg>Hộp ký gửi an toàn: Nếu cung cấp hộp ký gửi an toàn, chúng phải được đặt trong một khu vực chuyên biệt và an toàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IHG Cause &amp; Effect Matrix Phụ Lục  - A Ma Trận Nhân Quả của IHG</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032452Z" creationid="LanHK" creationdate="20210412T032415Z">
+        <seg>IHG Cause &amp; Effect Matrix   Phụ lục A - Ma Trận Nhân Quả của IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insulation materials must meet recognized codes such as NFPA 90A/B and UL 94-5V Vật liệu cách điện phải đáp ứng các quy định đã được công nhận như NFPA 90A / B và UL 94-5V</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095644Z" creationid="LanHK" creationdate="20210412T095610Z">
+        <seg>Insulation materials must meet recognized codes such as NFPA 90A/B and UL 94-5V Vật liệu cách nhiệt phải đáp ứng các tiêu chuẩn đã được công nhận như NFPA 90A / B và UL 94-5V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KHÔNG ĐƯỢC SỬ DỤNG MỖI ĐIỀU NÀY ĐỂ ĐƯA RA GIẢI PHÁP THIẾT KẾ - GIẢI PHÁP THIẾT KẾ TRỌN BỘ PHẢI PHÙ HỢP VỚI MỘT TRONG NHỮNG QUY ĐỊNH ĐƯỢC THAM CHIẾU, VÀ TÍNH TOÁN CHI TIẾT VÀ/ HOẶC CUNG CẤP MÔ HÌNH KHÓI.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T020418Z" creationid="LanHK" creationdate="20210415T020418Z">
+        <seg>KHÔNG ĐƯỢC SỬ DỤNG duy chỉ biểu đồ này ĐỂ ĐƯA RA GIẢI PHÁP THIẾT KẾ - GIẢI PHÁP THIẾT KẾ TRỌN BỘ PHẢI PHÙ HỢP VỚI MỘT TRONG các tiêu chuẩn ĐƯỢC THAM CHIẾU, VÀ phải trình TÍNH TOÁN CHI TIẾT VÀ/ HOẶC MÔ HÌNH KHÓI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi cung cấp báo động cháy hai giai đoạn, kích hoạt thiết bị thứ hai phải dẫn đến kích hoạt báo động chung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T035306Z" creationid="LanHK" creationdate="20210408T035306Z">
+        <seg>Khi sử dụng hệ thống báo động cháy hai giai đoạn, việc kích hoạt thiết bị thứ hai phải dẫn đến kích hoạt báo động chung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi các cửa này được giữ mở, phải sử dụng các thiết bị nhả từ tính phản ứng với hệ thống báo cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T075131Z" creationid="LanHK" creationdate="20210407T075131Z">
+        <seg>Khi cần giữ mở các cửa này, phải sử dụng thiết bị giữ cửa từ tính đồng bộ hóa với hệ thống báo cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi các thiết bị phát hiện nhiệt có dây cứng được khoanh vùng đang được thay thế ở cuối vòng đời của thiết bị, bằng thiết bị phát hiện khói.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T034122Z" creationid="LanHK" creationdate="20210408T032123Z">
+        <seg>Khi các đầu báo nhiệt được đấu nối đang được thay thế vào cuối vòng đời của thiết bị, phải thay bằng đầu báo khói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi có yêu cầu đánh giá rủi ro hỏa hoạn đầy đủ của tòa nhà bởi một chuyên gia độc lập được IHG phê duyệt và nếu đánh giá xác định rằng không bắt buộc phải có thiết bị phun nước, điều này có thể chấp nhận trong trường hợp các khuyến nghị của đánh giá đó đã được thực hiện đầy đủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T101101Z" creationid="LanHK" creationdate="20210408T101101Z">
+        <seg>Khi có yêu cầu, đánh giá rủi ro hỏa hoạn đầy đủ của tòa nhà có thể được thực hiện bởi bởi một chuyên gia độc lập được IHG phê duyệt và nếu đánh giá xác định rằng tòa nhà không bắt buộc phải có sprinkler, việc này có thể chấp nhận trong trường hợp các khuyến nghị của đánh giá đó đã được thực hiện đầy đủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi hồ bơi không được bảo đảm, phải tiến hành đánh giá rủi ro để xác định cách thức hiệu quả nhất để cung cấp sự bảo vệ tương đương được IHG công nhận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T020716Z" creationid="LanHK" creationdate="20210410T020716Z">
+        <seg>Khi hồ bơi không có phương thức bảo vệ, phải tiến hành đánh giá rủi ro để xác định cách thức hiệu quả nhất để cung cấp sự bảo vệ tương đương được IHG công nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi khóa, bu lông phải mở rộng hoàn toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T095257Z" creationid="LanHK" creationdate="20210409T095257Z">
+        <seg>Khi khóa, then phải đẩy được đến hết cỡ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi không có các nhân viên bảo vệ, các biển báo hiển thị "Không có nhân viên bảo vệ".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T022227Z" creationid="LanHK" creationdate="20210410T022227Z">
+        <seg>Khi không có các nhân viên cứu hộ, phải có các biển báo "Không có nhân viên cứu hộ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi sử dụng brom, lượng brom thường phải nằm trong khoảng từ 2,0 đến 6,0 phần triệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025338Z" creationid="LanHK" creationdate="20210410T025338Z">
+        <seg>Khi sử dụng brom, lượng brom bình thường phải nằm trong khoảng từ 2,0 đến 6,0 phần triệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi sử dụng clo, lượng clo thường phải nằm trong khoảng từ 1,0 đến 3,0 phần triệu và không được vượt quá 5,0 phần triệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025346Z" creationid="LanHK" creationdate="20210410T025323Z">
+        <seg>Khi sử dụng clo, mật độ bình thường phải nằm trong khoảng từ 1,0 đến 3,0 phần triệu và không được vượt quá 5,0 phần triệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi sử dụng địa chỉ công cộng và hệ thống nhạc nền riêng biệt, chúng phải được cách ly thông qua tín hiệu báo cháy thông qua một rơle không có điện áp an toàn mỗi khi kích hoạt báo cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023058Z" creationid="LanHK" creationdate="20210413T023058Z">
+        <seg>Khi sử dụng hệ thống thông báo công cộng và hệ thống chơi nhạc nền riêng biệt, chúng phải được cách ly khỏi hệ thống báo cháy thông qua thiết bị an toàn mỗi khi báo cháy kích hoạt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khi thanh dọc được sử dụng để tạo thành rào chắn, khoảng cách giữa các thanh không được vượt quá 100mm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T014134Z" creationid="LanHK" creationdate="20210412T014134Z">
+        <seg>Khi thanh dọc được sử dụng để tạo thành lan can, khoảng cách giữa các thanh không được vượt quá 100mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khoảng cách di chuyển tối đa giữa các điểm gọi thủ công là 60m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T032149Z" creationid="LanHK" creationdate="20210408T032149Z">
+        <seg>Khoảng cách di chuyển tối đa giữa các nút báo cháy khẩn cấp là 60m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khoảng cách không quá 12m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T032236Z" creationid="LanHK" creationdate="20210408T032236Z">
+        <seg>Khoảng cách giữa các đầu báo không quá 12m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khu vực BOH và phòng khách / hành lang khách, 3.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T060525Z" creationid="LanHK" creationdate="20210407T060525Z">
+        <seg>Khu BOH và phòng khách / hành lang khách, 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khóa chốt trượt hiện tại trước đó có thể vẫn còn tại chỗ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T094158Z" creationid="LanHK" creationdate="20210409T093931Z">
+        <seg>Then cửa có sẵn trước đó có thể giữ nguyên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khóa điện tử của khách không được lập trình với dữ liệu khách cá nhân, không bắt buộc cho chức năng của khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032847Z" creationid="LanHK" creationdate="20210413T032847Z">
+        <seg>Khóa điện tử của khách không được lập trình với dữ liệu cá nhân của khách mà không bắt buộc phải có để vận hành khóa cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không bắt buộc có biển báo thoát hiểm trong phòng, các phòng đi lại công cộng khác có sức chứa dưới 50 người và nhà kho nhỏ dưới 50m².</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T111946Z" creationid="LanHK" creationdate="20210407T111946Z">
+        <seg>Không bắt buộc có biển báo thoát hiểm trong phòng khách, các phòng công cộng khác có sức chứa dưới 50 người và kho nhỏ dưới 50m².</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không bắt buộc thiết bị báo cháy trong hành lang bên ngoài; cung cấp báo động chung và các thiết bị khởi tạo thủ công.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T035209Z" creationid="LanHK" creationdate="20210408T032344Z">
+        <seg>Không bắt buộc thiết bị báo cháy trong hành lang bên ngoài; phải cung cấp báo động chung và các nút báo cháy khẩn cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không cho phép bồn tắm xà phòng với tay cầm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033807Z" creationid="LanHK" creationdate="20210412T014353Z">
+        <seg>Không cho phép sử dụng thanh vịn tích hợp khay để xà phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không cho phép hàng rào lưới thép.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T020646Z" creationid="LanHK" creationdate="20210410T020643Z">
+        <seg>Cấm dùng hàng rào lưới thép.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không cho phép đánh dấu được sơn cho "Tòa nhà mới xây dựng", "chuyển đổi" hoặc nâng cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T014027Z" creationid="LanHK" creationdate="20210410T013150Z">
+        <seg>Không cho phép đánh dấu mực nước bằng sơn tại các khách sạn "Xây mới", "Chuyển đổi" hoặc nâng cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không cho phép đánh dấu độ sâu được sơn cho tòa nhà "mới thi công", "chuyển đổi" hoặc nâng cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T022434Z" creationid="LanHK" creationdate="20210410T022434Z">
+        <seg>Không cho phép đánh dấu mực nước bằng sơn tại các khách sạn "Xây mới", "Chuyển đổi" hoặc nâng cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Không yêu cầu trong các thiết bị độc lập.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T061309Z" creationid="LanHK" creationdate="20210409T061309Z">
+        <seg>Điều này không yêu cầu đối với các lò sưởi khép kín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khả năng chống cháy và thiết bị phun nước trong 120 phút cho cấu trúc của các tòa nhà "cao tầng".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025629Z" creationid="LanHK" creationdate="20210407T064518Z">
+        <seg>Chống cháy 120 phút kết hợp sprinkler đối với kết cấu các tòa nhà "cao tầng".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kim loại tiếp xúc phải là đồng thau mạ crôm, đồng hoặc thép không gỉ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T021734Z" creationid="LanHK" creationdate="20210410T021734Z">
+        <seg>Kim loại có thể nhìn thấy phải là đồng thau mạ crôm, đồng hoặc thép không gỉ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen Hood Fire Suppression System</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080325Z" creationid="LanHK" creationdate="20210412T080325Z">
+        <seg>Kitchen Hood Fire Suppression System Hệ thống chữa cháy tích hợp trong chụp hút mùi bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchens, Boiler Room Etc)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095007Z" creationid="LanHK" creationdate="20210412T095007Z">
+        <seg>Kitchens, Boiler Room Etc) Phát hiện rò gas (vd. Bếp, phòng nồi hơi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kiểm tra hóa chất trên nước hồ bơi (và hồ bơi spa và nước hồ bơi trẻ em nếu có) phải được thực hiện ít nhất ba lần một ngày trong giờ hoạt động của hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025431Z" creationid="LanHK" creationdate="20210410T025427Z">
+        <seg>Kiểm tra hóa chất trong nước hồ bơi (và hồ bơi spa và nước hồ bơi trẻ em nếu có) phải được thực hiện ít nhất ba lần một ngày trong giờ hoạt động của hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Két trong phòng: Két trong phòng phải được bảo vệ để ngăn chặn việc di chuyển trái phép và được cung cấp thông tin cho biết rằng chúng được cung cấp để thuận tiện cho khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032920Z" creationid="LanHK" creationdate="20210413T032920Z">
+        <seg>Két trong phòng: Két trong phòng phải được bảo vệ để ngăn chặn tháo dỡ trái phép và thông tin cho khách biết rằng két được cung cấp để khách sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kích hoạt mục này sẽ tự động xếp tầng theo báo động Ưu tiên 1 nếu không có phản hồi hoặc hành động nào được thực hiện trong tối đa 3 phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095138Z" creationid="LanHK" creationdate="20210412T095138Z">
+        <seg>Kích hoạt mục này sẽ tự động phát báo động Ưu tiên 1 nếu không có phản hồi hoặc hành động nào được thực hiện trong tối đa 3 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kích hoạt và thông báo: Kích hoạt báo động chung phải phát ra âm thanh báo động và / hoặc sơ tán bằng giọng nói trong toàn bộ tòa nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030621Z" creationid="LanHK" creationdate="20210413T030621Z">
+        <seg>Kích hoạt và thông báo: Kích hoạt báo động chung tức là phải phát âm thanh báo động và/hoặc thông báo sơ tán bằng giọng nói trong toàn bộ tòa nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kích hoạt đầu báo khói / nhiệt (trừ phòng khách), thiết bị tạo dòng nước phun tự động và / hoặc thiết bị khởi động thủ công phải dẫn đến kích hoạt ngay lập tức báo động chung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030646Z" creationid="LanHK" creationdate="20210408T035103Z">
+        <seg>Kích hoạt đầu báo khói / nhiệt (trừ phòng khách), kích hoạt sprinkler và/hoặc nút báo cháy khẩn cấp phải ngay lập tức kích hoạt báo động chung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kết nối cửa phòng: Tất cả các cửa phòng khách kết nối phải có một khe mộng với chốt khóa xoay 25 mm, với thumb xoay ở phía phòng khách của cửa, và với một núm hoặc cần gạt cố định.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033009Z" creationid="LanHK" creationdate="20210413T033009Z">
+        <seg>Cửa phòng Connecting: Tất cả các cửa phòng connecting phải có khóa lỗ mộng (có tay nắm gạt hoặc tay nắm tròn) với chốt vặn ngón cái 25 mm. Chốt vặn ngón nằm trên mặt cửa về phía phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kỹ thuật này đòi hỏi tối thiểu bốn dây dẫn phải được kết thúc tại bảng điều khiển, một điều nữa đòi hỏi bảng điều khiển báo cháy được thiết kế để giám sát các mạch loại A. Mạch bổ sung cần thiết cho giám sát Loại A cho phép bảng điều khiển “quy định” điều khiển, mạch ban đầu để giám sát mạch khởi động từ cả hai đầu khi ở chế độ sự cố do lỗi mở trên vòng lặp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T041353Z" creationid="LanHK" creationdate="20210413T041147Z">
+        <seg>Phương pháp này đòi hỏi tối thiểu bốn dây dẫn kết thúc tại bảng điều khiển, và hơn nữa yêu cầu bảng điều khiển báo cháy được thiết kế để giám sát các mạch Class A. Các đường dây bổ sung cần thiết cho giám sát mạch Class A cho phép bảng điều khiển "điều chỉnh" mạch khởi tạo giám nhằm sát mạch khởi tạo từ cả hai đầu khi ở chế độ sự cố do lỗi hở điện trên vòng mạch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loa loại còi được lắp đặt ở những khu vực có tiếng ồn xung quanh cao.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023037Z" creationid="LanHK" creationdate="20210413T023034Z">
+        <seg>Yêu cầu loa báo cháy được lắp đặt ở những khu vực có tiếng ồn môi trường cao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loại bỏ ngay những thiết bị không hoạt động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T105005Z" creationid="LanHK" creationdate="20210409T104950Z">
+        <seg>Loại bỏ ngay lập tức những thiết bị hỏng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luôn không được trả lời điện thoại qua tin nhắn thoại với những cuộc gọi từ thang máy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T031314Z" creationid="LanHK" creationdate="20210412T031314Z">
+        <seg>Bất kể thời điểm nào, các cuộc gọi từ thang máy không được trả lời bằng tin nhắn thoại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luôn không được trả lời điện thoại qua tin nhắn thoại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T103542Z" creationid="LanHK" creationdate="20210409T103542Z">
+        <seg>Bất kể thời điểm nào, không được trả lời bằng tin nhắn thoại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lò sưởi gas phải có nguồn đánh lửa tự động với các điều khiển đốt để tự động ngăn khí thoát ra khỏi phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031123Z" creationid="LanHK" creationdate="20210413T031123Z">
+        <seg>Lò sưởi gas phải có nguồn đánh lửa tự động với các điều khiển đốt để tự động ngăn khí gas thoát vào phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lò sưởi trong phòng chỉ có thể được cung cấp trong các khách sạn được trang bị bình phun chống cháy đầy đủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031115Z" creationid="LanHK" creationdate="20210413T031115Z">
+        <seg>Lò sưởi trong phòng chỉ có thể được cung cấp trong các khách sạn được trang bị hệ thống sprinkler đầy đủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lưu ý: Phòng tắm và nhà vệ sinh không cần lắp thiết bị phát hiện khói / nhiệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T034313Z" creationid="LanHK" creationdate="20210408T034313Z">
+        <seg>Lưu ý: Phòng tắm và nhà vệ sinh không cần lắp đầu báo khói / nhiệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lưu ý: Tiêu chuẩn tòa nhà của các Thương Hiệu Cá Nhân có thể yêu cầu hành lang phải rộng hơn thế này.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104355Z" creationid="LanHK" creationdate="20210407T104355Z">
+        <seg>Lưu ý: Tiêu chuẩn tòa nhà của từng Thương Hiệu cụ thể có thể yêu cầu hành lang phải rộng hơn mức này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lối thoát: Tất cả các khách sạn phải đáp ứng các yêu cầu sau cho lối thoát:
+1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025913Z" creationid="LanHK" creationdate="20210413T025913Z">
+        <seg>Lối thoát hiểm: Tất cả các khách sạn phải đáp ứng các yêu cầu sau cho lối thoát hiểm:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lối vào tòa nhà (Khách sạn Hành lang Nội thất): Cần có kiểm soát lối vào tại tất cả các cửa vào các tòa nhà có hành lang nội thất dành cho khách từ khu vực đỗ xe (tùy chọn cho lối vào chính).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032930Z" creationid="LanHK" creationdate="20210413T032930Z">
+        <seg>Lối vào tòa nhà (Hành lang bên trong khách sạn): Cần có kiểm soát lối vào tại tất cả các cửa dành cho khách dẫn vào hành lang bên trong các tòa nhà đặt phòng khách từ khu vực đỗ xe (tùy chọn cho lối vào chính).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lối vào đường ống (ống dẫn dịch vụ) giữa các phòng phải được khóa để ngăn chặn truy cập trái phép.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032841Z" creationid="LanHK" creationdate="20210413T032841Z">
+        <seg>Lối vào phòng ống dẫn giữa các phòng khác phải được khóa để ngăn chặn truy cập trái phép.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lỗ vào bảo trì phía sau gương bị cấm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032907Z" creationid="LanHK" creationdate="20210409T065710Z">
+        <seg>Cấm có các lỗ vào bảo trì phía sau gương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ma trận trên chỉ được sử dụng như một hướng dẫn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095154Z" creationid="LanHK" creationdate="20210412T095154Z">
+        <seg>Ma trận trên chỉ mang tính hướng dẫn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Call Point (Break Glass)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080211Z" creationid="LanHK" creationdate="20210412T080211Z">
+        <seg>Manual Call Point (Break Glass) Nút báo cháy khẩn cấp (Phá vỡ kính)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitoring of FCC Automatic/Manual Control Switch</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T094856Z" creationid="LanHK" creationdate="20210412T094856Z">
+        <seg>Monitoring of FCC Automatic/Manual Control Switch Giám sát Công tắc FCC Tự động/Thủ công</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Máy phát hoàn toàn tự động và sẽ tự động chuyển sang tải hoàn toàn trong vòng 15 giây.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030301Z" creationid="LanHK" creationdate="20210413T030301Z">
+        <seg>Máy phát vận hành hoàn toàn tự động và sẽ tự động chuyển sang chạy hết công suất trong vòng 15 giây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Máy phát khẩn cấp có đủ nhiên liệu cho hoạt động 48 giờ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030255Z" creationid="LanHK" creationdate="20210413T030255Z">
+        <seg>Máy phát khẩn cấp có đủ nhiên liệu hoạt động trong 48 giờ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Máy phát điện có công suất đủ để cung cấp năng lượng cho tất cả các hệ thống FLS (bao gồm thang máy gia đình &amp; thang máy cho lính cứu hỏa), hoạt động tối thiểu + 20% công suất dự phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030306Z" creationid="LanHK" creationdate="20210413T030306Z">
+        <seg>Máy phát điện có công suất đủ để cấp điện cho tất cả các hệ thống FLS (bao gồm chức năng vận hành cabin xuống tầng thoát hiểm và giữ cửa mở &amp; thang máy cho lính cứu hỏa), vận hành tối thiểu + 20% công suất dự phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mỗi khu vực được phân chia phải được trang bị thiết bị phát hiện cháy được kết nối với bảng điều khiển báo cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T104518Z" creationid="LanHK" creationdate="20210408T104518Z">
+        <seg>Mỗi khu đã được chia nhỏ phải được trang bị đầu báo khói được kết nối với bảng điều khiển báo cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mỗi tầng phải có tối thiểu hai lối thoát hiểm xa nhau.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T103813Z" creationid="LanHK" creationdate="20210407T103813Z">
+        <seg>Mỗi tầng phải có tối thiểu hai lối thoát hiểm cách xa nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Một bảng tín hiệu (bộ lặp) được lắp đặt trong phòng Tổng đài điện thoại (tại bàn tiếp tân của thương hiệu Holiday Inn Express).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023148Z" creationid="LanHK" creationdate="20210413T023143Z">
+        <seg>Repeater panel được lắp đặt trong phòng Tổng đài điện thoại (tại bàn tiếp tân đối với thương hiệu Holiday Inn Express).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Một dây phao phải được cung cấp ở dòng nước sâu 1,5m có độ sâu vượt quá 1,5m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033447Z" creationid="LanHK" creationdate="20210413T033447Z">
+        <seg>Một dây phao phải được cung cấp ở vị trí nước sâu 1,5m đối với bể có độ sâu vượt quá 1,5m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Một nền chống vỡ, ví dụ như gỗ, cao su hoặc màng chống vỡ phải được lắp đặt để bảo vệ kính khỏi bị hư hại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T110802Z" creationid="LanHK" creationdate="20210409T110802Z">
+        <seg>Ốp chân tường chống vỡ, ví dụ như gỗ, cao su hoặc màng chống vỡ phải được lắp đặt để bảo vệ gương khỏi bị hư hại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Một thiết bị khóa không khóa phụ trợ, chẳng hạn như chốt an toàn / đêm, khóa an toàn hoặc thiết bị khóa không khóa được IHG phê duyệt, phải được cung cấp trên tất cả các cửa ra vào của phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032946Z" creationid="LanHK" creationdate="20210413T032946Z">
+        <seg>Một thiết bị phụ trợ để chốt cửa, chẳng hạn như chốt an toàn, dây xích an toàn hoặc các thiết bị không phải khóa khác được IHG phê duyệt phải được cung cấp trên tất cả các cửa phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Một điện thoại khẩn cấp phải được lắp đặt ở một vị trí dễ thấy trong trung tâm thể hình.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033050Z" creationid="LanHK" creationdate="20210413T033050Z">
+        <seg>Một điện thoại khẩn cấp phải được lắp đặt ở vị trí dễ thấy trong phòng tập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Một điện thoại khẩn cấp phải được lắp đặt ở vị trí có thể nhìn thấy rõ trong hàng rào bể bơi hoặc liền kề ngay với mỗi bể bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033338Z" creationid="LanHK" creationdate="20210413T033338Z">
+        <seg>Một điện thoại khẩn cấp phải được lắp đặt ở vị trí dễ thấy trong không gian quanh bể bơi hoặc liền kề với bể bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T034923Z" creationid="LanHK" creationdate="20210407T034923Z">
+        <seg>N/A Không có thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ngoài nguồn điện máy phát khẩn cấp, pin dự phòng phải được cung cấp như một phần không thể thiếu của bảng báo cháy chính và hệ thống thông tin sơ tán.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030714Z" creationid="LanHK" creationdate="20210413T030714Z">
+        <seg>Ngoài nguồn điện máy phát khẩn cấp, pin dự phòng phải được cung cấp như một phần không thể thiếu của bảng điều khiển trung tâm báo cháy và hệ thống thông báo sơ tán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ngoài ra, hệ thống phải có các thiết bị khởi tạo thủ công tại, hoặc gần, bộ phận tiền sảnh, tại mỗi điểm lối vào cầu thang, tại mỗi lối ra tầng trệt và tại các vị trí thích hợp khác được kết nối với bảng điều khiển báo cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T035157Z" creationid="LanHK" creationdate="20210408T025929Z">
+        <seg>Ngoài ra, hệ thống phải có các nút báo cháy khẩn cấp tại, hoặc gần, bộ phận tiền sảnh, tại mỗi lối vào cầu thang, tại mỗi lối ra tầng trệt và tại các vị trí thích hợp khác được kết nối với bảng điều khiển báo cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ngoài ra, khi các tòa nhà không được rắc và / hoặc nơi các hạn chế của bên thứ ba ngăn chặn tiêu chuẩn này được thực hiện, các khách sạn phải có những điều sau đây:
+1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T083411Z" creationid="LanHK" creationdate="20210407T083411Z">
+        <seg>Ngoài ra, khi các tòa nhà không có sprinkler và / hoặc nơi các hạn chế của bên thứ ba cản trở việc thực hiện tiêu chuẩn này, các khách sạn phải có những điều sau đây:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nguồn điện khẩn cấp được phân phối đầy đủ để đảm bảo hoạt động khách sạn giới hạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030313Z" creationid="LanHK" creationdate="20210413T030313Z">
+        <seg>Nguồn điện khẩn cấp được phân phối đầy đủ để đảm bảo vận hành khách sạn một cách hạn chế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Những thông tin này bao gồm nhưng không giới hạn trong tư vấn bảo mật cá nhân, sử dụng an toàn hồ bơi, bảo vệ tài sản cá nhân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T061522Z" creationid="LanHK" creationdate="20210409T061522Z">
+        <seg>Những thông tin này bao gồm nhưng không giới hạn trong lời khuyên về an toàn cá nhân, an toàn sử dụng hồ bơi, bảo vệ tài sản cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Những điện thoại này phải được cấu hình để kết nối với một vị trí tại chỗ được quản lý vĩnh viễn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T103522Z" creationid="LanHK" creationdate="20210409T103522Z">
+        <seg>Những điện thoại này phải được kết nối với một vị trí trong khuôn viên khách sạn luôn có nhân viên trực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notify Pocket Pagers/Phones/Radios for In-house Emergency Response Team (ERT).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073601Z" creationid="LanHK" creationdate="20210412T073601Z">
+        <seg>Notify Pocket Pagers/Phones/Radios for In-house Emergency Response Team (ERT) Thông báo tới máy nhắn tin/điện thoại/radio cho Đội Ứng phó Khẩn cấp trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nên tham khảo ý kiến từ Sở cứu hỏa địa phương để đảm bảo tuân thủ đầy đủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095532Z" creationid="LanHK" creationdate="20210412T095532Z">
+        <seg>Nên tham khảo ý kiến từ Cục Cảnh sát phòng cháy chữa cháy địa phương để đảm bảo tuân thủ đầy đủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nói chung tất cả các khu vực trong nhà trừ nhà vệ sinh nhỏ, trục ống vv</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030454Z" creationid="LanHK" creationdate="20210408T030024Z">
+        <seg>nhìn chung được cung cấp cho tất cả các khu vực trừ phòng công tắc điện và nhà vệ sinh nhỏ / trục ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NẾU CÁC HỘI TRƯỜNG ĐÓNG KÍN KHÔNG LỐI THOÁT THÌ KHÔNG YÊU CẦU CÁC BÌNH PHUN CHỮA CHÁY.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015458Z" creationid="LanHK" creationdate="20210415T015458Z">
+        <seg>NẾU CÁC giếng trời khép KÍN không có lối thoát hiểm đi ngang qua THÌ có thể KHÔNG YÊU CẦU sprinkler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nến không được đặt trong phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032750Z" creationid="LanHK" creationdate="20210413T032750Z">
+        <seg>Không được để nến trong phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nếu không có tiêu chuẩn quốc gia về mức độ chiếu sáng, tiêu chuẩn bắt buộc của IHG là trung bình 1 foot nến (10 lux) ở mức sàn và tối thiểu là 0,1 fopt nến (1 lux) tại bất kỳ điểm nào.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T021814Z" creationid="LanHK" creationdate="20210408T021814Z">
+        <seg>Nếu không có tiêu chuẩn quốc gia về mức độ chiếu sáng, tiêu chuẩn bắt buộc của IHG là trung bình 10 lux ở mức sàn và tối thiểu là 1 lux tại bất kỳ điểm nào khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nếu quy định địa phương yêu cầu, điện thoại có thể gọi trực tiếp đến các dịch vụ khẩn cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T020906Z" creationid="LanHK" creationdate="20210410T020906Z">
+        <seg>Nếu quy định địa phương yêu cầu, điện thoại có thể gọi trực tiếp đến đơn vị cứu trợ khẩn cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nếu áp dụng, quy định có thể được thực hiện cho lap swimming.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T024857Z" creationid="LanHK" creationdate="20210410T024857Z">
+        <seg>Nếu phù hợp, có thể tạo điều kiện cho việc bơi dọc bể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OPENING ENTRANCE DOORS) 80% BỔ SUNG KHÍ DƯƠNG, 20% TỪ TỰ NHIÊN.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015650Z" creationid="LanHK" creationdate="20210415T015650Z">
+        <seg>OPENING ENTRANCE DOORS) 80% KHÍ DƯƠNG bổ sung, 20% TỪ TỰ NHIÊN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Life Safety Chống Cháy Khác</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032716Z" creationid="LanHK" creationdate="20210412T032716Z">
+        <seg>Other Life Safety Phụ lục I: Các Vấn đề an toàn sinh mạng khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phát hiện Carbon Monoxide:
+Tất cả các khách sạn sẽ nỗ lực để giảm thiểu rủi ro thương tích hoặc sức khỏe cho nhân viên, khách, khách thăm và các bên liên quan khác thông qua việc thiết kế, lắp đặt và bảo trì các thiết bị đốt nhiên liệu chính xác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033841Z" creationid="LanHK" creationdate="20210413T033841Z">
+        <seg>Phát hiện Carbon Monoxide (CO):
+Tất cả các khách sạn sẽ nỗ lực để giảm thiểu rủi ro thương tích hoặc sức khỏe cho nhân viên, khách lưu trú, khách thăm và các bên liên quan khác thông qua việc thiết kế, lắp đặt và bảo trì các thiết bị đốt nhiên liệu một cách chính xác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phía đối diện của cửa phải có các tấm trống, không được tiếp xúc với ốc vít hoặc bu lông, để đảm bảo an ninh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T093916Z" creationid="LanHK" creationdate="20210409T083855Z">
+        <seg>Mặt còn lại của cửa phải có ốp trang trí che lỗ khóa để không tiếp cận được ốc vít bên trong, đảm bảo cửa chỉ vận hành được từ một bên..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng khách cho người khuyết tật:
+· Cửa chống cháy trong phòng cho khách khuyết tật phải được lắp chốt cửa trễ (loại không giữ mở).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033849Z" creationid="LanHK" creationdate="20210413T033849Z">
+        <seg>Phòng khách cho người khuyết tật:
+· Cửa chống cháy trong phòng cho khách khuyết tật phải được lắp tay co giữ cửa đóng chậm (giữ cửa mở mà không phải dùng tay).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng khách trang bị thiết bị nấu kiểu bếp lò phải được cung cấp hệ thống chữa cháy tự động được IHG phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023522Z" creationid="LanHK" creationdate="20210413T023522Z">
+        <seg>Phòng khách trang bị bếp lửa phải được cung cấp hệ thống chữa cháy tự động được IHG phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng thực vật và tất cả các khu vực khác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T062609Z" creationid="LanHK" creationdate="20210407T062609Z">
+        <seg>Phòng máy và tất cả các khu vực khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng tắm nắng / giường tắm nắng phải đáp ứng các yêu cầu sau:
+· Phải lắp đặt báo động sự cố với kết nối trực tiếp đến vị trí tại chỗ được quản lý vĩnh viễn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033222Z" creationid="LanHK" creationdate="20210413T033222Z">
+        <seg>Phòng tắm nắng / giường tắm nắng phải đáp ứng các yêu cầu sau:
+· Phải lắp đặt báo động sự cố với kết nối trực tiếp đến vị trí trong khuôn viên khách sạn luôn có nhân viên trực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng xông hơi ướt và phòng xông hơi phải đáp ứng các yêu cầu sau:
+· Tuân thủ nhiệt độ vận hành được khuyến nghị từ phía nhà sản xuất
+· Biển cảnh báo phải được hiển thị xung quanh khu vực thoát hơi nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033212Z" creationid="LanHK" creationdate="20210413T033212Z">
+        <seg>Phòng xông ướt và phòng hơi nước phải đáp ứng các yêu cầu sau:
+· Tuân thủ nhiệt độ vận hành được nhà sản xuất khuyến nghị
+· Phải gắn biển cảnh báo xung quanh khu vực thoát hơi nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phải cung cấp bình chữa cháy xách tay loại tối thiểu 4A và / hoặc 20B, phải phù hợp với môi trường của khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T034601Z" creationid="LanHK" creationdate="20210409T034601Z">
+        <seg>Phải cung cấp bình chữa cháy xách tay tối thiểu loại 4A và / hoặc 20B. Bình chữa cháy xách tay phải phù hợp với môi trường của khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phải tiến hành đánh giá rủi ro đối với các hoạt động theo kế hoạch.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025135Z" creationid="LanHK" creationdate="20210410T025130Z">
+        <seg>Phải tiến hành đánh giá rủi ro đối với các hoạt động dự tính cung cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phải tự động cắt nguồn cung cấp nhiên liệu khi kích hoạt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030932Z" creationid="LanHK" creationdate="20210409T031405Z">
+        <seg>Phải tự động cắt nguồn cung cấp nhiên liệu khi kích hoạt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phải yêu cầu cài đặt lại bằng tay sau khi kích hoạt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T031418Z" creationid="LanHK" creationdate="20210409T031418Z">
+        <seg>Phải yêu cầu cài đặt lại bằng tay sau khi bị kích hoạt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phần 7 của Tiêu chuẩn Kỹ thuật IHG phải được tham chiếu để biết thêm chi tiết.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095209Z" creationid="LanHK" creationdate="20210412T095209Z">
+        <seg>Phải tham chiếu phần 7 của Tiêu chuẩn Kỹ thuật IHG để biết thêm chi tiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pin phải có đủ dung lượng để cung cấp dự phòng trong 24 giờ, sau đó dung lượng đủ phải duy trì để hoạt động trong điều kiện báo động đầy đủ trong tối thiểu một giờ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T040506Z" creationid="LanHK" creationdate="20210408T040506Z">
+        <seg>Pin phải cấp đủ điện để hoạt động ở trạng thái standby trong 24 giờ, sau đó phải đủ phải duy trì để hoạt động trong điều kiện báo động đầy đủ trong tối thiểu một giờ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Action System (Ie, Computer Rooms)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T081934Z" creationid="LanHK" creationdate="20210412T081934Z">
+        <seg>Pre-Action System (Ie, Computer Rooms) Hệ thống Pre-Action (vd. trong phòng máy tính) (hệ thống sprinkler trong đó nước được giữ ở ngoài hệ thống đường ống bằng van pre-action, nếu có lửa, van sẽ mở để nước vào đường ống)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print Event Log on FCC Printer.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073219Z" creationid="LanHK" creationdate="20210412T073219Z">
+        <seg>Print Event Log on FCC Printer. In Event Log trên máy in FCC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide certificates for all products/systems.Khi được cung cấp hoặc thay thế, tất cả "sản phẩm, thiết bị và lắp ráp" sẽ phải tuân theo các tiêu chí thử nghiệm trong phòng thí nghiệm của Underwriters Laboratories  của Hoa Kỳ hoặc Canada, CE hoặc cơ quan kiểm tra khác được IHG công nhận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025432Z" creationid="LanHK" creationdate="20210413T025432Z">
+        <seg>Provide certificates for all products/systems.Khi được cung cấp hoặc thay thế, tất cả "sản phẩm, thiết bị và vật dụng lắp ráp" sẽ phải tuân theo các tiêu chí thử nghiệm trong phòng thí nghiệm của Underwriters Laboratories của Hoa Kỳ hoặc Canada, CE hoặc cơ quan kiểm duyệt khác được IHG công nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide evidence in writing (from local authority) if any local regulation prohibits implementation of any IHG Standards.Trong trường hợp các quy định địa phương yêu cầu nghiêm ngặt hơn Tiêu chuẩn An toàn Thương hiệu IHG, quy định địa phương sẽ được áp dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025348Z" creationid="LanHK" creationdate="20210413T025348Z">
+        <seg>Provide evidence in writing (from local authority) if any local regulation prohibits implementation of any IHG Standards.Trong trường hợp các quy định địa phương đưa ra yêu cầu nghiêm ngặt hơn so với Tiêu chuẩn An toàn Thương hiệu IHG, quy định địa phương sẽ được áp dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recall Alt Elevators to Ground Level.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074350Z" creationid="LanHK" creationdate="20210412T074350Z">
+        <seg>Recall All Elevators to Ground Level. Gọi tất cả các cabin thang máy về tầng trệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Magnetic Hold Open Doors.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074418Z" creationid="LanHK" creationdate="20210412T074418Z">
+        <seg>Release Magnetic Hold Open Doors. Nhả các cửa giữ mở bằng nam châm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rào chắn phải cao ít nhất 1,10m và phải có đường ray dưới cùng không quá 100mm so với sàn hoàn thiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T014120Z" creationid="LanHK" creationdate="20210412T014120Z">
+        <seg>Lan can phải cao ít nhất 1,10m và phải có thanh dưới cùng không quá 100mm so với sàn hoàn thiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMOKE CONTROL SYSTEM FOR ATRIUM TO MAINTAIN TENABLE CONDITIONS FOR ESCAPE – ALLOWINMG FOR POSSIBILITY OF GUESTS BEING ASLEEP AT TIME OF ALARM. HỆ THỐNG KIỂM SOÁT KHÓI CHO HỘI TRƯỜNG ĐỂ DUY TRÌ CÁC ĐIỀU KIỆN CHẶT CHẼ CHO PHÉP THOÁT HIỂM KHI KHÁCH ĐANG NGỦ VÀO THỜI ĐIỂM BÁO ĐỘNG.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210415T015326Z" creationid="LanHK" creationdate="20210415T015326Z">
+        <seg>HỆ THỐNG KIỂM SOÁT KHÓI CHO GIẾNG TRỜI phải DUY TRÌ ĐIỀU KIỆN sẵn sàng CHO việc THOÁT HIỂM - cân nhắc đến khả năng KHÁCH ĐANG NGỦ VÀO THỜI ĐIỂM BÁO ĐỘNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Note 1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T035458Z" creationid="LanHK" creationdate="20210412T035458Z">
+        <seg>See Note 1 Xem ghi chú 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut Down Gas Supply.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T074514Z" creationid="LanHK" creationdate="20210412T074514Z">
+        <seg>Shut Down Gas Supply. Tắt nguồn cấp gas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke Control Kiểm Soát Khói</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T032700Z" creationid="LanHK" creationdate="20210412T032700Z">
+        <seg>Smoke Control Phụ lục H: Kiểm Soát Khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound Alarm in Sleeping Rooms (Built in buzzer in smoke detector).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073304Z" creationid="LanHK" creationdate="20210412T073304Z">
+        <seg>Sound Alarm in Sleeping Rooms (Built in buzzer in smoke detector). Báo động âm thanh trong phòng ngủ (chuông tích hợp trong đầu báo khói)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprinkler Water Flow</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080301Z" creationid="LanHK" creationdate="20210412T080301Z">
+        <seg>Sprinkler Water Flow Phun nước sprinkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stand Pipe Water Flow Switch</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T093353Z" creationid="LanHK" creationdate="20210412T082156Z">
+        <seg>Stand Pipe Water Flow Switch Công tắc dòng chảy hệ thống đường ống cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structure and Materials Cấu Trúc và Vật Liệu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025501Z" creationid="LanHK" creationdate="20210413T025501Z">
+        <seg>Structure and Materials Kết Cấu và Vật Liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Sequence/Action</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T072759Z" creationid="LanHK" creationdate="20210412T072749Z">
+        <seg>System Sequence Trình tự hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sơ tán bằng giọng nói: Trong các tòa nhà "cao tầng" và trong các tòa nhà phòng khách khác và khu vực lắp ráp không có vòi phun nước, hệ thống báo cháy tự động phải kết hợp hệ thống loa sơ tán phát sóng làm việc trong tất cả các phòng khách và khu vực công cộng, bao gồm một báo động và một thông điệp sơ tán được ghi sẵn bằng ngôn ngữ địa phương và tiếng Anh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030706Z" creationid="LanHK" creationdate="20210413T030706Z">
+        <seg>Thông báo sơ tán bằng giọng nói: Trong các tòa nhà "cao tầng" và trong các tòa phòng khách khác và khu vực tập trung đông người không có sprinkler, hệ thống báo cháy tự động phải kết hợp hệ thống loa thông báo sơ tán hoạt động trong tất cả các phòng khách và khu vực công cộng, bao gồm âm thanh báo động và thông báo sơ tán được ghi âm sẵn bằng ngôn ngữ địa phương và tiếng Anh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sơ đồ sơ tán: Một sơ đồ đóng khung rõ ràng, được thiết kế và chế tạo chuyên nghiệp, hiển thị lối thoát từ mỗi phòng khách và phòng họp đến lối ra gần nhất, phải được dán ở cạnh phòng của mỗi phòng khách và cửa phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030009Z" creationid="LanHK" creationdate="20210413T030009Z">
+        <seg>Hướng dẫn sơ tán: Một sơ đồ được thiết kế, sản xuất và đóng khung chuyên nghiệp, cho thấy lối thoát từ mỗi phòng khách và phòng họp đến lối ra gần nhất, phải được dán ở cạnh phòng của mỗi phòng khách và phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sảnh nhiều tầng: Phải cung cấp hành lang nhiều tầng (hai tầng) tại thời điểm cấp phép hoặc gia hạn giấy phép, với hệ thống kiểm soát khói được phê duyệt hoặc rào chắn khói bao gồm cửa chống cháy tối thiểu 20 phút và lắp ráp khung hành lang phòng khách tách biệt với sảnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T080533Z" creationid="LanHK" creationdate="20210407T080533Z">
+        <seg>Lobby nhiều tầng: Đối với lobby nhiều tầng (hai tầng), tại thời điểm cấp phép hoặc gia hạn giấy phép, phải cung cấp hệ thống kiểm soát khói được phê chuẩn hoặc kết cấu chắn khói bao gồm cửa và khung cửa chống cháy tối thiểu 20 phút để phân tách hành lang phòng khách với lobby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taken Alarm Initiating Device</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T072810Z" creationid="LanHK" creationdate="20210412T072810Z">
+        <seg>Alarm Initiating Device Thiết bị Kích hoạt báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thang máy để chữa cháy: Trong tòa nhà "Mới Thi Công": Các tòa nhà cao tầng phải được cung cấp một thang máy phù hợp để sử dụng cho các hoạt động chữa cháy bao gồm thu hồi khẩn cấp, vận hành trong xe và cung cấp điện bảo vệ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023442Z" creationid="LanHK" creationdate="20210413T023442Z">
+        <seg>Thang máy cứu hỏa: Trong các khách sạn "Xây mới": Các tòa nhà cao tầng phải được cung cấp thang máy phù hợp phục vụ công tác cứu hỏa, bao gồm chức năng tự động trở về tầng thoát hiểm, vận hành thang trong cabin và nguồn cấp điện được bảo vệ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thang và / hoặc các bậc thang có tay vịn được yêu cầu ở cả hai đầu của hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033354Z" creationid="LanHK" creationdate="20210413T033354Z">
+        <seg>Thang treo và / hoặc các bậc thang có tay vịn được yêu cầu ở cả hai đầu của hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanh chặn cửa sổ được giới hạn mức mở tối đa 100mm trừ khi quy định địa phương khác yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033703Z" creationid="LanHK" creationdate="20210413T033703Z">
+        <seg>Yêu cầu có chặn cửa sổ để giới hạn mức mở tối đa 100mm trừ khi quy định địa phương yêu cầu khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanh cân bằng phải được neo chắc chắn để chịu được lực kéo 110kg.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T014328Z" creationid="LanHK" creationdate="20210412T014229Z">
+        <seg>Thanh vịn phải chắc chắn để chịu được lực kéo 110kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanh cân bằng: Phải lắp đặt (các) thanh cân bằng để hỗ trợ khách vào và ra khỏi bồn tắm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033800Z" creationid="LanHK" creationdate="20210413T033755Z">
+        <seg>Thanh vịn: Phải lắp đặt (các) thanh vịn để hỗ trợ khách vào và ra khỏi bồn tắm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fire rating of fabrics &amp; curtains must meet recognized codes such as NFPA 701 Mức độ chống cháy của vải và màn cửa phải đáp ứng các quy định được công nhận, chẳng hạn như NFPA 701</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T095700Z" creationid="LanHK" creationdate="20210412T095700Z">
+        <seg>The fire rating of fabrics &amp; curtains must meet recognized codes such as NFPA 701 Mức độ chống cháy của vải và rèm cửa phải đáp ứng các tiêu chuẩn được công nhận, chẳng hạn như NFPA 701</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These standards also apply to existing hotels when they have extensions and alterations and where serious life safety defects are identified.Tất cả các khách sạn phải được thiết kế và xây dựng tuân thủ Tiêu chuẩn an toàn thương hiệu IHG và các quy định áp dụng khác được IHG công nhận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025402Z" creationid="LanHK" creationdate="20210413T025402Z">
+        <seg>These standards also apply to existing hotels when they have extensions and alterations and where serious life safety defects are identified.Tất cả các khách sạn phải được thiết kế và xây dựng tuân thủ Tiêu chuẩn An toàn Thương hiệu IHG và các quy định có thể áp dụng khác được IHG công nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thi công cầu thang khẩn cấp: Cầu thang thoát hiểm khẩn cấp phải đáp ứng các yêu cầu sau:
+1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030105Z" creationid="LanHK" creationdate="20210413T030105Z">
+        <seg>Kết cấu cầu thang khẩn cấp: Cầu thang thoát hiểm khẩn cấp phải đáp ứng các yêu cầu sau:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This “conditioning” endures that all devices are capable of responding and reporting an alarm despite a single open or jon-simultaneous single ground fault on a circuit conductor.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T041754Z" creationid="LanHK" creationdate="20210413T041754Z">
+        <seg>This “conditioning” endures that all devices are capable of responding and reporting an alarm despite a single open or non-simultaneous single ground fault on a circuit conductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết Bị Báo Cháy hành lang phòng: Thiết Bị Báo Cháy trong hành lang phòng khách phải được lắp đặt theo thông số kỹ thuật của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030558Z" creationid="LanHK" creationdate="20210413T030558Z">
+        <seg>Đầu báo khói cho hành lang phòng khách: đầu báo khói trong hành lang phòng khách phải được lắp đặt theo hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị kiểm tra và xả cho hệ thống sprinkler (kết nối trở lại bể) &amp; đồng hồ đo lưu lượng trực tiếp đã được cung cấp tại các máy bơm chữa cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031040Z" creationid="LanHK" creationdate="20210413T031040Z">
+        <seg>Van kiểm tra cho hệ thống sprinkler (kết nối trở lại bể) &amp; đồng hồ đo lưu lượng trực tiếp phải được cung cấp tại các bơm chữa cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị nấu ăn: Các hệ thống chữa cháy được phê duyệt (như ANSUL) với hoạt động tự động và thủ công cho các phạm vi nấu ăn của nhà bếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023448Z" creationid="LanHK" creationdate="20210413T023448Z">
+        <seg>Thiết bị nấu ăn: Các hệ thống chữa cháy được phê duyệt (như ANSUL) vận hành tự động và thủ công phải được cung cấp trong phạm vi không gian nấu ăn của nhà bếp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện cháy phòng khách: thiết bị có dây "khả định", với thiết bị âm thanh cục bộ, được yêu cầu trong mỗi "khu vực sống".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T040118Z" creationid="LanHK" creationdate="20210413T030514Z">
+        <seg> Đầu báo khói phòng khách: đầu báo khói "địa chỉ", với thiết bị phát âm thanh cục bộ, được yêu cầu trong mỗi phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện cháy được lắp đặt ở tất cả các khu vực (kể cả bên trong đỉnh của máng vải, cầu thang khẩn cấp, phòng trồng cây, không gian gác mái, v.v.).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030501Z" creationid="LanHK" creationdate="20210413T030340Z">
+        <seg>Generally all indoor areas except small toilets, pipe shafts etc. Đầu báo khói được lắp đặt ở tất cả các khu vực (kể cả bên trong đỉnh của ống thả đồ giặt, cầu thang khẩn cấp, phòng máy, không gian gác mái, v.v.),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện cửa và khu vực lớn: Hệ thống phát hiện khói có dây cứng hệ thống được kết nối với bảng chữa cháy phải được cung cấp trên tất cả các khu vực khách sạn lớn hơn 14m², bao gồm các khu vực công cộng, khu vực BOH, hành lang, phòng cơ khí và kho chứa, được lắp đặt theo khuyến nghị của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030609Z" creationid="LanHK" creationdate="20210413T030609Z">
+        <seg>Đầu báo khói tại giếng trời và các khu vực lớn: Hệ thống đầu báo khói được đấu nối với hệ thống điều khiển trung tâm phải được cung cấp tại tất cả các khu vực khách sạn lớn hơn 14m², bao gồm các khu vực công cộng, khu BOH, hành lang, phòng cơ khí và kho chứa, được lắp đặt theo khuyến nghị của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện hệ thống phải phát ra âm thanh báo động không chậm trễ tại cả điểm xuất phát và bảng cảnh báo liên tục có nhân viên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T034945Z" creationid="LanHK" creationdate="20210408T034945Z">
+        <seg>Đầu báo hệ thống phải phát âm thanh báo động không chậm trễ tại cả điểm phát hiện khói và bảng điều khiển luôn có nhân viên trực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện khí sẽ được cung cấp trong tất cả các phòng có nguồn cung cấp Gas, để phát ra âm thanh báo động và tắt Gas trong trường hợp phát hiện rò rỉ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031107Z" creationid="LanHK" creationdate="20210413T031107Z">
+        <seg>Thiết bị phát hiện khí gas sẽ được cung cấp trong tất cả các phòng có nguồn cung cấp Gas, phải phát ra âm thanh báo động và tắt Gas trong trường hợp phát hiện rò rỉ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện khói loại chùm có thể được cung cấp tuân thủ các khuyến nghị lắp đặt của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T034000Z" creationid="LanHK" creationdate="20210408T033958Z">
+        <seg>Đầu báo beam tuân thủ các khuyến nghị lắp đặt của nhà sản xuất có thể được sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phát hiện nhiệt có thể được sử dụng trong các khu vực như nhà bếp nơi không khí trong phòng không phù hợp để sử dụng thiết bị phát hiện khói.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T034030Z" creationid="LanHK" creationdate="20210408T034030Z">
+        <seg>Đầu báo nhiệt có thể được sử dụng trong các khu vực như nhà bếp nơi không khí trong phòng không phù hợp để sử dụng thiết bị phát hiện khói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị phải được lắp đặt cho cả cửa rầm và cửa để tối đa hóa an ninh và sức mạnh của việc lắp đặt và đảm bảo cho khách dễ vận hành.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T072127Z" creationid="LanHK" creationdate="20210409T072127Z">
+        <seg>Thiết bị phải được lắp đặt trên cả khung và cánh cửa để tối đa hóa an ninh và độ chắc chắn của thiết bị và đảm bảo cho khách dễ sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thiết bị đầu cuối thùng rác / máng giặt là phải được trang bị "cửa chống cháy" trong 60 phút với thiết bị tự đóng và liên kết dễ nóng chảy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025841Z" creationid="LanHK" creationdate="20210413T025841Z">
+        <seg>Điểm cuối của ống thả đồ giặt là/thả rác phải được trang bị "cửa chống cháy" 60 phút với tay co tự động và và mối nối có thể nóng chảy ở nhiệt độ cao (fusible link).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thoát hiểm hỏa hoạn: Các lối thoát lửa bên ngoài cố định phải được IHG chấp thuận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030225Z" creationid="LanHK" creationdate="20210413T030225Z">
+        <seg>Thoát hiểm hỏa hoạn: lối thoát hiểm cố định bên ngoài tòa nhà phải được IHG phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thoát nước: Cần tối thiểu hai cống trong tất cả các bể mới.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033455Z" creationid="LanHK" creationdate="20210413T033455Z">
+        <seg>Ga thoát nước: Cần tối thiểu hai ga thoát trong tất cả các bể mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thông gió khói cơ học hoặc tự nhiên đủ để giữ cho nhà xe không có khói.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T102944Z" creationid="LanHK" creationdate="20210407T102944Z">
+        <seg>Đảm bảo thông khói cơ học hoặc tự nhiên đủ để giữ cho nhà xe không có khói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thông tin bảo mật: Thông tin an toàn và bảo mật phải được cung cấp ở vị trí dễ thấy trong phòng khách bằng ngôn ngữ địa phương và tiếng Anh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032802Z" creationid="LanHK" creationdate="20210413T032802Z">
+        <seg>Thông tin an ninh: Thông tin an toàn và an ninh phải được cung cấp ở vị trí dễ thấy trong phòng khách bằng ngôn ngữ địa phương và tiếng Anh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thông điệp phải bằng ngôn ngữ địa phương và tiếng Anh và phải bao gồm chữ tượng hình phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030012Z" creationid="LanHK" creationdate="20210407T105041Z">
+        <seg>Tất cả các biển báo phải bằng ngôn ngữ địa phương và tiếng Anh và phải bao gồm biểu tượng minh họa phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thùng rác trong phòng khách và phòng tắm của khách phải có khả năng chống cháy và có thể rửa được.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032742Z" creationid="LanHK" creationdate="20210413T032742Z">
+        <seg>Thùng rác trong phòng khách và phòng tắm của khách phải chống cháy và có thể rửa được.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trang web Quản lý rủi ro có các ví dụ về biển báo an toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T111145Z" creationid="LanHK" creationdate="20210409T111145Z">
+        <seg>Trang web Quản lý rủi ro có ví dụ về biển báo an toàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trang web Quản lý rủi ro có các ví dụ về biển báo bể bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033423Z" creationid="LanHK" creationdate="20210413T033423Z">
+        <seg>Trang web Quản lý rủi ro có ví dụ về biển báo an toàn bể bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transmit Alarm to Fire Command Centre (FCC) and Remote Repeater Panels (RRP).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073224Z" creationid="LanHK" creationdate="20210412T072922Z">
+        <seg>Transmit Alarm to Fire Command Centre (FCC) and Remote Repeater Panels (RRP) Truyền báo động đến Trung tâm Chỉ Huy Cứu hỏa (FCC) và bảng Repeater từ xa (RRP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transmit Fault Signal to FCC and RRP.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080119Z" creationid="LanHK" creationdate="20210412T080119Z">
+        <seg>Transmit Fault Signal to FCC and RRP. Truyền Tín hiệu báo lỗi tới FCC và RRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transmit Supervisory Alarm Signal to FCC &amp; RRP.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T080107Z" creationid="LanHK" creationdate="20210412T080107Z">
+        <seg>Transmit Supervisory Alarm Signal to FCC &amp; RRP. Truyền Báo động Giám sát tới FCC và RRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong "Khách sạn hiện tại": Các thiết bị phát hiện cháy hoặc dây nhiệt được khoanh vùng cứng, với một thiết bị âm thanh cục bộ, được yêu cầu trong mỗi "khu vực sống".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030519Z" creationid="LanHK" creationdate="20210413T030519Z">
+        <seg>Trong "Khách sạn hiện có": Các đầu báo khói hoặc đầu báo nhiệt được đấu nối với nguồn điện, với một thiết bị báo âm thanh cục bộ, được yêu cầu trong mỗi phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong "Khách sạn hiện tại": bất kỳ khu vực lưu trữ nào mở ra cầu thang đều phải có cửa chống cháy (tương đương chống cháy với cửa giữa cầu thang và hành lang) với cơ chế tự đóng và phát hiện cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030141Z" creationid="LanHK" creationdate="20210413T030141Z">
+        <seg>Đối với "Khách sạn hiện có": bất kỳ phòng kho nào mở ra cầu thang đều phải có cửa chống cháy (ở mức tương đương với cửa giữa cầu thang và hành lang) với tay co tự động và thiết bị phát hiện cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong "lắp ráp cửa chống cháy", cửa sổ cũng phải chống cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T023545Z" creationid="LanHK" creationdate="20210412T023545Z">
+        <seg>Trong "các bộ cửa chống cháy", cửa sổ cũng phải chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các khách sạn hiện tại không có chứng nhận cho vật liệu tại chỗ, phải cung cấp bằng chứng hợp lý khác, ví dụ như nhãn nội thất, hóa đơn, biên lai, xác nhận tích cực về sự tuân thủ từ nhà cung cấp có uy tín hoặc khi không có bằng chứng cho biết chủ sở hữu có thể nói nơi vật liệu đã được mua và làm chứng theo sự hiểu biết tốt nhất của họ rằng nhà cung cấp tuân thủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T082200Z" creationid="LanHK" creationdate="20210407T082200Z">
+        <seg>Trong các khách sạn sẵn có mà không có chứng nhận cho vật liệu đang sử dụng, phải cung cấp bằng chứng hợp lý khác, ví dụ như nhãn của đồ nội thất, hóa đơn, biên lai, xác nhận về sự tuân thủ của nhà cung cấp có uy tín hoặc khi không có bằng chứng như trên, chủ đầu tư có thể vật liệu đã được mua ở đâu và làm chứng rằng, theo sự hiểu biết tốt nhất của họ, nhà cung cấp có tuân thủ tiêu chuẩn chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các tòa nhà "cao tầng" hiện tại, tiêu chuẩn này phải được thực hiện cho đến cuối năm 2015.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023215Z" creationid="LanHK" creationdate="20210408T100857Z">
+        <seg>Đối với các tòa nhà "cao tầng" hiện có, tiêu chuẩn này phải được thực hiện tính đến cuối năm 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các tòa nhà cao hơn bốn tầng, các khu vực "gác mái" phải được cung cấp thiết bị phun nước tự động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T104546Z" creationid="LanHK" creationdate="20210408T104546Z">
+        <seg>Trong các tòa nhà cao hơn bốn tầng, các khu vực chứa đồ dự trữ phải được lắp sprinkler tự động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các tòa nhà không có hệ thống phun (các tòa nhà thấp tầng), một hệ thống phun nước tự động duy nhất hoặc hệ thống dập lửa tự động được phê duyệt phải được lắp đặt ở đầu máng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T103703Z" creationid="LanHK" creationdate="20210407T103703Z">
+        <seg>Trong các tòa nhà không có hệ thống sprinkler (tham chiếu các tòa nhà thấp tầng), một hệ thống sprinkler tự động duy nhất hoặc một hệ thống dập lửa tự động được phê duyệt phải được lắp đặt ở đỉnh ống thả.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các tòa nhà trang bị thiết bị phun đầy đủ, máng phải được bảo vệ bởi hệ thống phun nước tự động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025854Z" creationid="LanHK" creationdate="20210413T025854Z">
+        <seg>Trong các tòa nhà trang bị đầy đủ sprinkler, ống thả phải được bảo vệ bởi hệ thống sprinkler tự động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các tòa nhà được trang bị đầy đủ, "khoảng cách di chuyển" đến lối ra không được vượt quá 60m (cách 60m hoặc 120m giữa các lối thoát hiểm).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T103945Z" creationid="LanHK" creationdate="20210407T103945Z">
+        <seg>Trong các tòa nhà được trang bị đầy đủ sprinkler, "khoảng cách di chuyển" đến lối thoát không được vượt quá 60m (các lối thoát hiểm cách nhau 60m hoặc 120m).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong các tòa nhà được trang bị đầy đủ, có tới 50% lối thoát hiểm có thể thoát ra bên trong nơi được IHG chấp thuận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T112555Z" creationid="LanHK" creationdate="20210407T112555Z">
+        <seg>Trong các tòa nhà được trang bị đầy đủ sprinkler, 50% lối thoát hiểm có thể thoát ở bên trong nơi được IHG chấp thuận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong mọi trường hợp, khoảng cách của các máy dò vượt quá một máy dò điểm / điểm trên 85m².</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T033939Z" creationid="LanHK" creationdate="20210408T033843Z">
+        <seg>Trong mọi trường hợp, khoảng cách giữa của các đầu báo khói không được phép vượt quá một đầu báo khói điểm trên 85m².</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong trường hợp có xung đột, việc đánh giá rủi ro của kỹ sư cứu hỏa bên thứ ba có trình độ phù hợp phải được thực hiện và tất cả các biện pháp theo đánh giá đó phải được tiến hành đầy đủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T021332Z" creationid="LanHK" creationdate="20210408T021323Z">
+        <seg>Trong trường hợp có mâu thuẫn, phải tiến hành đánh giá rủi ro, thực hiện bởi kỹ sư cứu hỏa bên thứ ba có trình độ phù hợp và tất cả các biện pháp đề ra sau khi đánh giá phải được thực hiện đầy đủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong trường hợp cần có cửa trong phòng bán hàng tự động và phòng giặt, phải có cửa sổ nhìn với diện tích tối thiểu 0,6m².</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033837Z" creationid="LanHK" creationdate="20210413T033837Z">
+        <seg>Nếu khu máy bán hàng tự động và phòng giặt cho khách yêu cầu có cửa, phòng phải có cửa sổ nhìn ra ngoài với diện tích tối thiểu 0,6m².</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong trường hợp mất điện, thang máy phải được trang bị nguồn điện khẩn cấp để đưa thang máy trở về mức sàn và cửa thang máy phải mở để cho phép những người đi trong thang máy thoát ra ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033913Z" creationid="LanHK" creationdate="20210413T033913Z">
+        <seg>Trong trường hợp mất điện, thang máy phải tự động trở về một tầng và cửa thang máy phải mở cho phép người trong thang máy thoát ra ngoài.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trường hợp không cho phép chặn cửa, một biển báo, bằng ngôn ngữ địa phương và tiếng Anh, phải được dán trên cửa sổ để cảnh báo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T031726Z" creationid="LanHK" creationdate="20210410T031726Z">
+        <seg>Trường hợp không cho phép sử dụng chặn cửa, một biển báo, bằng ngôn ngữ địa phương và tiếng Anh, phải được dán trên cửa sổ để cảnh báo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trạm đài gọi thủ công bố trí trong tất cả các khu vực.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030548Z" creationid="LanHK" creationdate="20210413T030548Z">
+        <seg>Nút/Cần gạt báo cháy thủ công bố trí trong tất cả các khu vực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuy nhiên, trong trường hợp yêu cầu IHG nghiêm ngặt hơn, điều này sẽ được áp dụng phù hợp với các quy định của địa phương.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T040720Z" creationid="LanHK" creationdate="20210407T040720Z">
+        <seg>Tuy nhiên, trong trường hợp yêu cầu IHG nghiêm ngặt hơn, điều này sẽ được áp dụng trừ khi các quy định của địa phương không cho phép.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các biển báo an toàn phòng cháy phải bằng ngôn ngữ địa phương và tiếng Anh và phải bao gồm chữ tượng hình thích hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030053Z" creationid="LanHK" creationdate="20210413T030053Z">
+        <seg>Tất cả các biển báo phải bằng ngôn ngữ địa phương và tiếng Anh và phải bao gồm biểu tượng minh họa phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các bể bơi phải được thiết kế và xây dựng để đảm bảo:
+· Một môi trường vật lý an toàn cho người tắm, khách, khách thăm và nhân viên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033305Z" creationid="LanHK" creationdate="20210413T033305Z">
+        <seg>Tất cả các bể bơi phải được thiết kế và xây dựng để đảm bảo:
+· Một môi trường vật lý an toàn cho người bơi, khách lưu trú, khách thăm và nhân viên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các bộ phận của Hệ Thống An Toàn Cuộc Sống nên được vận hành &amp; thử nghiệm đầy đủ, chính xác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T060403Z" creationid="LanHK" creationdate="20210407T060403Z">
+        <seg>Tất cả các bộ phận của Hệ Thống An Toàn Cuộc Sống phải được vận hành &amp; thử nghiệm đầy đủ, chính xác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các cửa chống cháy khác: A. Để thi công 60 phút, cần có cửa và khung chống cháy 30 phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064718Z" creationid="LanHK" creationdate="20210407T064718Z">
+        <seg>Tất cả các cửa chống cháy khác: A. Đối với kết cấu chống cháy 60 phút, yêu cầu có cửa và khung cửa chống cháy 30 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các cửa phải có cổng một chiều (có nắp di động) được lắp đặt ở độ cao 1,5m so với sàn nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032952Z" creationid="LanHK" creationdate="20210413T032952Z">
+        <seg>Tất cả các cửa phải có mắt thần một chiều (có nắp có thể mở) lắp đặt ở độ cao 1,5m so với sàn nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các dây an toàn phải được đặt trong các vật liệu được phê duyệt và được che giấu khỏi tầm nhìn công cộng, trừ khi được phê duyệt để lắp đặt mở.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T081631Z" creationid="LanHK" creationdate="20210407T081620Z">
+        <seg>Tất cả các dây nối của hệ thống đảm bảo an toàn tính mạng phải được đặt trong các vật liệu được phê chuẩn và được che giấu khỏi tầm nhìn công cộng, trừ khi được phê duyệt để lắp đặt trong tầm nhìn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các dây cáp và kết nối cho hệ thống phát hiện và báo cháy phải có khả năng chống cháy tối thiểu 60 phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025754Z" creationid="LanHK" creationdate="20210413T025754Z">
+        <seg>Tất cả các dây cáp và kết nối của hệ thống phát hiện và báo cháy phải chống cháy tối thiểu 60 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các dấu độ sâu phải được hiển thị trong cả hai chỉ số feet và mét.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T013201Z" creationid="LanHK" creationdate="20210409T112639Z">
+        <seg>Tất cả các số báo độ sâu phải được viết bằng cả đơn vị feet và mét.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các khe hở không được bảo vệ giữa các tầng và xuyên tường (ví dụ xung quanh đường ống hoặc dây dẫn, ống dẫn hoặc dịch vụ) phải ngăn lửa với vật liệu có khả năng chống cháy của cấu trúc xung quanh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T063238Z" creationid="LanHK" creationdate="20210407T063238Z">
+        <seg>Tất cả các khe hở không được bảo vệ giữa các tầng và xuyên tường (ví dụ xung quanh đường ống hoặc dây dẫn, ống dẫn hoặc các đường ống nối với hệ thống ống dẫn của địa phương) phải chống cháy bằng vật liệu có khả năng chống cháy tương đương cấu trúc xung quanh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các khách sạn phải có khóa loại thẻ điện tử trên tất cả các cửa ra vào của phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032940Z" creationid="LanHK" creationdate="20210413T032940Z">
+        <seg>Tất cả các khách sạn phải sử dụng khóa thẻ điện tử trên tất cả các cửa phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các loa di tản có bọc vỏ hộp back box.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023105Z" creationid="LanHK" creationdate="20210413T023105Z">
+        <seg>Tất cả các loa thông báo sơ tán lắp trong hộp backbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các lắp đặt mới và thay đổi đáng kể đến "hệ thống an toàn" phải được "chứng nhận" bởi một kiến trúc sư độc lập, kỹ sư hoặc người lắp đặt bằng cấp, xác nhận văn bản là đã lắp đặt, thử nghiệm và vận hành phù hợp và hoạt động đầy đủ tuân thủ theo các hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025457Z" creationid="LanHK" creationdate="20210413T025457Z">
+        <seg>Tất cả các máy móc thiết bị mới và các thay đổi lớn đối với "hệ thống đảm bảo an toàn" phải được "chứng nhận" bởi một kiến trúc sư, kỹ sư hoặc bên lắp đặt được cấp phép độc lập, với xác nhận bằng văn bản là đã lắp đặt, thử nghiệm và vận hành phù hợp và hoạt động đầy đủ tuân thủ theo các hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các lắp đặt áp lực, nâng và điện kết hợp các thiết bị an toàn phải được cài đặt, thử nghiệm, vận hành và bảo trì theo hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025451Z" creationid="LanHK" creationdate="20210413T025451Z">
+        <seg>Tất cả các thiết bị áp lực, thang máy và thiết bị điện kết hợp thiết bị an toàn phải được cài đặt, thử nghiệm, vận hành và bảo trì theo hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các thiết bị thể dục phải được lắp đặt và bảo trì theo khuyến nghị của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033102Z" creationid="LanHK" creationdate="20210413T033102Z">
+        <seg>Tất cả các thiết bị tập phải được lắp đặt và bảo trì theo khuyến nghị của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các vật liệu được dùng trong tất cả các khu vực công cộng và phòng khách, bao gồm nhưng không giới hạn ở nệm, lò xo hộp, giường, xử lý cửa sổ, trang trí tường, trang trí nội thất mềm và trải sàn, phải là chất chống cháy hoặc được xử lý để đáp ứng hoặc vượt yêu cầu của quy định địa phương cho tỷ lệ "chống cháy".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025811Z" creationid="LanHK" creationdate="20210413T025807Z">
+        <seg>Tất cả các vật liệu được dùng trong tất cả các khu vực công cộng và phòng khách, bao gồm nhưng không giới hạn ở nệm, giường lò xo, chăn ga gối, rèm cửa sổ, trang trí tường, trang trí nội thất mềm và trải sàn, phải làm từ vật liệu chống cháy hoặc được xử lý để đáp ứng hoặc vượt yêu cầu của quy định địa phương về mức độ chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Van chống cháy tự đóng tự động được lắp đặt trong tất cả các ống dẫn đi qua sự xâm nhập&gt; 2hr cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025734Z" creationid="LanHK" creationdate="20210413T025734Z">
+        <seg>Van chặn lửa đóng tự động được lắp đặt trong tất cả các ống dẫn xuyên tường &gt;2hr cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Việc giám sát được thực hiện bằng cách giám sát mức dòng điện đi qua hệ thống dây điện lắp đặt và điện trở cuối dòng, trong mạch loại A là một phần không thể thiếu của bảng điều khiển báo cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T035831Z" creationid="LanHK" creationdate="20210413T035831Z">
+        <seg>Việc giám sát được thực hiện bằng cách giám sát mức độ dòng điện đi qua hệ thống dây điện và điện trở cuối đường dây - là một phần không thể thiếu của bảng điều khiển báo cháy trong mạch Class A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Việc lắp đặt phải duy trì toàn bộ sự riêng tư về hình ảnh và âm thanh giữa các phòng tắm liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T014421Z" creationid="LanHK" creationdate="20210412T014421Z">
+        <seg>Việc lắp đặt phải duy trì cách âm và riêng tư giữa các phòng tắm liền kề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Việc tắt máy phải được nhìn thấy và có thể cho khách truy cập và nằm trong phạm vi 3 m của mép xoáy nước hoặc tại một điểm có người quản lý cố định với đường ngắm trực tiếp đến hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T112228Z" creationid="LanHK" creationdate="20210409T112228Z">
+        <seg>Nút tắt phải dễ nhìn thấy và dễ cho khách tiếp cận, nằm trong phạm vi 3 m của mép bể xoáy nước hoặc tại một điểm luôn có nhân viên trực và tầm nhìn trực tiếp đến bể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Việc đánh giá phải được xem xét hàng năm và việc đánh giá lại toàn bộ phải được thực hiện sau mỗi 5 năm bởi một chuyên gia độc lập được phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T101212Z" creationid="LanHK" creationdate="20210408T101212Z">
+        <seg>Kết quả đánh giá phải được xem xét hàng năm và một đánh giá đầy đủ phải được thực hiện mỗi 5 năm bởi một chuyên gia độc lập được IHG phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vòi chữa cháy và các nguồn cung cấp nước khác: Vòi chữa cháy hoặc các nguồn cung cấp nước khác được cơ quan chữa cháy và IHG phê duyệt phải được cung cấp tại các địa điểm phù hợp để cung cấp nguồn nước chữa cháy cho tòa nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023325Z" creationid="LanHK" creationdate="20210413T023325Z">
+        <seg>Vòi nước chữa cháy và các nguồn cấp nước khác: Vòi chữa cháy hoặc các nguồn cung cấp nước khác được cơ quan chữa cháy và IHG phê duyệt phải được cung cấp tại các vị trí phù hợp để cung cấp nguồn nước chữa cháy cho tòa nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vòi phun nước bên tường được gắn cách trần nhà không quá 150mm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T101416Z" creationid="LanHK" creationdate="20210408T101416Z">
+        <seg>Sprinkler gắn tường gắn cách trần nhà không quá 150mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vòi phun nước được cung cấp chung cho tất cả các khu vực trừ phòng công tắc điện và nhà vệ sinh nhỏ / trục ống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T023229Z" creationid="LanHK" creationdate="20210413T023229Z">
+        <seg>Sprinkler nhìn chung được cung cấp cho tất cả các khu vực trừ phòng công tắc điện và nhà vệ sinh nhỏ / trục ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vòm hồ bơi phải có khả năng chống trơn trượt (theo tiêu chuẩn quốc tế).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033345Z" creationid="LanHK" creationdate="20210413T033345Z">
+        <seg>Sàn xung quanh hồ bơi phải chống trơn trượt (theo tiêu chuẩn quốc tế).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vật liệu chống cháy được sử dụng trong các khu vực được dự định là lối thoát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T030219Z" creationid="LanHK" creationdate="20210413T030219Z">
+        <seg>Vật liệu chống cháy được sử dụng trong các khu vực xác định sử dụng làm lối thoát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vật liệu dễ cháy: "Các vật liệu dễ cháy", sơn, dung môi và nhiên liệu phải được lưu trữ trong các thùng chứa và trong tủ khóa hoặc tủ sơn được phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031050Z" creationid="LanHK" creationdate="20210413T031050Z">
+        <seg>Vật liệu dễ cháy: "Các vật liệu dễ cháy", sơn, dung môi và nhiên liệu phải được trữ trong các thùng chứa và trong tủ khóa hoặc tủ sơn được phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vật liệu nguy hiểm: Việc lưu trữ "vật liệu nguy hiểm", như khí dầu mỏ và dầu lỏng số lượng lớn, phải được đánh giá rủi ro bởi bên thứ ba có thẩm quyền thực hiện và phải tuân thủ các khuyến nghị của đánh giá đó.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T031101Z" creationid="LanHK" creationdate="20210413T031101Z">
+        <seg> Vật liệu nguy hiểm: Việc lưu kho các "vật liệu nguy hiểm", như khí dầu mở lỏng hoặc dầu số lượng lớn, phải được đánh giá rủi ro bởi bên thứ ba có đủ thẩm quyền và năng lực và các khuyến nghị từ đánh giá đó phải được tuân thủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where necessary, door selectors must be provided on double doors to ensure they close fully.chốt cửa tự động: Trong trường hợp cần có "cửa chống cháy", chúng phải được trang bị chốt cửa tự động phù hợp để đảm bảo đóng và chốt cửa (trừ cửa đuổi theo / cửa mở dịch vụ).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025710Z" creationid="LanHK" creationdate="20210413T025710Z">
+        <seg>Where necessary, door selectors must be provided on double doors to ensure they close fully.Tay co cửa tự động: Trong trường hợp yêu cầu có "cửa chống cháy", cửa phải được trang bị tay co tự động phù hợp để đảm bảo đóng và chốt cửa (trừ cửa mở vào các đường ống).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xông hơi khô phải đáp ứng các yêu cầu sau:
+· Tuân thủ nhiệt độ vận hành được khuyến nghị từ phía nhà sản xuất
+· Phải được gắn với bộ hẹn giờ hiển thị rõ ràng cho người dùng, cửa không khóa và cửa sổ nhìn ra bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033143Z" creationid="LanHK" creationdate="20210413T033143Z">
+        <seg>Xông hơi khô phải đáp ứng các yêu cầu sau:
+· Tuân thủ nhiệt độ vận hành được nhà sản xuất khuyến nghị 
+· Phải có bộ hẹn giờ được gắn sao cho người dùng có thể nhìn rõ, cửa không khóa và cửa sổ nhìn ra bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yêu cầu phân chia tầng áp mái, chỉ áp dụng cho "Mới thi công" và yêu cầu đối với các vòi phun nước chỉ áp dụng cho các tòa nhà có thiết bị phun nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T104811Z" creationid="LanHK" creationdate="20210408T104811Z">
+        <seg>Yêu cầu chia khu kho đồ dự chỉ áp dụng cho khách sạn "Xây mới", và yêu cầu về sprinkler chỉ áp dụng cho các tòa nhà được bảo vệ bằng sprinkler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yêu cầu quy tắc thiết kế chuyên nghiệp và chế tạo, lắp đặt vĩnh viễn và giờ hoạt động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033359Z" creationid="LanHK" creationdate="20210413T033359Z">
+        <seg>Yêu cầu bảng có quy tắc và luật lệ sử dùng hồ bơi được thiết kế và chế tạo chuyên nghiệp, lắp đặt vĩnh viễn. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yêu cầu tối thiểu của bốn lối thoát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T104623Z" creationid="LanHK" creationdate="20210407T104623Z">
+        <seg>Yêu cầu tối thiểu là bốn lối thoát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any effected guestrooms), the Floor Above &amp; Floor Below, Disable All BGM &amp; Audio Systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T073848Z" creationid="LanHK" creationdate="20210412T073848Z">
+        <seg>any effected guestrooms), the Floor Above &amp; Floor Below, Disable All BGM &amp; Audio Systems. Kích hoạt Âm thanh báo động, Chuông báo động, Thiết bị cảnh báo bằng hình ảnh và Trình tự sơ tán trên tầng có hỏa hoạn (bao gồm tất cả các phòng khách bị ảnh hưởng), các tầng liền kề phía trên và phía dưới, vô hiệu hóa tất cả các hệ thống BGM và âm thanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cung cấp giấy chứng nhận chống cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210407T064641Z" creationid="LanHK" creationdate="20210407T064641Z">
+        <seg>Xuất trình giấy chứng nhận mức độ chống cháy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phải có áp lực cầu thang cơ học, hoặc lối vào cầu thang thông qua tiền sảnh mở bên ngoài hoặc sảnh cứu hỏa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T020649Z" creationid="LanHK" creationdate="20210408T020649Z">
+        <seg>phải có cầu thang tăng áp cơ học, hoặc lối vào cầu thang thông qua tiền sảnh mở bên ngoài tòa nhà hoặc sảnh cứu hỏa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Biển báo an toàn phù hợp phải được hiển thị bằng ngôn ngữ địa phương và tiếng Anh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T111136Z" creationid="LanHK" creationdate="20210409T111136Z">
+        <seg>· Biển báo an toàn phù hợp phải được viết bằng ngôn ngữ địa phương và tiếng Anh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Biểu tượng quốc tế "Cấm Bơi Lặn" phải được hiển thị trên xoáy nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T112538Z" creationid="LanHK" creationdate="20210409T112538Z">
+        <seg>· Biểu tượng quốc tế "Cấm Nhảy" phải được gắn trên rìa bể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Chiếu sáng dưới nước hơn là chiếu sáng điện áp thấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T022757Z" creationid="LanHK" creationdate="20210412T022757Z">
+        <seg>· Ưu tiên dùng đèn chiếu dưới nước hơn là đèn chiếu điện áp thấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Cần có "nắp cống chống vướng" trong tất cả các xoáy nước / bể bơi spa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T014733Z" creationid="LanHK" creationdate="20210410T014733Z">
+        <seg>· Cần có "nắp thoát sàn hồ bơi chống mắc kẹt" trong tất cả bể nước xoáy / bể bơi spa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Hồ bơi có thể dễ dàng duy trì trong điều kiện sạch sẽ và hợp vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T015548Z" creationid="LanHK" creationdate="20210410T015548Z">
+        <seg>· Có thể dễ dàng duy trì điều kiện sạch sẽ và hợp vệ sinh cho hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Hồ bơi xoáy nước / spa phải có khả năng được bảo vệ để ngăn chặn truy cập trái phép, ví dụ bằng cách đặt bể bơi spa trong phòng khóa và an toàn hoặc bằng cách sử dụng hàng rào đáp ứng yêu cầu hàng rào bể bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T014932Z" creationid="LanHK" creationdate="20210410T014932Z">
+        <seg>· Bể nước xoáy / bể spa phải có biện pháp ngăn chặn truy cập trái phép, ví dụ bằng cách bố trí bể bơi spa trong phòng có khóa và an toàn hoặc bằng cách sử dụng hàng rào đáp ứng yêu cầu đối với hàng rào bể bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Phòng khách, phòng tắm, phòng vệ sinh, phòng cơ khí, phòng bơm hồ bơi, phòng giặt ủi thương mại và khách, nhà bếp, khu vực bán hàng tự động và các khu vực nội thất khác trong phạm vi 1m từ nguồn nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T022843Z" creationid="LanHK" creationdate="20210412T022843Z">
+        <seg>· Phòng khách, phòng tắm, phòng vệ sinh, phòng cơ khí, phòng bơm hồ bơi, phòng giặt ủi thương mại và cho khách, bếp, khu vực bán hàng tự động và các khu vực nội thất khác trong phạm vi 1m từ nguồn nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Phải cài đặt báo động sự cố với kết nối trực tiếp đến vị trí tại chỗ được quản lý vĩnh viễn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T111225Z" creationid="LanHK" creationdate="20210409T111225Z">
+        <seg>· Phải lắp đặt báo động sự cố với kết nối trực tiếp đến vị trí trong khuôn viên khách sạn luôn có nhân viên trực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Trường hợp khách sạn lắp đặt "hệ thống phun nước" chữa cháy, đầu phun nước ở nhiệt độ cao phải được lắp đặt bên trong &amp; phía trên phòng tắm hơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210409T111121Z" creationid="LanHK" creationdate="20210409T111115Z">
+        <seg>· Trường hợp khách sạn lắp đặt "hệ thống sprinkler" chữa cháy, đầu sprinkler nhiệt độ cao phải được lắp đặt bên trong &amp; phía trên phòng xông.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Xử lý nước vật lý và hóa học phù hợp tại chỗ để đạt được chất lượng nước hóa học, sinh học và vật lý an toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T015528Z" creationid="LanHK" creationdate="20210410T015528Z">
+        <seg>· Xử lý nước bằng phương pháp vật lý và hóa học phù hợp tại chỗ để đạt được chất lượng nước an toàn về mặt hóa, sinh và vật lý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Ánh sáng thoát hiểm khẩn cấp là cần thiết trong tất cả các phòng có thể truy cập.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T025654Z" creationid="LanHK" creationdate="20210412T025645Z">
+        <seg>· Ánh sáng thoát hiểm khẩn cấp phải có trong tất cả các phòng cho người khuyết tật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>· Đánh dấu độ sâu phải được thể hiện rõ trên đỉnh của xoáy nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T022405Z" creationid="LanHK" creationdate="20210410T014826Z">
+        <seg>· Phải có số đánh dấu độ sâu ở mặt trên của rìa bể nước xoáy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ánh sáng trong khu vực bán hàng tự động và / hoặc khu vực giặt là của khách phải luôn luôn sáng hoặc phải tự động chiếu sáng khi có lối vào khu vực; yêu cầu một mạch chuyển mạch chưa được chuyển đổi hoặc khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T024144Z" creationid="LanHK" creationdate="20210412T023707Z">
+        <seg>Chiếu sáng trong khu vực máy bán hàng tự động và / hoặc khu vực giặt là của khách luôn phải sáng hoặc phải tự động chiếu sáng khi có người tiến vào; yêu cầu sử dụng mạch không đóng cắt hoặc đóng cắt bằng khóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ánh sáng được yêu cầu đủ cường độ để đảm bảo tầm nhìn cho việc sử dụng vào ban đêm và cho phép nhìn rõ đáy hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033351Z" creationid="LanHK" creationdate="20210413T033351Z">
+        <seg>Yêu cầu ánh sáng đủ cường độ để đảm bảo tầm nhìn cho việc sử dụng vào ban đêm và cho phép nhìn rõ đáy hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ít nhất một ống đứng được đặt trên mái nhà (Yêu cầu chống đông cứng trong điều kiện khí hậu lạnh).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T105248Z" creationid="LanHK" creationdate="20210408T105248Z">
+        <seg>Ít nhất một trụ nước cứu hỏa đứng được đặt trên mái nhà (Yêu cầu chống đóng băng trong điều kiện khí hậu lạnh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Điều này bao gồm, nhưng không giới hạn, đối với ban công, sân thượng, đường thoát hiểm bên ngoài và cầu thang cao cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T050242Z" creationid="LanHK" creationdate="20210410T050242Z">
+        <seg>Điều này bao gồm, nhưng không giới hạn, đối với ban công, sân thượng, đường thoát hiểm bên ngoài và cầu thang ở tầng cao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Điều này có nghĩa là, điều này có nghĩa là tất cả các thiết bị đều có khả năng phản hồi và báo cáo cảnh báo mặc dù có một lỗi chạm đất đơn lẻ hoặc đồng thời trên một dây dẫn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T041749Z" creationid="LanHK" creationdate="20210413T041644Z">
+        <seg>Việc "điều chỉnh" này đảm bảo rằng, tất cả các thiết bị đều có khả năng phản hồi và phát cảnh báo dù có một hoặc lỗi rò điện xuống đất đơn lẻ hoặc các lỗi rò điện không đồng thời trên dây dẫn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Điện thoại / Liên lạc: Mỗi thang máy phải có điện thoại nhà hoặc máy liên lạc kết nối trực tiếp với bộ phận tiền sảnh hoặc trung tâm giám sát khẩn cấp (Nhân viên trực điện thoại).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033925Z" creationid="LanHK" creationdate="20210413T033925Z">
+        <seg>Điện thoại / Hệ thống liên lạc nội bộ: Mỗi thang máy phải có điện thoại hoặc intercom kết nối trực tiếp với bộ phận tiền sảnh hoặc trung tâm giám sát khẩn cấp (Nhân viên trực điện thoại).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Điện thoại phòng: Tất cả các điện thoại của phòng khách phải có thể được sử dụng để gọi hỗ trợ từ các dịch vụ khẩn cấp địa phương.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033825Z" creationid="LanHK" creationdate="20210413T033825Z">
+        <seg>Điện thoại phòng: Tất cả các điện thoại trong phòng khách phải có thể được sử dụng để gọi hỗ trợ từ các dịch vụ khẩn cấp địa phương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Điện thoại trong nhà tại khu vực công cộng không thể truy cập trực tiếp vào phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032851Z" creationid="LanHK" creationdate="20210413T032851Z">
+        <seg>Điện thoại bàn tại các khu vực công cộng không thể truy cập trực tiếp vào phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đánh dấu bằng bất kỳ hình thức nào (ví dụ như các đường màu hoặc mẫu màu), miễn là dễ thấy và ở độ cao dễ thấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T032524Z" creationid="LanHK" creationdate="20210410T032524Z">
+        <seg>Đánh dấu bằng bất kỳ hình thức nào (ví dụ như các đường kẻ màu hoặc hình họa), miễn là dễ thấy và ở độ cao dễ thấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đánh dấu độ sâu phải được hiển thị rõ ràng ở cả đỉnh và cạnh của cạnh bể bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T033427Z" creationid="LanHK" creationdate="20210413T033427Z">
+        <seg>Phải có số đánh dấu độ sâu ở mặt trên và mặt đứng của mép bể bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đèn nhấp nháy và chuông cảnh báo được lắp đặt ở hành lang khách, khu vực công cộng &amp; khu vực BOH.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T034320Z" creationid="LanHK" creationdate="20210413T023026Z">
+        <seg>Đèn chớp và chuông cảnh báo được lắp đặt ở hành lang khách, khu vực công cộng &amp; khu vực BOH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đèn sợi đốt &amp; đèn halogen bị cấm trong phòng khách (phải chọn đèn CFL &amp; hoặc đèn LED).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T025900Z" creationid="LanHK" creationdate="20210413T025900Z">
+        <seg>Đèn sợi đốt &amp; đèn halogen bị cấm trong phòng khách (phải chọn đèn CFL và/hoặc đèn LED).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với "Mới Xây Dựng", độ sâu tối đa của nước tối đa là 300mm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T025045Z" creationid="LanHK" creationdate="20210410T025032Z">
+        <seg>Đối với khách sạn "Xây mới", độ sâu tối đa của nước là 300mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với bán kính tối thiểu 1m xung quanh cửa lò sưởi, sàn phải không bắt lửa (tức là gạch hoặc gạch gốm).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210413T032724Z" creationid="LanHK" creationdate="20210413T032724Z">
+        <seg>Đối với bán kính tối thiểu 1m xung quanh cửa lò sưởi, sàn phải là vật liệu không bắt lửa (vd gạch hoặc gạch gốm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các tòa nhà "cao tầng" hiện tại, tiêu chuẩn này phải được thực hiện cho đến cuối năm 2015.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T100844Z" creationid="LanHK" creationdate="20210408T100844Z">
+        <seg>Đối với các tòa nhà "cao tầng" hiện có, tiêu chuẩn này phải được thực hiện tính đến cuối năm 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các tòa nhà "thấp tầng", phải tiến hành đánh giá rủi ro để xác định xem có thể miễn trừ các vòi phun nước tự động hay không, dựa trên mức độ rủi ro vốn có trong tòa nhà và các biện pháp thay thế có thể đạt được mức bảo vệ chấp nhận được.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T100830Z" creationid="LanHK" creationdate="20210408T100830Z">
+        <seg>Đối với các tòa nhà "thấp tầng", phải tiến hành đánh giá rủi ro để xác định xem có thể miễn lắp đặt các sprinkler tự động hay không, dựa trên mức độ rủi ro vốn có trong tòa nhà và các biện pháp thay thế có thể giúp đạt được mức an toàn có thể chấp nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với hồ bơi sàn cấp, các biển báo độ sâu hồ bơi có thể được gắn trên tường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T023034Z" creationid="LanHK" creationdate="20210410T023034Z">
+        <seg>Đối với hồ bơi có mức nước ngang mặt sàn, các biển báo độ sâu hồ bơi có thể được gắn trên tường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với tòa nhà hiện tại không đáp ứng tiêu chuẩn này, việc đánh giá rủi ro phải được thực hiện bởi cơ quan có thẩm quyền được IHG công nhận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210412T014151Z" creationid="LanHK" creationdate="20210412T014151Z">
+        <seg>Đối với các tòa hiện trạng không đáp ứng tiêu chuẩn này, việc đánh giá rủi ro phải được thực hiện bởi cơ quan có thẩm quyền được IHG công nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với việc thi công ban công hiện tại không phù hợp với tiêu chuẩn RM07-06, việc đánh giá rủi ro phải được tiến hành bởi cơ quan có thẩm quyền được IHG công nhận để xác định các biện pháp kiểm soát thay thế phù hợp phải bao gồm một dấu hiệu, bằng ngôn ngữ địa phương và tiếng Anh, dán trên cửa ban công để cảnh báo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210410T032745Z" creationid="LanHK" creationdate="20210410T032745Z">
+        <seg>Đối với các ban công sẵn có không phù hợp với tiêu chuẩn RM07-06, việc đánh giá rủi ro phải được tiến hành bởi cơ quan có thẩm quyền được IHG công nhận để xác định các biện pháp kiểm soát thay thế phù hợp, phải bao gồm một biển báo bằng ngôn ngữ địa phương và tiếng Anh dán trên cửa ban công để cảnh báo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ống đứng vòi được cung cấp trên tất cả các cấp (thường là các tòa nhà lớn hơn 3 tầng).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210408T105228Z" creationid="LanHK" creationdate="20210408T105228Z">
+        <seg>Trụ nước cứu hỏa  được cung cấp trên tất cả các tầng (thường là các tòa nhà lớn hơn 3 tầng).</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
