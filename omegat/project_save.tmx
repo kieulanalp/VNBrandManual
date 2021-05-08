@@ -7496,6 +7496,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One clothes rail must be installed at an accessible height: [39744] Một thanh treo quần áo phải được cài đặt ở độ cao cho người khuyết tật:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023829Z" creationid="LanHK" creationdate="20210508T023829Z">
+        <seg>One clothes rail must be installed at an accessible height: [39744] phải bố trí một thanh treo quần áo ở độ cao cho người khuyết tật:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One lounge / easy chair or sofa.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -9486,6 +9494,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T103615Z" creationid="LanHK" creationdate="20210419T041931Z">
         <seg>Swimming Pools provided solely for use by children under the age of 6 years are required to meet the following: [56467]      Bể bơi dành riêng cho trẻ em dưới 6 tuổi sử dụng phải đáp ứng các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switches, thermostats, key card holders and other controls intended for guest use must meet the following: [79129]    Công tắc, bộ điều nhiệt, hộp đựng thẻ khóa và các điều khiển khác dành cho khách sử dụng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T024005Z" creationid="LanHK" creationdate="20210508T024005Z">
+        <seg>Switches, thermostats, key card holders and other controls intended for guest use must meet the following: [79129]    Công tắc, bảng điều khiển nhiệt độ, hộp đựng thẻ khóa và các điều khiển khác dành cho khách sử dụng phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11534,6 +11550,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020914Z" creationid="LanHK" creationdate="20210508T020914Z">
         <seg>[111027] KidSuites® bổ sung là tùy chọn và phụ thuộc vàp địa điểm và nhu cầu thị trường, việc cung cấp loại phòng này phải được IHG® phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111031] Phải được gắn 1,2m (4ft) trên các tầng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023936Z" creationid="LanHK" creationdate="20210508T023936Z">
+        <seg>[111031] Phải được gắn 1,2m (4ft) trên các mức sàn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16314,6 +16338,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58446] Phải có một khoảng trống dưới quầy trang điểm rộng 75cm (30in) x cao 67,5cm (27in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023745Z" creationid="LanHK" creationdate="20210508T023745Z">
+        <seg>[58446] Phải có khoảng trống rộng 75cm (30in) x cao 67,5cm (27in) dưới vanity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58449]     Đường ống dẫn nước phải được cách nhiệt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023756Z" creationid="LanHK" creationdate="20210508T023756Z">
+        <seg>[58449]     Đường ống dẫn nước lộ ra ngoài phải được cách nhiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58461]   Phải có một vòi trượt xịt tay điều chỉnh.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022952Z" creationid="LanHK" creationdate="20210508T022952Z">
@@ -17730,6 +17770,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79127]     Hệ thống nước không được giảm không gian trống bên dưới bàn trang điểm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023813Z" creationid="LanHK" creationdate="20210508T023813Z">
+        <seg>[79127]     Hệ thống ống nước không được làm giảm không gian trống bên dưới vanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79130] Được lắp đặt trong phạm vi chiều cao từ 75cm (30in) đến 1,2m (4ft) so với mức sàn hoàn thiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T024025Z" creationid="LanHK" creationdate="20210508T024025Z">
+        <seg>[79130] lắp đặt trong phạm vi chiều cao từ 75cm (30in) đến 1,2m (4ft) trên mức sàn hoàn thiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79157]     Được lắp đặt trong các bức tường bên ngoài.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102652Z" creationid="LanHK" creationdate="20210428T102652Z">
@@ -18166,6 +18222,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125654Z" creationid="Kieu Lan" creationdate="20210423T125654Z">
         <seg>[886] Không được sử dụng radio làm nhạc nền.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89000] Phải cung cấp móc áo và thanh treo khăn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023910Z" creationid="LanHK" creationdate="20210508T023910Z">
+        <seg>[89000] Phải cung cấp móc treo áo khoác và thanh treo khăn.</seg>
       </tuv>
     </tu>
     <tu>
