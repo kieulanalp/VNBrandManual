@@ -16306,6 +16306,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58444]     Bề mặt trên cùng phải ở mức 81cm (2ft 8in) so với mức sàn đã hoàn thiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023725Z" creationid="LanHK" creationdate="20210508T023725Z">
+        <seg>[58444]     Mặt trên cùng phải ở mức 81cm (2ft 8in) so với mức sàn hoàn thiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58461]   Phải có một vòi trượt xịt tay điều chỉnh.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022952Z" creationid="LanHK" creationdate="20210508T022952Z">
