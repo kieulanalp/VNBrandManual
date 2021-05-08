@@ -3719,6 +3719,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External balcony lighting [58512]     Ánh sáng ban công bên ngoài</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014957Z" creationid="LanHK" creationdate="20210508T014957Z">
+        <seg>External balcony lighting [58512]     Đèn cho ban công</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External halyard is not permitted [79908]       Không cho phép dây kéo bên ngoài</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T113915Z" creationid="LanHK" creationdate="20210422T113915Z">
@@ -6920,6 +6928,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Room -&gt; Bathroom -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng của tôi -&gt; Phòng tắm -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015156Z" creationid="LanHK" creationdate="20210508T015156Z">
+        <seg>My Room -&gt; Bathroom -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng tắm -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Room -&gt; Bathroom Phòng của tôi -&gt; Phòng tắm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015026Z" creationid="LanHK" creationdate="20210508T015026Z">
+        <seg>My Room -&gt; Bathroom Phòng tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Room -&gt; Collateral / Stationery Phòng của tôi -&gt; Tài liệu quảng bá / Văn phòng phẩm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -9970,6 +9994,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toilet [984]     Nhà vệ sinh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015039Z" creationid="LanHK" creationdate="20210508T015039Z">
+        <seg>Toilet [984]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toilet cubicles must be provided, except in single occupancy facilities and meet the following: [88256] buồng vệ sinh phải được cung cấp, ngoại trừ trong các cơ sở tiện ích đơn lẻ và đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T032141Z" creationid="LanHK" creationdate="20210428T032141Z">
@@ -10466,6 +10498,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vanity with washbasin [983]       Bàn trang điểm với chậu rửa mặt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015049Z" creationid="LanHK" creationdate="20210508T015049Z">
+        <seg>Vanity with washbasin [983]       Vanity với chậu rửa mặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Variation agreed by / sign off documentation [338052]     Hồ sơ kí kết/ phê duyệt thay đổi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10756,8 +10796,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Where a balcony is accessible from the guest room, the following must be provided: [58508] Trường hợp có thể đến ban công từ phòng khách, phải cung cấp các thông tin sau:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T014849Z" creationid="LanHK" creationdate="20210508T014849Z">
-        <seg>Where a balcony is accessible from the guest room, the following must be provided: [58508] Trường hợp phòng khách nối ra ban công, phải cung cấp các thông tin sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014859Z" creationid="LanHK" creationdate="20210508T014849Z">
+        <seg>Where a balcony is accessible from the guest room, the following must be provided: [58508] Trường hợp phòng khách nối ra ban công, phải cung cấp các tính năng sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11414,6 +11454,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[112828]       Ly/cốc cà phê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113109]       Nhà tắm có vòi sen hoặc nhà tắm độc lập (có màn che vòi sen).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015112Z" creationid="LanHK" creationdate="20210508T015112Z">
+        <seg>[113109]       Nhà tắm có vòi sen hoặc bồn tắm (có vòi sen phía trên).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113110] Phòng kết nối đôi và KidSuites® phải có bồn tắm với màn che vòi hoa sen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015147Z" creationid="LanHK" creationdate="20210508T015147Z">
+        <seg>[113110] Phòng twin connecting và KidSuites® phải có bồn tắm với vòi hoa sen phía trên.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16070,6 +16126,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T100029Z" creationid="LanHK" creationdate="20210422T100029Z">
         <seg>[58412]    Yêu cầu có dốc lên vỉa hè tại các lối vào chính cho tất cả các tòa nhà khách có thể vào và gần tất cả các bãi đỗ xe cho người khuyết tật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58510]     Một công tắc ngắt điều hòa không khí.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014909Z" creationid="LanHK" creationdate="20210508T014909Z">
+        <seg>[58510]     Một công tắc ngắt điều hòa.</seg>
       </tuv>
     </tu>
     <tu>
