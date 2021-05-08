@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(a) City utility power Nguồn tiện ích thành phố</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T044055Z" creationid="LanHK" creationdate="20210504T044055Z">
+        <seg>(a) City utility power Nguồn điện thành phố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(a) Water cooled chiller: COP 5.54 for &gt;=150 to 300 TR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015906Z" creationid="LanHK" creationdate="20210504T015839Z">
+        <seg>(a) Water cooled chiller: COP 5.54 for &gt;=150 to 300 TR Với chiller bằng nước COP 5.54 đối với &gt;=150 tới 300 TR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) Air cooled chiller: COP &gt; 3.62 for &gt;=150 to 300 TR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015926Z" creationid="LanHK" creationdate="20210504T015846Z">
+        <seg>(b) Air cooled chiller: COP &gt; 3.62 for &gt;=150 to 300 TR Với chiller bằng khí COP &gt; 3.62 đối với &gt;=150 tới 300 TR </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) Generator power (for islands and remote resorts) Nguồn máy phát (đối với đảo và khu nghỉ dưỡng xa)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T044121Z" creationid="LanHK" creationdate="20210504T044121Z">
+        <seg>(b) Generator power (for islands and remote resorts) Điện máy phát (đối với resort trên đảo và ở vùng hẻo lánh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) Guestrooms and corridors to achieve 23 degrees Celsius range and Relative Humidity of 60% range.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015252Z" creationid="LanHK" creationdate="20210504T015252Z">
+        <seg>(b) Guestrooms and corridors to achieve 23 degrees Celsius range and Relative Humidity of 60% range. Phòng khách và hành lang duy trì nhiệt độ trong khoảng 23C và độ ẩm tương đối trong khoảng 60%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(c) On site water treatment plant *Ultra-Violet (UV) bacteria, Multi-media filter, and Carbon filter water treatment system are installed after the storage tank and before any point-of-use.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T023926Z" creationid="LanHK" creationdate="20210504T023529Z">
+        <seg>(c) On site water treatment plant Máy xử lý nước tại chỗ *Ultra-Violet (UV) bacteria, Multi-media filter, and Carbon filter water treatment system are installed after the storage tank and before any point-of-use. Tia cực tím (UV), lọc nước đa vật liệu, và hệ thống lọc nước carbon được lắp đặt sau bể chứa và trước bất cứ điểm sử dụng nước nào </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(c) VRF: COP 3.22 for &gt;= 19 to &lt;40 kW 13 Water</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T020412Z" creationid="LanHK" creationdate="20210504T020032Z">
+        <seg>(c) VRF: COP 3.22 for &gt;= 19 to &lt;40 kW 13 Water VRF: COP &gt; 3.22 đối với &gt;=19 tới &lt;40kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(d) Electrical outlet in the following areas must be protected by Ground Fault Circuit Interrupters (GFCI) / Residual Current Devices (RCD) in the form of circuit breakers or protected outlets:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042704Z" creationid="LanHK" creationdate="20210504T042704Z">
+        <seg>(d) Electrical outlet in the following areas must be protected by Ground Fault Circuit Interrupters (GFCI) / Residual Current Devices (RCD) in the form of circuit breakers or protected outlets: Ổ điện tại các khu sau phải được bảo vệ bởi thiết bị ngắt mặt nối đất theo hình thức cầu dao hoặc ổ cắm được bảo vệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- A minimum handling capacity of 10% based on 100% occupancy over a five-minute period</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T050102Z" creationid="LanHK" creationdate="20210504T050102Z">
+        <seg>- A minimum handling capacity of 10% based on 100% occupancy over a five-minute period. Khả năng vận tải tối thiểu 10% trên cơ sở 100% công suất phòng trong khoảng thời gian 5 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- A minimum of two drains are required in all Swimming Pools and Hot Tubs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032336Z" creationid="LanHK" creationdate="20210504T032324Z">
+        <seg>- A minimum of two drains are required in all Swimming Pools and Hot Tubs. Tất cả các bể bơi/bể nước nóng yêu cầu có tối thiểu hai ga thoát nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- For children pool, it shall be designed to 2 hours turnover rate - for tropical/semi-tropical.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032048Z" creationid="LanHK" creationdate="20210504T032048Z">
+        <seg>- For children pool, it shall be designed to 2 hours turnover rate - for tropical/semi-tropical. Đối với bể trẻ em, thời gian lọc tuần hoàn 2 giờ - đối với khu vực nhiệt đới/cận nhiệt đới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- For swimming pools, it shall be designed 6 hours turnover rate - for tropical/semi-tropical.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032025Z" creationid="LanHK" creationdate="20210504T032025Z">
+        <seg>- For swimming pools, it shall be designed 6 hours turnover rate - for tropical/semi-tropical. Đối với bể bơi, thời gian lọc tuần hoàn 6 giờ - đối với khu vực nhiệt đới/cận nhiệt đới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- For temperate and indoor pools, it shall be designed to 8 hours turnover rate.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032238Z" creationid="LanHK" creationdate="20210504T032238Z">
+        <seg>- For temperate and indoor pools, it shall be designed to 8 hours turnover rate. Đối với bể nước ấm hoặc bể trong nhà, thời gian lọc tuần hoàn 8 giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Waiting interval must be a maximum of 40 seconds.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T045859Z" creationid="LanHK" creationdate="20210504T045859Z">
+        <seg>- Waiting interval must be a maximum of 40 seconds. Thời gian đợi tối đa 40s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Anti-entrapment drain covers are required in all Swimming Pools and Hot Tub with a single drain</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032403Z" creationid="LanHK" creationdate="20210504T032403Z">
+        <seg>-Anti-entrapment drain covers are required in all Swimming Pools and Hot Tub with a single drain. Trong tất cả các bể bơi/bể nước nóng có một ga thoát nước, yêu cầu có nắp chống mắc kẹt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-For existing buildings, owner to provide pictorial condition report of MEP equipment, (includes but not limited to generator, sprinkler pumps, switchboards, AC Chillers, etc), which comprises the age, working condition, running hours, last major overhaul/maintenance, maintenance frequency/records, and next 01-year future maintenance plans.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T065034Z" creationid="LanHK" creationdate="20210504T064543Z">
+        <seg>For existing buildings, owner to provide pictorial condition report of MEP equipment, (includes but not limited to generator, sprinkler pumps, switchboards, AC Chillers, etc), which comprises the age, working condition, running hours, last major overhaul/maintenance, maintenance frequency/records, and next 01-year future maintenance plans.Đối với các tòa nhà hiện có, chủ đầu tư cần cung cấp báo cáo hình ảnh về thiết bị MEP (Bao gồm nhưng không giới hạn ở máy phát, bơm sprinkler, tủ điện, AC Chiller, etc.), gồm thông tin về tuổi đời, tình trạng hoạt động, số giờ vận hành, lần thay mới/bảo trì lớn gần nhất, tài liệu lưu trữ về bảo trì/tần suất bảo trì, và kế hoạch bảo trì cho 1 năm tiếp theo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A generator is required to operate the loads with sufficient fuel storage for 48-hours continuous use full load operation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T045149Z" creationid="LanHK" creationdate="20210504T045138Z">
+        <seg>A generator is required to operate the loads with sufficient fuel storage for 48-hours continuous use full load operation Yêu cầu có máy phát điện đảm bảo đủ nhiên liệu phát điện ở mức công suất tối đa trong 48h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All guestrooms lighting circuiting are generally arranged as below: Để xác nhận tất cả các phòng mạch chiếu sáng được sắp xếp chung như bên dưới:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041342Z" creationid="LanHK" creationdate="20210504T041342Z">
+        <seg>All guestrooms lighting circuiting are generally arranged as below: Tất cả các mạch chiếu sáng phòng khách thường được bố trí như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ban công phòng khách được lắp đặt với công tắc từ reed switch để ngắt điều hòa trong 10 giây mở cửa ban công.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014955Z" creationid="LanHK" creationdate="20210504T014955Z">
+        <seg>Ban công phòng khách được lắp đặt cảm biến từ reed switch để ngắt điều hòa trong 10 giây sau khi mở cửa ban công.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basement Sumps Bể nền</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T040833Z" creationid="LanHK" creationdate="20210504T040833Z">
+        <seg>Basement Sumps Bể phốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCTV được cấp để giám sát lối vào/ lối ra phương tiện, sảnh chính, các phòng hành lí, các sảnh thang máy cho khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T043109Z" creationid="LanHK" creationdate="20210504T043109Z">
+        <seg>Cung cấp CCTV giám sát lối vào/ lối ra cho phương tiện, lobby chính, các phòng gửi hành lí, các sảnh thang máy khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCTVs nên được giám sát trong văn phòng an ninh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T043119Z" creationid="LanHK" creationdate="20210504T043119Z">
+        <seg>CCTVs nên được giám sát trong phòng an ninh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chiếu sáng khu vực làm việc đạt được tối thiểu 300 lux.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041514Z" creationid="LanHK" creationdate="20210504T041514Z">
+        <seg>Chiếu sáng khu làm việc tối thiểu 300 lux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các bể bơi, thể hình, khu vực spa lần lượt được cấp 1 điện thoại khẩn cấp kết nối với một vị trí quản lý vĩnh viễn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042319Z" creationid="LanHK" creationdate="20210504T042319Z">
+        <seg>Mỗi khu bể bơi, gym, spa được có 1 điện thoại khẩn cấp kết nối với một vị trí luôn có nhân viên trực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các công tắc chiếu sáng đọc trên khu vực nghỉ ngơi/ giường ngủ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041719Z" creationid="LanHK" creationdate="20210504T041719Z">
+        <seg>Tất cả phòng khách có công tắc đèn đọc sách tại khu vực nghỉ ngơi/ giường ngủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các hệ thống điều hòa phòng khách là loại trung tâm (tức là loại luồng lạnh thay đổi, hoặc loại nước làm lạnh trung tâm).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014727Z" creationid="LanHK" creationdate="20210504T014727Z">
+        <seg>Các hệ thống điều hòa phòng khách là hệ điều hòa trung tâm (tức là loại VRF, hoặc loại làm lạnh trung tâm bằng nước).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các khu vực mở nên tối thiểu 10% khu vực phục vụ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015457Z" creationid="LanHK" creationdate="20210504T015457Z">
+        <seg>Các khoảng mở nên chiếm tối thiểu 10% khu vực phục vụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các khóa điện từ được cấp để đảm bảo khách của khách sạn không thể vào các khu vực cho nhân viên khách sạn một cách tự do.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T043923Z" creationid="LanHK" creationdate="20210504T043923Z">
+        <seg>Các khóa điện từ được cấp để đảm bảo khách không thể tự do ra vào các khu vực cho nhân viên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng khách cung cấp 30 lít nước nóng lưu trữ tại 60 độ C, hoàn thiện với máy làm nóng (hoặc bơm nóng) thiết kế để phục hồi trong 2 giờ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031554Z" creationid="LanHK" creationdate="20210504T031554Z">
+        <seg>Các phòng khách trữ 30 lít nước nóng ở nhiệt độ 60 độ C, hoàn thiện với bình nước nóng (hoặc bơm nóng) có kích thước phù hợp để bù lại nước trong 2 giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng khách được cung cấp không khí ngoài trời điều hòa trước 90m3/hr và hút nhà vệ sinh 85m3/hr</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014245Z" creationid="LanHK" creationdate="20210504T014204Z">
+        <seg>Các phòng khách được cung cấp khí điều hòa 90m3/hr và thông gió nhà vệ sinh 85m3/hr. *Tối thiểu 0.06 cfm/sf HOẶC 5 cfm/người</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng máy IT được cung cấp với các hệ thống điều hòa độc lập trong bộ sắp xếp làm việc dự phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015803Z" creationid="LanHK" creationdate="20210504T015803Z">
+        <seg>Các phòng máy IT được cung cấp với các hệ thống điều hòa độc lập để dự phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các phòng máy MEP như buồng tổng đài, máy phát, các phòng bơm chữa cháy, tất cả được đặt trên mức sàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T061949Z" creationid="LanHK" creationdate="20210504T061949Z">
+        <seg>Các phòng máy MEP như phòng tủ điện, máy phát, các phòng bơm chữa cháy, tất cả được bố trí cao hơn mức mặt đất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các thang máy được cấp Thiết Bị Cứu Hộ Tự Động (ARD) và Các Thang máy có thể dẫn đến tầng gần nhất sau khi mất điện hoặc đến tầng 1 trong trường hợp bất kì kích hoạt báo động cháy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T050154Z" creationid="LanHK" creationdate="20210504T050154Z">
+        <seg>Các thang máy được cấp Thiết Bị Cứu Hộ Tự Động (ARD) và các thang máy có thể dẫn hướng đến tầng gần nhất sau khi mất điện hoặc đến tầng 1 trong trường hợp kích hoạt bất kì báo động cháy nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các thang máy được cấp với hệ thống thông tin nội bộ thang máy và một báo động được giám sát tại vị trí giám sát vĩnh viễn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T061312Z" creationid="LanHK" creationdate="20210504T061312Z">
+        <seg>Các thang máy có bố trí intercom và một báo động được giám sát tại một vị trí luôn có người trực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cấp tiện ích thành phố.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T022235Z" creationid="LanHK" creationdate="20210504T022235Z">
+        <seg>Cấp nước thành phố.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014113Z" creationid="LanHK" creationdate="20210504T014113Z">
+        <seg>Hạng mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153653Z" creationid="Kieu Lan" creationdate="20210405T153653Z">
+        <seg>Electrical Điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical – Extra Low Voltage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042924Z" creationid="LanHK" creationdate="20210504T042924Z">
+        <seg>Extra Low Voltage Hệ thống điện nhẹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical – Extra Low Voltage Điện áp cực thấp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042937Z" creationid="LanHK" creationdate="20210504T042937Z">
+        <seg>Electrical – Extra Low Voltage Hệ thống điện nhẹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevator traffic analysis has been carried out to confirm that the elevator waiting time must be under 35 seconds, with handling capacity no less than 17% of the expected guest population over a 5 minute period.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T061633Z" creationid="LanHK" creationdate="20210504T061540Z">
+        <seg>Elevator traffic analysis has been carried out to confirm that the elevator waiting time must be under 35 seconds, with handling capacity no less than 17% of the expected guest population over a 5 minute period. Đã thực hiện phân tích đánh giá lưu thông thang máy để xác định thời gian đợi thang máy dưới 35 giây, với hả năng vận tải tối thiểu 17% trên số lượng khách dự kiến trong khoảng thời gian 5 phút.&lt;segment 0216 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elevators are provided with secondary homing features such that any activation of smoke detector/manual call points on the designated homing floor (e.g. 1st storey/street level), the Elevators will home to the next designated homing floor.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T060946Z" creationid="LanHK" creationdate="20210504T060946Z">
+        <seg>Elevators are provided with secondary homing features such that any activation of smoke detector/manual call points on the designated homing floor (e.g. 1st storey/street level), the Elevators will home to the next designated homing floor. Thang máy có tính năng dẫn hướng phụ để đảm bảo khi kích hoạt bất kỳ đầu báo khói/nút báo cháy nào tại tầng được chỉ định (vd. tầng 1 hoặc tầng dẫn ra mặt đường), cabin thang máy sẽ dẫn hướng về một tầng được chỉ định khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For buildings with mixed occupancies, Owner to confirm if an evacuation plan will be put in place by the MCST/or owner team to manage these non-hotel (common) areas</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T064052Z" creationid="LanHK" creationdate="20210504T064042Z">
+        <seg>For buildings with mixed occupancies, Owner to confirm if an evacuation plan will be put in place by the MCST/or owner team to manage these non-hotel (common) areas. Đối với các tòa nhà tổ hợp, Chủ đầu tư xác nhận liệu có kế hoạch sơ tán bởi đơn vị vận hành hoặc chủ đầu tư dành cho các khu không-phải-khách-sạn (khu vực chung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For properties in earthquake-prone areas, to confirm that the design of the building fully complies with the earthquake resistance requirements of the local city.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T064135Z" creationid="LanHK" creationdate="20210504T064135Z">
+        <seg>For properties in earthquake-prone areas, to confirm that the design of the building fully complies with the earthquake resistance requirements of the local city. Đối với các khách sạn trong khu vực thường có động đất, cần xác nhận thiết kế tòa nhà hoàn toàn tuân thủ các tiêu chuẩn chống động đất của địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For systems that are past end-of-useful life, a full due-diligence audit of MEP systems is required to be conducted by competent in-house Chief Engineer or 3rd party MEP consultant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T065154Z" creationid="LanHK" creationdate="20210504T064539Z">
+        <seg>For systems that are past end-of-useful life, a full due-diligence audit of MEP systems is required to be conducted by competent in-house Chief Engineer or 3rd party MEP consultant. Đối với các hệ thống đã quá thời gian sử dụng hữu ích, cần có một cuộc thẩm định chi tiết hệ thống MEP tiến hành bởi Kỹ sư trưởng nội bộ có trình độ hoặc đơn vị tư vấn MEP thứ ba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T063308Z" creationid="LanHK" creationdate="20210405T091918Z">
+        <seg>General Chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GeneralChung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T062059Z" creationid="LanHK" creationdate="20210504T062059Z">
+        <seg>General Chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generator support is essential to fire man lift</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T050228Z" creationid="LanHK" creationdate="20210504T050228Z">
+        <seg>Generator support is essential to fire man lift. Bắt buộc phải có máy phát dự phòng phục vụ thang máy cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guestroom supply air grilles are double deflection louvres.Lưới cung cấp không khí phòng khách là cửa đôi thông khí đổi hướng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014908Z" creationid="LanHK" creationdate="20210504T014908Z">
+        <seg>Guestroom supply air grilles are double deflection louvres. Lưới cung cấp không khí phòng khách là cửa đôi thông khí đổi hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HVAC các phòng khách được thiết kế để làm nóng và làm lạnh đồng thời (tức là một phòng làm nóng, một phòng làm lạnh).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014319Z" creationid="LanHK" creationdate="20210504T014313Z">
+        <seg>HVAC trong phòng khách được thiết kế để làm nóng và làm mát đồng thời (tức là một phòng làm nóng, một phòng làm mát).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hút nhà vệ sinh cấp trong phòng tắm và khu vực vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014759Z" creationid="LanHK" creationdate="20210504T014759Z">
+        <seg>Hút nhà vệ sinh phải cung cấp trong phòng tắm và khu vực vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hút nhà vệ sinh phòng khách là loại trung tâm và không quạt hút phòng vệ sinh cá nhân mỗi phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014752Z" creationid="LanHK" creationdate="20210504T014752Z">
+        <seg>Hút nhà vệ sinh phòng khách là loại trung tâm chứ không phải quạt hút đơn cho mỗi phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hệ thống nước nóng và vòi lắp đặt có thể giới hạn nhiệt độ nước nóng không quá 52 độ C tại bất kì điểm sử dụng nào.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031708Z" creationid="LanHK" creationdate="20210504T031708Z">
+        <seg>Hệ thống nước nóng - Vòi nước có thể giới hạn nhiệt độ nước nóng không quá 52 độ C tại bất kì điểm sử dụng nào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IHG – Checklist Sơ Bộ về Các Dịch Vụ M&amp;E</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014118Z" creationid="LanHK" creationdate="20210504T014118Z">
+        <seg>IHG – Checklist Sơ Bộ về Các Hạng mục M&amp;E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT computer room power supply is on 100% generator standby and comes with dedicated Uninterrupted Power Supply (UPS) to equipment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T045802Z" creationid="LanHK" creationdate="20210504T045728Z">
+        <seg>IT computer room power supply is on 100% generator standby and comes with dedicated Uninterrupted Power Supply (UPS) to equipment. Nguồn điện cho phòng máy IT có dự phòng 100% bằng máy phát điện và được lắp nguồn cấp điện liên tục (UPS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khu vực BOH và FOH của khách sạn (ví dụ các văn phòng quản lý, bếp, các phòng thay đồ cho nhân viên, các nhà vệ sinh thông thường) được cung cấp với điều hòa và khí ngoài trời để duy trì nhiệt độ khoảng 24 độ C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015153Z" creationid="LanHK" creationdate="20210504T015153Z">
+        <seg>Khu BOH và FOH của khách sạn (ví dụ các văn phòng quản lý, bếp, các phòng thay đồ cho nhân viên, toilet công cộng) được cung cấp khí trời và điều hòa để duy trì nhiệt độ khoảng 24 độ C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen Drainage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T033820Z" creationid="LanHK" creationdate="20210504T033820Z">
+        <seg>Kitchen Drainage Thoát nước bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kitchen exhaust systems are Các hệ thống hút bếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015542Z" creationid="LanHK" creationdate="20210504T015542Z">
+        <seg>Kitchen exhaust systems are Hệ chụp hút mùi bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luôn dự trữ nước để chữa cháy tối thiểu 156m3</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031728Z" creationid="LanHK" creationdate="20210504T031728Z">
+        <seg>Luôn dự trữ nước cứu hỏa tối thiểu 156m3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mặt khác, nên thêm các điểm truy cập bổ sung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042228Z" creationid="LanHK" creationdate="20210504T042228Z">
+        <seg>Nếu không, cần bổ sung thêm điểm truy cập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nhà tắm/ tủ nhỏ walk in và ban công có mạch chiếu sáng tách biệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041417Z" creationid="LanHK" creationdate="20210504T041417Z">
+        <seg>Nhà tắm/ tủ walk in và ban công có mạch chiếu sáng tách biệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Where power failures are historically extended and fuel supplies are unreliable, storage capacity must be increased up to 7 days continuous full load operation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T045247Z" creationid="LanHK" creationdate="20210504T045247Z">
+        <seg>Note: Where power failures are historically extended and fuel supplies are unreliable, storage capacity must be increased up to 7 days continuous full load operation. Lưu ý: Ở những nơi thường có mất điện kéo dài và nguồn cung cấp nhiên liệu không đảm bảo, lượng dự trữ phải lên đến 7 ngày liên tục vận hành hết công suất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nên có thông gió chéo và chiều sâu của không gian thông gió tự nhiên nên không quá 5 lần chiều cao mở.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015334Z" creationid="LanHK" creationdate="20210504T015334Z">
+        <seg>Nên có thông gió chéo và chiều sâu của không gian thông gió tự nhiên không nên quá 5 lần chiều cao các khoảng mở.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nếu mức đó thấp hơn mức đường, nên cung cấp các biện pháp chống lũ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T062055Z" creationid="LanHK" creationdate="20210504T062055Z">
+        <seg>Nếu tầng đó ở thấp hơn mức mặt đường, phải cung cấp các biện pháp chống lũ lụt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On site sewerage treatment plant Máy xử lý nước thải tại chỗ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T040629Z" creationid="LanHK" creationdate="20210504T040629Z">
+        <seg>On site sewerage treatment plant Hệ thống xử lý nước thải tại chỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng khách có hệ thống quản lý phòng khách (tức là bộ điều khiển phòng), hoàn thiện với bộ điều chỉnh nhiệt phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014853Z" creationid="LanHK" creationdate="20210504T014830Z">
+        <seg>Phòng khách có bộ điều khiển, hoàn thiện với bộ điều chỉnh nhiệt độ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phòng khách và tất cả khu vực khách sạn được cấp mạng internet không dây tối thiểu tín hiệu -65dB.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042214Z" creationid="LanHK" creationdate="20210504T042214Z">
+        <seg>Phòng khách và tất cả khu vực khách sạn được cấp mạng không dây với độ mạnh tín hiệu tối thiểu -65dB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210405T095459Z" creationid="LanHK" creationdate="20210405T095459Z">
+        <seg>Pool Bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sanitary Drainage</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032543Z" creationid="LanHK" creationdate="20210504T032533Z">
+        <seg>Sanitary Drainage Thoát nước vệ sinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sewage Disposal</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154718Z" creationid="Kieu Lan" creationdate="20210405T154718Z">
+        <seg>Sewage Disposal Xử lý nước thải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable means of isolation of MEP services to the rooms are provided such as to allow localised maintenance to be carried out without affecting other guestrooms (e.g. isolation valves for all cold and hot water supply pipes to the guestrooms, circuit breakers / dedicated distribution boards to each guestroom) Các phương tiện phù hợp tách biệt các dịch vụ MEP đến phòng được cấp như cho phép bảo trì địa phương được thực hiện mà không gây ảnh hưởng phòng khách khác (ví dụ các van tách biệt cho tất cả các ống cấp nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T063301Z" creationid="LanHK" creationdate="20210504T063301Z">
+        <seg>Suitable means of isolation of MEP services to the rooms are provided such as to allow localised maintenance to be carried out without affecting other guestrooms (e.g. isolation valves for all cold and hot water supply pipes to the guestrooms, circuit breakers / dedicated distribution boards to each guestroom) Các phương tiện phù hợp để tách biệt các dịch vụ MEP đến phòng khách nhằm tạo điều kiện cho bảo trì cục bộ mà không gây ảnh hưởng đến các phòng khách khác (ví dụ các van khóa cho tất cả các ống cấp nước nóng/lạnh tới phòng khách, ngắt mạch/bảng điện riêng cho mỗi phòng khách)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There should be physical separation of systems between hotels and non- hotels</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T063823Z" creationid="LanHK" creationdate="20210504T063500Z">
+        <seg>There should be physical separation of systems between hotels and non-hotels. Đối với các tòa nhà tổ hợp, cần cung cấp chi tiết về việc hệ thống MEP được chia sẻ và phân chia như thế nào giữa khu khách sạn và khu không-phải-khách-sạn. Giữa 2 khu cần phân biệt về mặt vật lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiếng ồn từ dây quạt không vượt quá 32dBA khi đo ở nhiệt độ trung bình tại đầu giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015019Z" creationid="LanHK" creationdate="20210504T015019Z">
+        <seg>Tiếng ồn từ cuộn dây quạt không vượt quá 32dBA khi đo ở  tốc độ trung bình tại đầu giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To comply to IHG Back-of-House MEP requirements</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T064440Z" creationid="LanHK" creationdate="20210504T064440Z">
+        <seg>To comply to IHG Back-of-House MEP requirements. Tuân thủ các yêu cầu MEP khu BOH IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To comply to IHG Fire Life Safety Checklist.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T064240Z" creationid="LanHK" creationdate="20210504T064240Z">
+        <seg>To comply to IHG Fire Life Safety Checklist. Phải tuân thủ Checklist An toàn PCCC IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To confirm on amount of domestic water storage available Để xác nhận lượng lưu trữ nước sinh hoạt có sẵn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T023936Z" creationid="LanHK" creationdate="20210504T023936Z">
+        <seg>To confirm on amount of domestic water storage available Phải xác nhận lượng lưu trữ nước sinh hoạt có sẵn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To confirm on the type of sewage disposal adopted Để xác nhận loại tách bỏ nước thải</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T035849Z" creationid="LanHK" creationdate="20210504T035849Z">
+        <seg>To confirm on the type of sewage disposal adopted Phải xác nhận phương pháp xử lý nước thải định sử dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To confirm that panel locations for MEP systems are in accordance with IHG engineering design guidelines</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T064217Z" creationid="LanHK" creationdate="20210504T064217Z">
+        <seg>To confirm that panel locations for MEP systems are in accordance with IHG engineering design guidelines. Phải xác nhận liệu vị trí các panel cho hệ thống MEP đã tuân thủ Hướng dẫn thiết kế Kỹ thuật IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To confirm that Để xác nhận:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042051Z" creationid="LanHK" creationdate="20210504T042051Z">
+        <seg>To confirm that Phải xác nhận:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To confirm that: Để xác nhận xem:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042948Z" creationid="LanHK" creationdate="20210504T042948Z">
+        <seg>To confirm that Phải xác nhận:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To confirm the reliability of power supply and source of power Để xác nhận độ tin cậy cấp điện và nguồn điện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T044048Z" creationid="LanHK" creationdate="20210504T043930Z">
+        <seg>To confirm the reliability of power supply and source of power Phải xác nhận độ tin cậy của nguồn điện và nhà cung cấp điện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To provide Air Conditioning plant efficiency reports:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015828Z" creationid="LanHK" creationdate="20210504T015828Z">
+        <seg>To provide Air Conditioning plant efficiency reports: Phải xuất trình báo cáo Hiệu suất các máy điều hòa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To provide information as per IHG IT Checklist.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T064256Z" creationid="LanHK" creationdate="20210504T064256Z">
+        <seg>To provide information as per IHG IT Checklist. Cần cung cấp thông tin theo như Checklist IT IHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Transport</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T045813Z" creationid="LanHK" creationdate="20210504T045813Z">
+        <seg>Vertical Transport Vận chuyển chiều dọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where reliability of power is 99.98% + (&lt; than 01 hour per year, based on last 05 years), fuel storage capacity can be reduced to 8 hours, subject to IHG approval.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T045342Z" creationid="LanHK" creationdate="20210504T045342Z">
+        <seg>Where reliability of power is 99.98% + (&lt; than 01 hour per year, based on last 05 years), fuel storage capacity can be reduced to 8 hours, subject to IHG approval. Ở những nơi độ đáng tin về điện là 99.98% (&lt;1h/năm, dựa trên 5 năm gần nhất), lượng dự trữ nhiên liệu có thể giảm xuống 8h, cần IHG phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xác nhận xem tất cả bể trữ nước là loại hai ngăn và cung cấp với các phương tiện truy cập phù hợp để bảo trì và làm sạch.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031758Z" creationid="LanHK" creationdate="20210504T031758Z">
+        <seg>Tất cả bể trữ nước là loại hai ngăn và được cung cấp các lối truy cập phù hợp để bảo trì và làm sạch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes / No Có/kh ông</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T014126Z" creationid="LanHK" creationdate="20210504T014126Z">
+        <seg>Yes / No Có/Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not installed with any fire dampers Không được lắp đặt với bất kỹ bộ chặn lửa nào;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015606Z" creationid="LanHK" creationdate="20210504T015603Z">
+        <seg>not installed with any fire dampers Không được lắp bất kỳ hệ thống chữa cháy nào:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>provided with air cleaner device before discharge out cung cấp với thiết bị làm sạch không khí trước khi thải ra</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015644Z" creationid="LanHK" creationdate="20210504T015644Z">
+        <seg>provided with air cleaner device before discharge out Cung cấp cơ chế làm sạch không khí trước khi thải ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>provided with steel ducts and insulation cung cấp với ống thép và cách điện</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T015632Z" creationid="LanHK" creationdate="20210504T015627Z">
+        <seg>provided with steel ducts and insulation Sử dụng đường ống thép và cách điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>trừ phòng tắm, ban công, đèn đọc sách, đèn đêm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041408Z" creationid="LanHK" creationdate="20210504T041404Z">
+        <seg>Công tắc tổng để tắt tất cả các đèn trừ đèn phòng tắm, ban công, đèn đọc sách, đèn ngủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Điện thoại được ưu tiên cho loại IP.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042109Z" creationid="LanHK" creationdate="20210504T042109Z">
+        <seg>Ưu tiên điện thoại IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận cho tất cả các mức tòa nhà thấp hơn mức đường bên ngoài, mức đọ được cấp với bơm hút nước bể dự phòng hoàn thiện với bộ cảm biến mức độ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041105Z" creationid="LanHK" creationdate="20210504T041105Z">
+        <seg>Đối với tất cả các tầng nhà thấp hơn mặt đường, phải cung cấp bơm hút bể phốt dự phòng hoàn thiện với kiểm soát mực nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận các mạch chiếu sáng phòng khách được kết nối với hệ thống quản lý phòng khách (tức là thiết bị điều khiển phòng) mà việc loại bỏ thẻ khóa (hoặc sau khi phát hiện không người), sẽ ngắt chiếu sáng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041905Z" creationid="LanHK" creationdate="20210504T041905Z">
+        <seg>Phải xác nhận các mạch chiếu sáng phòng khách được kết nối với bộ điều khiển phòng, để khi rút thẻ khóa (hoặc sau khi phát hiện phòng không người), chiếu sáng sẽ ngắt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận phần trăm có sẵn của cấp tiện ích.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T023438Z" creationid="LanHK" creationdate="20210504T023438Z">
+        <seg>Phải xác nhận mức cung cấp %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận tất cả các ống thoát trong nhà vệ sinh phòng khách hoàn thiện với một ống chữ u trước khí kết nối với ống đứng hơi, để ngăn chặn bất kì mùi hôi trở lại nhà vệ sinh phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T033812Z" creationid="LanHK" creationdate="20210504T033812Z">
+        <seg>Tất cả các ống thoát trong nhà vệ sinh phòng khách hoàn thiện với một ống chữ u trước khí kết nối với ống thoát đứng, để ngăn chặn mùi hôi trở lại nhà vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận tất cả nhà bếp được cung cấp với thiết bị tách dầu mỡ dọc đường dịch vụ, trước khi bất kì kết nối đến máy xử lý rác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T035453Z" creationid="LanHK" creationdate="20210504T033956Z">
+        <seg>Tất cả nhà bếp được cung cấp bể tách mỡ dọc đường ống dịch vụ, trước khi bất kì kết nối đến máy xử lý nước thải nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận xem các ống thoát chất thải trong phòng khách là loại gang hay loại nhựa (ví dụ UPVC) với cách điện để bất kì tiếng ồn sẽ không vượt quá 32dBA khi đo ở đầu giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T032524Z" creationid="LanHK" creationdate="20210504T032524Z">
+        <seg>Các ống thoát chất thải trong phòng khách là loại gang hoặc nhựa (ví dụ UPVC) với cách âm để đảm bảo tiếng ồn không vượt quá 32dBA khi đo ở đầu giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Để xác nhận xem tất cả phòng khách được cấploại ổcắm quốc tế số 1 tại mỗi bên giường, và có một số ổ điện có sẵn tại mức thấp (ưu tiên cần khu vực tiền sảnh) cho việc sử dụng buồng phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T041229Z" creationid="LanHK" creationdate="20210504T041229Z">
+        <seg>Tất cả phòng khách được cấp 1 ổ cắm quốc tế tại mỗi bên giường, và có một ổ điện ở tầm thấp (ưu tiên gần khu vực tiền sảnh) cho để phục vụ housekeeping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các bể bơi cho công cộng, CCTV được cấp quanh bể bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T043842Z" creationid="LanHK" creationdate="20210504T043842Z">
+        <seg>Đối với các bể bơi phục vụ cả công chúng, CCTV được bố trí quanh bể bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các resort trên đảo xa, tối thiểu 1000 lít nước lưu trữ mỗi phòng, tối thiểu 2 ngày.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031443Z" creationid="LanHK" creationdate="20210504T031443Z">
+        <seg>Đối với các resort trên đảo xa, trữ tối thiểu 1000 lít nước mỗi phòng, tối thiểu 2 ngày.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các resort, tối thiểu 1000 lít nước lưu trữ mỗi phòng, tối thiểu 1 ngày.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031436Z" creationid="LanHK" creationdate="20210504T031436Z">
+        <seg>Đối với các resort, trữ tối thiểu 1000 lít nước mỗi phòng, tối thiểu 1 ngày.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các tòa nhà đô thị chỉ với giặt là valet, tối thiểu 750 lít nước lưu trữ mỗi phòng, cho thời hạn tối thiểu 1 ngày.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031243Z" creationid="LanHK" creationdate="20210504T031205Z">
+        <seg>Đối với các khách sạn nội thành chỉ có dịch vụ giặt là valet, trữ tối thiểu 750 lít nước mỗi phòng, thời hạn tối thiểu 1 ngày.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đối với các tòa nhà đô thị với đầy đủ giặt là, tối thiểu 850 lít nước lữu trữ mỗi phòng, cho thời hạn tối thiểu 1 ngày.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T031300Z" creationid="LanHK" creationdate="20210504T031226Z">
+        <seg>Đối với các khách sạn nội thành có dịch vụ giặt là đầy đủ, trữ tối thiểu 850 lít nước mỗi phòng, thời hạn tối thiểu 1 ngày.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Electrical outlets in recreational areas within 12m (40ft) of the edge of a swimming pool.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042726Z" creationid="LanHK" creationdate="20210504T042726Z">
+        <seg>• Electrical outlets in recreational areas within 12m (40ft) of the edge of a swimming pool. ổ cắm trong khu giải trí trong vòng 12m từ mép hồ bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Exterior electrical outlets exposed to the weather elements or that are within 6m (20ft) of an external water source.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042750Z" creationid="LanHK" creationdate="20210504T042750Z">
+        <seg>• Exterior electrical outlets exposed to the weather elements or that are within 6m (20ft) of an external water source.  ổ cắm điện ngoài trời tiếp xúc với các yếu tố thời tiết hoặc trong phạm vi 6m từ nguồn nước ngoài trời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Ground Fault Circuit Interrupters (GFCI) / Residual Current Devices (RCD), in the form of circuit breakers or protected outlets, are required in interior areas within 1m (3ft) of a water source</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042901Z" creationid="LanHK" creationdate="20210504T042901Z">
+        <seg>• Ground Fault Circuit Interrupters (GFCI) / Residual Current Devices (RCD), in the form of circuit breakers or protected outlets, are required in interior areas within 1m (3ft) of a water source. Thiết bị ngắt mặt nối đất theo hình thức cầu dao hoặc ổ cắm được bảo vệ được yêu cầu trong bán kính 1m của các nguồn nước trong nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Under water Swimming Pool lighting other than low voltage (&lt;50V) lighting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210504T042740Z" creationid="LanHK" creationdate="20210504T042740Z">
+        <seg>• Under water Swimming Pool lighting other than low voltage (&lt;50V) lighting. Chiếu sáng Bể bơi dưới nước mà không phải đèn điện áp thấp (&lt;50V)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

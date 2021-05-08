@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 PABX, 1 direct &lt;t0/&gt;1 PABX, 1 trực tiếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085639Z" creationid="LanHK" creationdate="20210429T085639Z">
+        <seg>1 PABX, 1 direct &lt;t0/&gt;1 máy PABX, 1 máy trực tiếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Bất kỳ sai lệch nào so với các yêu cầu hoặc xung đột của IHG phải được báo cáo để xem xét và phê duyệt IHG trước khi thực hiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063149Z" creationid="LanHK" creationdate="20210429T063143Z">
+        <seg>&lt;t0/&gt;Bất kỳ sai lệch nào so với các yêu cầu của IHG hoặc xung đột phải được báo cáo để xem xét và phê duyệt bởi IHG trước khi triển khai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Thông tin được cung cấp ở đây phải được tuân thủ theo yêu cầu tối thiểu và được xem xét kết hợp với Tiêu chuẩn thương hiệu IHG, Nguyên tắc thiết kế kỹ thuật, Nguyên tắc công nghệ và các quy định và tiêu chuẩn quốc tế / địa phương hiện hành.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063121Z" creationid="LanHK" creationdate="20210429T063121Z">
+        <seg>&lt;t0/&gt;Thông tin được cung cấp ở đây phải được lấy làm yêu cầu tối thiểu và được xem xét kết hợp với Tiêu chuẩn thương hiệu IHG, Nguyên tắc Thiết kế Kỹ thuật, Nguyên tắc Công nghệ và các quy định và tiêu chuẩn quốc tế / địa phương hiện hành.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Tài liệu này giúp hiểu các yêu cầu tối thiểu về nguồn và dữ liệu cần thiết cho hoạt động của Khách sạn cho từng khu vực như được nêu trong các bảng được cung cấp dưới đây.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063027Z" creationid="LanHK" creationdate="20210429T063013Z">
+        <seg>&lt;t0/&gt;Tài liệu này giúp hiểu các yêu cầu tối thiểu về lượng điện và dữ liệu đầu ra cần thiết cho hoạt động của Khách sạn cho từng khu vực như được nêu trong bảng dưới đây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Banquet Manager&lt;t0/&gt; Giám Đốc Tiệc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072031Z" creationid="LanHK" creationdate="20210429T072031Z">
+        <seg>Banquet Manager&lt;t0/&gt; Quản lý Tiệc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bedside nightstands &lt;t0/&gt;Bàn nhỏ cạnh giường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063305Z" creationid="LanHK" creationdate="20210429T063305Z">
+        <seg>Bedside nightstands &lt;t0/&gt;Tab đầu giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bất kỳ yêu cầu nào khác về Nguồn điện &amp; Dữ liệu trong phòng khách (ví dụ: đối với GRMS, Khóa cửa, Wi-Fi, Rèm động cơ, v.v.) phải được Tư vấn liên quan thiết kế và cung cấp phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T093127Z" creationid="LanHK" creationdate="20210429T093127Z">
+        <seg>Bất kỳ yêu cầu nào khác về Nguồn điện &amp; Dữ liệu trong phòng khách (ví dụ: đối với GRMS, Khóa cửa, Wi-Fi, Rèm động cơ, v.v.) phải được tư vấn bởi đơn vị tư vấn đúng chuyên môn và cung cấp phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catering Manager &lt;t0/&gt;Giám Đốc Phục Vụ Catering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072009Z" creationid="LanHK" creationdate="20210429T072009Z">
+        <seg>Catering Manager &lt;t0/&gt;Quản lý Catering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catering Sales Executive &lt;t0/&gt;Nhân Viên Kinh Doanh Catering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072021Z" creationid="LanHK" creationdate="20210429T072021Z">
+        <seg>Catering Sales Executive &lt;t0/&gt;Chuyên viên Sales Catering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef's Office &lt;t0/&gt;Văn Phòng của Đầu Bếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072303Z" creationid="LanHK" creationdate="20210429T072303Z">
+        <seg>Chef's Office &lt;t0/&gt;Văn Phòng Đầu Bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemical Store &lt;t0/&gt;Cửa Hàng Hóa chất</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083646Z" creationid="LanHK" creationdate="20210429T083646Z">
+        <seg>Chemical Store &lt;t0/&gt;Kho Hóa chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chia đêu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085402Z" creationid="LanHK" creationdate="20210429T085402Z">
+        <seg>Phân bố đều</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit Manager &lt;t0/&gt;Giám Đốc Phòng Cho Vay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063444Z" creationid="LanHK" creationdate="20210429T063444Z">
+        <seg>Credit Manager &lt;t0/&gt;Quản lý Credit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các quy định về năng lượng &amp; dữ liệu phải được cung cấp cho các máy quét an ninh tại các cửa hàng chính của khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T093538Z" creationid="LanHK" creationdate="20210429T093538Z">
+        <seg>Nguồn điện &amp; dữ liệu phải được cung cấp cho các máy quét an ninh tại các lối vào chính của khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Các yêu cầu M &amp; E của Phòng kiểm soát an ninh phải được tư vấn bởi bộ phận tư vấn CNTT &amp; Truyền thông với các quy định cho tất cả các hệ thống trong phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T093458Z" creationid="LanHK" creationdate="20210429T093458Z">
+        <seg>Các yêu cầu M&amp;E của Phòng kiểm soát an ninh phải được tư vấn bởi đơn vị tư vấn Thông tin &amp; Liên lạc và đảm bảo cung cấp đầy đủ để phục vụ tất cả các hệ thống được bố trí trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duty Manager &lt;t0/&gt;Giám Đốc Ca Trực</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063818Z" creationid="LanHK" creationdate="20210429T063818Z">
+        <seg>Duty Manager &lt;t0/&gt;Quản lý ca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EDP Manager &lt;t0/&gt;Giám Đốc EDP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T071646Z" creationid="LanHK" creationdate="20210429T071646Z">
+        <seg>EDP Manager &lt;t0/&gt;Quản lý EDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineering workshops &lt;t0/&gt;Các workshop kỹ thuật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073750Z" creationid="LanHK" creationdate="20210429T073750Z">
+        <seg>Engineering workshops &lt;t0/&gt;Phòng kỹ thuật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Executive Offices &lt;t0/&gt;Phòng Điều Hành</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T071655Z" creationid="LanHK" creationdate="20210429T071655Z">
+        <seg>Executive Offices &lt;t0/&gt;Văn phòng Điều Hành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&amp;B Director &lt;t0/&gt;Giám Đốc F&amp;B</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T071958Z" creationid="LanHK" creationdate="20210429T071958Z">
+        <seg>F&amp;B Director &lt;t0/&gt;Quản lý F&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&amp;B Secretary &lt;t0/&gt;Thư Ký F&amp;B</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072002Z" creationid="LanHK" creationdate="20210429T072002Z">
+        <seg>F&amp;B Secretary &lt;t0/&gt;Trợ lý F&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Room &lt;t0/&gt;Phòng Hồ Sơ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073104Z" creationid="LanHK" creationdate="20210429T073104Z">
+        <seg>File Room &lt;t0/&gt;Phòng Lưu trữ Hồ Sơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Financial Controller &lt;t0/&gt;Kiểm Soát Kế Toán</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063912Z" creationid="LanHK" creationdate="20210429T063912Z">
+        <seg>Financial Controller &lt;t0/&gt;Kiểm Soát Tài chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Aid/clinic &lt;t0/&gt;Phòng Y Tế/ Phòng Khám</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073114Z" creationid="LanHK" creationdate="20210429T073114Z">
+        <seg>First Aid/clinic &lt;t0/&gt;Phòng Y Tế/Sơ cứu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness Center (Gym) &lt;t0/&gt;Trung Tâm Thể Hình (Gym)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063903Z" creationid="LanHK" creationdate="20210429T063903Z">
+        <seg>Fitness Center (Gym) &lt;t0/&gt;Gym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For any further guidance or assistance please contact your local IHG D&amp;E team for clarifications
+
+&lt;t0/&gt;Bất kỳ địa điểm nào không bao gồm trong các điều khoản trên đều phải được cung cấp các yêu cầu tối thiểu về phạm vi của các cửa hàng điện và dữ liệu trên mỗi khu vực.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T092932Z" creationid="LanHK" creationdate="20210429T092932Z">
+        <seg>For any further guidance or assistance please contact your local IHG D&amp;E team for clarifications
+
+&lt;t0/&gt;Bất kỳ vị trí nào không bao gồm trong các mục trên đều phải được cung cấp số lượng ổ điện và ổ dữ liệu theo các yêu cầu tối thiểu về số lượng ổ trên mỗi khu vực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front Office &lt;t0/&gt;Bộ Phận Tiền Sảnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063330Z" creationid="LanHK" creationdate="20210429T063330Z">
+        <seg>Front Office &lt;t0/&gt;Tiền Sảnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front Office Manager &lt;t0/&gt;Giám Đốc Bộ Phận Tiền Sảnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063355Z" creationid="LanHK" creationdate="20210429T063355Z">
+        <seg>Front Office Manager &lt;t0/&gt;Quản lý bộ phận Lễ tân </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front Office Manager &lt;t0/&gt;Phó Giám Đốc Tiền Sảnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063437Z" creationid="LanHK" creationdate="20210429T063437Z">
+        <seg>Front Office Manager &lt;t0/&gt;Phó Quản lý bộ phận Lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front desk (Check-in Counter) &lt;t0/&gt;Bàn Tiền Sảnh (Quầy Check-in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063342Z" creationid="LanHK" creationdate="20210429T063342Z">
+        <seg>Front desk (Check-in Counter) &lt;t0/&gt;Bàn lễ tân (Quầy Check-in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Housekeeping &lt;t0/&gt;Buồng Phòng Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063318Z" creationid="LanHK" creationdate="20210429T063318Z">
+        <seg>General Housekeeping &lt;t0/&gt;Housekeeping nói chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Manager &lt;t0/&gt;Tổng Giám Đốc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T071659Z" creationid="LanHK" creationdate="20210429T071659Z">
+        <seg>General Manager &lt;t0/&gt;Tổng Quản lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Rooms</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T062900Z" creationid="LanHK" creationdate="20210429T062900Z">
+        <seg>Guest Rooms Phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HR Director &lt;t0/&gt;Giám Đốc Nhân Sự</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073053Z" creationid="LanHK" creationdate="20210429T073046Z">
+        <seg>HR Director &lt;t0/&gt;Giám đốc Nhân Sự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head Cleaner and Chemical Store&lt;t0/&gt; Thiết Bị Làm Sạch Đầu Phun và Cửa Hàng Hóa Chất</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073356Z" creationid="LanHK" creationdate="20210429T073356Z">
+        <seg>Head Cleaner and Chemical Store&lt;t0/&gt;Quản kho chất tẩy rửa và hóa chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Housekeeper Office &lt;t0/&gt;Văn Phòng Buồng Phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073258Z" creationid="LanHK" creationdate="20210429T073258Z">
+        <seg>Housekeeper Office &lt;t0/&gt;Văn Phòng Housekeeping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Housekeeping/Laundry &lt;t0/&gt;Bộ Phận Buồng Phòng/ Giặt Là</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073252Z" creationid="LanHK" creationdate="20210429T073252Z">
+        <seg>Housekeeping/Laundry &lt;t0/&gt;Housekeeping/ Giặt Là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrated in Counter (For each desk) &lt;t0/&gt;Tích hợp trong Quầy (Đối với mỗi bàn)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085315Z" creationid="LanHK" creationdate="20210429T085315Z">
+        <seg>Integrated in Counter (For each desk) &lt;t0/&gt;Các outlet tích hợp tại Quầy (Đối với mỗi bàn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kettle/Coffee Maker Counter &lt;t0/&gt;Ấm Đun Nước/ Quầy Pha Cà Phê</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063254Z" creationid="LanHK" creationdate="20210429T063254Z">
+        <seg>Kettle/Coffee Maker Counter &lt;t0/&gt;Quầy Ấm Đun Nước/ Máy Pha Cà Phê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Landscape stores &lt;t0/&gt;Các cửa hàng cảnh quan</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083649Z" creationid="LanHK" creationdate="20210429T083649Z">
+        <seg>Landscape stores &lt;t0/&gt;Kho cảnh quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laundry Manager &lt;t0/&gt;Giám Đốc Giặt Là</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073302Z" creationid="LanHK" creationdate="20210429T073302Z">
+        <seg>Laundry Manager &lt;t0/&gt;Quản lý Giặt Là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lobby / Restaurant / Club Lounge / Bar  &lt;t0/&gt;Sảnh/ Nhà Hàng/ Club Lounge/ Bar</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063847Z" creationid="LanHK" creationdate="20210429T063847Z">
+        <seg>Lobby / Restaurant / Club Lounge / Bar  &lt;t0/&gt;Lobby / Nhà Hàng/ Club Lounge/ Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Male/female staff Locker &lt;t0/&gt;Tủ đựng nhân viên nam/ nữ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083633Z" creationid="LanHK" creationdate="20210429T083629Z">
+        <seg>Male/female staff Locker &lt;t0/&gt;Locker nhân viên cho nam/ nữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Male/female staff toilet and shower &lt;t0/&gt;Nhà vệ sinh và phòng tắm nam/ nữ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083641Z" creationid="LanHK" creationdate="20210429T083641Z">
+        <seg>Male/female staff toilet and shower &lt;t0/&gt;Nhà vệ sinh và phòng tắm cho nam/ nữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T062846Z" creationid="LanHK" creationdate="20210429T062846Z">
+        <seg>No Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PR Secretary &lt;t0/&gt;Thư Ký PR</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072253Z" creationid="LanHK" creationdate="20210429T072253Z">
+        <seg>PR Secretary &lt;t0/&gt;Trợ lý PR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pantry &lt;t0/&gt;Khu vực Pantry</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072257Z" creationid="LanHK" creationdate="20210429T072257Z">
+        <seg>Pantry &lt;t0/&gt;Khu Pantry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant rooms (Boiler rooms, A/C, emergency generator, electrical transformer, telephone equipment, lift motor room, etc.) &lt;t0/&gt;Các phòng máy (các phòng nồi hơi, A/C.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083657Z" creationid="LanHK" creationdate="20210429T083657Z">
+        <seg>Plant rooms (Boiler rooms, A/C, emergency generator, electrical transformer, telephone equipment, lift motor room, etc.) &lt;t0/&gt;Các phòng máy (nồi hơi, A/C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power outlet at every 10m &lt;t0/&gt;Ổ cắm điện ở mỗi 10m</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083849Z" creationid="LanHK" creationdate="20210429T083849Z">
+        <seg>Power outlet at every 10m &lt;t0/&gt;Ổ cắm điện mỗi 10m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public Relationship Manager &lt;t0/&gt;Giám Đốc Quan Hệ Công Chúng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072246Z" creationid="LanHK" creationdate="20210429T072131Z">
+        <seg>Public Relationship Manager &lt;t0/&gt;Quản lý Quan Hệ Công Chúng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Purchasing &lt;t0/&gt;Thu Mua</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072852Z" creationid="LanHK" creationdate="20210429T072852Z">
+        <seg>Purchasing &lt;t0/&gt;Mua hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sales Secretary &lt;t0/&gt;Thư Ký Kinh Doanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072115Z" creationid="LanHK" creationdate="20210429T072115Z">
+        <seg>Sales Secretary &lt;t0/&gt;Trợ lý Kinh Doanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secretary &lt;t0/&gt;Thư Ký</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T071954Z" creationid="LanHK" creationdate="20210429T071954Z">
+        <seg>Secretary &lt;t0/&gt;Trợ lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secretary/Clerk &lt;t0/&gt;Thư ký/ Nhân viên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T071950Z" creationid="LanHK" creationdate="20210429T063919Z">
+        <seg>Secretary/Clerk &lt;t0/&gt;Trợ lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See ICT/AV Consultant drawings &lt;t0/&gt;Xem bản vẽ Tư vấn về CNTT / TT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085414Z" creationid="LanHK" creationdate="20210429T085414Z">
+        <seg>See ICT/AV Consultant drawings &lt;t0/&gt;Xem bản vẽ Tư vấn về CNTT / AV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Interior drawings for layout &lt;t0/&gt;Xem bản vẽ nội thất để bố trí</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085337Z" creationid="LanHK" creationdate="20210429T085337Z">
+        <seg>See Interior drawings for layout &lt;t0/&gt;Mặt bằng xem bản vẽ nội thất </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Staff Dining &lt;t0/&gt;Khu Nhân Viên Ăn Uống</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083621Z" creationid="LanHK" creationdate="20210429T083621Z">
+        <seg>Staff Dining &lt;t0/&gt;Nhà ăn nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores Manager &lt;t0/&gt;Giám Đốc Các Cửa Hàng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T072917Z" creationid="LanHK" creationdate="20210429T072917Z">
+        <seg>Stores Manager &lt;t0/&gt;Quản lý kho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Số lượng cửa hàng cho POS &amp; Quầy đăng ký có thể phải được điều chỉnh dựa trên thiết kế / bố trí quầy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T093012Z" creationid="LanHK" creationdate="20210429T093012Z">
+        <seg>Số lượng ổ cho POS &amp; Quầy check in có thể phải được điều chỉnh dựa trên thiết kế / mặt bằng quầy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone Operator/I Centre &lt;t0/&gt;Nhân Viên Trực Điện Thoại/ Trung Tâm I</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063812Z" creationid="LanHK" creationdate="20210429T063812Z">
+        <seg>Telephone Operator / I Centre &lt;t0/&gt;Nhân Viên Trực Điện Thoại/ I Center</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tất cả các bếp và không gian BOH có liên quan sẽ được tư vấn bởi Nhà tư vấn cho tất cả các yêu cầu M &amp; E.
+Để được hướng dẫn hoặc hỗ trợ thêm, vui lòng liên hệ với nhóm D &amp; E của IHG tại địa phương của bạn để được giải thích.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T093617Z" creationid="LanHK" creationdate="20210429T093617Z">
+        <seg>Tất cả các yêu cầu M &amp; E cho tất cả các bếp và không gian BOH có liên quan sẽ được tư vấn bởi tư vấn Bếp.
+Để được hướng dẫn hoặc hỗ trợ thêm, vui lòng liên hệ với nhóm D &amp; E của IHG tại địa phương của bạn để được giải thích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uniform/linen and Seamtress &lt;t0/&gt;Đồng Phục/ Vải và may mặc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T073325Z" creationid="LanHK" creationdate="20210429T073325Z">
+        <seg>Uniform/linen and Seamtress &lt;t0/&gt;Đồng Phục/ Đồ vải và Thợ may</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Universal Power Socket with USB on/above Desk
+Wi-Fi AP to be located below desk &lt;t0/&gt;Ổ cắm điện đa năng có USB trên / trên bàn
+Wi-Fi AP được đặt bên dưới bàn làm việc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083842Z" creationid="LanHK" creationdate="20210429T083842Z">
+        <seg>Universal Power Socket with USB on/above Desk Ổ cắm điện đa năng có USB trên mặt bàn/ phía trên bàn
+Wi-Fi AP to be located below desk &lt;t0/&gt; Wi-Fi AP bố trí dưới bàn làm việc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vent/AC &lt;t0/&gt;Ống/AC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063244Z" creationid="LanHK" creationdate="20210429T063244Z">
+        <seg>Vent/AC &lt;t0/&gt;Ống thông gió/AC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xerox/Storage &lt;t0/&gt;Sao Chụp Xerox/ Lưu Trữ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T063939Z" creationid="LanHK" creationdate="20210429T063939Z">
+        <seg>Xerox/Storage &lt;t0/&gt;Sao Chụp Xerox/ Kho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yêu cầu điện thoại khẩn cấp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085430Z" creationid="LanHK" creationdate="20210429T085430Z">
+        <seg>Yêu cầu có điện thoại khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yêu cầu đối với ổ cắm 5A chuyên dụng cho Thiết bị chiếu sáng phải được tư vấn bởi chuyên gia tư vấn Điện / Chiếu sáng và cung cấp phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T093025Z" creationid="LanHK" creationdate="20210429T093025Z">
+        <seg>Yêu cầu đối với ổ cắm 5A chuyên dụng cho Thiết bị chiếu sáng phải được tư vấn bởi tư vấn Điện / Chiếu sáng và cung cấp phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>máy phát khẩn cấp, bộ biến áp điện, thiết bị điện thoại, phòng động cơ nâng,…)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T083714Z" creationid="LanHK" creationdate="20210429T083714Z">
+        <seg>máy phát khẩn cấp, bộ biến áp điện, thiết bị điện thoại, phòng động cơ thang máy,…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of floor drains, power, water and AC/vent requirements &lt;t0/&gt;Xem bản vẽ của tư vấn Nhà Bếp cho số thoát sàn, nguồn điện, nước và các yêu cầu AC/ vent.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085711Z" creationid="LanHK" creationdate="20210429T085711Z">
+        <seg>of floor drains, power, water and AC/vent requirements &lt;t0/&gt;Xem bản vẽ của tư vấn Nhà Bếp để biết số lượng thoát sàn, nguồn điện, nước và các yêu cầu về AC/ ống thông gió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of rooms &lt;t0/&gt;Chưa xác định số phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085654Z" creationid="LanHK" creationdate="20210429T085654Z">
+        <seg>of rooms &lt;t0/&gt;Phụ thuộc số lượng phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>various</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T062853Z" creationid="LanHK" creationdate="20210429T062853Z">
+        <seg>various nhiều</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>various &lt;t0/&gt;Nhiều</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210429T085719Z" creationid="LanHK" creationdate="20210429T085719Z">
+        <seg>Various &lt;t0/&gt;Nhiều</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

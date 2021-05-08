@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Note: Super High-Rise buildings are typically approximately 35-storeys or more)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085404Z" creationid="LanHK" creationdate="20210504T085404Z">
+        <seg>Note: Super High-Rise buildings are typically approximately 35-storeys or more Lưu ý: nhà siêu cao tầng thường cao khoảng 35 tầng hoặc hơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Please elaborate, where necessary)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072030Z" creationid="LanHK" creationdate="20210504T072030Z">
+        <seg>(Please elaborate, where necessary) (Giải thích kỹ hơn nếu cần)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Request for plan layout)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085837Z" creationid="LanHK" creationdate="20210504T085837Z">
+        <seg>(Request for plan layout) (Yêu cầu trình bản vẽ mặt bằng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Exits <ph x="1">&lt;t1/&gt;</ph>to Staircases for all floors</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072150Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Exits <ph x="1">&lt;t1/&gt;</ph>to Staircases for all floors Tối thiểu 2 lối thoát dẫn vào cầu thang trên tất cả các tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><ph x="2">&lt;t2/&gt;</ph>Exits located Remote</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074720Z" creationid="LanHK" creationdate="20210504T074720Z">
+        <seg><ph x="2">&lt;t2/&gt;</ph>Exits located Remote Đối với không gian hơn 50m2, tối thiểu có 2 lối thoát ở vị trí ít người qua lại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>AREAS WITH FALLING RISK</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085434Z" creationid="LanHK" creationdate="20210504T085434Z">
+        <seg>AREAS WITH FALLING RISK KHU VỰC CÓ NGUY CƠ NGÃ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ATRIUMS<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>– provided with naturally ventilated or mechanically ventilated <ph x="2">&lt;t2/&gt;</ph>Smoke Extraction System</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075737Z" creationid="LanHK" creationdate="20210504T075737Z">
+        <seg>ATRIUMS<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>– provided with naturally ventilated or mechanically ventilated <ph x="2">&lt;t2/&gt;</ph>Smoke Extraction System CÁC KHÔNG GIAN CÓ THÔNG TẦNG - thông khí tự nhiên hoặc cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Addressable-type – for immediate identification of exact location of fire alarm</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080319Z" creationid="LanHK" creationdate="20210504T080319Z">
+        <seg>Addressable-type – for immediate identification of exact location of fire alarm Đầu báo định địa chỉ - để có thể xác định ngay tức khắc vị trí báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All public areas:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085527Z" creationid="LanHK" creationdate="20210504T085527Z">
+        <seg>All public areas: Tất cả các khu vực công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automatically switch on when there is a power failure</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T084934Z" creationid="LanHK" creationdate="20210504T084934Z">
+        <seg>Automatically switch on when there is a power failure Tự động bật khi nguồn cấp điện trục trặc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Background music system programmed to cut-off when there is fire alarm</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080738Z" creationid="LanHK" creationdate="20210504T080738Z">
+        <seg>Background music system programmed to cut-off when there is fire alarm Lập trình để ngắt hệ thống nhạc nền khi có báo cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bathtubs – provided with grab bar</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085442Z" creationid="LanHK" creationdate="20210504T085442Z">
+        <seg>Bathtubs – provided with grab bar Bồn tắm - cung cấp tay nắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CARBON MONOXIDE <ph x="0">&lt;t0/&gt;</ph>– Fuel burning appliance areas are provided with carbon monoxide detectors</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085426Z" creationid="LanHK" creationdate="20210504T085426Z">
+        <seg>CARBON MONOXIDE <ph x="0">&lt;t0/&gt;</ph>– Fuel burning appliance areas are provided with carbon monoxide detectors Khí CO - Khu vực có thiết bị đốt nhiên liệu cần có đầu báo khí CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CORRIDORS</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T073350Z" creationid="LanHK" creationdate="20210504T073350Z">
+        <seg>CORRIDORS HÀNH LANG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Carparks:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074728Z" creationid="LanHK" creationdate="20210504T074728Z">
+        <seg>Carparks: Đỗ xe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chemical <ph x="0">&lt;t0/&gt;</ph>Fire Suppression <ph x="1">&lt;t1/&gt;</ph>system</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075411Z" creationid="LanHK" creationdate="20210504T075411Z">
+        <seg>Chemical <ph x="0">&lt;t0/&gt;</ph>Fire Suppression <ph x="1">&lt;t1/&gt;</ph>system Hệ thống chữa cháy bằng hóa chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Children’s pool depth is not more than 60cm deep</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085619Z" creationid="LanHK" creationdate="20210504T085619Z">
+        <seg>Children’s pool depth is not more than 60cm deep Bể bơi trẻ em không nên sâu quá 60m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072013Z" creationid="LanHK" creationdate="20210504T072013Z">
+        <seg>Description Mô tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diesel storage:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T081127Z" creationid="LanHK" creationdate="20210504T081127Z">
+        <seg>Diesel storage: Kho diesel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Disabled guestrooms are provided with <ph x="0">&lt;t0/&gt;</ph>Strobe Lights</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080710Z" creationid="LanHK" creationdate="20210504T080710Z">
+        <seg>Disabled guestrooms are provided with <ph x="0">&lt;t0/&gt;</ph>Strobe Lights Tại phòng dành cho người khuyết tận cung cấp đèn chớp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Disclaimer: <ph x="0">&lt;t0/&gt;</ph>This <ph x="1">&lt;t1/&gt;</ph>document <ph x="2">&lt;t2/&gt;</ph>only represents an abstraction of IHG Brand Safety requirements<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092404Z" creationid="LanHK" creationdate="20210504T092404Z">
+        <seg>Disclaimer: <ph x="0">&lt;t0/&gt;</ph>This <ph x="1">&lt;t1/&gt;</ph>document <ph x="2">&lt;t2/&gt;</ph>only represents an abstraction of IHG Brand Safety requirements<ph x="3">&lt;t3/&gt;</ph>.Tuyên bố miễn trừ: tài liệu này chỉ đại diện cho một phần nhỏ của các yêu cầu của thương hiệu IHG về An toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Door at lowest point fitted with self-closing and held open only by <ph x="0">&lt;t0/&gt;</ph>fusible link</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075653Z" creationid="LanHK" creationdate="20210504T075653Z">
+        <seg>Door at lowest point fitted with self-closing and held open only by <ph x="0">&lt;t0/&gt;</ph>fusible link Cửa ở điểm thấp nhất của ống có cơ chế tự đóng và chỉ được giữ mở nhờ mối nối có thể tan chảy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Doors to balconies are provided with secondary child safety lock at 1.8m</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085521Z" creationid="LanHK" creationdate="20210504T085521Z">
+        <seg>Doors to balconies are provided with secondary child safety lock at 1.8m Cửa ban công có khóa phụ chống trẻ em ở độ cao 1.8m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ELECTROMAGNETIC (EM) LOCKS</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085131Z" creationid="LanHK" creationdate="20210504T085131Z">
+        <seg>ELECTROMAGNETIC (EM) LOCKS KHÓA ĐIỆN TỪ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EMERGENCY GENERATOR</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080747Z" creationid="LanHK" creationdate="20210504T080747Z">
+        <seg>EMERGENCY GENERATOR MÁY PHÁT KHẨN CẤP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EMERGENCY LIGHTING &amp; EXIT DIRECTIONAL SIGNAGE</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075917Z" creationid="LanHK" creationdate="20210504T075917Z">
+        <seg>EMERGENCY LIGHTING &amp; EXIT DIRECTIONAL SIGNAGE CHIẾU SÁNG KHẨN CẤP VÀ BIỂN CHỈ HƯỚNG THOÁT HIỂM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each room is a <ph x="0">&lt;t0/&gt;</ph>Fire Compartment<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>– solid wall construction <ph x="3">&lt;t3/&gt;</ph>that is typically concrete or bricks complete with <ph x="4">&lt;t4/&gt;</ph>fire dampers <ph x="5">&lt;t5/&gt;</ph>(for ducts penetration through fire-stop wall)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074859Z" creationid="LanHK" creationdate="20210504T074012Z">
+        <seg>Each room is a <ph x="0">&lt;t0/&gt;</ph> Compartment<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>– solid wall construction <ph x="2">&lt;t2/&gt;</ph>that is typically concrete or bricks complete with <ph x="0">&lt;t0/&gt;</ph>fire dampers <ph x="4">&lt;t4/&gt;</ph>(for ducts penetration through fire-stop wall) Mỗi phòng là một khoang ngăn cháy lan - kết cấu tường đặc, thường là bê tông hoặc gạch hoàn thiện với van chặn lửa (đối với các lỗ thông cho đường ống qua tường chống cháy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Escape route plan behind all room doors</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T091825Z" creationid="LanHK" creationdate="20210504T091825Z">
+        <seg>Escape route plan behind all room doors Gắn sơ đồ thoát hiểm sau tất cả các cửa phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Exhaust fans and grease filters</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075219Z" creationid="LanHK" creationdate="20210504T075219Z">
+        <seg>Exhaust fans and grease filters Quạt hút và lọc mỡ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Exit Doors:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072726Z" creationid="LanHK" creationdate="20210504T072726Z">
+        <seg>Exit Doors: Cửa thoát hiểm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Exit directional signage in common corridor with minimum 60 minutes battery backup</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T091811Z" creationid="LanHK" creationdate="20210504T091811Z">
+        <seg>Exit directional signage in common corridor with minimum 60 minutes battery backup Biển báo chỉ hướng lối thoát hiểm trong hành lang chung có pin dự phòng 60 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Exits <ph x="0">&lt;t0/&gt;</ph>in<ph x="1">&lt;t1/&gt;</ph>to Staircases are located <ph x="2">&lt;t2/&gt;</ph>Remote</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072618Z">
+        <seg>Exits <ph x="0">&lt;t0/&gt;</ph>in<ph x="1">&lt;t1/&gt;</ph>to Staircases are located <ph x="2">&lt;t2/&gt;</ph>Remote Lối thoát hiểm vào cầu thang nằm ở vị trí ít người qua lại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extinguishers along common corridors.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092007Z" creationid="LanHK" creationdate="20210504T092007Z">
+        <seg>Extinguishers along common corridors. Bình cứu hỏa dọc các hành lang chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>F<ph x="0">&lt;t0/&gt;</ph>ire sprinklers provided in all spaces including guestrooms</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075807Z" creationid="LanHK" creationdate="20210504T075803Z">
+        <seg>F<ph x="0">&lt;t0/&gt;</ph>ire sprinklers provided in all spaces including guestrooms Bố trí sprinkler tại tất cả mọi nơi, kể cả phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FIRE ALARM SYSTEM</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080012Z" creationid="LanHK" creationdate="20210504T080012Z">
+        <seg>FIRE ALARM SYSTEM HỆ THỐNG BÁO CHÁY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FIRE PROTECTION SYSTEM</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075744Z" creationid="LanHK" creationdate="20210504T075744Z">
+        <seg>FIRE PROTECTION SYSTEM HỆ THỐNG CHỮA CHÁY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FIRE SPRINKLER REQUIREMENT FOR <ph x="0">&lt;t0/&gt;</ph>HIGH-RISE <ph x="1">&lt;t1/&gt;</ph>AND ABOVE</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072049Z">
+        <seg>FIRE SPRINKLER REQUIREMENT FOR <ph x="0">&lt;t0/&gt;</ph>HIGH-RISE <ph x="1">&lt;t1/&gt;</ph>AND ABOVE YÊU CẦU VỀ SPRINKLER CHO CÁC TÒA NHÀ CAO TẦNG VÀ TRỞ LÊN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Final Exits <ph x="0">&lt;t0/&gt;</ph>from Staircases:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072645Z">
+        <seg>Final Exits <ph x="0">&lt;t0/&gt;</ph>from Staircases: Lối thoát hiểm cuối cùng từ cầu thang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fire Alarm Panel <ph x="0">&lt;t0/&gt;</ph>is in <ph x="1">&lt;t1/&gt;</ph>the security office and/or front desk</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080059Z" creationid="LanHK" creationdate="20210504T080059Z">
+        <seg>Fire Alarm Panel <ph x="0">&lt;t0/&gt;</ph>is in <ph x="1">&lt;t1/&gt;</ph>the security office and/or front desk Tủ báo cháy trong phòng an ninh và/hoặc bàn lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fire alarm and public announcement system <ph x="0">&lt;t0/&gt;</ph>is <ph x="1">&lt;t1/&gt;</ph>provided with 60 minutes battery back-up</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080044Z" creationid="LanHK" creationdate="20210504T080044Z">
+        <seg>Fire alarm and public announcement system <ph x="0">&lt;t0/&gt;</ph>is <ph x="1">&lt;t1/&gt;</ph>provided with 60 minutes battery back-up Hệ thống báo động và thông báo được cấp 60phút pin dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fire sprinkler system can sustain minimum 60 minutes of operation</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075818Z" creationid="LanHK" creationdate="20210504T075818Z">
+        <seg>Fire sprinkler system can sustain minimum 60 minutes of operation Hệ thống sprinkler có thể vận hành liên tục trong 60 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fire-Rated and Self-Closing</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072736Z" creationid="LanHK" creationdate="20210504T072736Z">
+        <seg>Fire-Rated and Self-Closing Chống cháy và có tay co tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fire-Rated metal cabinets (for small quantities)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074932Z" creationid="LanHK" creationdate="20210504T074841Z">
+        <seg>Fire-Rated metal cabinets (for small quantities) Bố trí trong khoang ngăn cháy lan với cửa chống cháy và tya co tự đóng HOẶC tủ kim loại chống cháy (đối với kho nhỏ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>High-Rise <ph x="1">&lt;t1/&gt;</ph>building:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072820Z">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>High-Rise <ph x="1">&lt;t1/&gt;</ph>building: Đối với các nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>Sprinklered building<ph x="1">&lt;t1/&gt;</ph>, <ph x="2">&lt;t2/&gt;</ph>Travel Distance <ph x="3">&lt;t3/&gt;</ph>n<ph x="4">&lt;t4/&gt;</ph>ot more than 60m, and <ph x="5">&lt;t5/&gt;</ph>the distance between emergency exits must not exceed<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>120m<ph x="8">&lt;t8/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074526Z" creationid="LanHK" creationdate="20210504T073654Z">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>Sprinklered building<ph x="1">&lt;t1/&gt;</ph>, <ph x="2">&lt;t2/&gt;</ph>Travel Distance <ph x="2">&lt;t2/&gt;</ph>n<ph x="0">&lt;t0/&gt;</ph>ot more than 60m, and <ph x="4">&lt;t4/&gt;</ph>the distance between emergency exits must not exceed<ph x="5">&lt;t5/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>120m<it pos="begin" x="8">&lt;t8&gt;</it>. Nếu có sprinkler, khoảng cách di chuyển không quá60m, và khoảng cách giữa các lối thoát hiểm không quá 120m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>Sprinklered<ph x="1">&lt;t1/&gt;</ph> building, <ph x="2">&lt;t2/&gt;</ph>Dead End<ph x="3">&lt;t3/&gt;</ph> distance not more than 15m</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T073414Z">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>Sprinklered<ph x="1">&lt;t1/&gt;</ph> building, <ph x="2">&lt;t2/&gt;</ph>Dead End<ph x="2">&lt;t2/&gt;</ph> distance not more than 15m Nếu có sprinkler, hành lang cụt không quá 15m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For High-Rise buildings<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075750Z" creationid="LanHK" creationdate="20210504T075750Z">
+        <seg>For High-Rise buildings<ph x="0">&lt;t0/&gt;</ph>: Đối với nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For Non-Sprinklered building, <ph x="0">&lt;t0/&gt;</ph>Dead End distance <ph x="1">&lt;t1/&gt;</ph>not more than 8m</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T073425Z">
+        <seg>For Non-Sprinklered building, <ph x="0">&lt;t0/&gt;</ph>Dead End distance <ph x="1">&lt;t1/&gt;</ph>not more than 8m Nếu không có sprinkler, hành lang cụt không quá 8m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For Non-Sprinklered building<ph x="0">&lt;t0/&gt;</ph>, <ph x="1">&lt;t1/&gt;</ph>Travel Distance <ph x="2">&lt;t2/&gt;</ph>not more than 30m<ph x="3">&lt;t3/&gt;</ph>, and <ph x="4">&lt;t4/&gt;</ph>the distance between emergency exits must not<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>exceed 60m<ph x="7">&lt;t7/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074526Z" creationid="LanHK" creationdate="20210504T073721Z">
+        <seg>For Non-Sprinklered building<ph x="0">&lt;t0/&gt;</ph>, <ph x="1">&lt;t1/&gt;</ph>Travel Distance <ph x="2">&lt;t2/&gt;</ph>not more than 30m<ph x="2">&lt;t2/&gt;</ph>, and <ph x="0">&lt;t0/&gt;</ph>the distance between emergency exits must not<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>exceed 60m<ph x="7">&lt;t7/&gt;</ph>. Nếu không có sprinkler, khoảng cách di chuyển không quá30m, và khoảng cách giữa các lối thoát hiểm không quá 60m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For doors along fire escape paths and doors for staircases, the EM locks will automatically unlock in event of power failure or general fire alarm</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085221Z" creationid="LanHK" creationdate="20210504T085221Z">
+        <seg>For doors along fire escape paths and doors for staircases, the EM locks will automatically unlock in event of power failure or general fire alarm Áp dụng với tất cả cửa trên đường thoát hiểm và các cửa dẫn vào thang bộ, khóa điện từ sẽ tự động mở trong trường hợp mất điện hoặc có báo động cháy chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GUESTROOMS</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T073747Z" creationid="LanHK" creationdate="20210504T073747Z">
+        <seg>GUESTROOMS PHÒNG KHÁCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Guestroom balconies:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085446Z" creationid="LanHK" creationdate="20210504T085446Z">
+        <seg>Guestroom balconies: Ban công phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gymnasium –<ph x="0">&lt;t0/&gt;</ph> provided with <ph x="1">&lt;t1/&gt;</ph>safety signage and emergency telephone</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085603Z" creationid="LanHK" creationdate="20210504T085603Z">
+        <seg>Gymnasium –<ph x="0">&lt;t0/&gt;</ph> provided with <ph x="1">&lt;t1/&gt;</ph>safety signage and emergency telephone Gym - Có biển báo an toàn và điện thoại khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Handrails and step ladders <ph x="0">&lt;t0/&gt;</ph>on both end <ph x="1">&lt;t1/&gt;</ph>for safe entry and exit</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085658Z" creationid="LanHK" creationdate="20210504T085658Z">
+        <seg>Handrails and step ladders <ph x="0">&lt;t0/&gt;</ph>on both end <ph x="1">&lt;t1/&gt;</ph>for safe entry and exit Có tay nắm và bậc thang ở cả hai đầu để có thể ra khỏi bể an toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-Rise (approx. 8-storeys) buildings are provided with <ph x="0">&lt;t0/&gt;</ph>Fire Sprinklers</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072109Z">
+        <seg>High-Rise (approx. 8-storeys) buildings are provided with <ph x="0">&lt;t0/&gt;</ph>Fire Sprinklers Các nhà cao tầng (khoảng 8 tầng) cần có Sprinkler cứu hỏa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>IHG <ph x="0">&lt;t0/&gt;</ph>FIRE LIFE SAFETY MINIMUM REQUIREMENTS<ph x="1">&lt;t1/&gt;</ph> (<ph x="2">&lt;t2/&gt;</ph>EXCEPTIONS MAY BE CONSIDERED ON CASE-BY-CASE BASIS<ph x="3">&lt;t3/&gt;</ph>)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092307Z" creationid="LanHK" creationdate="20210504T092303Z">
+        <seg>IHG <ph x="0">&lt;t0/&gt;</ph>FIRE LIFE SAFETY MINIMUM REQUIREMENTS<ph x="1">&lt;t1/&gt;</ph> (<ph x="2">&lt;t2/&gt;</ph>EXCEPTIONS MAY BE CONSIDERED ON CASE-BY-CASE BASIS<ph x="3">&lt;t3/&gt;</ph>) YÊU CẦU PCCC TỐI THIỂU IHG (NGOẠI LỆ CÓ THỂ ĐƯỢC CÂN NHẮC TÙY TỪNG TRƯỜNG HỢP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>IT Server room- Provide FM 200/ <ph x="0">&lt;t0/&gt;</ph>Novec<ph x="1">&lt;t1/&gt;</ph> 1230 or <ph x="2">&lt;t2/&gt;</ph>equivalent<ph x="3">&lt;t3/&gt;</ph> fixed fire suppression system, and pre-action sprinkler system.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075117Z" creationid="LanHK" creationdate="20210504T075117Z">
+        <seg>IT Server room- Provide FM 200/ <ph x="0">&lt;t0/&gt;</ph>Novec<ph x="1">&lt;t1/&gt;</ph> 1230 or <ph x="2">&lt;t2/&gt;</ph>equivalent<ph x="3">&lt;t3/&gt;</ph> fixed fire suppression system, and pre-action sprinkler system. Phòng IT Server - Bố trí hệ thống chữa cháy cố định FM 200/ Novec 1230 hoặc tương đương, và hệ thống sprinkler pre-action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Is a Fire Compartment with Fire-Rated and Self-Closing doors</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074905Z" creationid="LanHK" creationdate="20210504T074746Z">
+        <seg>Is a Fire Compartment with Fire-Rated and Self-Closing doors Là khoang ngăn cháy lan với cửa chống cháy và có tay co tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jacuzzi and whirlpools<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085732Z" creationid="LanHK" creationdate="20210504T085732Z">
+        <seg>Jacuzzi and whirlpools<ph x="0">&lt;t0/&gt;</ph>: Bể Jacuzzi và bể nước xoáy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>KITCHENS</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075156Z" creationid="LanHK" creationdate="20210504T075156Z">
+        <seg>KITCHENS BẾP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kitchen hoods <ph x="0">&lt;t0/&gt;</ph>are <ph x="1">&lt;t1/&gt;</ph>provided with:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075210Z" creationid="LanHK" creationdate="20210504T075210Z">
+        <seg>Kitchen hoods <ph x="0">&lt;t0/&gt;</ph>are <ph x="1">&lt;t1/&gt;</ph>provided with: Chụp hút mùi bếp có: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LAUNDRY CHUTE</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075614Z" creationid="LanHK" creationdate="20210504T075614Z">
+        <seg>LAUNDRY CHUTE ỐNG THẢ ĐỒ GIẶT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LEISURE &amp; FITNESS CENTER</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085549Z" creationid="LanHK" creationdate="20210504T085549Z">
+        <seg>LEISURE &amp; FITNESS CENTER TRUNG TÂM GIẢI TRÍ VÀ THỂ HÌNH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LOBBIES/RESTAURANTS/BALLROOMS/MEETING ROOMS</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074648Z" creationid="LanHK" creationdate="20210504T074109Z">
+        <seg>LOBBIES / RESTAURANTS / BALLROOMS / MEETING ROOMS CÁC SẢNH / NHÀ HÀNG/ PHÒNG BALLROOM / PHÒNG HỌP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Main entrance doors to be 20-minutes fire-rated and self-closing</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T091850Z" creationid="LanHK" creationdate="20210504T091850Z">
+        <seg>Main entrance doors to be 20-minutes fire-rated and self-closing Cửa ra vào chính chống cháy 20 phút và có tay co tự đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Main entrance<ph x="0">&lt;t0/&gt;</ph> is<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>self-closing <ph x="3">&lt;t3/&gt;</ph>Fire-Rated <ph x="4">&lt;t4/&gt;</ph>Door <ph x="5">&lt;t5/&gt;</ph>with<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>Drop Seals</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074653Z" creationid="LanHK" creationdate="20210504T074031Z">
+        <seg>Main entrance<ph x="0">&lt;t0/&gt;</ph> is<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>self-closing <ph x="2">&lt;t2/&gt;</ph>Fire-Rated <ph x="4">&lt;t4/&gt;</ph>Door <ph x="5">&lt;t5/&gt;</ph>with<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>Drop Seals Lối vào chính là cửa chống cháy có cơ chếtự đóng và seal khe cửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Manual Call Points<ph x="0">&lt;t0/&gt;</ph> provided to all corridors and public spaces</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080621Z" creationid="LanHK" creationdate="20210504T080621Z">
+        <seg>Manual Call Points<ph x="0">&lt;t0/&gt;</ph> provided to all corridors and public spaces Nút báo cháy khẩn cấp cung cấp tại tất cả các hành lang và không gian công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Manual call point nearest escape stairs with fire alarm bell in corridor</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T091955Z" creationid="LanHK" creationdate="20210504T091955Z">
+        <seg>Manual call point nearest escape stairs with fire alarm bell in corridor Nút báo cháy khẩn cấp gần nhất với cầu thang thoát hiểm với chuông báo cháy trong hành lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mechanical and Electrical Plantrooms / IT Servers – Located in a Fire Compartment</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075006Z" creationid="LanHK" creationdate="20210504T075006Z">
+        <seg>Mechanical and Electrical Plantrooms / IT Servers – Located in a Fire Compartment Phòng máy M&amp;E / phòng IT Server - bố trí trong khoang ngăn cháy lan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Minimum 2 proper escape stairs.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085821Z" creationid="LanHK" creationdate="20210504T085821Z">
+        <seg>Minimum 2 proper escape stairs. Tối thiểu 2 cầu thang thoát hiểm đủ tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Minimum 900mm<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Width</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072159Z">
+        <seg>Minimum 900mm<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Width Rộng tối thiểu 900mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Minimum fire alarm sound level of 75dBA in bedhead, and 65dBA in common corridor</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092202Z" creationid="LanHK" creationdate="20210504T092202Z">
+        <seg>Minimum fire alarm sound level of 75dBA in bedhead, and 65dBA in common corridor Chuông báo cháy tối thiểu 7dBA ở đầu giường và 65dBA trong hành lang chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Non-Sprinklered building – all Final Exits open to outside of building</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072722Z" creationid="LanHK" creationdate="20210504T072722Z">
+        <seg>Non-Sprinklered building – all Final Exits open to outside of building Nếu không có sprinkler: tất cả lối thoát cuối cùng mở ra ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note: For terms marked in <ph x="0">&lt;t0/&gt;</ph>BLUE<ph x="1">&lt;t1/&gt;</ph>, refer to Annex<ph x="2">&lt;t2/&gt;</ph> for definition or pictorial illustration</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092236Z" creationid="LanHK" creationdate="20210504T092236Z">
+        <seg>Note: For terms marked in <ph x="0">&lt;t0/&gt;</ph>BLUE<ph x="1">&lt;t1/&gt;</ph>, refer to Annex<ph x="2">&lt;t2/&gt;</ph> for definition or pictorial illustration Lưu ý: Đối với các hạng mục đánh dấu xanh, tham chiếu Phụ lục để xem định nghĩa hoặc minh họa hình ảnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OTHER AREAS</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074724Z" creationid="LanHK" creationdate="20210504T074724Z">
+        <seg>OTHER AREAS CÁC KHU VỰC KHÁ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Open-flame cooking <ph x="0">&lt;t0/&gt;</ph>and LPG gas cylinder storage are to <ph x="1">&lt;t1/&gt;</ph>be  <ph x="2">&lt;t2/&gt;</ph>provided<ph x="3">&lt;t3/&gt;</ph> with <ph x="4">&lt;t4/&gt;</ph>Gas Leak Detection <ph x="5">&lt;t5/&gt;</ph>system</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075437Z" creationid="LanHK" creationdate="20210504T075437Z">
+        <seg>Open-flame cooking <ph x="0">&lt;t0/&gt;</ph>and LPG gas cylinder storage are to <ph x="1">&lt;t1/&gt;</ph>be  <ph x="2">&lt;t2/&gt;</ph>provided<ph x="3">&lt;t3/&gt;</ph> with <ph x="4">&lt;t4/&gt;</ph>Gas Leak Detection <ph x="5">&lt;t5/&gt;</ph>system Bếp lửa hở và kho chứa gas LPG cần bố trí hệ thống phát hiện khí ga rò</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Openable from both sides</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072808Z" creationid="LanHK" creationdate="20210504T072808Z">
+        <seg>Openable from both sides có thể mở từ cả hai bên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pool depth is not more than 1.2m deep<ph x="0">&lt;t0/&gt;</ph> (best practice)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085642Z" creationid="LanHK" creationdate="20210504T085642Z">
+        <seg>Pool depth is not more than 1.2m deep<ph x="0">&lt;t0/&gt;</ph> (best practice) Độ sâu bể bơi không nên quá 1.2m (best practice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper escape stairs to be provided.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085806Z" creationid="LanHK" creationdate="20210504T085806Z">
+        <seg>Proper escape stairs to be provided. Cung cấp cầu thang thoát hiểm đủ tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided <ph x="0">&lt;t0/&gt;</ph>to all guestrooms at 75dBA and public spaces at 65dBA</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080652Z" creationid="LanHK" creationdate="20210504T080652Z">
+        <seg>Provided <ph x="0">&lt;t0/&gt;</ph>to all guestrooms at 75dBA and public spaces at 65dBA Cung cấp tại tất cả các phòng khách ở mức 75dBA và tại các không gian công cộng ở mức 65dBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided to all <ph x="0">&lt;t0/&gt;</ph>public <ph x="1">&lt;t1/&gt;</ph>areas including corridors, lobbies, restaurant</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075933Z" creationid="LanHK" creationdate="20210504T075933Z">
+        <seg>Provided to all <ph x="0">&lt;t0/&gt;</ph>public <ph x="1">&lt;t1/&gt;</ph>areas including corridors, lobbies, restaurant Cung cấp tại tất cả các khu vực công cộng, bao gồm hành lang, các sảnh và nhà hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided to all bedrooms and sound off local audible alarm at 75dBA</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080603Z" creationid="LanHK" creationdate="20210504T080603Z">
+        <seg>Provided to all bedrooms and sound off local audible alarm at 75dBA Cung cấp tại tất cả các phòng ngủ và chuông báo cục bộ ở mức 75dBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided to all spaces including lobbies, corridors, back-of-house</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080543Z" creationid="LanHK" creationdate="20210504T080543Z">
+        <seg>Provided to all spaces including lobbies, corridors, back-of-house Cung cấp tại tất cả các không gian, kể cả các sảnh, hành lang, khu BOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided to support all life-safety systems – fire alarm system, strobe lights, public announcement system, fire protection system, <ph x="0">&lt;t0/&gt;</ph>fire sprinkler pumps, <ph x="1">&lt;t1/&gt;</ph>emergency lighting, exit directional signage, smoke extraction system, staircase <ph x="2">&lt;t2/&gt;</ph>pressurisation<ph x="3">&lt;t3/&gt;</ph> fans, fire-fighting elevators.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T081118Z" creationid="LanHK" creationdate="20210504T081115Z">
+        <seg>Provided to support all life-safety systems – fire alarm system, strobe lights, public announcement system, fire protection system, <ph x="0">&lt;t0/&gt;</ph>fire sprinkler pumps, <ph x="1">&lt;t1/&gt;</ph>emergency lighting, exit directional signage, smoke extraction system, staircase <ph x="2">&lt;t2/&gt;</ph>pressurisation<ph x="3">&lt;t3/&gt;</ph> fans, fire-fighting elevators. Cung cấp cho tất cả các hệ thống bảo vệ an toàn tính mạng, đèn chớp, hệ thống thông báo công cộng, hệ thống chữa cháy, bơm sprinkler, chiếu sáng khẩn cấp, biển báo chỉ hướng lối thoát hiểm, quạt tăng áp cầu thang, thang máy cứu hỏa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided to sustain emergency operations for minimum 60 minutes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T081143Z" creationid="LanHK" creationdate="20210504T081143Z">
+        <seg>Provided to sustain emergency operations for minimum 60 minutes Cung cấp để đảm bảo vận hành khẩn cấp trong 60 phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with <ph x="0">&lt;t0/&gt;</ph>Floor Identification Signs<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>at all floors</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072449Z">
+        <seg>Provided with <ph x="0">&lt;t0/&gt;</ph>Floor Identification Signs<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>at all floors Cung cấp biển báo số tầng trên tất cả các tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with <ph x="0">&lt;t0/&gt;</ph>Manual <ph x="1">&lt;t1/&gt;</ph>Breakglass<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>to override and unlock</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085307Z" creationid="LanHK" creationdate="20210504T085307Z">
+        <seg>Provided with <ph x="0">&lt;t0/&gt;</ph>Manual <ph x="1">&lt;t1/&gt;</ph>Breakglass<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>to override and unlock Cung cấp nút vận hành bằng tay để ghi đè và mở khóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with <ph x="0">&lt;t0/&gt;</ph>safety signage and emergency telephone</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085722Z" creationid="LanHK" creationdate="20210504T085714Z">
+        <seg>Provided with <ph x="0">&lt;t0/&gt;</ph>safety signage and emergency telephone Có biển báo an toàn và điện thoại khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with balustrades of minimum 1.1m n<ph x="0">&lt;t0/&gt;</ph>on-<ph x="1">&lt;t1/&gt;</ph>c<ph x="2">&lt;t2/&gt;</ph>limbable <ph x="3">&lt;t3/&gt;</ph>height</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085541Z" creationid="LanHK" creationdate="20210504T085541Z">
+        <seg>Provided with balustrades of minimum 1.1m n<ph x="0">&lt;t0/&gt;</ph>on-<ph x="1">&lt;t1/&gt;</ph>c<ph x="2">&lt;t2/&gt;</ph>limbable <ph x="3">&lt;t3/&gt;</ph>height Cung cấp lan can không thể trèo, cao tối thiểu 1.1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with balustrades of minimum 1.1m non-climbable height</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085502Z" creationid="LanHK" creationdate="20210504T085502Z">
+        <seg>Provided with balustrades of minimum 1.1m non-climbable height Cung cấp lan can không thể trèo, cao tối thiểu 1.1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with bund walls (for standalone diesel tanks)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T084939Z" creationid="LanHK" creationdate="20210504T084805Z">
+        <seg>Provided with bund walls (for standalone diesel tanks) Có tường bờ/rãnh thu gom (đối với các thùng diesel đơn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with mechanical ventilation or natural ventilation</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074756Z" creationid="LanHK" creationdate="20210504T074756Z">
+        <seg>Provided with natural ventilation or Mechanical Ventilation Có thông khí tự nhiên hoặc Thông khí Cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with minimum 90 minutes battery back-up</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080006Z" creationid="LanHK" creationdate="20210504T080006Z">
+        <seg>Provided with minimum 90 minutes battery back-up Cung cấp tối thiểu 90 pin dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with natural ventilation or <ph x="0">&lt;t0/&gt;</ph>Mechanical Ventilation</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072215Z">
+        <seg>Provided with natural ventilation or <ph x="0">&lt;t0/&gt;</ph>Mechanical Ventilation Có thông khí tự nhiên hoặc Thông khí Cơ học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with self-closing fire-rated doors at all floors</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075623Z" creationid="LanHK" creationdate="20210504T075606Z">
+        <seg>Provided with self-closing fire-rated doors at all floors Cung cấp cửa chống cháy tại tất cả các tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with smoke detector or fire sprinkler at the highest point</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075706Z" creationid="LanHK" creationdate="20210504T075706Z">
+        <seg>Provided with smoke detector or fire sprinkler at the highest point Cung cấp đầu báo khói hoặc sprinkler ở điểm cao nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provided with timer and emergency shut-off</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085749Z" creationid="LanHK" creationdate="20210504T085749Z">
+        <seg>Provided with timer and emergency shut-off Có đồng hồ hẹn giờ và cơ chế tắt khẩn cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Public Announcement Speakers</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080627Z" creationid="LanHK" creationdate="20210504T080627Z">
+        <seg>Public Announcement Speakers Loa phát thông báo công cộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Push<ph x="0">&lt;t0/&gt;</ph>-B<ph x="1">&lt;t1/&gt;</ph>ars <ph x="2">&lt;t2/&gt;</ph>provided at Final Exits</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074443Z" creationid="LanHK" creationdate="20210504T072802Z">
+        <seg>Push<ph x="0">&lt;t0/&gt;</ph>-B<ph x="1">&lt;t1/&gt;</ph>ars <ph x="2">&lt;t2/&gt;</ph>provided at Final Exits Có thanh đẩy cửa trên tất cả các lối thoát cuối cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>R<ph x="0">&lt;t0/&gt;</ph>efer to IHG Online Brand Standards Manual for the full set of <ph x="1">&lt;t1/&gt;</ph>requirements.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092438Z" creationid="LanHK" creationdate="20210504T092438Z">
+        <seg>R<ph x="0">&lt;t0/&gt;</ph>efer to IHG Online Brand Standards Manual for the full set of <ph x="1">&lt;t1/&gt;</ph>requirements. Tham chiếu Hướng dẫn Tiêu chuẩn Thương hiệu IHG Online để biết đầy đủ về các yêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remarks</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072022Z" creationid="LanHK" creationdate="20210504T072022Z">
+        <seg>Remarks Ghi chú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rev 2<ph x="0">&lt;t0/&gt;</ph> May 2019</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092448Z" creationid="LanHK" creationdate="20210504T092448Z">
+        <seg>Rev 2<ph x="0">&lt;t0/&gt;</ph> May 2019 Bản 2 Tháng Năm 2019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rubbish compactor <ph x="0">&lt;t0/&gt;</ph>centre<ph x="1">&lt;t1/&gt;</ph>- Provide sprinkler system and smoke detector</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075139Z" creationid="LanHK" creationdate="20210504T075139Z">
+        <seg>Rubbish compactor <ph x="0">&lt;t0/&gt;</ph>centre<ph x="1">&lt;t1/&gt;</ph>- Provide sprinkler system and smoke detector Trung tâm xử lý rác - Cung cấp hệ thống sprinkler và đầu báo khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>STAFF DORMITORY</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085757Z" creationid="LanHK" creationdate="20210504T085757Z">
+        <seg>STAFF DORMITORY KÝ TÚC XÁ NHÂN VIÊN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>STAIRCASES</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072136Z" creationid="LanHK" creationdate="20210504T072136Z">
+        <seg>STAIRCASES THANG BỘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SUPER HIGH-RISE BUILDING <ph x="0">&lt;t0/&gt;</ph>– A document on <ph x="1">&lt;t1/&gt;</ph>evacuation strategy <ph x="2">&lt;t2/&gt;</ph>is<ph x="3">&lt;t3/&gt;</ph> developed by a <ph x="4">&lt;t4/&gt;</ph>Qualified Person</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085339Z" creationid="LanHK" creationdate="20210504T085339Z">
+        <seg>SUPER HIGH-RISE BUILDING <ph x="0">&lt;t0/&gt;</ph>– A document on <ph x="1">&lt;t1/&gt;</ph>evacuation strategy <ph x="2">&lt;t2/&gt;</ph>is<ph x="3">&lt;t3/&gt;</ph> developed by a <ph x="4">&lt;t4/&gt;</ph>Qualified Person NHÀ SIÊU CAO TẦNG -  Cần có văn bản chiến lược thoát hiểm do người có chuyên môn phát triển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Smoke Detectors<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T080104Z" creationid="LanHK" creationdate="20210504T080104Z">
+        <seg>Smoke Detectors<ph x="0">&lt;t0/&gt;</ph>: Đầu báo khói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Smoke detector inside all accommodations, connected to a fire alarm panel located at ground floor.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092114Z" creationid="LanHK" creationdate="20210504T092114Z">
+        <seg>Smoke detector inside all accommodations, connected to a fire alarm panel located at ground floor. Đầu báo khói trong tất cả các phòng ở, nối với tủ báo cháy đặt tại tầng trệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sprinkler provision for high rise (&gt; 25 m building height).</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085857Z" creationid="LanHK" creationdate="20210504T085857Z">
+        <seg>Sprinkler provision for high rise (&gt; 25 m building height). Cung cấp sprinkler cho nhà cao tầng (nhà độ cao &gt;25m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sprinklered building – minimum 50% Final Exits open to outside of building</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072708Z" creationid="LanHK" creationdate="20210504T072708Z">
+        <seg>Sprinklered building – minimum 50% Final Exits open to outside of building Nếu có sprinkler: tối thiểu 50% lối thoát cuối cùng mở ra ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Staircase is a <ph x="0">&lt;t0/&gt;</ph>Fire Compartment</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074848Z" creationid="LanHK" creationdate="20210504T072826Z">
+        <seg>Staircase is a <ph x="0">&lt;t0/&gt;</ph>Fire Compartment Cầu thang là khoang ngăn cháy lan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Staircase is provided with <ph x="0">&lt;t0/&gt;</ph>Smoke Stop Lobby <ph x="1">&lt;t1/&gt;</ph>OR <ph x="2">&lt;t2/&gt;</ph>Staircase <ph x="3">&lt;t3/&gt;</ph>Pressurisation<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>System</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074507Z" creationid="LanHK" creationdate="20210504T073347Z">
+        <seg>Staircase is provided with <ph x="0">&lt;t0/&gt;</ph>Smoke Stop Lobby <ph x="1">&lt;t1/&gt;</ph>OR <ph x="2">&lt;t2/&gt;</ph>Staircase <ph x="2">&lt;t2/&gt;</ph>Pressurisation<ph x="0">&lt;t0/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>System Cầu thang có sảnh ngăn khói HOẶC là thang tăng áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Standby</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075900Z" creationid="LanHK" creationdate="20210504T075900Z">
+        <seg>Standby Hệ bơm cho sprinkler bao gồm 01 bơm tăng áp, 01 bơm vận hành và 01 bơm dự phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stores for Hazardous or Flammable materials:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074808Z" creationid="LanHK" creationdate="20210504T074808Z">
+        <seg>Stores for Hazardous or Flammable materials: Kho chứa chất dễ cháy/độc hại:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Swimming pools<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T085609Z" creationid="LanHK" creationdate="20210504T085609Z">
+        <seg>Swimming pools<ph x="0">&lt;t0/&gt;</ph>: Bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Swing in direction of Escape</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T072741Z" creationid="LanHK" creationdate="20210504T072741Z">
+        <seg>Swing in direction of Escape Mở ra theo hướng thoát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>TRAVEL DISTANCE</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074607Z" creationid="LanHK" creationdate="20210504T073432Z">
+        <seg>TRAVEL DISTANCE KHOẢNG CÁCH DI CHUYỂN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Walls separating guestrooms and corridors shall be fire-rated</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T091906Z" creationid="LanHK" creationdate="20210504T091906Z">
+        <seg>Walls separating guestrooms and corridors shall be fire-rated Tường ngăn giữa phòng khách và hành lang nên chống cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With minimum 60 mins battery back-up</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092130Z" creationid="LanHK" creationdate="20210504T092130Z">
+        <seg>With minimum 60 mins battery back-up Với pin dự phòng tối thiểu 60 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yes/No</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T074549Z" creationid="LanHK" creationdate="20210504T072019Z">
+        <seg>Yes/No Có/Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>emergency lighting provided in guestroom near the main entrance</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T075956Z" creationid="LanHK" creationdate="20210504T075956Z">
+        <seg>emergency lighting provided in guestroom near the main entrance Tối thiểu 01 đèn chiếu khẩn cấp trong phòng khách gần cửa ra vào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>near vestibule) and along corridor and staircase, with 60 minutes battery back-up</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T091755Z" creationid="LanHK" creationdate="20210504T091755Z">
+        <seg>near vestibule) and along corridor and staircase, with 60 minutes battery back-up Chiếu sáng khẩn cấp trong phòng khách  (01 đèn gần cửa ra vào) và dọc hành lang và thang bộ, với pin dự phòng 60 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>per floor</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="LanHK" changedate="20210504T092033Z" creationid="LanHK" creationdate="20210504T092033Z">
+        <seg>per floor 1 bình/tầng</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
