@@ -10250,6 +10250,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trong trường hợp có sự khác biệt giữa luật pháp hoặc quy định quốc tế, quốc gia và địa phương và Tiêu chuẩn hoặc Thông số kỹ thuật, yêu cầu nghiêm ngặt hơn phải được ưu tiên (trừ khi yêu cầu IHG nghiêm ngặt hơn bị địa phương cấm).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210508T031240Z" creationid="PHUONG.DTM" creationdate="20210508T031240Z">
+        <seg>Trong trường hợp có sự khác biệt giữa luật pháp hoặc quy định quốc tế, quốc gia và địa phương và Tiêu chuẩn hoặc Thông số kỹ thuật, yêu cầu nghiêm ngặt hơn phải được ưu tiên (trừ khi các yêu cầu nghiêm ngặt hơn của phía IHG bị cấm tại địa phương).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>True Hospitality Service Skills Kỹ năng Dịch vụ Khách sạn Thật sự</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T031558Z" creationid="Kieu Lan" creationdate="20210420T031558Z">
