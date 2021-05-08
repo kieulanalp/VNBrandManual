@@ -10546,6 +10546,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vanities must meet the following: [58442] Cơ sở trang điểm phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023113Z" creationid="LanHK" creationdate="20210508T023113Z">
+        <seg>Vanities must meet the following: [58442] Vanity đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vanity area [20166]     Khu vực trang điểm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T025923Z" creationid="LanHK" creationdate="20210428T025923Z">
@@ -16302,6 +16310,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022952Z" creationid="LanHK" creationdate="20210508T022952Z">
         <seg>[58461]   Phải có vòi sen cầm tay có giá đỡ điều chỉnh độ cao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58464]     Sàn tắm phải được dốc về phía cống thoát nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022959Z" creationid="LanHK" creationdate="20210508T022959Z">
+        <seg>[58464]     Sàn tắm phải dốc về phía ga thoát nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58467]     Vòi hoa sen phải là loại cuộn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T023048Z" creationid="LanHK" creationdate="20210508T023048Z">
+        <seg>[58467]     Khoang tắm sen phải cho phép lăn xe lăn vào</seg>
       </tuv>
     </tu>
     <tu>
