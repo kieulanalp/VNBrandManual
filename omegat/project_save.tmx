@@ -16290,6 +16290,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58439]     Tất cả các thiết bị treo tường phải được gắn ở độ cao cho người khuyết tật.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022601Z" creationid="LanHK" creationdate="20210508T022557Z">
+        <seg>[58439]     Tất cả các thiết bị gắn tường phải được gắn ở độ cao phù hợp với người khuyết tật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58461]   Phải có một vòi trượt xịt tay điều chỉnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022952Z" creationid="LanHK" creationdate="20210508T022952Z">
+        <seg>[58461]   Phải có vòi sen cầm tay có giá đỡ điều chỉnh độ cao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58510]     Một công tắc ngắt điều hòa không khí.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T014909Z" creationid="LanHK" creationdate="20210508T014909Z">
@@ -17630,6 +17646,54 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022503Z" creationid="LanHK" creationdate="20210508T022503Z">
         <seg>[79119] khóa cửa được lắp đặt ở mức tối đa 1.1m (3ft 8in) trên mức sàn hoàn thiện (FFL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79120]    Chiều rộng mở 87.5cm (2ft 9in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022515Z" creationid="LanHK" creationdate="20210508T022515Z">
+        <seg>[79120]    Chiều rộng cửa 87.5cm (2ft 9in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79121]     Không gian quay xe lăn thoáng đãng và không bị cản trở 1,5m x 1,5m (5ft x 5ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022532Z" creationid="LanHK" creationdate="20210508T022532Z">
+        <seg>[79121]     Không gian quay xe lăn không bị cản trở 1,5m x 1,5m (5ft x 5ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79122]     Khoảng trống 1m (3ft 3in) trước nhà vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022538Z" creationid="LanHK" creationdate="20210508T022538Z">
+        <seg>[79122]     Khoảng trống 1m (3ft 3in) trước toilet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79123] Khuyến nghị cống thoát nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022611Z" creationid="LanHK" creationdate="20210508T022611Z">
+        <seg>[79123] Khuyến nghị có ga thoát nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79125]     Chiều rộng mở 87,5cm (2ft 9in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022725Z" creationid="LanHK" creationdate="20210508T022725Z">
+        <seg>[79125]     Chiều rộng cửa 87,5cm (2ft 9in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79126]     Mở ra ngoài vào phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022737Z" creationid="LanHK" creationdate="20210508T022737Z">
+        <seg>[79126]     Mở ra ngoài, hướng ra phòng khách.</seg>
       </tuv>
     </tu>
     <tu>
