@@ -5656,6 +5656,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inter-connecting doors must meet the following: [79118] Cửa liên thông phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022454Z" creationid="LanHK" creationdate="20210508T022433Z">
+        <seg>Inter-connecting doors must meet the following: [79118] Cửa thông giữa phòng connecting phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal Doors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012743Z" creationid="LanHK" creationdate="20210406T012743Z">
@@ -13634,6 +13642,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[38133] Khi một khách khuyết tật đi cùng với một trợ lý cá nhân, phải cung cấp một phòng cho khách khuyết tật với hai giường riêng biệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022308Z" creationid="LanHK" creationdate="20210508T022308Z">
+        <seg>[38133] Khi một khách khuyết tật đi cùng với một trợ lý cá nhân, phải cung cấp một phòng khách cho người khuyết tật với hai giường riêng biệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38136] Nếu không thể, phải cung cấp một phòng kết nối miễn phí.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022322Z" creationid="LanHK" creationdate="20210508T022322Z">
+        <seg>[38136] Nếu không thể, phải cung cấp một phòng connecting miễn phí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[38255] Một hệ thống tại chỗ xác định, báo cáo và sửa chữa tất cả trong đồ đạc trong phòng, phụ kiện, đồ nội thất và thiết bị khi phòng được bảo dưỡng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103030Z" creationid="LanHK" creationdate="20210428T103030Z">
@@ -17586,6 +17610,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79116] khóa cửa tối đa phải được lắp đặt ở mức 1.1m (3ft 8in) trên mức sàn hoàn thiện (FFL).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022402Z" creationid="LanHK" creationdate="20210508T022402Z">
+        <seg>[79116] khóa cửa được lắp đặt ở mức tối đa 1.1m (3ft 8in) trên mức sàn hoàn thiện (FFL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79117] Chiều rộng mở 90cm (3ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022413Z" creationid="LanHK" creationdate="20210508T022413Z">
+        <seg>[79117] Chiều rộng cửa 90cm (3ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79119] khóa cửa tối đa phải được lắp đặt ở mức 1.1m (3ft 8in) trên mức sàn hoàn thiện (FFL).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022503Z" creationid="LanHK" creationdate="20210508T022503Z">
+        <seg>[79119] khóa cửa được lắp đặt ở mức tối đa 1.1m (3ft 8in) trên mức sàn hoàn thiện (FFL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79157]     Được lắp đặt trong các bức tường bên ngoài.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102652Z" creationid="LanHK" creationdate="20210428T102652Z">
@@ -18022,6 +18070,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125654Z" creationid="Kieu Lan" creationdate="20210423T125654Z">
         <seg>[886] Không được sử dụng radio làm nhạc nền.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89001] Khuyến khích bố trí phòng với giường có thể truy cập từ cả hai bên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022247Z" creationid="LanHK" creationdate="20210508T022247Z">
+        <seg>[89001] Khuyến nghị bố trí phòng với giường có thể tiếp cận từ cả hai bên.</seg>
       </tuv>
     </tu>
     <tu>
