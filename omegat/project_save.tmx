@@ -9538,6 +9538,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Telephone faceplates must meet the following: [78098] Bản mặt điện thoại phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014104Z" creationid="LanHK" creationdate="20210508T014104Z">
+        <seg>Telephone faceplates must meet the following: [78098] Ốp mặt điện thoại bàn phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Television Cabling</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154627Z" creationid="Kieu Lan" creationdate="20210405T154627Z">
