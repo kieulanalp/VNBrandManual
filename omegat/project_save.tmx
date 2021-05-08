@@ -10434,6 +10434,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tất cả ổ cắm điện không sử dụng của KidSuites® phải là loại không cho trẻ em động đến hoặc phải có vỏ bọc cho trẻ em không sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030932Z" creationid="LanHK" creationdate="20210508T030932Z">
+        <seg>Tất cả ổ cắm điện không sử dụng của KidSuites® phải là loại an toàn cho trẻ em hoặc phải có nắp che.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tốc độ thông gió trong chế độ kiểm soát lửa / khói để đáp ứng các quy định của địa phương.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11670,6 +11678,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T030303Z" creationid="LanHK" creationdate="20210508T030303Z">
         <seg>[112775]     Trò chơi điện tử.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112781]    Nếu không gian cho phép, nên cung cấp một bàn chơi cỡ trẻ em với hai ghế hoặc bàn trẻ em với một ghế hoặc ghê dài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031010Z" creationid="LanHK" creationdate="20210508T031010Z">
+        <seg>[112781]    Nếu không gian cho phép, nên cung cấp một bàn chơi cỡ trẻ em với hai ghế hoặc bàn học trẻ em với một ghế hoặc ghế dài.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17206,6 +17222,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T013709Z" creationid="LanHK" creationdate="20210407T013709Z">
         <seg>[716049] Màu sắc và phông chữ nói chung phải đồng bộ với thương hiệu phù hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[71617] Nên lắp thiết bị xoay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031043Z" creationid="LanHK" creationdate="20210508T031043Z">
+        <seg>[71617] Khuyến nghị dùng giá đỡ có thể xoay</seg>
       </tuv>
     </tu>
     <tu>
