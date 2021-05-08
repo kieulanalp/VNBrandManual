@@ -2199,34 +2199,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Casing Material: 100% cotton [66508] Chất liệu vỏ gối: 100% cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051453Z" creationid="Kieu Lan" creationdate="20210508T051453Z">
+        <seg>Casing Material: 100% cotton [66508] Chất liệu vỏ ruột gối: 100% cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Casing material: 100% Cotton Chất liệu vỏ: 100% cotton</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T043021Z" creationid="Kieu Lan" creationdate="20210508T042930Z">
-        <seg>Casing material: 100% Cotton [65902] Chất liệu áo gối: 100% Cotton</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051416Z" creationid="Kieu Lan" creationdate="20210508T042930Z">
+        <seg>Casing material: 100% Cotton [65902] Chất liệu vỏ ruột gối: 100% Cotton</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Casing material: 100% Cotton [65929] Chất liệu vỏ: 100% Cotton</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T032942Z" creationid="LanHK" creationdate="20210508T032942Z">
-        <seg>Casing material: 100% Cotton [65929] Chất liệu áo gối: 100% Cotton</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051408Z" creationid="LanHK" creationdate="20210508T032942Z">
+        <seg>Casing material: 100% Cotton [65929] Chất liệu vỏ ruột gối: 100% Cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Casing material: 100% Cotton [66786] Chất liệu vỏ: 100% Cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051514Z" creationid="Kieu Lan" creationdate="20210508T051514Z">
+        <seg>Casing material: 100% Cotton [66786] Chất liệu vỏ ruột gối: 100% Cotton</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Casing weave: Plain single pick Dệt ren: bình thường kiểu đơn</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051230Z" creationid="Kieu Lan" creationdate="20210508T043106Z">
-        <seg>Casing weave: Plain single pick [66509] Phương pháp dệt vải áo gối: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051445Z" creationid="Kieu Lan" creationdate="20210508T043106Z">
+        <seg>Casing weave: Plain single pick [66509] Phương pháp dệt vải vỏ ruột gối: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Casing weave: Plain single pick [65931] Dệt ren: bình thường kiểu đơn</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T035349Z" creationid="LanHK" creationdate="20210508T035349Z">
-        <seg>Casing weave: Plain single pick [65931] Phương pháp dệt vải áo gối: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051438Z" creationid="LanHK" creationdate="20210508T035349Z">
+        <seg>Casing weave: Plain single pick [65931] Phương pháp dệt vải vỏ ruột gối: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6973,16 +6989,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum casing thread count per square inch: 233 Số lượng ren ống tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051222Z" creationid="Kieu Lan" creationdate="20210508T051222Z">
-        <seg>Minimum casing thread count per square inch: 233 [66509] Mật độ vải áo gối tối thiểu trên mỗi inch vuông: 233</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051458Z" creationid="Kieu Lan" creationdate="20210508T051222Z">
+        <seg>Minimum casing thread count per square inch: 233 [66509] Mật độ vải vỏ ruột gối tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Minimum casing thread count per square inch: 233 [65930] Số lượng ren ống tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T033041Z" creationid="LanHK" creationdate="20210508T033041Z">
-        <seg>Minimum casing thread count per square inch: 233 [65930] Mật độ vải áo gối tối thiểu trên mỗi inch vuông: 233</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051431Z" creationid="LanHK" creationdate="20210508T033041Z">
+        <seg>Minimum casing thread count per square inch: 233 [65930] Mật độ vải vỏ ruột gối tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
     </tu>
     <tu>
@@ -8031,6 +8047,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Pipe size up to 50mm: maximum 0.6m/s Velocity [327088]     Kích thước ống lên tới 50mm: Vận tốc tối đa 0,6m/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piping: Green (Medium) [87899] Đường ống: Xanh (Trung bình)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051325Z" creationid="Kieu Lan" creationdate="20210508T051325Z">
+        <seg>Piping: Green (Medium) [87899] Viền gân: Xanh (Trung bình)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9545,6 +9569,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T041616Z" creationid="Kieu Lan" creationdate="20210508T041608Z">
         <seg>Stitching: Double needle [65936] Đường may: Kim đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stitching: Double needle [66514] Mũi khâu: Kim đôi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051314Z" creationid="Kieu Lan" creationdate="20210508T051314Z">
+        <seg>Stitching: Double needle [66509] Đường may: Kim đôi</seg>
       </tuv>
     </tu>
     <tu>
