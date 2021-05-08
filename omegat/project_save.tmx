@@ -3767,6 +3767,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Family suite [95196]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025533Z" creationid="LanHK" creationdate="20210508T025533Z">
+        <seg>Family suite [95196] Phòng suite gia đình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fax Number: +1 704 504 2373 Số fax: 1 704 504 2373</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125455Z" creationid="Kieu Lan" creationdate="20210423T125455Z">
@@ -11594,6 +11602,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[111701] Tỷ lệ phần trăm và hỗn hợp của các suites phải được xác định bởi nhu cầu thị trường địa phương cho từng dự án khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025654Z" creationid="LanHK" creationdate="20210508T025641Z">
+        <seg>[111701] Tỷ lệ phần trăm và cơ cấu các loại suites phải được xác định bởi nhu cầu thị trường địa phương cho từng dự án khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111702] Hỗn hợp cuối cùng phải được IHG phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025658Z" creationid="LanHK" creationdate="20210508T025648Z">
+        <seg>[111702] Cơ cấu cuối cùng phải được IHG phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[111704] Diện tích tối thiểu: 27m² (290 sq ft) không bao gồm ban công hoặc không gian ngoài trời.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020102Z" creationid="LanHK" creationdate="20210508T020102Z">
@@ -18294,6 +18318,46 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022247Z" creationid="LanHK" creationdate="20210508T022247Z">
         <seg>[89001] Khuyến nghị bố trí phòng với giường có thể tiếp cận từ cả hai bên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89022] Có một cửa kết nối với phòng khách liền kề thông qua không gian sống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025738Z" creationid="LanHK" creationdate="20210508T025738Z">
+        <seg>[89022] Có một cửa kết nối với phòng khách liền kề thông qua không gian phòng khách (living space).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89027] 1.5 mô đun tiêu chuẩn theo kích thước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025803Z" creationid="LanHK" creationdate="20210508T025803Z">
+        <seg>[89027] Kích thước bằng 1.5 mô đun tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89028]     Giường ngủ tiêu chuẩn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025814Z" creationid="LanHK" creationdate="20210508T025814Z">
+        <seg>[89028]     Phòng ngủ tiêu chuẩn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89029]     Nhà tắm tiêu chuẩn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025819Z" creationid="LanHK" creationdate="20210508T025819Z">
+        <seg>[89029]     Phòng tắm tiêu chuẩn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89030]     Khu vực sống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025828Z" creationid="LanHK" creationdate="20210508T025828Z">
+        <seg>[89030]     Khu vực tiếp khách.</seg>
       </tuv>
     </tu>
     <tu>
