@@ -2183,6 +2183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Casing material: 100% Cotton Chất liệu vỏ: 100% cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T043021Z" creationid="Kieu Lan" creationdate="20210508T042930Z">
+        <seg>Casing material: 100% Cotton [65902] Chất liệu áo gối: 100% Cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Casing material: 100% Cotton [65929] Chất liệu vỏ: 100% Cotton</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032942Z" creationid="LanHK" creationdate="20210508T032942Z">
@@ -3822,6 +3830,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Filling material: 5% duck down/95% duck feather.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filling material: 50% duck feather, 50% duck down [96036] Chất liệu nhồi: 50% lông vũ vịt, 50% lông tơ vịt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042830Z" creationid="Kieu Lan" creationdate="20210508T042800Z">
+        <seg>Filling material: 50% duck feather, 50% duck down [96036] Chất liệu ruột gối: 50% lông vũ vịt, 50% lông vịt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7847,6 +7863,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032854Z" creationid="LanHK" creationdate="20210508T032854Z">
         <seg>Pillow size: Single, Double and Queen beds - 50cm (20in) x 66cm (26.4in) [96013] Kích thước gối: Giường đơn, giường twin và giường cỡ Queen - 50 cm (20 in) x 66cm (26,4in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pillow size: Single, Double and Queen beds - 50cm (20in) x 66cm (26.4in) [96035] Kích thước gối: Giường đơn, giường đôi và giường cỡ Queen - 50 cm (20 in) x 66cm (26,4in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042724Z" creationid="Kieu Lan" creationdate="20210508T042724Z">
+        <seg>Pillow size: Single, Double and Queen beds - 50cm (20in) x 66cm (26.4in) [96035] Kích thước gối: Giường đơn, giường twin và giường Queen - 50 cm (20 in) x 66cm (26,4in)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17165,6 +17189,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[65900] Số lượng: Hai gối mềm cho King, Queen và Double hoặc một cho Single.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042918Z" creationid="Kieu Lan" creationdate="20210508T042918Z">
+        <seg>[65900] Số lượng: Hai gối mềm cho giường King, Queen và Double hoặc một gối cho giường đơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[660] Tối thiểu luôn có một xe đẩy hành lý phải cho khách sử dụng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T013835Z" creationid="LanHK" creationdate="20210424T013835Z">
@@ -18431,8 +18463,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[8545]   Chất liệu nhồi: 5% lông tơ vịt / 95% lông vịt.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[8545]   Chất liệu nhồi: 5% lông tơ vịt/95% lông vịt.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042816Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[8545]   Chất liệu ruột gối: 5% lông tơ vịt / 95% lông vịt.</seg>
       </tuv>
     </tu>
     <tu>
