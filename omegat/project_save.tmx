@@ -1736,8 +1736,8 @@
       <tuv lang="EN-US">
         <seg>Brand Identity &amp; Signage</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T091941Z" creationid="LanHK" creationdate="20210405T091941Z">
-        <seg>Brand Identity &amp; Signage&lt;t0/&gt; &lt;t1/&gt;Nhận diện thương hiệu &amp; Biển hiệu</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210508T031713Z" creationid="LanHK" creationdate="20210405T091941Z">
+        <seg>Brand Identity &amp; Signage&lt;t0/&gt; &lt;t1/&gt;Nhận diện thương hiệu &amp; Biển bảng</seg>
       </tuv>
     </tu>
     <tu>
@@ -3833,8 +3833,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Fire Safety</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T092057Z" creationid="LanHK" creationdate="20210405T092057Z">
-        <seg>Fire Safety&lt;t0/&gt; &lt;t1/&gt;Phòng chống cháy nổ</seg>
+      <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210508T031813Z" creationid="LanHK" creationdate="20210405T092057Z">
+        <seg>Fire Safety&lt;t0/&gt; &lt;t1/&gt;Phòng cháy chữa cháy </seg>
       </tuv>
     </tu>
     <tu>
