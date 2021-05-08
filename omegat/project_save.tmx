@@ -6976,6 +6976,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Room -&gt; Room Types -&gt; Accessible guest rooms Phòng của tôi -&gt; Loại phòng -&gt; Phòng cho người khuyết tật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T022100Z" creationid="LanHK" creationdate="20210508T022100Z">
+        <seg>My Room -&gt; Room Types -&gt; Accessible guest rooms Phòng cho người khuyết tật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Room -&gt; Room Types Phòng Của Tôi -&gt; Loại Phòng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020213Z" creationid="LanHK" creationdate="20210508T020213Z">
@@ -11478,6 +11486,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020656Z" creationid="LanHK" creationdate="20210508T020656Z">
         <seg>[111024]      Phải kết hợp phòng khách tiêu chuẩn với suite hai hoặc ba phòng với bếp nhỏ trong một tòa nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111025] Trường hợp được cung cấp, KidSuites® không được tính là một phần của tổng số bộ yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020731Z" creationid="LanHK" creationdate="20210508T020731Z">
+        <seg>[111025] Nếu có KidSuites®, KidSuites® không được tính vào trong tổng số suite yêu cầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111026]    Cửa hàng tiện lợi hoặc Cửa hàng quà tặng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020739Z" creationid="LanHK" creationdate="20210508T020739Z">
+        <seg>[111026]    Cửa hàng tiện lợi hoặc Cửa hàng lưu niệm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111027] KidSuites® bổ sung là tùy chọn và tùy theo địa điểm và nhu cầu thị trường, điều khoản phải được IHG® phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020914Z" creationid="LanHK" creationdate="20210508T020914Z">
+        <seg>[111027] KidSuites® bổ sung là tùy chọn và phụ thuộc vàp địa điểm và nhu cầu thị trường, việc cung cấp loại phòng này phải được IHG® phê duyệt.</seg>
       </tuv>
     </tu>
     <tu>
