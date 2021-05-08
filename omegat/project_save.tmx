@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3830,6 +3830,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Filling material: Goose down/feather is recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Vật liệu làm đầy: Nhồi đầy bên ngoài 50% lông tơ vịt, nhồi đầy bên trong 5% lông tơ vịt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T035436Z" creationid="LanHK" creationdate="20210508T035436Z">
+        <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Nhồi ruột gối: đầy bên ngoài 50% lông tơ vịt, nhồi đầy bên trong 5% lông tơ vịt</seg>
       </tuv>
     </tu>
     <tu>
