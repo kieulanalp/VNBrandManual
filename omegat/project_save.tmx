@@ -7368,6 +7368,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nếu được cung cấp, nó phải là loại thương mại và được tích hợp vào thiết kế của công tắc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014827Z" creationid="LanHK" creationdate="20210508T014827Z">
+        <seg>Nếu có, nó phải là loại thương mại và được tích hợp vào thiết kế công tắc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Occupied tables must be serviced / checked regularly during the meal occasion.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10742,6 +10750,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T020446Z" creationid="LanHK" creationdate="20210424T020446Z">
         <seg>Where a VIP arrival system is provided it must meet the following: [331084] Trường hợp cung dịch vụ chào đón khách VIP, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where a balcony is accessible from the guest room, the following must be provided: [58508] Trường hợp có thể đến ban công từ phòng khách, phải cung cấp các thông tin sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014849Z" creationid="LanHK" creationdate="20210508T014849Z">
+        <seg>Where a balcony is accessible from the guest room, the following must be provided: [58508] Trường hợp phòng khách nối ra ban công, phải cung cấp các thông tin sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17886,6 +17902,36 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T084850Z" creationid="LanHK" creationdate="20210428T084850Z">
         <seg>[904] Yêu cầu tranh ảnh nghệ thuật trong tất cả các hành lang công cộng và các sảnh thang máy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[90507] Tất cả ánh sáng phải được kiểm soát bởi một công tắc chính.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014626Z" creationid="LanHK" creationdate="20210508T014626Z">
+        <seg>[90507] Tất cả chiếu sáng phải được kiểm soát bởi một công tắc tổng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Em đang chưa hiểu control ở đây là cái kiểm soát gì? kiểu bảng điều khiển??</note>
+      <tuv lang="EN-US">
+        <seg>[90509]    Kiểm soát phải bao gồm các thiết bị đèn và ổ cắm cho các thiết bị này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[90510] ổ cắm ở mức bàn, cho minibar và TV và đồng hồ vẫn duy trì.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014751Z" creationid="LanHK" creationdate="20210508T014751Z">
+        <seg>[90510] ổ cắm cao ở mức bàn, cho minibar và TV và đồng hồ luôn phải có điện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[90511]    Nên cung cấp một nhà vệ sinh hoặc đèn ngủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T014811Z" creationid="LanHK" creationdate="20210508T014811Z">
+        <seg>[90511]    Nên cung cấp đèn nhà vệ sinh hoặc đèn ngủ.</seg>
       </tuv>
     </tu>
     <tu>
