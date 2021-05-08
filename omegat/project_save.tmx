@@ -10434,6 +10434,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tất cả các yêu cầu của phòng khách áp dụng cho các phòng suites trừ khi được sửa đổi hoặc thêm vào tiêu chuẩn của suites.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031800Z" creationid="LanHK" creationdate="20210508T031800Z">
+        <seg>Tất cả các yêu cầu đối với phòng khách áp dụng cho các phòng suites trừ khi được sửa đổi hoặc thêm vào tiêu chuẩn của suites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tất cả các ứng dụng nhận diện thương hiệu phải tuân theo các yêu cầu được cung cấp trong Chỉ thị nhận diện thương hiệu của Holiday Inn Resort® và / hoặc Hướng dẫn tiếp thị và truyền thông.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="LanHK" creationdate="20210406T065721Z">
@@ -19965,6 +19973,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102410Z" creationid="LanHK" creationdate="20210428T102410Z">
         <seg>•  It is recommended to set the temperature at 24°C (75.2 °F).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  One full size sofa bed with coffee table and end table with lamp is recommended [847109] Khuyến nghị một giường sofa kích thước đầy đủ với bàn cà phê và bàn với đèn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031607Z" creationid="LanHK" creationdate="20210508T031607Z">
+        <seg>•  One full size sofa bed with coffee table and end table with lamp is recommended [847109] Khuyến nghị có một giường sofa full size với bàn cà phê và và bàn bên để đèn</seg>
       </tuv>
     </tu>
     <tu>
