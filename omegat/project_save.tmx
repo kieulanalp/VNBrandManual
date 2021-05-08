@@ -2846,8 +2846,8 @@
       <tuv lang="EN-US">
         <seg>Cung cấp một sự kết hợp của các phòng có giường cỡ King, Queen và Double / Double hoặc Twin.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Cung cấp một sự kết hợp của các phòng có giường cỡ King, Queen và Double/Double hoặc Twin.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020327Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Cung cấp hỗn hợp các phòng có giường cỡ King, Queen và Double/Double hoặc Twin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4499,6 +4499,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T091956Z" creationid="LanHK" creationdate="20210405T091956Z">
         <seg>Green Engage Cam kết Tiêu chuẩn Xanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gross and Net area calculation Tính toán diện tích tổng (gross) và diện tích hiệu dụng (net)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020137Z" creationid="LanHK" creationdate="20210508T020137Z">
+        <seg>Gross and Net area calculation Tính toán diện tích tổng (gross) và diện tích hiệu dụng (net) (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6964,6 +6972,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>My Room -&gt; Collateral/Stationery Phòng của tôi -&gt; Tài liệu quảng bá/Văn phòng phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Room -&gt; Room Types Phòng Của Tôi -&gt; Loại Phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020213Z" creationid="LanHK" creationdate="20210508T020213Z">
+        <seg>My Room -&gt; Room Types Loại Phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,6 +9746,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final room mix must be IHG approved and meet the following: [17149] Hỗn hợp phòng cuối cùng phải được IHG phê duyệt và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020259Z" creationid="LanHK" creationdate="20210508T020259Z">
+        <seg>The final room mix must be IHG approved and meet the following: [17149] Cơ cấu phòng cuối cùng phải được IHG phê duyệt và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The floor level [12390] Mức sàn</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T024718Z" creationid="Kieu Lan" creationdate="20210427T024718Z">
@@ -11446,6 +11470,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064229Z" creationid="Kieu Lan" creationdate="20210422T064229Z">
         <seg>[109] Giờ phục vụ không cần liên tục mà có thể tách ra đáp ứng giờ cao điểm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111704] Diện tích tối thiểu: 27m² (290 sq ft) không bao gồm ban công hoặc không gian ngoài trời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020102Z" creationid="LanHK" creationdate="20210508T020102Z">
+        <seg>[111704] Diện tích tổng tối thiểu: 27m² (290 sq ft) không bao gồm ban công hoặc không gian ngoài trời.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15714,6 +15746,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[5722] Phải thực hiện một chương trình tái sử dụng vải.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020143Z" creationid="LanHK" creationdate="20210508T020143Z">
+        <seg>[5722] Phải thực hiện một chương trình tái sử dụng đồ vải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[5724] Nếu khăn đã qua sử dụng đang đợi xử lý, chúng không được thay đổi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020159Z" creationid="LanHK" creationdate="20210508T020159Z">
+        <seg>[5724] Nếu khăn tắm đang treo, không được thay khăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[57344] Phải thay tất cả vải và áo choàng tắm sau khi Check-out.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T101530Z" creationid="LanHK" creationdate="20210428T101530Z">
@@ -17918,6 +17966,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103658Z" creationid="LanHK" creationdate="20210428T103658Z">
         <seg>[89400] Nên có tối thiểu một cũi trẻ em cho mỗi 100 phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89409]     phòng suites.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020313Z" creationid="LanHK" creationdate="20210508T020313Z">
+        <seg>[89409]     phòng suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89412] Không cho phép các phòng executive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020449Z" creationid="LanHK" creationdate="20210508T020449Z">
+        <seg>[89412] Không cho phép bố trí phòng executive.</seg>
       </tuv>
     </tu>
     <tu>
