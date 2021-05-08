@@ -3401,6 +3401,30 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Embroidery stitches: SOFT: 3590 stitches; FIRM: 3735 stitches [95649] Mũi khâu thêu: SOFT: 3590 mũi khâu; FIRM: 3735 mũi khâu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T050523Z" creationid="Kieu Lan" creationdate="20210508T050523Z">
+        <seg>Embroidery stitches: SOFT: 3590 stitches; FIRM: 3735 stitches [95649] Mũi thêu: SOFT: 3590 mũi; FIRM: 3735 mũi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Embroidery yarn colour: Pantone 429C [95648] Màu thêu sợi: Pantone 429C</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T050501Z" creationid="Kieu Lan" creationdate="20210508T050501Z">
+        <seg>Embroidery yarn colour: Pantone 429C [95648] Màu chỉ thêu: Pantone 429C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Embroidery yarn type: Polyester (Bleach resistance) [95590] Loại thêu: Polyester (Kháng tẩy trắng)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T050607Z" creationid="Kieu Lan" creationdate="20210508T050607Z">
+        <seg>Embroidery yarn type: Polyester (Bleach resistance) [95590] Loại chỉ thêu: Polyester (Kháng thuốc tẩy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emergency Annunciation</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154647Z" creationid="Kieu Lan" creationdate="20210405T154647Z">
@@ -17305,6 +17329,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035703Z" creationid="LanHK" creationdate="20210406T035644Z">
         <seg>[664051] Đặt phòng gián tiếp, ví dụ: booking thông qua Đại lý du lịch trực tuyến (OTA) sẽ không nhận được Welcome Amenity hoặc lợi ích từ tư cách thành viên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66506] Gối tổng hợp phải có sẵn theo yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051109Z" creationid="Kieu Lan" creationdate="20210508T051109Z">
+        <seg>[66506] Gối sợi tổng hợp phải có sẵn theo yêu cầu.</seg>
       </tuv>
     </tu>
     <tu>
