@@ -3863,6 +3863,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Firm pillows must be provided on the bed and must meet the following: [65926] Cung cấp gối bền phải trên giường và phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032839Z" creationid="LanHK" creationdate="20210508T032839Z">
+        <seg>Firm pillows must be provided on the bed and must meet the following: [65926] Cung cấp gối cứng trên giường và phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095449Z" creationid="LanHK" creationdate="20210405T095449Z">
@@ -6988,6 +6996,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T015026Z" creationid="LanHK" creationdate="20210508T015026Z">
         <seg>My Room -&gt; Bathroom Phòng tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Room -&gt; Bedding Phòng của tôi -&gt; Bộ đồ giường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032719Z" creationid="LanHK" creationdate="20210508T032719Z">
+        <seg>My Room -&gt; Bedding Ga gối</seg>
       </tuv>
     </tu>
     <tu>
@@ -13042,6 +13058,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[25802] Cung cấp bút với notepad.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032557Z" creationid="LanHK" creationdate="20210508T032557Z">
+        <seg>[25802] Cung cấp bút kèm notepad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[25807] Trường hợp khách xếp hàng, nhân viên phải cảm ơn họ vì đã chờ đợi.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T021746Z" creationid="Kieu Lan" creationdate="20210422T021742Z">
@@ -13886,6 +13910,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T023904Z" creationid="LanHK" creationdate="20210428T023904Z">
         <seg>[37738] Nếu là thùng rác đứng độc lập, thì phải to tối thiểu 7,5 lít (254fl oz) với nắp và bàn đạp chân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37954] Phải đặt cạnh điện thoại cạnh giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032602Z" creationid="LanHK" creationdate="20210508T032602Z">
+        <seg>[37954] Phải đặt cạnh điện thoại bên giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37957] Vật liệu nên được tái chế và tái chế bất cứ khi nào có thể.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032639Z" creationid="LanHK" creationdate="20210508T032639Z">
+        <seg>[37957] Vật liệu nên nên là vật liệu có thể tái chế và được  tái chế bất cứ khi nào có thể.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16026,6 +16066,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[56847] Không cho phép bút chì.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032611Z" creationid="LanHK" creationdate="20210508T032611Z">
+        <seg>[56847] Không cho phép dùng bút chì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[5684] Một nhân viên bán hàng (chẳng hạn như Giám đốc bán hàng) phải được tuyển dụng để hỗ trợ các chức năng liên quan đến bán hàng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T113058Z" creationid="LanHK" creationdate="20210419T113058Z">
@@ -17906,6 +17954,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78104]    Hướng dẫn về Quay số trực tiếp quốc tế (IDD), gọi nội địa, gọi từ phòng này sang phòng khác và quay số khẩn cấp địa phương (nếu có ở trong nước).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032712Z" creationid="LanHK" creationdate="20210508T032712Z">
+        <seg>[78104]    Hướng dẫn về Quay số trực tiếp quốc tế (IDD), gọi nội địa, gọi từ phòng này sang phòng khác và quay số khẩn cấp địa phương (nếu có).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78135] Nên sử dụng một ổ cắm liền kề với khu vực treo / lưu trữ quần áo</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T014613Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -19124,6 +19180,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T092604Z" creationid="LanHK" creationdate="20210423T091511Z">
         <seg>[96199] Hai tông xanh lá cây với hình cung Holiday Inn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[96206] Khăn trải giường phải được đặt ở cuối mỗi giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032732Z" creationid="LanHK" creationdate="20210508T032732Z">
+        <seg>[96206] phải có chăn trang trí đặt ở cuối mỗi giường.</seg>
       </tuv>
     </tu>
     <tu>
