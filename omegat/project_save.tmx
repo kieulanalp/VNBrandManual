@@ -11626,6 +11626,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112595]  Nên che khuất khu vực ngủ với khu vực tiếp khách/ làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T025835Z" creationid="LanHK" creationdate="20210508T025835Z">
+        <seg>[112595]  Nên che khuất khu vực ngủ khỏi khu vực tiếp khách/ làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112790]     Khu vực bếp / bếp nhỏ.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -12134,6 +12142,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[136129]    Phải cung cấp thanh ốp tường làm từ vật liệu nặng hoặc chống trầy xước ở độ cao 15cm (6in) và/hoặc 1m (40in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[136209] Hai mô đun tiêu chuẩn theo kích thước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030050Z" creationid="LanHK" creationdate="20210508T030050Z">
+        <seg>[136209] Kích thước bằng 2 mô đun tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[136210] Phòng có 1 giường king.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030100Z" creationid="LanHK" creationdate="20210508T030100Z">
+        <seg>[136210] Phòng khách có 1 giường king.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[136212]     Khu vực sống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030111Z" creationid="LanHK" creationdate="20210508T030111Z">
+        <seg>[136212]     Khu vực tiếp khách.</seg>
       </tuv>
     </tu>
     <tu>
