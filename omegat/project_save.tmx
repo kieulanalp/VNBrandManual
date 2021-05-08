@@ -6664,6 +6664,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum size: 26cm (D) x 36cm (H) (10in x 14in) [8420]      Kích thước tối đa: 26cm (D) x 36cm (H) (10in x 14in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015230Z" creationid="LanHK" creationdate="20210508T015230Z">
+        <seg>Maximum size: 26cm (D) x 36cm (H) (10in x 14in) [8420]      Kích thước tối đa: 26cm (đường kính) x 36cm (chiều cao) (10in x 14in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum spacing of 15m (50ft) [57732]     Khoảng cách tối đa 15m (50ft)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T094809Z" creationid="LanHK" creationdate="20210428T094809Z">
@@ -6812,6 +6820,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T094009Z" creationid="LanHK" creationdate="20210423T094003Z">
         <seg>Minimum of two lanes of traffic wide [57554]      Rộng tối thiểu hai làn xe lưu thông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum size: 18cm (D) x 25cm (H) (7.2in x 10in) [8419]       Kích thước tối thiểu: 18cm (D) x 25cm (H) (7.2in x 10in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T015223Z" creationid="LanHK" creationdate="20210508T015223Z">
+        <seg>Minimum size: 18cm (D) x 25cm (H) (7.2in x 10in) [8419]       Kích thước tối thiểu: 18cm (đường kính) x 25cm (chiều cao) (7.2in x 10in)</seg>
       </tuv>
     </tu>
     <tu>
