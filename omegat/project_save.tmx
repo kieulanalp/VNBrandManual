@@ -11746,6 +11746,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112794] Thiết kế nội thất của các suites phải phù hợp với chương trình thiết kế phòng khách tiêu chuẩn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031806Z" creationid="LanHK" creationdate="20210508T031806Z">
+        <seg>[112794] Thiết kế nội thất của các suites phải phù hợp với thiết kế phòng khách tiêu chuẩn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112796]   Một giường sofa kích thước đầy đủ với bàn cà phê và (các) bàn cạnh ghế với đèn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031843Z" creationid="LanHK" creationdate="20210508T031843Z">
+        <seg>[112796]   Khuyến nghị có một giường sofa full size với bàn cà phê và và bàn bên để đèn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112797] Một ghế phòng lounge với bàn ottoman và bàn occasional và đèn đọc sách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T032036Z" creationid="LanHK" creationdate="20210508T032036Z">
+        <seg>[112797] Một ghế phòng lounge với ottoman và bàn occasional và đèn đọc sách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112800] Cho phép bảng hoạt động thay thế bàn / khu vực làm việc tiêu chuẩn, phải được IHG phê duyệt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
