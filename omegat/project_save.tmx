@@ -11474,6 +11474,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[111024]      Phải kết hợp phòng khách tiêu chuẩn với phòng suite hai hoặc ba phòng với bếp nhỏ trong một tòa nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020656Z" creationid="LanHK" creationdate="20210508T020656Z">
+        <seg>[111024]      Phải kết hợp phòng khách tiêu chuẩn với suite hai hoặc ba phòng với bếp nhỏ trong một tòa nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[111704] Diện tích tối thiểu: 27m² (290 sq ft) không bao gồm ban công hoặc không gian ngoài trời.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020102Z" creationid="LanHK" creationdate="20210508T020102Z">
@@ -13858,6 +13866,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[45086] Yêu cầu các phòng liên kết.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020458Z" creationid="LanHK" creationdate="20210508T020458Z">
+        <seg>[45086] Yêu cầu có các phòng connecting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[4537] Thương hiệu phải luôn được sử dụng như đã đăng ký.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T040537Z" creationid="LanHK" creationdate="20210406T040537Z">
@@ -16194,6 +16210,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58420] Tất cả các phòng cho người khuyết tật phải kết nối với một phòng đôi liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020550Z" creationid="LanHK" creationdate="20210508T020550Z">
+        <seg>[58420] Tất cả các phòng cho người khuyết tật phải kết nối với một phòng twin liền kề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58421] Nên được đặt càng gần thực tế với sảnh thang máy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020610Z" creationid="LanHK" creationdate="20210508T020610Z">
+        <seg>[58421] Nên được bố trí gần nhất có thể với sảnh thang máy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58510]     Một công tắc ngắt điều hòa không khí.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T014909Z" creationid="LanHK" creationdate="20210508T014909Z">
@@ -17966,6 +17998,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103658Z" creationid="LanHK" creationdate="20210428T103658Z">
         <seg>[89400] Nên có tối thiểu một cũi trẻ em cho mỗi 100 phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89401] Số cuối cùng tùy thuộc vào nhu cầu thị trường và sự chấp thuận của IHG®</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020525Z" creationid="LanHK" creationdate="20210508T020525Z">
+        <seg>[89401] Số phòng cuối cùng tùy thuộc vào nhu cầu thị trường và sự chấp thuận của IHG®</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89402] 10% số phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020530Z" creationid="LanHK" creationdate="20210508T020530Z">
+        <seg>[89402] 10% số key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89405]     Tại tỷ lệ 1 trên 100 căn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T020542Z" creationid="LanHK" creationdate="20210508T020542Z">
+        <seg>[89405]     Tại tỷ lệ 1 trên 100 key.</seg>
       </tuv>
     </tu>
     <tu>
