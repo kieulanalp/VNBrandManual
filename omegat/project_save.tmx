@@ -7891,6 +7891,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pillow placement and embroidery example Ví dụ về ị trí đặt gối và thêu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044206Z" creationid="Kieu Lan" creationdate="20210508T044206Z">
+        <seg>Pillow placement and embroidery example Ví dụ về vị trí đặt gối và hình thêu (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pillow size: Single, Double and Queen beds - 50cm (20in) x 66cm (26.4in) [96013] Kích thước gối: Giường đơn, giường đôi và giường cỡ Queen - 50 cm (20 in) x 66cm (26,4in)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032854Z" creationid="LanHK" creationdate="20210508T032854Z">
@@ -7967,6 +7975,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Pipe size up to 50mm: maximum 0.6m/s Velocity [327088]     Kích thước ống lên tới 50mm: Vận tốc tối đa 0,6m/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piping: White (Queen, Double and Single) or Red (King) Đường ống: Trắng (Queen, Đôi và Đơn) hoặc Đỏ (King)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044042Z" creationid="Kieu Lan" creationdate="20210508T044042Z">
+        <seg>Piping: White (Queen, Double and Single) or Red (King) [65913] Viền gân: Trắng (Queen, Đôi và Đơn) hoặc Đỏ (King)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9461,6 +9477,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stitching: Double needle Khâu: Kim đôi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T043949Z" creationid="Kieu Lan" creationdate="20210508T043949Z">
+        <seg>Stitching: Double needle [65911] Khâu: Kim đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stitching: Double needle [65936] Khâu: Kim đôi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T041616Z" creationid="Kieu Lan" creationdate="20210508T041608Z">
@@ -10399,8 +10423,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [96008] Xử lý: Airy DuPont Teflon được xử lý (chống thấm nước &amp; dầu), vải chống ố</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042401Z" creationid="Kieu Lan" creationdate="20210508T042401Z">
-        <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [96008] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044017Z" creationid="Kieu Lan" creationdate="20210508T042401Z">
+        <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [95801] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
       </tuv>
     </tu>
     <tu>
@@ -12477,6 +12501,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[13796] Phải ở phông chữ Myriad Pro.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044211Z" creationid="Kieu Lan" creationdate="20210508T044211Z">
+        <seg>[13796] Phải dùng phông chữ Myriad Pro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[150051]    Một hệ thống sưởi ấm, thông gió và điều hòa không khí phải được cung cấp để loại bỏ nhiệt dư thừa và duy trì nhiệt độ tương tự như hành lang của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T085349Z" creationid="LanHK" creationdate="20210428T085349Z">
@@ -13673,6 +13705,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[319203] Bộ điều khiển và cài đặt mạng phải phù hợp với tất cả các ứng dụng điều khiển sử dụng bus tiêu chuẩn (ví dụ: Mạng điều hành cục bộ/LON, Mạng tự động hóa và điều khiển tòa nhà/BACNet hoặc EIB/KNX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[321] Chọn lựa loại mềm hoặc chắc chắn phải được chỉ ra rõ ràng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044106Z" creationid="Kieu Lan" creationdate="20210508T044106Z">
+        <seg>[321] Phải đánh dấu rõ là gối loại mềm hay cứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -19767,6 +19807,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T034129Z" creationid="LanHK" creationdate="20210406T034059Z">
         <seg>Báo cáo có thể được sử dụng để xác định tư cách thành viên, khách có tiềm năng đăng ký thành viên mới, yêu cầu đặt phòng đặc biệt hoặc vấn đề chăm sóc khách hàng, ưu tiên lưu trú của khách, thành viên Đại sứ và Đại sứ Hoàng gia để đảm bảo việc nâng cấp phòng và thành viên Spire Elite &amp; Platinum Elite để đảm bảo nâng cấp phòng nếu có sẵn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dòng chữ “Mềm” và “Chắc Chắn” phải được thêu ở góc trên bên phải của đầu bịt kín của vỏ gối.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044149Z" creationid="Kieu Lan" creationdate="20210508T044149Z">
+        <seg>chữ “Mềm” và “Cứng ” phải được thêu ở góc trên bên phải của đầu không có lỗ mở của vỏ gối.</seg>
       </tuv>
     </tu>
     <tu>
