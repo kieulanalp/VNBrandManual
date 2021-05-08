@@ -7893,8 +7893,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Pillow placement and embroidery example Ví dụ về ị trí đặt gối và thêu</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044206Z" creationid="Kieu Lan" creationdate="20210508T044206Z">
-        <seg>Pillow placement and embroidery example Ví dụ về vị trí đặt gối và hình thêu (thiếu link)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044235Z" creationid="Kieu Lan" creationdate="20210508T044206Z">
+        <seg>Pillow placement and embroidery example Ví dụ về vị trí đặt gối và chữ thêu (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18741,6 +18741,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[88346] Hướng thêu phải được đọc từ dưới lên trên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044241Z" creationid="Kieu Lan" creationdate="20210508T044241Z">
+        <seg>[88346] Hướng chữ thêu phải được đọc từ dưới lên trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[886] Đài phát thanh không được sử dụng làm nhạc nền.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125654Z" creationid="Kieu Lan" creationdate="20210423T125654Z">
@@ -19031,6 +19039,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T031028Z" creationid="LanHK" creationdate="20210424T031028Z">
         <seg>[94605]     Đối với bàn lễ tân dài hơn 5m (16ft 4in), có thể lắp đặt đèn bổ sung trên bàn với tỷ lệ một đèn mỗi 2,5m của quầy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[94897] Khi thêu nhận diện gối “mềm” và "chắc chắn", giường queen phải có tối thiểu một gối chắc chắn và một gối mềm ở mỗi bên của giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044340Z" creationid="Kieu Lan" creationdate="20210508T044340Z">
+        <seg>[94897] Khi thêu chữ gối “mềm” và "cứng", giường queen phải có tối thiểu một gối cứng và một gối mềm ở mỗi bên giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[94898] Khi thêu nhận diện gối “mềm” và "chắc chắn", giường đôi phải có tối thiểu một giường chắc chắn và một gối mềm trên mỗi giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044414Z" creationid="Kieu Lan" creationdate="20210508T044414Z">
+        <seg>[94898] Khi thêu chữ gối “mềm” và "cứng", giường twin phải có tối thiểu một gối cứng và một gối mềm trên mỗi giường.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19813,8 +19837,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>dòng chữ “Mềm” và “Chắc Chắn” phải được thêu ở góc trên bên phải của đầu bịt kín của vỏ gối.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044149Z" creationid="Kieu Lan" creationdate="20210508T044149Z">
-        <seg>chữ “Mềm” và “Cứng ” phải được thêu ở góc trên bên phải của đầu không có lỗ mở của vỏ gối.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044511Z" creationid="Kieu Lan" creationdate="20210508T044149Z">
+        <seg>chữ "soft" và "firm" (“Mềm” và “Cứng ”) phải được thêu ở góc trên bên phải của đầu không có lỗ mở của vỏ gối.</seg>
       </tuv>
     </tu>
     <tu>
