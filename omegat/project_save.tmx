@@ -7520,6 +7520,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One desk with desk chair and desk lamp [112843] Một bàn với ghế bàn và đèn bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031247Z" creationid="LanHK" creationdate="20210508T031247Z">
+        <seg>One desk with desk chair and desk lamp [112843] Một bàn làm việc với ghế và đèn bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One lounge / easy chair or sofa.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10890,6 +10898,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where Family suites are provided, they must meet the following: [112782] Trường hợp cung cấp bộ phòng Suites cho gia đình, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031059Z" creationid="LanHK" creationdate="20210508T031059Z">
+        <seg>Where Family suites are provided, they must meet the following: [112782] Trường hợp cung cấp Suites cho gia đình, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where URL and / or toll free telephone numbers are used on promotional giveaways and other collateral, the correct brand URL and CRO toll free number must be used.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11698,6 +11714,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112783]     Hai mô-đun tiêu chuẩn theo kích thước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031110Z" creationid="LanHK" creationdate="20210508T031110Z">
+        <seg>[112783] Kích thước bằng 2 mô đun tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112786]     Phòng có giường đôi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031122Z" creationid="LanHK" creationdate="20210508T031122Z">
+        <seg>[112786]     Phòng có giường twin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112790]     Khu vực bếp / bếp nhỏ.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11718,6 +11750,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[112828]       Ly/cốc cà phê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112842] Một chiếc tủ kệ có kích thước cho một tivi màn hình phẳng 106cm (42in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031228Z" creationid="LanHK" creationdate="20210508T031228Z">
+        <seg>[112842] Một tủ kệ có kích thước phù hợp cho một tivi màn hình phẳng 106cm (42in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113095] Khuyến nghị một bàn hoạt động lớn với hai ghế hoạt động với một đèn sàn gần khu vực bếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031535Z" creationid="LanHK" creationdate="20210508T031535Z">
+        <seg>[113095] Khuyến nghị có một bàn hoạt động lớn với hai ghế hoạt động với một đèn cây gần khu vực bếp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20013,6 +20061,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T042520Z" creationid="Kieu Lan" creationdate="20210417T042520Z">
         <seg>• Mortice lock with a minimum 2cm (¾in) throw thumb-turn deadbolt [56228] Tất cả các cửa phòng connecting phải có khóa lỗ mộng (có tay nắm gạt hoặc tay nắm tròn) với chốt vặn ngón cái tối thiểu 2cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• One lounge chair with side table and lamp lighting suitable for reading [112841] Một ghế lounge với bàn phụ và chiếu sáng đèn cho việc đọc sách</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T031205Z" creationid="LanHK" creationdate="20210508T031154Z">
+        <seg>• One lounge chair with side table and lamp lighting suitable for reading [112841] Một ghế lounge với bàn phụ và đèn chiếu phù hợp cho đọc sách</seg>
       </tuv>
     </tu>
     <tu>
