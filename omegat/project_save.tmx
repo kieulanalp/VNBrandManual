@@ -7915,6 +7915,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Piping: Yellow (Queen, Double and Single) or Blue (King) [65940] Đường ống: Vàng (Queen, Đôi và Đơn) hoặc Xanh lam (King)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042615Z" creationid="Kieu Lan" creationdate="20210508T042615Z">
+        <seg>Piping: Yellow (Queen, Double and Single) or Blue (King) [65940] Viền gân: Vàng (phòng Queen, Twin và Đơn) hoặc Xanh lam (Phòng King)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plant matrix Sơ đồ cây</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T133954Z" creationid="Kieu Lan" creationdate="20210423T133954Z">
