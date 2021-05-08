@@ -11634,6 +11634,46 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112606]    Phòng suite một phòng ngủ với cửa kết nối với phòng đôi tiêu chuẩn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030152Z" creationid="LanHK" creationdate="20210508T030152Z">
+        <seg>[112606]    Suite một phòng ngủ với cửa kết nối sang phòng twin tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112607] Phòng đôi tiêu chuẩn phải kết nối với phòng suite thông qua khu vực tiếp khách hoặc ăn uống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030205Z" creationid="LanHK" creationdate="20210508T030205Z">
+        <seg>[112607] Phòng  twin tiêu chuẩn phải kết nối với phòng suite thông qua khu vực tiếp khách hoặc ăn uống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112770]     1.5 mô đun tiêu chuẩn theo kích thước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030215Z" creationid="LanHK" creationdate="20210508T030215Z">
+        <seg>[112770]     Kích thước 1.5 mô đun tiêu chuẩn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112771]     Phòng khách với một giường king.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030224Z" creationid="LanHK" creationdate="20210508T030224Z">
+        <seg>[112771]     Phòng có một giường king.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112775]     Thiết bị trò chơi điện tử.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210508T030303Z" creationid="LanHK" creationdate="20210508T030303Z">
+        <seg>[112775]     Trò chơi điện tử.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112790]     Khu vực bếp / bếp nhỏ.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -12150,14 +12190,6 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T030050Z" creationid="LanHK" creationdate="20210508T030050Z">
         <seg>[136209] Kích thước bằng 2 mô đun tiêu chuẩn</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[136210] Phòng có 1 giường king.</seg>
-      </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T030100Z" creationid="LanHK" creationdate="20210508T030100Z">
-        <seg>[136210] Phòng khách có 1 giường king.</seg>
       </tuv>
     </tu>
     <tu>
