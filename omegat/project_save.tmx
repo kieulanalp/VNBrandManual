@@ -165,7 +165,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>ameoi;aoidu;a idjf j</note>
       <tuv lang="EN-US">
         <seg>(Trang 124)</seg>
       </tuv>
@@ -4737,6 +4736,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a "Holiday Inn® &amp; Suites" property, the following items must be available for the service of four guests: [112824]      Đối với tòa nhà "Holiday Inn® &amp; Suites", các mục sau đây luôn có sẵn để phục vụ bốn khách:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075304Z" creationid="LanHK" creationdate="20210510T075304Z">
+        <seg>For a "Holiday Inn® &amp; Suites" property, the following items must be available for the service of four guests: [112824]      Đối với khách sạn "Holiday Inn® &amp; Suites", các mục sau đây luôn có sẵn để phục vụ bốn khách:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a circuit flow rate &lt; 25 l/s a minimum efficiency of 70% [285434]     Đối với tốc độ dòng mạch &lt;25 l / s, hiệu suất tối thiểu 70%</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -7818,6 +7825,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Room -&gt; Guest Supplies -&gt; Kitchen Area Phòng của tôi -&gt; Đồ dùng cho khách -&gt; Khu vực bếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075243Z" creationid="LanHK" creationdate="20210510T075243Z">
+        <seg>My Room -&gt; Guest Supplies -&gt; Kitchen Area Đồ dùng cho khách -&gt; Khu vực bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Room -&gt; Guest Supplies Phòng của tôi -&gt; Đồ dùng cho khách</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033940Z" creationid="Kieu Lan" creationdate="20210510T033940Z">
@@ -8526,6 +8541,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T091529Z" creationid="LanHK" creationdate="20210405T091529Z">
         <seg>Suspended Ceiling Tiles&lt;t0/&gt; &lt;t1/&gt;Trần thạch cao nổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paper seals for toilet seat are not permitted [57353] Không cho phép bịt giấy vào chỗ ngồi nhà vệ sinh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075215Z" creationid="LanHK" creationdate="20210510T075215Z">
+        <seg>Paper seals for toilet seat are not permitted [57353] Không cho phép dùng lót giấy cho bệ toilet</seg>
       </tuv>
     </tu>
     <tu>
@@ -11236,6 +11259,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toilet roll stickers are not permitted [57354] Không cho phép miếng dán cuộn giấy vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075228Z" creationid="LanHK" creationdate="20210510T075228Z">
+        <seg>Toilet roll stickers are not permitted [57354] Không cho phép sticker dán cuộn giấy vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toilets [20168]     Nhà vệ sinh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T025956Z" creationid="LanHK" creationdate="20210428T025943Z">
@@ -11480,6 +11511,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Two robe/towel hooks in the drying area [92582]     Hai móc khăn tắm/áo tắm trong khu vực sấy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-ply toilet tissue [57352] Khăn giấy vệ sinh hai lớp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075153Z" creationid="LanHK" creationdate="20210510T075153Z">
+        <seg>Two-ply toilet tissue [57352] Giấy vệ sinh hai lớp</seg>
       </tuv>
     </tu>
     <tu>
@@ -13028,10 +13067,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112825]       Dao dĩa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075326Z" creationid="LanHK" creationdate="20210510T075311Z">
+        <seg>[112825]       Dao, dĩa, thìa, đũa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112828]       Ly / cốc cà phê</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[112828]       Ly/cốc cà phê</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075353Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[112828]       Cốc cà phê thường/cốc cà phê có quai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112830] Một đĩa an toàn lò vi sóng để sưởi ấm các mặt hàng thực phẩm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075452Z" creationid="LanHK" creationdate="20210510T075452Z">
+        <seg>[112830] Một đĩa có thể sử dụng lò vi sóng để làm nóng đồ ăn</seg>
       </tuv>
     </tu>
     <tu>
@@ -20666,6 +20721,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90530] Cho phép bổ sung một hộp đựng và cuộn giấy vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075237Z" creationid="LanHK" creationdate="20210510T075237Z">
+        <seg>[90530] Cho phép bổ sung một hộp đựng và một cuộn giấy vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90998] Nên tồn tại một liên kết trở về từ trang web của doanh nghiệp liên quan đến Trang web Khách sạn Độc lập.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T031201Z" creationid="LanHK" creationdate="20210407T031201Z">
@@ -20694,6 +20757,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[91361]       Máy chạy bộ phải tự động đặt lại tốc độ về 0kph/mph khi khởi động lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91798] Phải để dép trong tủ đựng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075142Z" creationid="LanHK" creationdate="20210510T075142Z">
+        <seg>[91798] Nên để dép trong tủ áo.</seg>
       </tuv>
     </tu>
     <tu>
