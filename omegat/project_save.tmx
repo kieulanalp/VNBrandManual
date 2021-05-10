@@ -118,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 119)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064537Z" creationid="Kieu Lan" creationdate="20210510T064537Z">
+        <seg>(Trang 118)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 12)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012952Z" creationid="LanHK" creationdate="20210406T012952Z">
         <seg>General&lt;t0/&gt; &lt;t1/&gt;Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 120)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064657Z" creationid="Kieu Lan" creationdate="20210510T064657Z">
+        <seg>(Trang 119)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2964,6 +2980,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063950Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Construction: 2/20s x Ne 10/1 x Ne 16/1 is recommended [67000] Kết cấu: khuyến nghị 2/20s x Ne 10/1 x Ne 16/1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Construction: Ne 10/1 x Ne 16/1 x Ne 10/1 is recommended [67016] Thi công: khuyến nghị Ne 10/1 x Ne 16/1 x Ne 10/1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064628Z" creationid="Kieu Lan" creationdate="20210510T064628Z">
+        <seg>Construction: Ne 10/1 x Ne 16/1 x Ne 10/1 is recommended [67016] Kết cấu: khuyến nghị Ne 10/1 x Ne 16/1 x Ne 10/1</seg>
       </tuv>
     </tu>
     <tu>
@@ -8576,6 +8600,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063934Z" creationid="Kieu Lan" creationdate="20210510T063934Z">
         <seg>Pile: Twofold [66893] Sợi khăn: sợi gấp đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pile: Twofold [67019] Đầu lông nhung: gấp đối</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064621Z" creationid="Kieu Lan" creationdate="20210510T064621Z">
+        <seg>Pile: Twofold [67019] Sợi khăn: sợi gấp đôi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18634,6 +18666,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064007Z" creationid="Kieu Lan" creationdate="20210510T064007Z">
         <seg>[67001] May viền: Khăn nên được may viền ở cả bốn phía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[67017] Uốn mép: Khăn nên được uốn mép ở bốn phía.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064643Z" creationid="Kieu Lan" creationdate="20210510T064643Z">
+        <seg>[67017] May viền: Khăn nên được may viền ở cả bốn phía.</seg>
       </tuv>
     </tu>
     <tu>
