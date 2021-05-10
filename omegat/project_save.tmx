@@ -13203,6 +13203,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113151] Bảo hành tối thiểu 10 năm chống lại khuyết tật sản xuất, lún và dấu vết.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T080437Z" creationid="LanHK" creationdate="20210510T080348Z">
+        <seg>[113151] Bảo hành tối thiểu 10 năm cho lỗi sản xuất, vết lún và hằn trên nệm do cơ thể người.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113152]     Tất cả các mẫu nệm được phê duyệt phải mang nhãn hiệu mô hình thương hiệu như được sản xuất và phát hành chỉ bởi các nhà sản xuất được ủy quyền.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T081219Z" creationid="LanHK" creationdate="20210510T081219Z">
+        <seg>[113152]     Tất cả các mẫu nệm được phê duyệt phải có nhãn số hiệu mẫu in logo thương hiệu được sản xuất và phát hành chỉ bởi các nhà sản xuất được ủy quyền.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113705] • Nên phụ thuộc vào vị trí cửa sổ kéo.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102711Z" creationid="LanHK" creationdate="20210428T102711Z">
