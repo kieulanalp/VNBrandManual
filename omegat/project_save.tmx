@@ -12734,6 +12734,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where sofa beds are provided, they must meet the following: [125058] Trường hợp cung cấp giường sofa, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091216Z" creationid="LanHK" creationdate="20210510T091216Z">
+        <seg>Where sofa beds are provided, they must meet the following: [125058] Trường hợp cung cấp sofa bed, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where stocked, the mini fridge must contain the following at the minimum: [57308] Trường hợp dự trữ, tủ lạnh mini phải có tối thiểu những loại sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061220Z" creationid="Kieu Lan" creationdate="20210510T061220Z">
@@ -13648,8 +13656,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[113655]     Phải được lên khung trang trí.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210510T091032Z" creationid="LanHK" creationdate="20210510T091032Z">
-        <seg>[113655]     Có `khung trang trí.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091035Z" creationid="LanHK" creationdate="20210510T091032Z">
+        <seg>[113655]     Có khung trang trí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14178,6 +14186,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044211Z" creationid="Kieu Lan" creationdate="20210508T044211Z">
         <seg>[13796] Phải dùng phông chữ Myriad Pro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[140052]     Một ghế có tay dựa/ lounge hoặc ghế sofa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091111Z" creationid="LanHK" creationdate="20210510T091111Z">
+        <seg>[140052]     Một ghế bành/ghế lounge hoặc ghế sofa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20502,6 +20518,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78134] Ghế lounge bổ sung cho ghế làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091140Z" creationid="LanHK" creationdate="20210510T091140Z">
+        <seg>[78134] Ghế lounge là bổ sung cho ghế làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78135] Nên sử dụng một ổ cắm liền kề với khu vực treo / lưu trữ quần áo</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T014613Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -21524,6 +21548,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90576]      Đệm và bọc toàn bộ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091157Z" creationid="LanHK" creationdate="20210510T091157Z">
+        <seg>[90576]      Có đệm và được bọc toàn bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90998] Nên tồn tại một liên kết trở về từ trang web của doanh nghiệp liên quan đến Trang web Khách sạn Độc lập.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T031201Z" creationid="LanHK" creationdate="20210407T031201Z">
@@ -21744,6 +21776,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033805Z" creationid="Kieu Lan" creationdate="20210510T033805Z">
         <seg>[955] Không cho phép dùng gối, vỏ ga gối hoặc bọc nệm ghế... có trang trí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[956] Yêu cầu tối thiểu một ghế ngồi lounge hoặc ghế sofa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091042Z" creationid="LanHK" creationdate="20210510T091042Z">
+        <seg>[956] Yêu cầu tối thiểu một ghế lounge hoặc ghế sofa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[957]  Không cho phép ghế ngả.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091121Z" creationid="LanHK" creationdate="20210510T091121Z">
+        <seg>[957]  Không cho phép ghế có thể ngả lưng</seg>
       </tuv>
     </tu>
     <tu>
