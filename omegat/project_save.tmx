@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 107)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012244Z" creationid="Kieu Lan" creationdate="20210510T012244Z">
+        <seg>(Trang 106)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 11)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012929Z" creationid="LanHK" creationdate="20210406T012929Z">
@@ -3048,6 +3056,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design pattern: Not permitted [66777] Mẫu thiết kế: Không được phép</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012130Z" creationid="Kieu Lan" creationdate="20210510T012130Z">
+        <seg>Design pattern: Not permitted [66777] Thiết kế trang trí: Không được phép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design reference image for signature wall Hình ảnh tham chiếu thiết kế cho tường đặc trưng.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T040342Z" creationid="Kieu Lan" creationdate="20210426T040300Z">
@@ -3445,6 +3461,14 @@ See also ID number Xem thêm số ID 26944</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T050607Z" creationid="Kieu Lan" creationdate="20210508T050607Z">
         <seg>Embroidery yarn type: Polyester (Bleach resistance) [95590] Loại chỉ thêu: Polyester (Kháng thuốc tẩy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Embroidery: Only for soft and firm pillows [66773] Thêu: Chỉ dành cho gối mềm và gối chắc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012345Z" creationid="Kieu Lan" creationdate="20210510T012343Z">
+        <seg>Embroidery: Only for soft and firm pillows [66773] Thêu: Chỉ dành cho gối mềm và gối cứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,6 +7851,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pattern: White-on-white patterns are permitted [66877] Khuôn mẫu: cho phép White-on-white</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012416Z" creationid="Kieu Lan" creationdate="20210510T012416Z">
+        <seg>Pattern: White-on-white patterns are permitted [66877] Họa tiết: cho phép họa tiết với các tông trắng khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay-Per-View movies or other programming rated NC-17, (X) or the equivalent are not permitted.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T040425Z" creationid="LanHK" creationdate="20210406T040425Z">
@@ -9317,6 +9349,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sheets and pillow covers must be provided and meet the following: [66517] Phải cung cấp khăn trải giường và vỏ gối và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012309Z" creationid="Kieu Lan" creationdate="20210510T012309Z">
+        <seg>Sheets and pillow covers must be provided and meet the following: [66517] Phải cung cấp ga giường và vỏ gối và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should be in an alcove [22324]       Nên ở trong một góc</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T064650Z" creationid="LanHK" creationdate="20210428T064650Z">
@@ -10277,6 +10317,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thread count per square inch: Minimum 200 [66763] Số lượng chỉ trên mỗi inch vuông: Tối thiểu 200</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012321Z" creationid="Kieu Lan" creationdate="20210510T012321Z">
+        <seg>Thread count per square inch: Minimum 200 [66763] Mật độ vải trên mỗi inch vuông: Tối thiểu 200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thread count per square inch: Minimum 200 [66779] Số lượng chỉ trên mỗi inch vuông: Tối thiểu 200</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012201Z" creationid="Kieu Lan" creationdate="20210510T012201Z">
+        <seg>Thread count per square inch: Minimum 200 [66779] Mật độ vải trên mỗi inch vuông: Tối thiểu 200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumb-turn lock operation on the guest room side of the door [274132]       Thao tác khóa trao tay cái ở phía cạnh cửa phòng khách</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T042705Z" creationid="Kieu Lan" creationdate="20210417T042557Z">
@@ -11097,6 +11153,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T041944Z" creationid="LanHK" creationdate="20210419T041944Z">
         <seg>Water depth must not be more than 60cm (2ft) deep [63902] Độ sâu của nước không quá 60cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weave: Plain Single Pick [66766] Dệt: Dệt bình thường loại đơn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012332Z" creationid="Kieu Lan" creationdate="20210510T012332Z">
+        <seg>Weave: Plain single pick [66766] Phương pháp dệt vải: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weave: Plain single pick [66780] Dệt: Dệt bình thường loại đơn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012238Z" creationid="Kieu Lan" creationdate="20210510T012238Z">
+        <seg>Weave: Plain single pick [66780] Phương pháp dệt vải: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
       </tuv>
     </tu>
     <tu>
