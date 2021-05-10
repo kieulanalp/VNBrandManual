@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 123)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T071503Z" creationid="Kieu Lan" creationdate="20210510T071503Z">
+        <seg>(Trang 122)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -8900,6 +8908,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pockets: Hand pockets are permitted [67084] Túi: cho phép túi xách tay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T071509Z" creationid="Kieu Lan" creationdate="20210510T071509Z">
+        <seg>Pockets: Hand pockets are permitted [67084] Túi: cho phép túi áo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Point of Sales</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011737Z" creationid="LanHK" creationdate="20210406T011737Z">
@@ -10138,6 +10154,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Site location/summary details [322315]     Chi tiết tổng kết/ vị trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size: One size fits all [67090] Kích thước: Một kích thước cho tất cả</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T071455Z" creationid="Kieu Lan" creationdate="20210510T071455Z">
+        <seg>Size: One size fits all [67090] Kích thước: one size fits all</seg>
       </tuv>
     </tu>
     <tu>
