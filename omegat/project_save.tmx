@@ -1854,6 +1854,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brand Central Path for artwork files_Sample water bottle security label sticker Sample water bottle security label sticker Đường dẫn trung tâm thương hiệu cho các tệp tác phẩm nghệ thuật_ Mẫu miếng dán an toàn chai nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T060738Z" creationid="Kieu Lan" creationdate="20210510T045745Z">
+        <seg>Brand Central Path for artwork files_Sample water bottle security label sticker Đường dẫn trung tâm thương hiệu cho các file hình vẽ_ Mẫu sticker an toàn chai nước (thiếu link)
+Sample water bottle security label sticker Mẫu sticker an toàn chai nước (thiếu link) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brand Identity &amp; Signage</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210508T031713Z" creationid="LanHK" creationdate="20210405T091941Z">
@@ -3071,6 +3080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cung cấp tối thiểu hai chai nước trong mỗi phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045649Z" creationid="Kieu Lan" creationdate="20210510T045649Z">
+        <seg>Cung cấp tối thiểu hai chai nước miễn phí trong mỗi phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curtains &lt;t0/&gt;and Sheers&lt;t1/&gt; &lt;t2/&gt;Màn Cửa và Rèm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T025623Z" creationid="LanHK" creationdate="20210405T025623Z">
@@ -3236,6 +3253,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T082052Z" creationid="LanHK" creationdate="20210407T022644Z">
         <seg>Digital Channels Reference guide Tài liệu hướng dẫn về kênh kỹ thuật số https://myfederate.ihg.com/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fmyfederate.ihg.com&amp;TargetResource=HTTPS://me2.ihgmerlin.com/web/hotel-solutions/solution-detail?solution-uuid=ad7f84e2-b966-43a9-a637-c5e0ce99b961</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dilmah Tea is recommended [675083] Trà Dilmah được khuyên dùng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045532Z" creationid="Kieu Lan" creationdate="20210510T045532Z">
+        <seg>Dilmah Tea is recommended [675083] Khuyến nghị dùng trà Dilmah</seg>
       </tuv>
     </tu>
     <tu>
@@ -11117,6 +11142,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two matching mugs with a minimum capacity of 250ml (8.4fl oz) [8084] Hai cốc phù hợp với dung tích tối thiểu 250ml (8.4fl oz)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045639Z" creationid="Kieu Lan" creationdate="20210510T045639Z">
+        <seg>Two matching mugs with a minimum capacity of 250ml (8.4fl oz) [8084] Hai cốc giống nhau với dung tích tối thiểu 250ml (8.4fl oz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two robe / towel hooks in the drying area [92582]     Hai móc khăn tắm / áo tắm trong khu vực sấy</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -13501,6 +13534,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[211049] Nước đóng chai phải là nhãn hiệu Holiday Inn Resort®, theo nhãn hoặc thẻ chai nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045707Z" creationid="Kieu Lan" creationdate="20210510T045707Z">
+        <seg>[211049] Nước đóng chai phải có nhãn hiệu Holiday Inn Resort®, hoặc ghi trên nhãn hoặc tag chai nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[21229] Một khu vực hút thuốc được chỉ định phải được cung cấp ngoài trời cho khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T072453Z" creationid="Kieu Lan" creationdate="20210422T072453Z">
@@ -14577,6 +14618,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T062948Z" creationid="Kieu Lan" creationdate="20210422T062948Z">
         <seg>[35765] Thông tin về dịch vụ vận chuyển luôn sẵn sàng khi khách cần biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[36064] Khay tiện ích nên có ngăn cho chân đế ấm và hệ thống dây điện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045608Z" creationid="Kieu Lan" creationdate="20210510T045608Z">
+        <seg>[36064] Khay amenity nên có khoang để cất đế ấm đun nước và dây điện.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19521,6 +19570,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043227Z" creationid="Kieu Lan" creationdate="20210510T043221Z">
         <seg>[8074] Phải có cửa sổ cho thấy mực nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[8083] Yêu cầu cốc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045618Z" creationid="Kieu Lan" creationdate="20210510T045618Z">
+        <seg>[8083] Yêu cầu cốc có quai</seg>
       </tuv>
     </tu>
     <tu>
