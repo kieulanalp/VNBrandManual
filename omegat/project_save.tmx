@@ -7804,6 +7804,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum size: 18cm x 25cm (7.2in x 10in) (D x H) [78127] Kích thước tối thiểu: 18cm x 25cm (7.2in x 10in) (D x H)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090035Z" creationid="LanHK" creationdate="20210510T090035Z">
+        <seg>Minimum size: 18cm x 25cm (7.2in x 10in) (D x H) [78127] Kích thước tối thiểu: 18cm x 25cm (7.2in x 10in) (đường kính x chiều cao)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum surface area of 0.58m² (6.24ft²) [37945]    Diện tích bề mặt tối thiểu 0,58m² (6,24ft²)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085938Z" creationid="LanHK" creationdate="20210510T085938Z">
+        <seg>Minimum surface area of 0.58m² (6.24ft²) [37945]    Diện tích mặt bàn tối thiểu 0,58m² (6,24ft²)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum width: 2/3 of fire stair width [335184]     Chiều rộng tối thiểu: 2/3 chiều rộng cầu thang chặn lửa</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T033259Z" creationid="Kieu Lan" creationdate="20210427T033259Z">
@@ -8640,6 +8656,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>One socket adjacent to the clothes hanging/storage area is recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One task light [56855]      Một đèn bổ sung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085929Z" creationid="LanHK" creationdate="20210510T085929Z">
+        <seg>One task light [56855]      Một đèn làm việc</seg>
       </tuv>
     </tu>
     <tu>
@@ -13742,6 +13766,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116166] Khuyến nghị diện tích bề mặt 0,64m²</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085947Z" creationid="LanHK" creationdate="20210510T085947Z">
+        <seg>[116166] Khuyến nghị diện tích mặt bàn 0,64m²</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[116167] Tối thiểu 1,5m (5ft) không gian lưu thông xung quanh quầy buffet và / hoặc hiển thị máy chủ nhà bếp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -13850,6 +13882,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T021217Z" creationid="LanHK" creationdate="20210428T020610Z">
         <seg>[12976] Biểu tượng giới tính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[13170] Phải cung cấp đèn bổ sung tại bàn làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085954Z" creationid="LanHK" creationdate="20210510T085954Z">
+        <seg>[13170] Phải cung cấp đèn làm việc tại bàn làm việc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18078,6 +18118,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[56907]       Không cho phép thùng nhựa đựng rác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090046Z" creationid="LanHK" creationdate="20210510T090046Z">
+        <seg>[56907]       Không cho phép thùng rác nhựa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[56908] Định hướng và thời gian đi lại gần đúng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T021517Z" creationid="LanHK" creationdate="20210424T021517Z">
@@ -20362,6 +20410,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T014613Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[78135] Khuyến nghị có 1 ổ cắm liền kề với khu vực treo/lưu trữ quần áo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78181]     Đạt được 300 lux ở cấp độ bề mặt làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090009Z" creationid="LanHK" creationdate="20210510T090009Z">
+        <seg>[78181]     Đạt 300 lux ở mức mặt bàn làm việc</seg>
       </tuv>
     </tu>
     <tu>
