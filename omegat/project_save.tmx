@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A maximum of three of the following spirits are required: [67508] Yêu cầu tối đa ba trong số các loại spirit sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T062119Z" creationid="Kieu Lan" creationdate="20210510T062119Z">
+        <seg>A maximum of three of the following spirits are required: [67508] Yêu cầu tối đa ba trong số các loại rượu mạnh sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum clearance height of 2.2m (7ft 4in) must be provided at all car parking bays [22293] Chiều cao khoảng cách tối thiểu là 2,2m (7ft 4in) tại tất cả các bãi đậu xe ô tô</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T084157Z" creationid="LanHK" creationdate="20210422T084157Z">
@@ -12110,6 +12118,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where the mini fridge is stocked, the minimum glassware must be provided: [607059] Nếu để đồ tủ lạnh mini, phải cung cấp dụng cụ thủy tinh tối thiểu:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T062233Z" creationid="Kieu Lan" creationdate="20210510T062233Z">
+        <seg>Where the mini fridge is stocked, the minimum glassware must be provided: [607059] Nếu để đồ tủ lạnh mini, phải cung cấp các ly thủy tinh tối thiểu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where the sculptural art wall is installed,  it must meet the following: [77599] Nếu lắp đặt tường nghệ thuật điêu khắc, nó phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T074600Z" creationid="LanHK" creationdate="20210426T072215Z">
@@ -12170,6 +12186,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T072458Z" creationid="LanHK" creationdate="20210419T072436Z">
         <seg>Where window stops are prohibited, a warning sign in the local language(s) and English must be provided [56515]      Nếu chốt chặn cửa sổ bị cấm, phải cung cấp một biển cảnh báo bằng (các) ngôn ngữ địa phương và tiếng Anh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whiskey/Bourbon, Vodka, Gin, Brandy/Cognac or Rum [67515] Whiskey/Bourbon, Vodka, Gin, Brandy/Cognac hoặc Rum</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T062131Z" creationid="Kieu Lan" creationdate="20210510T062131Z">
+        <seg>Whiskey/Bourbon, Vodka, Gin, Brandy/Cognac or Rum [67515]</seg>
       </tuv>
     </tu>
     <tu>
@@ -17970,6 +17994,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T105510Z" creationid="LanHK" creationdate="20210419T105510Z">
         <seg>[606050]      Ánh sáng trong phòng máy bán hàng tự động và phòng giặt luôn phải bật hoặc phải tự động bật khi khách vào phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[607063] Nếu tủ lạnh mini có các sản phẩm đóng chai, phải cung cấp dụng cụ mở rượu hoặc mở chai đi kèm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T062145Z" creationid="Kieu Lan" creationdate="20210510T062145Z">
+        <seg>[607063] Nếu tủ lạnh mini có các sản phẩm đóng chai, phải cung cấp dụng cụ mở rượu hoặc mở chai phù hợp.</seg>
       </tuv>
     </tu>
     <tu>
