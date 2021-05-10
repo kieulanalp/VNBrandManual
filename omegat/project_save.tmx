@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 122)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065114Z" creationid="Kieu Lan" creationdate="20210510T065114Z">
+        <seg>(Trang 121)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -4167,6 +4175,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065020Z" creationid="Kieu Lan" creationdate="20210510T065020Z">
         <seg>Facial Tissue Example Ví dụ về khăn giấy (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facial tissues must be two-ply [57359] Khăn giấy phải hai lớp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065057Z" creationid="Kieu Lan" creationdate="20210510T065057Z">
+        <seg>Facial tissues must be two-ply [57359] Phải là khăn giấy hai lớp</seg>
       </tuv>
     </tu>
     <tu>
@@ -20656,6 +20672,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T031028Z" creationid="LanHK" creationdate="20210424T031028Z">
         <seg>[94605]     Đối với bàn lễ tân dài hơn 5m (16ft 4in), có thể lắp đặt đèn bổ sung trên bàn với tỷ lệ một đèn mỗi 2,5m của quầy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[94805] Nếu phòng tắm có bốn thiết bị, cần có một thảm nhà tắm nữa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065112Z" creationid="Kieu Lan" creationdate="20210510T065112Z">
+        <seg>[94805] Nếu phòng tắm có bốn thiết bị, cần có thêm một thảm nhà tắm.</seg>
       </tuv>
     </tu>
     <tu>
