@@ -2223,6 +2223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Casing Weave: Percale Single Pick [66788] Dệt ren: bình thường kiểu đơn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012732Z" creationid="Kieu Lan" creationdate="20210510T012732Z">
+        <seg>Casing weave: Plain single pick [66788] Phương pháp dệt vải vỏ chăn: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Casing material: 100% Cotton Chất liệu vỏ: 100% cotton</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051416Z" creationid="Kieu Lan" creationdate="20210508T042930Z">
@@ -3958,6 +3966,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042830Z" creationid="Kieu Lan" creationdate="20210508T042800Z">
         <seg>Filling material: 50% duck feather, 50% duck down [96036] Chất liệu ruột gối: 50% lông vũ vịt, 50% lông vịt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filling material: Duck down filling 50% cluster [66784] Chất liệu nhồi đầy: Nhồi đầy lông tơ vịt 50%</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013303Z" creationid="Kieu Lan" creationdate="20210510T013303Z">
+        <seg>Filling material: Duck down filling 50% cluster [66784] Chất liệu ruột chăn: Nhồi đầy lông vũ vịt 50%</seg>
       </tuv>
     </tu>
     <tu>
