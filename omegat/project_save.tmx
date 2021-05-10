@@ -13975,8 +13975,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[28565] Vải lanh phải được loại bỏ khỏi dịch vụ nếu xuất hiện vết bẩn vĩnh viễn hoặc sờn.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033310Z" creationid="Kieu Lan" creationdate="20210510T033310Z">
-        <seg>[28565] Đồ vải phải được loại bỏ nếu xuất hiện vết bẩn vĩnh viễn hoặc sờn.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033450Z" creationid="Kieu Lan" creationdate="20210510T033310Z">
+        <seg>[28565] Đồ vải phải được loại bỏ nếu xuất hiện vết bẩn vĩnh viễn hoặc bị sờn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14561,6 +14561,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T023904Z" creationid="LanHK" creationdate="20210428T023904Z">
         <seg>[37738] Nếu là thùng rác đứng độc lập, thì phải to tối thiểu 7,5 lít (254fl oz) với nắp và bàn đạp chân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37889] Phải thay đổi tất cả vải lanh theo yêu cầu của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033616Z" creationid="Kieu Lan" creationdate="20210510T033502Z">
+        <seg>[37889] Phải thay đồ vải theo yêu cầu của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37892] Trừ khi khách yêu cầu, phải thay đổi vải lanh tối thiểu mỗi lần vào ngày thứ ba, sau đêm thứ hai, cho các lần lưu trú liên tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033543Z" creationid="Kieu Lan" creationdate="20210510T033543Z">
+        <seg>[37892] Trừ khi khách yêu cầu, phải thay đổi chăn ga gối... tối thiểu ba ngày 1 lần, sau đêm thứ hai, cho các khách lưu trú liên tục.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37896] Tất cả vải lanh trong phòng, bất kể chúng được sử dụng, phải được thay đổi và giặt tối thiểu mỗi lần khách rời đi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033600Z" creationid="Kieu Lan" creationdate="20210510T033600Z">
+        <seg>[37896] Tất cả đồ vảitrong phòng, bất kể chúng được sử dụng, phải được thay đổi và giặt tối thiểu mỗi lần khách rời đi.</seg>
       </tuv>
     </tu>
     <tu>
