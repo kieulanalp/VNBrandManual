@@ -9437,6 +9437,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reading lighting must meet the following: [78907] Chiếu sáng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084929Z" creationid="LanHK" creationdate="20210510T084929Z">
+        <seg>Reading lighting must meet the following: [78907] Đèn đọc sách phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Receive a signature from each guest on the group signing in sheet [37666] Nhận chữ ký từ mỗi khách trên bảng truy cập nhóm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T023950Z" creationid="LanHK" creationdate="20210424T023556Z">
@@ -11280,8 +11288,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>The wardrobe/closet must meet the following: [102639] Tủ quần áo / tủ đựng phải đáp ứng như sau</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>The wardrobe/closet must meet the following: [102639] Tủ quần áo/tủ đựng phải đáp ứng như sau</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085110Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>The wardrobe/closet must meet the following: [102639] Tủ quần áo phải đáp ứng như sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -13434,6 +13442,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T083953Z" creationid="LanHK" creationdate="20210510T083953Z">
         <seg>[113171] Khuyến nghị vách đầu giường đủ rộng để bao gồm giường và tab đầu giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113178] Một kệ đủ rộng với một thanh treo kim loại bên dưới.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085132Z" creationid="LanHK" creationdate="20210510T085132Z">
+        <seg>[113178] Một kệ full chiều rộng với thanh treo kim loại bên dưới.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19646,6 +19662,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[710109] Đề xuất đèn dimmer có kiểm soát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085047Z" creationid="LanHK" creationdate="20210510T085047Z">
+        <seg>[710109] Khuyến nghị đèn có dimmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[710110] Góc chùm hẹp tối đa 24 độ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085018Z" creationid="LanHK" creationdate="20210510T085018Z">
+        <seg>[710110] Góc chùm sáng tối đa 24 độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[716049] Màu sắc và phông chữ chung phải phù hợp với thương hiệu phù hợp</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T013709Z" creationid="LanHK" creationdate="20210407T013709Z">
@@ -20282,6 +20314,54 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[78798]     Chiếu sáng phải tuân theo các thông số kỹ thuật tương tự như nhà bếp/pantry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78902] Chiếu sáng cạnh giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084921Z" creationid="LanHK" creationdate="20210510T084921Z">
+        <seg>[78902] Đèn đầu giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78903] Chiếu sáng đọc sách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084915Z" creationid="LanHK" creationdate="20210510T084915Z">
+        <seg>[78903] Đèn đọc sách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78904] Phòng có một giường: đặt ở hai bên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085054Z" creationid="LanHK" creationdate="20210510T085054Z">
+        <seg>[78904] Phòng một giường: đặt ở hai bên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78905] Phòng có hai giường: giữa giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085100Z" creationid="LanHK" creationdate="20210510T085100Z">
+        <seg>[78905] Phòng có hai giường: giữa hai giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78908] Một nguồn sáng được kiểm soát riêng lẻ cho mỗi vị trí ngủ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084939Z" creationid="LanHK" creationdate="20210510T084939Z">
+        <seg>[78908] Một nguồn sáng được kiểm soát riêng cho mỗi vị trí ngủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78909] Đặt bên cạnh hoặc phía trên của mỗi giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084948Z" creationid="LanHK" creationdate="20210510T084948Z">
+        <seg>[78909] Bố trí cạnh hoặc phía trên mỗi giường.</seg>
       </tuv>
     </tu>
     <tu>
