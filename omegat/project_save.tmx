@@ -13366,6 +13366,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113167]    Phải ít nhất là chiều rộng của giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T083927Z" creationid="LanHK" creationdate="20210510T083927Z">
+        <seg>[113167]    Phải rộng tối thiểu bằng chiều rộng của giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113705] • Nên phụ thuộc vào vị trí cửa sổ kéo.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102711Z" creationid="LanHK" creationdate="20210428T102711Z">
@@ -14026,6 +14034,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103405Z" creationid="LanHK" creationdate="20210428T103356Z">
         <seg>[163103] Bản giấy Danh mục dịch vụ, nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[17147] Trường hợp giường đôi hollywood được liên kết bằng zip, một lớp phủ nệm phải phủ đầy đủ cho cả hai giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T083902Z" creationid="LanHK" creationdate="20210510T083902Z">
+        <seg>[17147] Trường hợp giường twin hollywood được liên kết bằng khóa zip, một topper nệm phải phủ được cả hai giường.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21048,6 +21064,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093206Z" creationid="LanHK" creationdate="20210415T093206Z">
         <seg>[93420] Trong trường hợp không đủ chỗ để để cả URL thương hiệu và số điện thoại miễn phí, thì được phép chỉ để chi tiết URL thương hiệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[941] Phải cung cấp một tấm ván đầu giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T083912Z" creationid="LanHK" creationdate="20210510T083912Z">
+        <seg>[941] Phải có vách đầu giường.</seg>
       </tuv>
     </tu>
     <tu>
