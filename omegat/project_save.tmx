@@ -7323,6 +7323,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be wooden with securely fastened metal hook [58791] Phải bằng gỗ với móc kim loại buộc chặt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041720Z" creationid="Kieu Lan" creationdate="20210510T041720Z">
+        <seg>Must be wooden with securely fastened metal hook [58791] Phải bằng gỗ với móc kim loại chắc chắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must exit directly to the exterior or via a Protected Corridor that leads to the exterior [56311] Phải thoát trực tiếp ra bên ngoài hoặc qua Hành lang được bảo vệ dẫn ra bên ngoài</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T093026Z" creationid="LanHK" creationdate="20210416T093026Z">
@@ -7335,6 +7343,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T094959Z" creationid="Kieu Lan" creationdate="20210427T094959Z">
         <seg>Must extend past the last tread [15682]       Phải kéo dài qua bậc thang cuối cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must have a metal hook size to fit closet rod [58793] Móc kim loại có kích thước phù hợp với thanh tủ quần áo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041756Z" creationid="Kieu Lan" creationdate="20210510T041756Z">
+        <seg>Must have a metal hook size to fit closet rod [58793] Móc kim loại có kích thước phù hợp với thanh treo trong tủ quần áo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must have a natural lacquered finish [58792] Phải có hoàn thiện sơn mài tự nhiên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041725Z" creationid="Kieu Lan" creationdate="20210510T041725Z">
+        <seg>Must have a natural lacquered finish [58792] Phải có hoàn thiện sơn tự nhiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must have indentation for garment loops [58795] Phải có vết lõm cho móc vải</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041845Z" creationid="Kieu Lan" creationdate="20210510T041845Z">
+        <seg>Must have indentation for garment loops [58795] Phải có đoạn lõm để mắc dây trên trang phục</seg>
       </tuv>
     </tu>
     <tu>
@@ -17457,6 +17489,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041436Z" creationid="Kieu Lan" creationdate="20210510T041436Z">
         <seg>[58788] Yêu cầu tối thiểu ba mắc treo váy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58790] Không cho phép móc treo an ninh, móc chống trộm và móc mở có thể tháo rời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041707Z" creationid="Kieu Lan" creationdate="20210510T041707Z">
+        <seg>[58790] Không cho phép mắc chống trộm và móc treo gắn tường có thể tháo rời</seg>
       </tuv>
     </tu>
     <tu>
