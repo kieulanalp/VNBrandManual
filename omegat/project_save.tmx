@@ -12957,6 +12957,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[13736] Khi được in, Danh mục Dịch vụ phải được đặt trên hoặc trong lối vào có thể nhìn thấy của bàn làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T034039Z" creationid="Kieu Lan" creationdate="20210510T034039Z">
+        <seg>[13736] Nếu là bản in, Danh mục Dịch vụ phải được đặt trên hoặc trong xung quanh khu vực của bàn làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[13749] Cung cấp thêm gối mềm và chắc chắn nên được giữ với Buồng phòng để hỗ trợ các yêu cầu bổ sung của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T100640Z" creationid="LanHK" creationdate="20210428T100640Z">
@@ -14569,6 +14577,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T023904Z" creationid="LanHK" creationdate="20210428T023904Z">
         <seg>[37738] Nếu là thùng rác đứng độc lập, thì phải to tối thiểu 7,5 lít (254fl oz) với nắp và bàn đạp chân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37797] Thư mục phải được xem xét tối thiểu ba tháng một lần bởi khách sạn và được cập nhật khi cần thiết hoặc theo hướng của IHG.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T034014Z" creationid="Kieu Lan" creationdate="20210510T034014Z">
+        <seg>[37797] Danh mục phải được xem xét tối thiểu ba tháng một lần bởi khách sạn và được cập nhật khi cần thiết hoặc theo hướng của IHG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19209,6 +19225,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T025543Z" creationid="Kieu Lan" creationdate="20210422T025543Z">
         <seg>[86] Phải giữ đặt phòng đảm bảo cho đến giờ Check out ngày hôm sau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[87018] Nó phải được hiển thị toàn bộ, dưới dạng bản in hoặc được tải trên hệ thống TV.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T034001Z" creationid="Kieu Lan" creationdate="20210510T034001Z">
+        <seg>[87018] Nó phải đầy đủ, dưới dạng bản in hoặc được bản mềm trên hệ thống TV.</seg>
       </tuv>
     </tu>
     <tu>
