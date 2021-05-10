@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 127)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084527Z" creationid="LanHK" creationdate="20210510T084527Z">
+        <seg>(Trang 125)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T073124Z" creationid="Kieu Lan" creationdate="20210331T073124Z">
         <seg>Bedding&lt;t0/&gt; &lt;t1/&gt;Giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bedside tables(s) must be provided as follows: [945] (Các) bàn cạnh giường ngủ phải được cung cấp như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084332Z" creationid="LanHK" creationdate="20210510T084332Z">
+        <seg>Bedside tables(s) must be provided as follows: [945] Tab đầu giường phải được cung cấp như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12574,6 +12590,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where provided, rollaway beds must meet the following: [43230] Trường hợp được cung cấp, giường gấp phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084306Z" creationid="LanHK" creationdate="20210510T084306Z">
+        <seg>Where provided, rollaway beds must meet the following: [43230] Trường hợp được cung cấp, giường phụ phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where single occupant restrooms are provided, they must be lockable from the inside by the guest [22325] Khi cung cấp phòng vệ sinh có một người dùng, khách có thể khóa từ bên trong</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T020238Z" creationid="LanHK" creationdate="20210428T020238Z">
@@ -12634,6 +12658,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T040358Z" creationid="Kieu Lan" creationdate="20210426T040358Z">
         <seg>Where the signature back wall is installed, it must meet the following: [77598] Trường hợp lắp đặt tường đặc trưng sau quầy lễ tân, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where there are two beds in the room a minimum of one bedside table is required [947] Trong trường hợp có hai giường trong phòng thì cần tối thiểu một bàn cạnh giường ngủ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084518Z" creationid="LanHK" creationdate="20210510T084518Z">
+        <seg>Where there are two beds in the room a minimum of one bedside table is required [947] Trong trường hợp có hai giường trong phòng thì cần tối thiểu một tab đầu giường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where there is one bed in the room a bedside table is required on both sides [946]     Trường hợp có một giường trong phòng thì phải có bàn cạnh giường ngủ ở cả hai bên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084454Z" creationid="LanHK" creationdate="20210510T084454Z">
+        <seg>Where there is one bed in the room a bedside table is required on both sides [946]     Trường hợp phòng có một giường thì phải có tab đầu giường ở cả hai bên</seg>
       </tuv>
     </tu>
     <tu>
@@ -15110,6 +15150,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[29520] Trong phòng đôi có khóa kéo và giường liên kết, bàn cạnh giường ngủ phải có thể di chuyển được.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084613Z" creationid="LanHK" creationdate="20210510T084613Z">
+        <seg>[29520] Trong phòng twin có giường zip and link (giường twin dùng khóa zip để nối lại với nhau), tab đầu giường phải di động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[295] Phải cung cấp một cũi trẻ em khi được yêu cầu.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103409Z" creationid="LanHK" creationdate="20210428T103409Z">
@@ -15970,6 +16018,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102902Z" creationid="LanHK" creationdate="20210428T102902Z">
         <seg>[428] Tiện ích trong phòng và phòng tắm phải được duy trì tốt và hoạt động trơn tru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[43234] Nệm có lò xo bọc bên trong phải dày tối thiểu 10cm (4in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084321Z" creationid="LanHK" creationdate="20210510T084321Z">
+        <seg>[43234] Nệm lò xo phải dày tối thiểu 10cm (4in).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18618,6 +18674,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T084115Z" creationid="LanHK" creationdate="20210510T084115Z">
         <seg>[58845] Nếu không có nhãn hướng dẫn trên nệm, phải có tài liệu ghi lại lịch lật nệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58850] Giường phụ có nệm phải có gối và được dọn dẹp hoàn toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084254Z" creationid="LanHK" creationdate="20210510T084254Z">
+        <seg>[58850] Giường phụ có nệm phải có gối và được làm giường đầy đủ.</seg>
       </tuv>
     </tu>
     <tu>
