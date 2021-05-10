@@ -165,6 +165,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>ameoi;aoidu;a idjf j</note>
+      <tuv lang="EN-US">
+        <seg>(Trang 124)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
@@ -3381,6 +3387,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T071435Z" creationid="Kieu Lan" creationdate="20210510T071435Z">
         <seg>Design: Must be plain finish with no header or coloured borders [67081] Thiết kế: Phải là hoàn thiện đơn giản, viền áo không có chữ hoặc màu trang trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design: Must be plain finish without patterns or woven motifs [67023] Thiết kế: Phải hoàn thiện đơn giản mà không có hoa văn hoặc họa tiết dệt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T074933Z" creationid="LanHK" creationdate="20210510T074933Z">
+        <seg>Design: Must be plain finish without patterns or woven motifs [67023] Thiết kế: Phải hoàn thiện đơn giản không có hoa văn hoặc họa tiết dệt</seg>
       </tuv>
     </tu>
     <tu>
