@@ -350,10 +350,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>360° Cordless Rotational Base Example 1 Ví dụ 1 chấn đế xoay không dây 360°</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043208Z" creationid="Kieu Lan" creationdate="20210510T043208Z">
+        <seg>360° Cordless Rotational Base Example 1 Ví dụ 1 đế không dây xoay 360° (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>360° Cordless Rotational Base Example 2 Ví dụ 2 chấn đế xoay không dây 360°</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043128Z" creationid="Kieu Lan" creationdate="20210510T043128Z">
-        <seg>360° Cordless Rotational Base Example 2 Ví dụ 2 đế không dây xoay 360°</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043143Z" creationid="Kieu Lan" creationdate="20210510T043128Z">
+        <seg>360° Cordless Rotational Base Example 2 Ví dụ 2 đế không dây xoay 360° (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T062347Z" creationid="LanHK" creationdate="20210419T062347Z">
         <seg>Assemblies [241067]       Cấu kiện lắp ráp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attached and assisted lid [13754] Nắp đính kèm và hỗ trợ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043344Z" creationid="Kieu Lan" creationdate="20210510T043344Z">
+        <seg>Attached and assisted lid [13754] Nắp gắn liền và có lò xo hỗ trợ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5196,16 +5212,16 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Hard-wired Base Plate Example (black) Ví dụ về tấm đế dây cứng (màu đen)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042914Z" creationid="Kieu Lan" creationdate="20210510T042914Z">
-        <seg>Hard-wired Base Plate Example (black) Ví dụ về tấm đế có dây điện (đen)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043156Z" creationid="Kieu Lan" creationdate="20210510T042914Z">
+        <seg>Hard-wired Base Plate Example (black) Ví dụ về tấm đế có dây điện (đen) (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Hard-wired Base Plate Example (white) Ví dụ về tấm đế dây cứng (màu trắng)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042904Z" creationid="Kieu Lan" creationdate="20210510T042904Z">
-        <seg>Hard-wired Base Plate Example (white) Ví dụ về tấm đế có dây điện (trắng)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043149Z" creationid="Kieu Lan" creationdate="20210510T042904Z">
+        <seg>Hard-wired Base Plate Example (white) Ví dụ về tấm đế có dây điện (trắng) (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11537,6 +11553,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T020509Z" creationid="Kieu Lan" creationdate="20210426T020509Z">
         <seg>Walls behind the front desk must meet the following: [102716] Tường phía sau bàn lễ tân phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Level Indicator Window 1 Cửa sổ chỉ báo mực nước 1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043246Z" creationid="Kieu Lan" creationdate="20210510T043246Z">
+        <seg>Water Level Indicator Window 1 Cửa sổ cho thấy mực nước 1 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Level Indicator Window 2 Cửa sổ chỉ báo mực nước 2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043239Z" creationid="Kieu Lan" creationdate="20210510T043239Z">
+        <seg>Water Level Indicator Window 2 Cửa sổ cho thấy mực nước 2 (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19385,6 +19417,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043007Z" creationid="Kieu Lan" creationdate="20210510T043007Z">
         <seg>[8073] Yêu cầu đế không dây xoay 360° để phục vụ cho cả người thuận tay trái hoặc tay phải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[8074] Phải có cửa sổ chỉ báo mực nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043227Z" creationid="Kieu Lan" creationdate="20210510T043221Z">
+        <seg>[8074] Phải có cửa sổ cho thấy mực nước.</seg>
       </tuv>
     </tu>
     <tu>
