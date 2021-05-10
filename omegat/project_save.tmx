@@ -13038,6 +13038,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[102669]       Được gắn trong khu vực ngủ hoặc khu vực lối vào.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090357Z" creationid="LanHK" creationdate="20210510T090357Z">
+        <seg>[102669]       gắn trong khu vực ngủ hoặc khu vực lối vào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[102710] Cung cấp chiếu sáng khu vực bên ngoài khách sạn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T100305Z" creationid="LanHK" creationdate="20210422T100305Z">
@@ -13626,6 +13634,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T085521Z" creationid="LanHK" creationdate="20210510T085521Z">
         <seg>[113187] Khuyến nghị thanh treo có chiều dài 1,20m (4ft)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113654]     Phải được cố định an toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090408Z" creationid="LanHK" creationdate="20210510T090408Z">
+        <seg>[113654]     Phải được cố định chắc chắn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113655]     Phải được lên khung trang trí.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091032Z" creationid="LanHK" creationdate="20210510T091032Z">
+        <seg>[113655]     Có `khung trang trí.</seg>
       </tuv>
     </tu>
     <tu>
