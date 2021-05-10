@@ -7291,6 +7291,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be sized to fully cover the top of the mattress after normal shrinkage due to laundering [8543] Phải có kích thước để che hoàn toàn mặt trên của nệm sau khi co rút bình thường do giặt giũ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031425Z" creationid="Kieu Lan" creationdate="20210510T031425Z">
+        <seg>Must be sized to fully cover the top of the mattress after normal shrinkage due to laundering [8543] Phải che kín mặt trên của nệm sau khi vải co rút bình thường do giặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must exit directly to the exterior or via a Protected Corridor that leads to the exterior [56311] Phải thoát trực tiếp ra bên ngoài hoặc qua Hành lang được bảo vệ dẫn ra bên ngoài</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T093026Z" creationid="LanHK" creationdate="20210416T093026Z">
@@ -10777,6 +10785,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030932Z" creationid="Kieu Lan" creationdate="20210510T030932Z">
         <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [95804] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treatment: Airy, DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [96007] Xử lý: Thoáng mát, xử lý bằng DuPont Teflon (chống thấm nước &amp; dầu), vải chống ố</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031436Z" creationid="Kieu Lan" creationdate="20210510T031436Z">
+        <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [96007] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
       </tuv>
     </tu>
     <tu>
@@ -19121,6 +19137,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T013433Z" creationid="LanHK" creationdate="20210424T013433Z">
         <seg>[87800]      Thiết kế của thùng gạt tàn phải đồng bộ với ghế băng và tuân thủ các phương án thiết kế kèm theo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[87922] Khâu: Vách ngăn 5cm (2in), từ đầu đến cuối, khâu đôi để tránh rò rỉ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032647Z" creationid="Kieu Lan" creationdate="20210510T032647Z">
+        <seg>[87922] Đường may: topper dày 5cm</seg>
       </tuv>
     </tu>
     <tu>
