@@ -2623,6 +2623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clips must be padded on the inside [58796] Ghim phải được đệm ở bên trong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041924Z" creationid="Kieu Lan" creationdate="20210510T041924Z">
+        <seg>Clips must be padded on the inside [58796] Kẹp áo phải có đệm bên trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Club Lounge&lt;t0/&gt; Phòng Lobby Lounge</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T073431Z" creationid="Kieu Lan" creationdate="20210331T073431Z">
@@ -5130,6 +5138,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hanger with Indentation for Garment Loops Example Ví dụ về móc treo có vết lõm cho móc vải</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041912Z" creationid="Kieu Lan" creationdate="20210510T041912Z">
+        <seg>Hanger with Indentation for Garment Loops Example Ví dụ về móc treo có hõm mắc dây trên trang phục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard and/or soft landscaping must be provided within the property boundary and must meet the following: [12271]      Cảnh quan cứng và / hoặc mềm phải được cung cấp trong phạm vi tòa nhà và phải đáp ứng các điều sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070336Z" creationid="Kieu Lan" creationdate="20210422T070314Z">
@@ -7365,8 +7381,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Must have indentation for garment loops [58795] Phải có vết lõm cho móc vải</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041845Z" creationid="Kieu Lan" creationdate="20210510T041845Z">
-        <seg>Must have indentation for garment loops [58795] Phải có đoạn lõm để mắc dây trên trang phục</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041907Z" creationid="Kieu Lan" creationdate="20210510T041845Z">
+        <seg>Must have indentation for garment loops [58795] Phải có hõm mắc dây trên trang phục</seg>
       </tuv>
     </tu>
     <tu>
@@ -14701,6 +14717,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[38041]       Có thể tiếp cận bộ lọc công suất/ tóc cho mục đích làm sạch.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042419Z" creationid="Kieu Lan" creationdate="20210510T042419Z">
+        <seg>[38041]       Có thể tiếp cận bộ lọc xơ vải/tóc cho mục đích làm sạch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[381050] Hồ sơ kiểm tra nên được lưu giữ.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T035920Z" creationid="Kieu Lan" creationdate="20210417T035920Z">
@@ -19255,8 +19279,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[8394]       Máy sấy tóc không được có công tắc bật / tắt</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[8394]       Máy sấy tóc không được có công tắc bật/tắt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041938Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[8394]       Máy sấy tóc không được có công tắc bật/tắt cần phải giữ liên tục</seg>
       </tuv>
     </tu>
     <tu>
