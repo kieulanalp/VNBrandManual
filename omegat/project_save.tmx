@@ -10134,6 +10134,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See also ID number [291098] Xem thêm số ID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094024Z" creationid="LanHK" creationdate="20210510T094024Z">
+        <seg>See also ID number [291098] Xem thêm số ID [291098]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See also ID number [33473] Xem thêm số ID</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T014235Z" creationid="LanHK" creationdate="20210407T014235Z">
@@ -20006,6 +20014,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[710076]     TV nên cho phép khách xem hoặc nghe giải trí các kênh riêng của họ thông qua các thiết bị cá nhân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094253Z" creationid="LanHK" creationdate="20210510T094253Z">
+        <seg>[710076]     TV nên cho phép khách xem hoặc nghe các nội dung giải trí riêng của họ thông qua các thiết bị cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[710077]      Nên có Mô hình hiệu quả năng lượng (Ngôi sao năng lượng)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094308Z" creationid="LanHK" creationdate="20210510T094308Z">
+        <seg>[710077]      Nên có Mô hình hiệu quả năng lượng (Energy Star)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[710109] Đề xuất đèn dimmer có kiểm soát.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T085047Z" creationid="LanHK" creationdate="20210510T085047Z">
@@ -20074,6 +20098,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[720086]      Nếu toàn bộ hệ thống, hoặc một phần của thiết bị được lắp đặt bị hỏng đến mức cần phải thay thế hoàn toàn nhưng không được bảo hành theo hợp đồng bảo hành hoặc bảo trì, cần nỗ lực để thay thế thiết bị và/hoặc tác động đến nhà sản xuất thay thế, càng nhanh càng tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[723049]      Phải có độ phân giải 1080P tối thiểu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094037Z" creationid="LanHK" creationdate="20210510T094037Z">
+        <seg>[723049]      Phải có tối thiểu độ phân giải 1080P.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[723050] Tối thiểu hai đầu vào HDMI và một đầu vào đồng trục, một đầu ra HDMI và đầu ra âm thanh loa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094152Z" creationid="LanHK" creationdate="20210510T094152Z">
+        <seg>[723050] Tối thiểu hai cổng vào HDMI và cổng coaxial, một cổng ra HDMI và loa đầu ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[723052]      Phải có thực đơn khách sạn có khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094212Z" creationid="LanHK" creationdate="20210510T094212Z">
+        <seg>[723052]      Phải có danh sách kênh khách sạn có khóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[723053] Phải cho phép dễ dàng quan sát từ giường và vị trí chỗ ngồi trong phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094230Z" creationid="LanHK" creationdate="20210510T094230Z">
+        <seg>[723053] Phải cho phép xem TV dễ dàng từ giường và các vị trí ngồi trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
