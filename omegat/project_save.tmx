@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>360° Cordless Rotational Base Example 2 Ví dụ 2 chấn đế xoay không dây 360°</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043128Z" creationid="Kieu Lan" creationdate="20210510T043128Z">
+        <seg>360° Cordless Rotational Base Example 2 Ví dụ 2 đế không dây xoay 360°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3M Asia Pacific Pte Ltd Tel: +86 137 6116 3601 Điện thoại 3M Asia Pacific Pte Ltd: +86 137 6116 3601</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T063935Z" creationid="LanHK" creationdate="20210423T063935Z">
@@ -5182,6 +5190,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070336Z" creationid="Kieu Lan" creationdate="20210422T070314Z">
         <seg>Hard and/or soft landscaping must be provided within the property boundary and must meet the following: [12271]      Cảnh quan cứng và/hoặc mềm phải được cung cấp trong phạm vi khách sạn và phải đáp ứng các điều sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard-wired Base Plate Example (black) Ví dụ về tấm đế dây cứng (màu đen)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042914Z" creationid="Kieu Lan" creationdate="20210510T042914Z">
+        <seg>Hard-wired Base Plate Example (black) Ví dụ về tấm đế có dây điện (đen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19361,6 +19377,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042557Z" creationid="Kieu Lan" creationdate="20210510T042557Z">
         <seg>[8066] Phải cung cấp một ấm điện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[8073] Chân đế xoay không dây 360 ° cần thiết cho việc sử dụng tay trái hoặc tay phải.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043007Z" creationid="Kieu Lan" creationdate="20210510T043007Z">
+        <seg>[8073] Yêu cầu đế không dây xoay 360° để phục vụ cho cả người thuận tay trái hoặc tay phải.</seg>
       </tuv>
     </tu>
     <tu>
