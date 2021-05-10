@@ -3964,16 +3964,16 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Filling material: 50% duck feather, 50% duck down [96036] Chất liệu nhồi: 50% lông vũ vịt, 50% lông tơ vịt</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042830Z" creationid="Kieu Lan" creationdate="20210508T042800Z">
-        <seg>Filling material: 50% duck feather, 50% duck down [96036] Chất liệu ruột gối: 50% lông vũ vịt, 50% lông vịt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013325Z" creationid="Kieu Lan" creationdate="20210508T042800Z">
+        <seg>Filling material: 50% duck feather, 50% duck down [96036] Chất liệu ruột gối: 50% lông vũ vịt, 50% lông nhung vịt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Filling material: Duck down filling 50% cluster [66784] Chất liệu nhồi đầy: Nhồi đầy lông tơ vịt 50%</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013303Z" creationid="Kieu Lan" creationdate="20210510T013303Z">
-        <seg>Filling material: Duck down filling 50% cluster [66784] Chất liệu ruột chăn: Nhồi đầy lông vũ vịt 50%</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013526Z" creationid="Kieu Lan" creationdate="20210510T013303Z">
+        <seg>Filling material: Duck down filling 50% cluster [66784] Chất liệu ruột chăn: lông nhung vịt 50%</seg>
       </tuv>
     </tu>
     <tu>
@@ -3988,16 +3988,16 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down Vật liệu làm đầy: Nhồi đầy bên ngoài 50% lông tơ vịt, nhồi đầy bên trong 5% lông tơ vịt</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T043144Z" creationid="Kieu Lan" creationdate="20210508T043144Z">
-        <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Nhồi ruột gối: bên ngoài 50% lông vũ vịt, bên trong 5% lông vũ vịt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013456Z" creationid="Kieu Lan" creationdate="20210508T043144Z">
+        <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Nhồi ruột gối: bên ngoài 50% lông nhung vịt, bên trong 5% lông nhung vịt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Vật liệu làm đầy: Nhồi đầy bên ngoài 50% lông tơ vịt, nhồi đầy bên trong 5% lông tơ vịt</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T041555Z" creationid="LanHK" creationdate="20210508T035436Z">
-        <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Nhồi ruột gối: bên ngoài 50% lông vũ vịt, bên trong 5% lông vũ vịt</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013438Z" creationid="LanHK" creationdate="20210508T035436Z">
+        <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Nhồi ruột gối: bên ngoài 50% lông nhung vịt, bên trong 5% lông nhung vịt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17525,6 +17525,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[66792] Chất liệu nhồi: Khuyến nghị lông vũ/ lông tơ ngỗng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013345Z" creationid="Kieu Lan" creationdate="20210510T013345Z">
+        <seg>[66792] Chất liệu nhồi: Khuyến nghị lông vũ/lông nhung ngỗng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[66] Tiền đặt cọc trước không được vượt quá giá phòng, bao gồm thuế và chỉ có thể được thực hiện trong tối đa 99 đêm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T033323Z" creationid="Kieu Lan" creationdate="20210422T033323Z">
@@ -18767,8 +18775,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[8545]   Chất liệu nhồi: 5% lông tơ vịt / 95% lông vịt.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T042816Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[8545]   Chất liệu ruột gối: 5% lông tơ vịt / 95% lông vịt.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013409Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[8545]   Chất liệu ruột gối: 5% lông nhung vịt / 95% lông vũ vịt.</seg>
       </tuv>
     </tu>
     <tu>
