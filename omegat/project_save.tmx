@@ -2624,6 +2624,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chiều rộng viền xấp xỉ 10 mm, khâu đôi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064012Z" creationid="Kieu Lan" creationdate="20210510T064012Z">
+        <seg>Chiều rộng viền xấp xỉ 10 mm, khâu mũi đôi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chìa Khóa Tổng Phụ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T025839Z" creationid="LanHK" creationdate="20210419T025839Z">
@@ -2954,8 +2962,8 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       <tuv lang="EN-US">
         <seg>Construction: 2/20s x Ne 10/1 x Ne 16/1 is recommended [67000] Thi công: khuyến nghị 2 / 20s x Ne 10/1 x Ne 16/1</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Construction: 2/20s x Ne 10/1 x Ne 16/1 is recommended [67000] Thi công: khuyến nghị 2/20s x Ne 10/1 x Ne 16/1</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063950Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Construction: 2/20s x Ne 10/1 x Ne 16/1 is recommended [67000] Kết cấu: khuyến nghị 2/20s x Ne 10/1 x Ne 16/1</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,6 +8572,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pile: Twofold [66893] Đầu lông nhung: gấp đôi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063934Z" creationid="Kieu Lan" creationdate="20210510T063934Z">
+        <seg>Pile: Twofold [66893] Sợi khăn: sợi gấp đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pillow placement and embroidery example Ví dụ về ị trí đặt gối và thêu</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044235Z" creationid="Kieu Lan" creationdate="20210508T044206Z">
@@ -13686,6 +13702,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[203062] Thiết kế caddy nhiều ngăn phải được phía IHG phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063830Z" creationid="Kieu Lan" creationdate="20210510T063830Z">
+        <seg>[203062] Thiết kế khay/hộp amenity nhiều ngăn phải được phía IHG phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[203063] Thẻ tent card “Bạn Quên Thứ Gì?” phải bằng tiếng Anh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063904Z" creationid="Kieu Lan" creationdate="20210510T063845Z">
+        <seg>[203063] Thẻ gấp “Forget Something?” phải bằng tiếng Anh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[20427] Chính sách và quy trình bảo mật thông tin phải dựa trên đường cơ sở được chấp nhận, chẳng hạn như ISO27002, PCI DSS hoặc tương tự.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104312Z" creationid="LanHK" creationdate="20210406T091243Z">
@@ -18598,6 +18630,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[67001] Uốn mép: Khăn nên được uốn mép ở bốn phía.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064007Z" creationid="Kieu Lan" creationdate="20210510T064007Z">
+        <seg>[67001] May viền: Khăn nên được may viền ở cả bốn phía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[6723] khách sạn làm việc với Nhà điều hành tour ngoại tuyến truyền thống không được quản lý (TOTO) và Nhà bán buôn nên tuân theo các đề xuất được đăng trên Trang Global Distribution Strategy Merlin.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093502Z" creationid="LanHK" creationdate="20210415T093502Z">
@@ -21689,6 +21729,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T093853Z" creationid="LanHK" creationdate="20210416T093853Z">
         <seg>Đối với cầu thang rộng hơn 1,8m, cầu thang nên được chia nhỏ bằng cách đặt tay vịn ở chính giữa cầu thang, có tay vịn ở hai bên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>đường chéo phải được khâu khóa, tối thiểu 3 mũi trên 10 mm bằng cách sử dụng sợi polyester hoặc polycotton không được co lại quá mức của vải.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064532Z" creationid="Kieu Lan" creationdate="20210510T064532Z">
+        <seg>Viền chéo phải được may bằng mũi lock-stitch (mũi may cơ bản trên máy may), tối thiểu 3 mũi/10 mm bằng sợi polyester hoặc polycotton không được co lại quá mức của vải.</seg>
       </tuv>
     </tu>
     <tu>
