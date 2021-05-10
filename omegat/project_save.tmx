@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 110)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T015839Z" creationid="Kieu Lan" creationdate="20210510T015043Z">
+        <seg>(Trang 111)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 12)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012952Z" creationid="LanHK" creationdate="20210406T012952Z">
@@ -2259,6 +2267,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012515Z" creationid="Kieu Lan" creationdate="20210508T051514Z">
         <seg>Casing material: 100% Cotton [66786] Chất liệu vỏ chăn: 100% Cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Casing weave: Plain [66821] Dệt vỏ: phẳng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T023307Z" creationid="Kieu Lan" creationdate="20210510T022934Z">
+        <seg>Casing weave: Plain [66821] Phương pháp dệt vải: plain</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +6891,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mass is recommended to be a minimum of 145gm² [521049]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T015052Z" creationid="Kieu Lan" creationdate="20210510T015052Z">
+        <seg>Mass is recommended to be a minimum of 145gm² [521049] Khối lượng được khuyến nghị là tối thiểu 145gm2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Massage / Tắm nắng / Tắm hơi / Bể sục</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -6919,6 +6943,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023714Z" creationid="Kieu Lan" creationdate="20210427T023706Z">
         <seg>Material and detail of corner protection must coordinate with corridor and lobby finishes [78005] Vật liệu và chi tiết của bảo vệ góc tườmg phải phối hợp với hoàn thiện hành lang và lobby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mattress protector must be provided and meet the following: [66817] Phải cung cấp lớp bảo vệ đệm giường và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T022159Z" creationid="Kieu Lan" creationdate="20210510T022159Z">
+        <seg>Mattress protector must be provided and meet the following: [66817] Phải cung cấp bọc bảo vệ nệm và đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7087,6 +7119,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012720Z" creationid="Kieu Lan" creationdate="20210510T012720Z">
         <seg>Minimum casing thread count per square inch: 233 [66787] Mật độ vải vỏ chăn tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum casing thread count per square inch: 233 [66820] Số lượng chỉ khâu tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T022246Z" creationid="Kieu Lan" creationdate="20210510T022246Z">
+        <seg>Minimum casing thread count per square inch: 233 [66820] Mật độ vải bọc tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
     </tu>
     <tu>
@@ -10401,6 +10441,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012201Z" creationid="Kieu Lan" creationdate="20210510T012201Z">
         <seg>Thread count per square inch: Minimum 200 [66779] Mật độ vải trên mỗi inch vuông: Tối thiểu 200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thread count per square inch: Minimum 200 [66812] Số lượng chỉ trên mỗi inch vuông: Tối thiểu 200</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T014236Z" creationid="Kieu Lan" creationdate="20210510T014236Z">
+        <seg>Thread count per square inch: Minimum 200 [66763] Mật độ vải trên mỗi inch vuông: Tối thiểu 200</seg>
       </tuv>
     </tu>
     <tu>
@@ -17589,6 +17637,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[66809] Kích thước: phải được đo để đảm bảo phù hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T014245Z" creationid="Kieu Lan" creationdate="20210510T014233Z">
+        <seg>[66809] Kích thước: đảm bảo vừa với ruột chăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66813] Hoa văn: cho phép white-on-white</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T015035Z" creationid="Kieu Lan" creationdate="20210510T015035Z">
+        <seg>[66813] Họa tiết: cho phép họa tiết với các tông trắng khác nhau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66816] Gấp bên trong: 15-20cm (7-8in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T015041Z" creationid="Kieu Lan" creationdate="20210510T015041Z">
+        <seg>[66816] Nếp gấp bên trong: 15-20cm (7-8in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66819] Chất liệu vỏ: Cotton với tối đa 50% polyester.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T022207Z" creationid="Kieu Lan" creationdate="20210510T022207Z">
+        <seg>[66819] Chất liệu bọc: Cotton với tối đa 50% polyester.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[66] Tiền đặt cọc trước không được vượt quá giá phòng, bao gồm thuế và chỉ có thể được thực hiện trong tối đa 99 đêm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T033323Z" creationid="Kieu Lan" creationdate="20210422T033323Z">
@@ -19041,6 +19121,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013701Z" creationid="Kieu Lan" creationdate="20210510T013701Z">
         <seg>[88302] Kích thước: Chiều rộng của chăn phải vượt quá giường tối thiểu 40cm (16in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88344] Đáy vỏ phải được mở để chèn duvet với mặt bích 5cm hoặc nếp gấp bên trong ẩn lỗ mở chèn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T015012Z" creationid="Kieu Lan" creationdate="20210510T015012Z">
+        <seg>[88344] Đuôi vỏ chăn có lỗ mở để lồng chăn với diềm rộng 5cm hoặc nếp gấp bên trong để giấu lỗ mở.</seg>
       </tuv>
     </tu>
     <tu>
