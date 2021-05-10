@@ -17765,6 +17765,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[59401] cơ sở trà và cà phê phải được đặt liền kề với các nguồn cung cấp trà và cà phê.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045445Z" creationid="Kieu Lan" creationdate="20210510T045445Z">
+        <seg>[59401] dụng cụ pha trà và cà phê phải được đặt liền kề với các gói trà và cà phê.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59] Ở các quốc gia không có số điện thoại miễn phí, chỉ được phép có các chi tiết URL của thương hiệu.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093133Z" creationid="LanHK" creationdate="20210415T093133Z">
@@ -17857,6 +17865,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[61054] Dịch vụ ăn uống trong phòng/dịch vụ phòng phải hoạt động trong 24 giờ, bảy ngày một tuần.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[61057] Tối thiểu hai muỗng cà phê thép không gỉ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045425Z" creationid="Kieu Lan" creationdate="20210510T045425Z">
+        <seg>[61057] Tối thiểu hai muỗng cà phê bằng thép không gỉ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18269,6 +18285,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[67322] Không được cung cấp trong phòng tắm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045455Z" creationid="Kieu Lan" creationdate="20210510T045455Z">
+        <seg>[67322] Không được để trong phòng tắm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[6745] Trường hợp cung cấp các tài liệu tôn giáo, chúng phải được đặt kín đáo.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T091217Z" creationid="LanHK" creationdate="20210428T103837Z">
@@ -18281,6 +18305,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T044119Z" creationid="Kieu Lan" creationdate="20210510T044119Z">
         <seg>[675080] Phải cung cấp tối thiểu ba và tối đa sáu loại trà, bao gồm một trà Đen (ví dụ English Breakfast), một trà Xanh và một trà Thảo mộc (ví dụ: Hoa cúc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[675082] Trường hợp cung cấp sữa, nên cung cấp lựa chọn không sữa theo yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045518Z" creationid="Kieu Lan" creationdate="20210510T045518Z">
+        <seg>[675082] Nếu cung cấp sữa, nên cung cấp cả lựa chọn không phải sữa theo yêu cầu.</seg>
       </tuv>
     </tu>
     <tu>
