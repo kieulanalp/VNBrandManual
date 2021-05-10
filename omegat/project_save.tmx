@@ -675,6 +675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mattress must be provided and meet the following: [102638] Phải cung cấp một tấm đệm và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075805Z" creationid="LanHK" creationdate="20210510T075805Z">
+        <seg>A mattress must be provided and meet the following: [102638] Phải cung cấp đệm và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximum of three of the following spirits are required: [67508] Yêu cầu tối đa ba trong số các loại spirit sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T062119Z" creationid="Kieu Lan" creationdate="20210510T062119Z">
@@ -6221,6 +6229,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T035255Z" creationid="LanHK" creationdate="20210419T035255Z">
         <seg>Include at least two life safety rings or two throwing lines [56457]       Bao gồm ít nhất hai phao tròn hoặc hai dây ném</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicated by tent card or door signage [78346]     Được chỉ định bởi thẻ tent card hoặc biển báo cửa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075718Z" creationid="LanHK" creationdate="20210510T075718Z">
+        <seg>Indicated by tent card or door signage [78346]     Được chỉ định bởi tent card hoặc biển báo cửa</seg>
       </tuv>
     </tu>
     <tu>
@@ -13115,6 +13131,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112838] Chúng tôi đề nghị những vật dụng này được đặt trong khu vực bếp nhỏ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075753Z" creationid="LanHK" creationdate="20210510T075753Z">
+        <seg>[112838] Khuyến nghị bố trí những vật dụng này trong khu vực bếp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112842] Một chiếc tủ kệ có kích thước cho một tivi màn hình phẳng 106cm (42in).</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T031228Z" creationid="LanHK" creationdate="20210508T031228Z">
@@ -13151,6 +13175,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[113126] Tạp dề/váy có chiều cao tối thiểu 10cm (4in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113147]   Giường đôi phải rộng tối thiểu 1,05m (3ft 6in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075821Z" creationid="LanHK" creationdate="20210510T075821Z">
+        <seg>[113147]   Giường twin phải rộng tối thiểu 1,05m (3ft 6in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113150]   Nệm phải được cung cấp từ nhà cung cấp ưu tiên và phải phù hợp với đặc điểm kỹ thuật liên quan.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T080013Z" creationid="LanHK" creationdate="20210510T080013Z">
+        <seg>[113150]   Nệm phải từ nhà cung cấp ưu tiên và phải tuân thủ các yêu cầu kỹ thuật liên quan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13429,8 +13469,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[124048] Một thẻ tent card khuyên khách gọi cho khoảng trống khay/ xe đẩy phải được đặt trên xe đẩy / khay ăn trong phòng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[124048] Một thẻ tent card khuyên khách gọi cho khoảng trống khay/ xe đẩy phải được đặt trên xe đẩy/khay ăn trong phòng.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075726Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[124048] Một tent card khuyên khách gọi cho khoảng trống khay/ xe đẩy phải được đặt trên xe đẩy/khay ăn trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
