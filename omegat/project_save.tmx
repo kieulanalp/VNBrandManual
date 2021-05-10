@@ -13973,6 +13973,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[28565] Vải lanh phải được loại bỏ khỏi dịch vụ nếu xuất hiện vết bẩn vĩnh viễn hoặc sờn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033310Z" creationid="Kieu Lan" creationdate="20210510T033310Z">
+        <seg>[28565] Đồ vải phải được loại bỏ nếu xuất hiện vết bẩn vĩnh viễn hoặc sờn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[28964] Nếu Người quản lý ca không nói tiếng Anh, một nhân viên phiên dịch luôn có mặt tại tòa nhà.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T113031Z" creationid="LanHK" creationdate="20210419T113031Z">
