@@ -13213,8 +13213,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[113152]     Tất cả các mẫu nệm được phê duyệt phải mang nhãn hiệu mô hình thương hiệu như được sản xuất và phát hành chỉ bởi các nhà sản xuất được ủy quyền.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210510T081219Z" creationid="LanHK" creationdate="20210510T081219Z">
-        <seg>[113152]     Tất cả các mẫu nệm được phê duyệt phải có nhãn số hiệu mẫu in logo thương hiệu được sản xuất và phát hành chỉ bởi các nhà sản xuất được ủy quyền.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T081235Z" creationid="LanHK" creationdate="20210510T081219Z">
+        <seg>[113152]     Tất cả các mẫu đệm được phê duyệt phải có nhãn số hiệu mẫu in logo thương hiệu được sản xuất và phát hành chỉ bởi các nhà sản xuất được ủy quyền.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113153]      Yêu cầu các nhãn hiệu chuyển mùa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T081232Z" creationid="LanHK" creationdate="20210510T081232Z">
+        <seg>[113153]      Yêu cầu các nhãn hướng dẫn lật đệm theo mùa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14959,6 +14967,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[303132] Thiết bị phải cung cấp hệ thống sưởi và/hoặc làm mát và/hoặc hút ẩm, tùy thuộc vào điều kiện bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[304065]     Lựa chọn cuối cùng của đế giường và nệm phải được IHG phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T081251Z" creationid="LanHK" creationdate="20210510T081251Z">
+        <seg>[304065]     Lựa chọn cuối cùng khung giường và nệm cuối cùng phải được IHG phê duyệt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22206,6 +22222,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T023918Z" creationid="LanHK" creationdate="20210424T023918Z">
         <seg>•  Group Check in Process Reference [368091] Tham khảo Quy trình check-in cho đoàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  IHG preferred suppliers are: Serta®, Hypnos®, Slumberland®, King Koil® [674048] nhà cung cấp ưa tiên của IHG là: Serta®, Hypnos®, Slumberland®, King Koil®</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082004Z" creationid="LanHK" creationdate="20210510T082004Z">
+        <seg>•  IHG preferred suppliers are: Serta®, Hypnos®, Slumberland®, King Koil® [674048] nhà cung cấp được IHG ưu tiên: Serta®, Hypnos®, Slumberland®, King Koil®</seg>
       </tuv>
     </tu>
     <tu>
