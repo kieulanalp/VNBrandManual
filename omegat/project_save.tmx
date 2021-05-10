@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 108)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012428Z" creationid="Kieu Lan" creationdate="20210510T012428Z">
+        <seg>(Trang 107)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 11)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012929Z" creationid="LanHK" creationdate="20210406T012929Z">
@@ -2233,8 +2241,8 @@
       <tuv lang="EN-US">
         <seg>Casing material: 100% Cotton [66786] Chất liệu vỏ: 100% Cotton</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051514Z" creationid="Kieu Lan" creationdate="20210508T051514Z">
-        <seg>Casing material: 100% Cotton [66786] Chất liệu vỏ ruột gối: 100% Cotton</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012515Z" creationid="Kieu Lan" creationdate="20210508T051514Z">
+        <seg>Casing material: 100% Cotton [66786] Chất liệu vỏ chăn: 100% Cotton</seg>
       </tuv>
     </tu>
     <tu>
@@ -3284,6 +3292,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T103901Z" creationid="LanHK" creationdate="20210419T103901Z">
         <seg>Drop down rail locking mechanism must be unreachable by the child or difficult for a child to release [56625] Cơ chế khóa thành cũi không được để trẻ có thể với tới hoặc phải khó mở đối với trẻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duvet must be provided and meet the following: [66782] Phải cung cấp chăn duvet và đáp ứng như sau</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012500Z" creationid="Kieu Lan" creationdate="20210510T012500Z">
+        <seg>Duvet must be provided and meet the following: [66782] Phải cung cấp chăn và đáp ứng như sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -6819,6 +6835,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mass is recommended to be a minimum of 145gm² [521048] Khối lượng được khuyến nghị là tối thiểu 145gm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012422Z" creationid="Kieu Lan" creationdate="20210510T012422Z">
+        <seg>Mass is recommended to be a minimum of 145gm² [521048] Khối lượng được khuyến nghị là tối thiểu 145gm2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Massage / Tắm nắng / Tắm hơi / Bể sục</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -7023,6 +7047,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051431Z" creationid="LanHK" creationdate="20210508T033041Z">
         <seg>Minimum casing thread count per square inch: 233 [65930] Mật độ vải vỏ ruột gối tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum casing thread count per square inch: 233 [66787] Số lượng chỉ vỏ tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012720Z" creationid="Kieu Lan" creationdate="20210510T012720Z">
+        <seg>Minimum casing thread count per square inch: 233 [66787] Mật độ vải vỏ chăn tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
     </tu>
     <tu>
@@ -18881,6 +18913,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T031605Z" creationid="LanHK" creationdate="20210428T031605Z">
         <seg>[88250]       Gương kính nổi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88255] Kích thước: Chiều dài duvet phải vượt quá giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012450Z" creationid="Kieu Lan" creationdate="20210510T012450Z">
+        <seg>[88255] Kích thước: Chiều dài chăn phải vượt quá giường.</seg>
       </tuv>
     </tu>
     <tu>
