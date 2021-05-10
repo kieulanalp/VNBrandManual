@@ -13091,6 +13091,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112835] Mục có sẵn theo yêu cầu phải được chỉ ra</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075527Z" creationid="LanHK" creationdate="20210510T075527Z">
+        <seg>[112835] Phải báo rõ các vật phẩm được cung cấp theo yêu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112836]       Sản xuất chuyên nghiệp chỉ báo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075556Z" creationid="LanHK" creationdate="20210510T075556Z">
+        <seg>[112836]       Văn bản thông báo phải được sản xuất chuyên nghiệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112837]      Chỉ báo phải là một biển báo độc lập (ví dụ: thẻ tent card) hoặc thông tin có trong Danh mục của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075648Z" creationid="LanHK" creationdate="20210510T075648Z">
+        <seg>[112837]      thông báo phải là một biển báo độc lập (ví dụ: tent card) hoặc thông tin có trong Danh mục của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112842] Một chiếc tủ kệ có kích thước cho một tivi màn hình phẳng 106cm (42in).</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T031228Z" creationid="LanHK" creationdate="20210508T031228Z">
@@ -13949,8 +13973,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[203063] Thẻ tent card “Bạn Quên Thứ Gì?” phải bằng tiếng Anh.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063904Z" creationid="Kieu Lan" creationdate="20210510T063845Z">
-        <seg>[203063] Thẻ gấp “Forget Something?” phải bằng tiếng Anh.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T075701Z" creationid="Kieu Lan" creationdate="20210510T063845Z">
+        <seg>[203063] tent card “Forget Something?” phải bằng tiếng Anh.</seg>
       </tuv>
     </tu>
     <tu>
