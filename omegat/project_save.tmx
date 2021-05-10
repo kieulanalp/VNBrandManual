@@ -13261,6 +13261,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[20009] ngôn ngữ bổ sung có thể được sử dụng khi thích hợp, bao gồm ngôn ngữ xuất xứ cho các feeder market cao.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041409Z" creationid="Kieu Lan" creationdate="20210510T041409Z">
+        <seg>[20009] ngôn ngữ bổ sung có thể được sử dụng khi thích hợp, bao gồm ngôn ngữ của các thị trường khách lớn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[20229] Đặt phòng đảm bảo cho các phòng kết nối phải được chỉ định trước trong quá trình đặt phòng.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T025431Z" creationid="Kieu Lan" creationdate="20210422T025431Z">
@@ -17425,6 +17433,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T105652Z" creationid="LanHK" creationdate="20210406T105652Z">
         <seg>[58675] Một Green Team (Team Hành động Xanh) nên được thành lập để khuyến khích đạt được các mục tiêu bền vững của khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58785] Cung cấp tối thiểu sáu móc treo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041419Z" creationid="Kieu Lan" creationdate="20210510T041413Z">
+        <seg>[58785] Cung cấp tối thiểu sáu mắc áo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58786] Móc treo phải có kích thước, hình dạng, màu sắc và chất liệu đồng bộ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041430Z" creationid="Kieu Lan" creationdate="20210510T041430Z">
+        <seg>[58786] Mắc áo phải có kích thước, hình dạng, màu sắc và chất liệu đồng bộ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58788] Yêu cầu tối thiểu ba móc treo váy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041436Z" creationid="Kieu Lan" creationdate="20210510T041436Z">
+        <seg>[58788] Yêu cầu tối thiểu ba mắc treo váy.</seg>
       </tuv>
     </tu>
     <tu>
