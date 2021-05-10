@@ -7019,6 +7019,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum one rollaway bed per room [58862] Tối đa một giường gấp cho mỗi phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033058Z" creationid="Kieu Lan" creationdate="20210510T033058Z">
+        <seg>Maximum one rollaway bed per room [58862] Tối đa một giường phụ cho mỗi phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum size: 26cm (D) x 36cm (H) (10in x 14in) [8420]      Kích thước tối đa: 26cm (D) x 36cm (H) (10in x 14in)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T015230Z" creationid="LanHK" creationdate="20210508T015230Z">
@@ -7891,6 +7899,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One bath towel [58855]Một khăn tắm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033030Z" creationid="Kieu Lan" creationdate="20210510T033030Z">
+        <seg>One bath towel [58855] Một khăn tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One bathroom tumbler [58859] Một cốc vại nhà tắm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033044Z" creationid="Kieu Lan" creationdate="20210510T033044Z">
+        <seg>One bathroom tumbler [58859] Một cốc súc miệng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One clothes rail must be installed at an accessible height: [39744] Một thanh treo quần áo phải được cài đặt ở độ cao cho người khuyết tật:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T023829Z" creationid="LanHK" creationdate="20210508T023829Z">
@@ -7915,10 +7939,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One mug [58860] Một cốc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033049Z" creationid="Kieu Lan" creationdate="20210510T033049Z">
+        <seg>One mug [58860] Một cốc có quai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One socket adjacent to the clothes hanging / storage area is recommended.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>One socket adjacent to the clothes hanging/storage area is recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One teaspoon [58861] Một thìa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033052Z" creationid="Kieu Lan" creationdate="20210510T033052Z">
+        <seg>One teaspoon [58861] Một thìa trà</seg>
       </tuv>
     </tu>
     <tu>
@@ -11565,6 +11605,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where an extra bed is requested, the following amenities must be provided: [58854] Khi yêu cầu một giường phụ, phải cung cấp các tiện nghi sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033023Z" creationid="Kieu Lan" creationdate="20210510T033023Z">
+        <seg>Where an extra bed is requested, the following amenities must be provided: [58854] Khi khách yêu cầu bổ sung giường phụ, phải cung cấp các tiện nghi sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where artwork or artefacts are provided as part of the arrival and entrance area, they must meet the following: [17405]     Trường hợp tác phẩm nghệ thuật hoặc đồ tạo tác được cung cấp như một phần của khu vực đến và ra vào, phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T015152Z" creationid="LanHK" creationdate="20210424T015152Z">
@@ -14105,6 +14153,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[308060]    Phải cung cấp một giao thức truyền thông tòa nhà tiêu chuẩn như KNX chạy trên trục TCP/IP tiêu chuẩn công nghiệp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[310] Tất cả các bộ đồ giường phải không được có ố bẩn dễ trông thấy, sạch sẽ và được bảo trì tốt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033229Z" creationid="Kieu Lan" creationdate="20210510T033229Z">
+        <seg>[310] Tất cả các chăn ga gối... không có ố bẩn có thể nhìn thấy, phải sạch sẽ và được bảo trì tốt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17309,6 +17365,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58870] Chăn thêm phải được để trong tủ quần áo hoặc có sẵn theo yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033007Z" creationid="Kieu Lan" creationdate="20210510T033007Z">
+        <seg>[58870] Chăn bổ sung phải có sẵn trong tủ quần áo hoặc được cung cấp theo yêu cầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59001] Phải gửi một bức thư hoặc email cảm ơn cho khách hàng trong vòng một ngày làm việc sau khi kiểm tra / tham quan.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -17961,6 +18025,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T024007Z" creationid="LanHK" creationdate="20210424T024007Z">
         <seg>[68645] Danh sách nhận phòng cho đoàn nên có chỗ cho khách điền địa chỉ email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[68651] Tiện nghi phòng tắm nên được điều chỉnh theo số lượng khách trong phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033118Z" creationid="Kieu Lan" creationdate="20210510T033118Z">
+        <seg>[68651] Amenity trong phòng tắm nên được điều chỉnh theo số lượng khách trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19151,8 +19223,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[87919] Chốt: Bốn thun 3,5cm (1,4in) x 45cm (18in) ở góc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032903Z" creationid="Kieu Lan" creationdate="20210510T032903Z">
-        <seg>[66826] Dây cố định: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032948Z" creationid="Kieu Lan" creationdate="20210510T032903Z">
+        <seg>[87919] Phương pháp cố định: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
       </tuv>
     </tu>
     <tu>
