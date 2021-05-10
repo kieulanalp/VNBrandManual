@@ -7387,6 +7387,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Room -&gt; Guest Supplies Phòng của tôi -&gt; Đồ dùng cho khách</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033940Z" creationid="Kieu Lan" creationdate="20210510T033940Z">
+        <seg>My Room -&gt; Guest Supplies Đồ dùng cho khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Room -&gt; Room Types -&gt; Accessible guest rooms Phòng của tôi -&gt; Loại phòng -&gt; Phòng cho người khuyết tật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022100Z" creationid="LanHK" creationdate="20210508T022100Z">
@@ -14575,16 +14583,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[37892] Trừ khi khách yêu cầu, phải thay đổi vải lanh tối thiểu mỗi lần vào ngày thứ ba, sau đêm thứ hai, cho các lần lưu trú liên tiếp.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033543Z" creationid="Kieu Lan" creationdate="20210510T033543Z">
-        <seg>[37892] Trừ khi khách yêu cầu, phải thay đổi chăn ga gối... tối thiểu ba ngày 1 lần, sau đêm thứ hai, cho các khách lưu trú liên tục.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033653Z" creationid="Kieu Lan" creationdate="20210510T033543Z">
+        <seg>[37892] Trừ khi khách yêu cầu, phải thay đồ vải tối thiểu ba ngày 1 lần, sau đêm thứ hai, cho các khách lưu trú liên tục.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[37896] Tất cả vải lanh trong phòng, bất kể chúng được sử dụng, phải được thay đổi và giặt tối thiểu mỗi lần khách rời đi.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033600Z" creationid="Kieu Lan" creationdate="20210510T033600Z">
-        <seg>[37896] Tất cả đồ vảitrong phòng, bất kể chúng được sử dụng, phải được thay đổi và giặt tối thiểu mỗi lần khách rời đi.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033727Z" creationid="Kieu Lan" creationdate="20210510T033600Z">
+        <seg>[37896] Tất cả đồ vải trong phòng, bất kể đã qua sử dụng hay chưa, tối thiểu phải được thay và giặt mỗi lần khách rời đi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19791,6 +19799,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T100113Z" creationid="LanHK" creationdate="20210428T100113Z">
         <seg>[95307] Để tránh làm phiền các khách khác, nhân viên chỉ nên gõ cử hoặc bấm chuông sau 09:00 và trước 21:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[955] Không cho phép gối trang trí, vỏ hoặc đệm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033805Z" creationid="Kieu Lan" creationdate="20210510T033805Z">
+        <seg>[955] Không cho phép dùng gối, vỏ ga gối hoặc bọc nệm ghế... có trang trí.</seg>
       </tuv>
     </tu>
     <tu>
