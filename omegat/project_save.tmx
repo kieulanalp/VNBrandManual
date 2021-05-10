@@ -171,6 +171,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 126)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082130Z" creationid="LanHK" creationdate="20210510T082130Z">
+        <seg>(Trang 125)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -4280,6 +4288,22 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failing condition audit [78870]       Không đạt kiểm toán điều kiện</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082100Z" creationid="LanHK" creationdate="20210510T082100Z">
+        <seg>Failing condition audit [78870]       Không đạt điều kiện nghiệm thu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failing customer satisfaction scores [78869]       Không đạt được điểm thỏa mãn khách hàng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082050Z" creationid="LanHK" creationdate="20210510T082050Z">
+        <seg>Failing customer satisfaction scores [78869]       Không đạt điểm thỏa mãn khách hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Family suite [95196]</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T025533Z" creationid="LanHK" creationdate="20210508T025533Z">
@@ -4780,6 +4804,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T095829Z" creationid="LanHK" creationdate="20210422T095829Z">
         <seg>For the following hotel locations, vehicle circulation and parking must be designed by a specialist traffic consultant: [57575] Đối với các vị trí khách sạn sau đây, lưu thông xe và bãi đậu xe phải được thiết kế bởi một đơn vị tư vấn giao thông:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formation of body impression [78868]    Xuất hiện dấu vết đệm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082043Z" creationid="LanHK" creationdate="20210510T082043Z">
+        <seg>Formation of body impression [78868]    có dấu hằn do cơ thể ng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7397,6 +7429,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T022159Z" creationid="Kieu Lan" creationdate="20210510T022159Z">
         <seg>Mattress protector must be provided and meet the following: [66817] Phải cung cấp bọc bảo vệ nệm và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mattress sagging [78867]       Đệm chùng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082033Z" creationid="LanHK" creationdate="20210510T082033Z">
+        <seg>Mattress sagging [78867]       Đệm bị lún</seg>
       </tuv>
     </tu>
     <tu>
@@ -10959,6 +10999,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063346Z" creationid="Kieu Lan" creationdate="20210510T063346Z">
         <seg>The following bathroom amenities must be provided: [381] Phải cung cấp các amenity cho phòng tắm như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following conditions warrant replacement of the mattress: [78866] điều kiện sau bảo hành thay thế đệm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082029Z" creationid="LanHK" creationdate="20210510T082029Z">
+        <seg>The following conditions warrant replacement of the mattress: [78866] Những điều kiện sau yêu cầu phải thay thế đệm:</seg>
       </tuv>
     </tu>
     <tu>
