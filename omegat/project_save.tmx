@@ -7476,6 +7476,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be placed either in the refreshment zone or on the bathroom vanity [64919] Phải được đặt trong khu vực giải khát hoặc trên bàn trang điểm phòng tắm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061150Z" creationid="Kieu Lan" creationdate="20210510T061128Z">
+        <seg>Must be placed either in the refreshment zone or on the bathroom vanity [64919] Phải được đặt trong khu giải khát hoặc trên vanity phòng tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be presented with a pack of at least five different coloured crayons / colour pencils.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -8140,6 +8148,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One bottle of sparkling mineral water [57335] Một chai nước khoáng sparkling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061325Z" creationid="Kieu Lan" creationdate="20210510T061325Z">
+        <seg>One bottle of sparkling mineral water [57335] Một chai nước khoáng có ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One clothes rail must be installed at an accessible height: [39744] Một thanh treo quần áo phải được cài đặt ở độ cao cho người khuyết tật:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T023829Z" creationid="LanHK" creationdate="20210508T023829Z">
@@ -8156,6 +8172,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One local or regional beer option [57333] Một loại bia địa phương hoặc khu vực</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061739Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
+        <seg>One local or regional beer option [57333] Một loại bia tại địa phương hoặc khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One lounge / easy chair or sofa.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -8168,6 +8192,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033049Z" creationid="Kieu Lan" creationdate="20210510T033049Z">
         <seg>One mug [58860] Một cốc có quai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One regular Coca Cola or Pepsi Cola bottle or can [57326] Một chai hoặc lon Coca Cola hoặc Pepsi Cola thông thường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061232Z" creationid="Kieu Lan" creationdate="20210510T061232Z">
+        <seg>One regular Coca Cola or Pepsi Cola bottle or can [57326] Một chai hoặc lon Coca Cola hoặc Pepsi Cola thường</seg>
       </tuv>
     </tu>
     <tu>
@@ -11142,6 +11174,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Hai hương vị bổ sung của nước ngọt có ga (ví dụ: nước ngọt có ga hương gừng, bia gừng, cam)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061314Z" creationid="Kieu Lan" creationdate="20210510T061314Z">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Hai loại nước ngọt có ga khác (ví dụ: nước ngọt có ga hương gừng, bia gừng, nước cam)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two chrome plated, bronze swivel snap hooks [79912] Hai móc mạ chrome, đồng xoay</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T081331Z" creationid="LanHK" creationdate="20210423T081331Z">
@@ -12042,6 +12082,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T020238Z" creationid="LanHK" creationdate="20210428T020238Z">
         <seg>Where single occupant restrooms are provided, they must be lockable from the inside by the guest [22325] Khi cung cấp phòng vệ sinh một người dùng, khách phải có thể khóa từ bên trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where stocked, the mini fridge must contain the following at the minimum: [57308] Trường hợp dự trữ, tủ lạnh mini phải có tối thiểu những loại sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061220Z" creationid="Kieu Lan" creationdate="20210510T061220Z">
+        <seg>Where stocked, the mini fridge must contain the following at the minimum: [57308] Nếu có tủ lạnh mini, phải có tối thiểu những mặt hàng sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17194,6 +17242,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020159Z" creationid="LanHK" creationdate="20210508T020159Z">
         <seg>[5724] Nếu khăn tắm đang treo, không được thay khăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[57327] Một Coca Cola hoặc Pepsi Cola ít đường hoặc không đường trong chai hoặc lon</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061252Z" creationid="Kieu Lan" creationdate="20210510T061252Z">
+        <seg>[57327] Một lon hoặc chai Coca Cola hoặc Pepsi Cola ít đường hoặc không đường</seg>
       </tuv>
     </tu>
     <tu>
