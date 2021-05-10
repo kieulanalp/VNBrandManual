@@ -1951,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brushed Stainless Steel Kettle Example Ví dụ về ấm đun nước bằng thép không gỉ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042650Z" creationid="Kieu Lan" creationdate="20210510T042643Z">
+        <seg>Brushed Stainless Steel Kettle Example Ví dụ về ấm đun nước bằng thép không gỉ hoàn thiện xước (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build Journey - Base Build</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153436Z" creationid="Kieu Lan" creationdate="20210405T153436Z">
@@ -3376,6 +3384,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drawstring closure [65028] Bao dây rút</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042549Z" creationid="Kieu Lan" creationdate="20210510T042549Z">
+        <seg>Drawstring closure [65028] Đóng bằng dây rút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Driveways and Paths</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092343Z" creationid="LanHK" creationdate="20210405T092343Z">
@@ -3388,6 +3404,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T103901Z" creationid="LanHK" creationdate="20210419T103901Z">
         <seg>Drop down rail locking mechanism must be unreachable by the child or difficult for a child to release [56625] Cơ chế khóa thành cũi không được để trẻ có thể với tới hoặc phải khó mở đối với trẻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dry boil safety protection [57081] Bảo vệ an toàn đun cạn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042701Z" creationid="Kieu Lan" creationdate="20210510T042701Z">
+        <seg>Dry boil safety protection [57081] Cơ chế bảo vệ khi đun cạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -5162,6 +5186,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hard-wired Base Plate Example (white) Ví dụ về tấm đế dây cứng (màu trắng)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042904Z" creationid="Kieu Lan" creationdate="20210510T042904Z">
+        <seg>Hard-wired Base Plate Example (white) Ví dụ về tấm đế có dây điện (trắng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardware</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012748Z" creationid="LanHK" creationdate="20210406T012748Z">
@@ -6279,6 +6311,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>K' Value is less than or equals to 0.030W/mK [329079]    Giá trị K 'nhỏ hơn hoặc bằng 0,030W/mK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kettle must be a cordless model with a hard-wired base plate [8072] Ấm đun nước phải là một mẫu không dây với tấm đế dây cứng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042748Z" creationid="Kieu Lan" creationdate="20210510T042748Z">
+        <seg>Kettle must be a cordless model with a hard-wired base plate [8072] Ấm đun nước không dây, dây điện nối vào tấm đế</seg>
       </tuv>
     </tu>
     <tu>
@@ -8808,6 +8848,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030949Z" creationid="Kieu Lan" creationdate="20210510T030949Z">
         <seg>Quilting: 25cm x 25cm (10in x 10in) diamond pattern [96140] Chần: hình kim cương 25x25cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re-usable, laundry bag can be washed [65024] Túi giặt, tái sử dụng có thể được giặt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042528Z" creationid="Kieu Lan" creationdate="20210510T042528Z">
+        <seg>Re-usable, laundry bag can be washed [65024] có thể tái sử dụng, có thể giặt</seg>
       </tuv>
     </tu>
     <tu>
@@ -16949,6 +16997,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[57079] Nhựa chịu lực cao hoặc thép không gỉ được chải.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042612Z" creationid="Kieu Lan" creationdate="20210510T042612Z">
+        <seg>[57079] Nhựa chịu lực cao hoặc thép không gỉ hoàn thiện xước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[5716] Quá trình 'Thiết lập' phải được hoàn thành.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T105241Z" creationid="LanHK" creationdate="20210406T105241Z">
@@ -17937,6 +17993,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[64625] Khách phải được cung cấp các lựa chọn giao hàng cho việc trả lại (các) mặt hàng của họ và không được tính phí nhiều hơn chi phí bưu chính/giao hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65025] Không cho phép túi nhựa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042536Z" creationid="Kieu Lan" creationdate="20210510T042536Z">
+        <seg>[65025] Không cho phép dùng túi nhựa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65026] Phải được hiển thị trong tủ quần áo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042541Z" creationid="Kieu Lan" creationdate="20210510T042541Z">
+        <seg>[65026] Phải được để trong tủ quần áo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19281,6 +19353,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T014441Z" creationid="Kieu Lan" creationdate="20210426T014441Z">
         <seg>[8050] Nếu khách đến trước giờ nhận phòng và phòng đã sẵn sàng, các nhân viên phải đề xuất với khách dịch vụ nhận phòng sớm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[8066] Phải cung cấp một siêu điện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042557Z" creationid="Kieu Lan" creationdate="20210510T042557Z">
+        <seg>[8066] Phải cung cấp một ấm điện.</seg>
       </tuv>
     </tu>
     <tu>
