@@ -134,18 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 114)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082456Z" creationid="LanHK" creationdate="20210510T082456Z">
+        <seg>(Trang 113)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 116)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T044548Z" creationid="Kieu Lan" creationdate="20210510T044548Z">
-        <seg>(Trang 115)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082505Z" creationid="Kieu Lan" creationdate="20210510T044548Z">
+        <seg>(Trang 114)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Trang 117)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061848Z" creationid="Kieu Lan" creationdate="20210510T061848Z">
-        <seg>(Trang 118)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082520Z" creationid="Kieu Lan" creationdate="20210510T061848Z">
+        <seg>(Trang 115)</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>(Trang 119)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064537Z" creationid="Kieu Lan" creationdate="20210510T064537Z">
-        <seg>(Trang 118)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082534Z" creationid="Kieu Lan" creationdate="20210510T064537Z">
+        <seg>(Trang 117)</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,37 +184,40 @@
       <tuv lang="EN-US">
         <seg>(Trang 120)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064657Z" creationid="Kieu Lan" creationdate="20210510T064657Z">
-        <seg>(Trang 119)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082540Z" creationid="Kieu Lan" creationdate="20210510T064657Z">
+        <seg>(Trang 118)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Trang 121)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064752Z" creationid="Kieu Lan" creationdate="20210510T064752Z">
-        <seg>(Trang 120)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082545Z" creationid="Kieu Lan" creationdate="20210510T064752Z">
+        <seg>(Trang 119)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Trang 122)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065114Z" creationid="Kieu Lan" creationdate="20210510T065114Z">
-        <seg>(Trang 121)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082549Z" creationid="Kieu Lan" creationdate="20210510T065114Z">
+        <seg>(Trang 120)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Trang 123)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T071503Z" creationid="Kieu Lan" creationdate="20210510T071503Z">
-        <seg>(Trang 122)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082555Z" creationid="Kieu Lan" creationdate="20210510T071503Z">
+        <seg>(Trang 121)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Trang 124)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082602Z">
+        <seg>(Trang 122)</seg>
       </tuv>
     </tu>
     <tu>
@@ -221,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>(Trang 126)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210510T082130Z" creationid="LanHK" creationdate="20210510T082130Z">
-        <seg>(Trang 125)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082657Z" creationid="LanHK" creationdate="20210510T082130Z">
+        <seg>(Trang 124)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,6 +4379,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failing fire &amp; safety standard [78872]    Không đạt tiêu chuẩn an toàn và chữa cháy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082709Z" creationid="LanHK" creationdate="20210510T082709Z">
+        <seg>Failing fire &amp; safety standard [78872]    Không đạt tiêu chuẩn an toàn và phòng cháy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Family suite [95196]</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T025533Z" creationid="LanHK" creationdate="20210508T025533Z">
@@ -7229,6 +7248,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Locker rooms/dressing rooms [246056] phòng tủ đựng/ phòng thay đồ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Losing 50% or more of original comfort layer or spring strength (as determined by independent lab test report) [78873]      Mất hơn 50% lớp thoải mái ban đầu hoặc độ bền của lò xo (như được xác định bằng báo cáo thử nghiệm độc lập)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082757Z" creationid="LanHK" creationdate="20210510T082757Z">
+        <seg>Losing 50% or more of original comfort layer or spring strength (as determined by independent lab test report) [78873]      Mất hơn 50% lớp comfort ban đầu hoặc độ bền lò xo (được xác định bằng báo cáo thử nghiệm độc lập)</seg>
       </tuv>
     </tu>
     <tu>
