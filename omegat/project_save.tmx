@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 121)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064752Z" creationid="Kieu Lan" creationdate="20210510T064752Z">
+        <seg>(Trang 120)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -2992,6 +3000,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Construction: Ne 10/1 x Ne 16/1 x Ne 10/1 is recommended [67028] Thi công: khuyến nghị Ne 10/1 x Ne 16/1 x Ne 10/1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064723Z" creationid="Kieu Lan" creationdate="20210510T064723Z">
+        <seg>Construction: Ne 10/1 x Ne 16/1 x Ne 10/1 is recommended [67028] Kết cấu: khuyến nghị Ne 10/1 x Ne 16/1 x Ne 10/1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact / reference of the installer [322261] Liên lạc/ tham chiếu của người lắp đặt</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -4143,6 +4159,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154621Z" creationid="Kieu Lan" creationdate="20210405T154621Z">
         <seg>Extra Low Voltage Hệ thống điện nhẹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facial Tissue Example Ví dụ về khăn giấy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065020Z" creationid="Kieu Lan" creationdate="20210510T065020Z">
+        <seg>Facial Tissue Example Ví dụ về khăn giấy (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,6 +7568,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T101015Z" creationid="LanHK" creationdate="20210505T101015Z">
         <seg>More than 1001 people, minimum of four separate exits, to be validated by a Qualified Person. Nếu có hơn 1001 người, tối thiểu 4 lối thoát riêng biệt, cần thông qua đánh giá bởi người có chuyên môn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be clear or frosted [58630] Phải rõ ràng hoặc mờ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064822Z" creationid="Kieu Lan" creationdate="20210510T064822Z">
+        <seg>Must be clear or frosted [58630] Phải là thủy tinh trong hoặc mờ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,6 +12126,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where coasters are used, the tumblers must be placed upside down [58639] Khi sử dụng đế lót, các cốc phải được úp ngược</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064936Z" creationid="Kieu Lan" creationdate="20210510T064936Z">
+        <seg>Where coasters are used, the tumblers must be placed upside down [58639] Khi sử dụng lót cốc, các cốc phải được úp ngược</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where controlled parking is provided, the access point must meet the following: [12252] Khi cung cấp bãi đậu xe được kiểm soát, điểm truy cập phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T094502Z" creationid="LanHK" creationdate="20210422T094502Z">
@@ -13710,6 +13750,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[18560] cốc vại được khuyến nghị có các cạnh thẳng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064847Z" creationid="Kieu Lan" creationdate="20210510T064847Z">
+        <seg>[18560] cốc tumbler được khuyến nghị có thành cốc thẳng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[20009] ngôn ngữ bổ sung có thể được sử dụng khi thích hợp, bao gồm ngôn ngữ xuất xứ cho các feeder market cao.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041409Z" creationid="Kieu Lan" creationdate="20210510T041409Z">
@@ -14874,6 +14922,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T085959Z" creationid="LanHK" creationdate="20210406T085959Z">
         <seg>[36069] Tất cả ánh sáng ngoại thất phải được bảo trì và duy trì hoạt động tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[370] Yêu cầu hai cốc vại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064810Z" creationid="Kieu Lan" creationdate="20210510T064810Z">
+        <seg>[370] Yêu cầu hai cốc tumbler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17998,6 +18054,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58633] Không cho phép Polystyrene</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064829Z" creationid="Kieu Lan" creationdate="20210510T064829Z">
+        <seg>[58633] Không cho phép cốc nhựa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58637] Yêu cầu nắp hoặc đế lót ly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064920Z" creationid="Kieu Lan" creationdate="20210510T064920Z">
+        <seg>[58637] Yêu cầu có nắp hoặc miếng lót cốc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58638] Không cho phép logo trên nắp hoặc đế lót cốc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064926Z" creationid="Kieu Lan" creationdate="20210510T064926Z">
+        <seg>[58638] Không cho phép logo trên nắp hoặc miếng lót cốc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58675] Một đội xanh nên được thành lập để khuyến khích vô địch và quyền sở hữu các mục tiêu bền vững của khách sạn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T105652Z" creationid="LanHK" creationdate="20210406T105652Z">
@@ -18674,6 +18754,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064643Z" creationid="Kieu Lan" creationdate="20210510T064643Z">
         <seg>[67017] May viền: Khăn nên được may viền ở cả bốn phía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[67032] Uốn mép: Khăn nên được uốn mép ở bốn phía.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064734Z" creationid="Kieu Lan" creationdate="20210510T064734Z">
+        <seg>[67032] May viền: Khăn nên được may viền ở cả bốn phía.</seg>
       </tuv>
     </tu>
     <tu>
