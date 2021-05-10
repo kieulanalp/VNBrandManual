@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 112)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032838Z" creationid="Kieu Lan" creationdate="20210510T032835Z">
+        <seg>(Trang 111)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 12)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012952Z" creationid="LanHK" creationdate="20210406T012952Z">
@@ -1488,8 +1496,8 @@
       <tuv lang="EN-US">
         <seg>Baffled Box Feather Bed [8544]       Giường lông vũ có vách ngăn</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031408Z" creationid="Kieu Lan" creationdate="20210510T031408Z">
-        <seg>Baffled Box Feather Bed [8544]       Nhồi lông vũ, chần ô vuông to</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032715Z" creationid="Kieu Lan" creationdate="20210510T031408Z">
+        <seg>Baffled Box Feather Bed [8544]       Nhồi lông vũ, chần hình hộp vuông (baffle box)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17783,8 +17791,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[66826] Chốt: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030858Z" creationid="Kieu Lan" creationdate="20210510T030858Z">
-        <seg>[66826] Dây cố định ruột: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032914Z" creationid="Kieu Lan" creationdate="20210510T030858Z">
+        <seg>[66826] Phương pháp cố định: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19141,10 +19149,34 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[87919] Chốt: Bốn thun 3,5cm (1,4in) x 45cm (18in) ở góc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032903Z" creationid="Kieu Lan" creationdate="20210510T032903Z">
+        <seg>[66826] Dây cố định: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[87922] Khâu: Vách ngăn 5cm (2in), từ đầu đến cuối, khâu đôi để tránh rò rỉ.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032647Z" creationid="Kieu Lan" creationdate="20210510T032647Z">
-        <seg>[87922] Đường may: topper dày 5cm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032819Z" creationid="Kieu Lan" creationdate="20210510T032647Z">
+        <seg>[87922] Đường may: topper dày 5cm (hộp baffle dày 5cm), may đường may kép để tránh ruột topper lòi ra ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[87923]  Chần vải Quilting: khuyến nghị khâu vuông 25x25cm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032831Z" creationid="Kieu Lan" creationdate="20210510T032831Z">
+        <seg>[87923] Chần chăn: khuyến nghị chần hình vuông 25x25cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[87924]       Đường ống: khuyến nghị màu trắng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032848Z" creationid="Kieu Lan" creationdate="20210510T032848Z">
+        <seg>[87924]       Viền gân: khuyến nghị màu trắng</seg>
       </tuv>
     </tu>
     <tu>
