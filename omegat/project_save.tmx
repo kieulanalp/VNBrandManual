@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 130)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091419Z" creationid="LanHK" creationdate="20210510T091419Z">
+        <seg>(Trang 128)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -1882,6 +1890,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T035305Z" creationid="LanHK" creationdate="20210419T035305Z">
         <seg>Be clearly visible and easily accessible [278066]      Dễ nhìn và dễ tiếp cận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be fully cushioned and upholstered with fabric [125060]      Được đệm và bọc hoàn toàn bằng vải</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091339Z" creationid="LanHK" creationdate="20210510T091339Z">
+        <seg>Be fully cushioned and upholstered with fabric [125060]      Có đệm và được bọc toàn bộ bằng vải</seg>
       </tuv>
     </tu>
     <tu>
@@ -13946,6 +13962,46 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075726Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[124048] Một tent card khuyên khách gọi cho khoảng trống khay/ xe đẩy phải được đặt trên xe đẩy/khay ăn trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[125061]      Phải cung cấp các hướng dẫn vận hành.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091353Z" creationid="LanHK" creationdate="20210510T091353Z">
+        <seg>[125061]      Phải cung cấp hướng dẫn sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[125062] Phải là khung kim loại với hành động gấp và nệm lò xo gấp ba.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091411Z" creationid="LanHK" creationdate="20210510T091411Z">
+        <seg>[125062] Phải là khung kim loại có thể gấp và nệm lò xo gấp ba lượt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[125065]      Bố trí phòng phải cho phép mở rộng toàn phần giường sofa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091433Z" creationid="LanHK" creationdate="20210510T091433Z">
+        <seg>[125065]      Mặt bằng phòng phải cho phép giường sofa mở rộng toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[125067]      Hộp đựng tích hợp cho khăn trải giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T091447Z" creationid="LanHK" creationdate="20210510T091447Z">
+        <seg>[125067]      Ngăn tích hợp để chứa ga gối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[125070] Phải có một tấm nệm có chiều rộng tối thiểu 112cm (44,8 in) kích thước đôi thông thường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T093856Z" creationid="LanHK" creationdate="20210510T093856Z">
+        <seg>[125070] Phải bao gồm một tấm nệm đôi thông thường có kích thước chiều rộng tối thiểu 112cm.</seg>
       </tuv>
     </tu>
     <tu>
