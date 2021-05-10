@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 129)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090104Z" creationid="LanHK" creationdate="20210510T090104Z">
+        <seg>(Trang 127)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -2168,6 +2176,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Branded notepad, where provided [847123] Notepad thương hiệu, nếu cung cấp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090227Z" creationid="LanHK" creationdate="20210510T090227Z">
+        <seg>Branded notepad, where provided [847123] Notepad thương hiệu, nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brassware</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012715Z" creationid="LanHK" creationdate="20210406T012715Z">
@@ -3605,6 +3621,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Directly connected to back of house corridor for the ball room/function room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory of Services folder [98651] Thư Mục Dịch Vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090208Z" creationid="LanHK" creationdate="20210510T090208Z">
+        <seg>Directory of Services folder [98651] Danh Mục Dịch Vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5531,6 +5555,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest feedback form, where provided [847122] Mẫu phản hồi của khách, nơi cung cấp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090222Z" creationid="LanHK" creationdate="20210510T090222Z">
+        <seg>Guest feedback form, where provided [847122] Biểu mẫu phản hồi của khách, nếu có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest floor elevator/lift lobbies must meet the following: [12386] Sảnh thang máy tầng của khách phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023046Z" creationid="Kieu Lan" creationdate="20210427T023046Z">
@@ -6368,6 +6400,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T080520Z" creationid="LanHK" creationdate="20210416T080520Z">
         <seg>In un-sprinklered buildings, a single automatic sprinkler or approved automatic suppression system must be installed at the top of the chute [56031]      Trong các tòa nhà không có sprinkler, một sprinkler tự động duy nhất hoặc một hệ thống chữa cháy tự động được phê duyệt phải được lắp đặt ở đầu ống thả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In-Room dining/ Room Service menu [98649] Thực đơn Dịch Vụ Phòng/ Ăn Uống Trong Phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090155Z" creationid="LanHK" creationdate="20210510T090155Z">
+        <seg>In-Room dining/ Room Service menu [98649] Thực đơn Dịch Vụ Phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -8692,6 +8732,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only the following collateral items can be placed on the desk: [98646] Chỉ có thể đặt các tài liệu quảng bá sau đây trên bàn:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090141Z" creationid="LanHK" creationdate="20210510T090141Z">
+        <seg>Only the following collateral items can be placed on the desk: [98646] Chỉ có thể đặt vật sau đây trên bàn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Onward Distribution FAQs Document Tài liệu hỏi đáp phân phối trở đi</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093348Z" creationid="LanHK" creationdate="20210415T093348Z">
@@ -9893,6 +9941,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rubbish Bin Example Ví dụ thùng nhựa đựng rác</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090059Z" creationid="LanHK" creationdate="20210510T090059Z">
+        <seg>Rubbish Bin Example Ví dụ thùng rác (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rubbish and laundry chutes require the following: [56028] Thùng rác và máng giặt yêu cầu như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T080230Z" creationid="LanHK" creationdate="20210416T080230Z">
@@ -10472,8 +10528,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Smoking / non smoking sign [98650] biển báo hút thuốc/ cấm hút thuốc</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Smoking/non smoking sign [98650] biển báo hút thuốc/ cấm hút thuốc</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090200Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Smoking/non smoking sign [98650] biển báo hút thuốc/cấm hút thuốc</seg>
       </tuv>
     </tu>
     <tu>
@@ -12970,6 +13026,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T022053Z" creationid="Kieu Lan" creationdate="20210422T022053Z">
         <seg>[10263] Tổng Quản lý và nhân viên Bộ phận Lễ tân phải hoàn thành khóa đào tạo CLB Khách hàng Thân thiết IHG® trong vòng 90 ngày kể từ khi bắt đầu việc làm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[102668] Phải cung cấp gương dài toàn phần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090244Z" creationid="LanHK" creationdate="20210510T090244Z">
+        <seg>[102668] Phải cung cấp gương toàn thân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15610,6 +15674,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T085959Z" creationid="LanHK" creationdate="20210406T085959Z">
         <seg>[36069] Tất cả ánh sáng ngoại thất phải được bảo trì và duy trì hoạt động tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[36266] Thùng rác thu gom tái chế có thể đặt trong phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090127Z" creationid="LanHK" creationdate="20210510T090127Z">
+        <seg>[36266] Thùng gom rác tái chế được phép đặt trong phòng khách.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22246,8 +22318,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[99453] Phải cung cấp gương lớn dài</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210428T034704Z" creationid="LanHK" creationdate="20210428T034704Z">
-        <seg>[99453] Phải cung cấp gương lớn full chiều dài</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T090259Z" creationid="LanHK" creationdate="20210428T034704Z">
+        <seg>[99453] Phải cung cấp gương toàn thân</seg>
       </tuv>
     </tu>
     <tu>
