@@ -7828,6 +7828,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum diagonal screen size of 80cm (32in) [40510]       Kích thước màn hình chéo tối thiểu 80cm (32in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T093941Z" creationid="LanHK" creationdate="20210510T093941Z">
+        <seg>Minimum diagonal screen size of 80cm (32in) [40510]       Kích thước chéo màn hình tối thiểu 80cm (32in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum electrical cord length when extended: 1.5m (5ft) [58768]      Chiều dài dây điện tối thiểu khi mở rộng: 1,5m (5ft)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042440Z" creationid="Kieu Lan" creationdate="20210510T042440Z">
@@ -10074,6 +10082,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Saunas and/or steam rooms must meet the following minimum safety requirements: [56264] Phòng sauna và/hoặc phòng xông hơi phải đáp ứng các yêu cầu an toàn tối thiểu sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen must be proportionate to the room size and viewing distance and angle (See Table 1), minimum diagonal screen size 80cm (32in) [350311]      Màn hình phải cân xứng với kích thước phòng và khoảng cách và góc nhìn (Xem Bảng 1), kích thước màn hình chéo tối thiểu 80cm (32in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094018Z" creationid="LanHK" creationdate="20210510T094018Z">
+        <seg>Screen must be proportionate to the room size and viewing distance and angle (See Table 1), minimum diagonal screen size 80cm (32in) [350311]      Màn hình phải phù hợp với kích thước phòng, khoảng cách nhìn và góc nhìn (Xem Bảng 1), kích thước chéo màn hình tối thiểu 80cm (32in)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14550,6 +14566,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[1969] Cung cấp một ti vi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T093933Z" creationid="LanHK" creationdate="20210510T093933Z">
+        <seg>[1969] Phải cung cấp một ti vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[20009] ngôn ngữ bổ sung có thể được sử dụng khi thích hợp, bao gồm ngôn ngữ xuất xứ cho các feeder market cao.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041409Z" creationid="Kieu Lan" creationdate="20210510T041409Z">
@@ -15266,6 +15290,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T074152Z" creationid="Kieu Lan" creationdate="20210422T074152Z">
         <seg>[27812] Khuyến nghị có khu vực đỗ taxi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[27964] Phải cung cấp đèn đọc sách/ đèn bổ sung cạnh ghế ngồi lounge và bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T093917Z" creationid="LanHK" creationdate="20210510T093917Z">
+        <seg>[27964] Phải cung cấp đèn đọc sách/ đèn làm việc cạnh ghế ngồi lounge và bàn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19986,6 +20018,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T085018Z" creationid="LanHK" creationdate="20210510T085018Z">
         <seg>[710110] Góc chùm sáng tối đa 24 độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[710111] Cung cấp ít nhất một đèn làm việc và một đèn sàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T093925Z" creationid="LanHK" creationdate="20210510T093925Z">
+        <seg>[710111] Cung cấp ít nhất một đèn làm việc và một đèn cây.</seg>
       </tuv>
     </tu>
     <tu>
