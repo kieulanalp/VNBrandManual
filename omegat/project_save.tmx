@@ -9958,6 +9958,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See also ID number [22723] Xem thêm số ID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084132Z" creationid="LanHK" creationdate="20210510T084132Z">
+        <seg>See also ID number [22723] Xem thêm số ID [22723]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See also ID number [33473] Xem thêm số ID</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T014235Z" creationid="LanHK" creationdate="20210407T014235Z">
@@ -13014,6 +13022,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[1097] Yêu cầu tác phẩm nghệ thuật.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084126Z" creationid="LanHK" creationdate="20210510T084126Z">
+        <seg>[1097] Yêu cầu tranh ảnh nghệ thuật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[109] Giờ phục vụ không phải liên tục, chúng có thể được chia để đáp ứng giờ cao điểm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064229Z" creationid="Kieu Lan" creationdate="20210422T064229Z">
@@ -13370,6 +13386,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T083927Z" creationid="LanHK" creationdate="20210510T083927Z">
         <seg>[113167]    Phải rộng tối thiểu bằng chiều rộng của giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113171] Khuyến nghị đầu giường đủ rộng để có giường và bàn cạnh giường ngủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T083953Z" creationid="LanHK" creationdate="20210510T083953Z">
+        <seg>[113171] Khuyến nghị vách đầu giường đủ rộng để bao gồm giường và tab đầu giường.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,6 +14798,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[26764] Trường hợp không có hướng dẫn của nhà sản xuất, nệm phải được thay đổi ba tháng một lần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084026Z" creationid="LanHK" creationdate="20210510T084026Z">
+        <seg>[26764] Trường hợp không có hướng dẫn của nhà sản xuất, nệm phải được lật ba tháng một lần.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[269] xe đẩy buồng phòng và thiết bị lau dọn không được can thiệp khách khi sử dụng hành lang.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023328Z" creationid="Kieu Lan" creationdate="20210427T023317Z">
@@ -14902,6 +14934,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[281] Tất cả các nệm và chân giường phải luôn sạch sẽ, không có vết bẩn và được bảo trì tốt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084008Z" creationid="LanHK" creationdate="20210510T084008Z">
+        <seg>[281] Tất cả các nệm và khung giường phải luôn sạch sẽ, không có vết bẩn và được bảo trì tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[282] Nệm phải được thay đổi theo yêu cầu của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084018Z" creationid="LanHK" creationdate="20210510T084018Z">
+        <seg>[282] Nệm phải được lật theo hướng dẫn của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[285075]    Phải cung cấp thiết bị phát hiện rò rỉ khí / nhiên liệu với van ngắt tự động trong tất cả các khu vực sử dụng tiện ích.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -14970,6 +15018,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033450Z" creationid="Kieu Lan" creationdate="20210510T033310Z">
         <seg>[28565] Đồ vải phải được loại bỏ nếu xuất hiện vết bẩn vĩnh viễn hoặc bị sờn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[28864] Yêu cầu lớp bảo vệ nệm và phải thường xuyên làm sạch.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084045Z" creationid="LanHK" creationdate="20210510T084045Z">
+        <seg>[28864] Yêu cầu có tấm bảo vệ nệm và phải được làm sạch thường xuyên.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15994,6 +16050,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T073754Z" creationid="LanHK" creationdate="20210406T040608Z">
         <seg>[4540]Nhãn hiệu luôn phải phân biệt được với văn bản xung quanh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[45423] Nếu khách yêu cầu trước, một giường phụ phải được đặt trong phòng trước khi đến.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084220Z" creationid="LanHK" creationdate="20210510T084216Z">
+        <seg>[45423] Nếu khách yêu cầu trước khi đến, giường phụ phải được đặt trong phòng trước khi khách đến.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[45424] Không phải trả phí cho các giường cuộn cho trẻ em dùng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084237Z" creationid="LanHK" creationdate="20210510T084237Z">
+        <seg>[45424] Không được tính phí cho giường phụ cho trẻ em dùng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18542,6 +18614,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58845] Nếu không có nhãn hiệu trên nệm, phải có một sổ ghi để ghi rõ lịch trình quay nệm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084115Z" creationid="LanHK" creationdate="20210510T084115Z">
+        <seg>[58845] Nếu không có nhãn hướng dẫn trên nệm, phải có tài liệu ghi lại lịch lật nệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58864] Trước khi được chuyển đến phòng khách, cũi phải được vệ sinh bằng các sản phẩm an toàn cho trẻ em.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103437Z" creationid="LanHK" creationdate="20210428T103437Z">
@@ -20746,6 +20826,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063628Z" creationid="Kieu Lan" creationdate="20210510T063620Z">
         <seg>[883048] Nên cung cấp đồ amenity bổ sung khi có nhiều hơn hai khách ở một phòng, sao cho phù hợp số lượng khách mỗi phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88310] Gắn an toàn trên tường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084140Z" creationid="LanHK" creationdate="20210510T084140Z">
+        <seg>[88310] Cố định chắc chắn trên tường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88311]      Chiều cao lắp đặt nên được xem xét tầm mắt điển hình của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084202Z" creationid="LanHK" creationdate="20210510T084202Z">
+        <seg>[88311]      Chiều cao lắp đặt nên cân nhắc đến độ cao tầm mắt thông thường của khách.</seg>
       </tuv>
     </tu>
     <tu>
