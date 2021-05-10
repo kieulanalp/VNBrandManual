@@ -9645,6 +9645,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stitching: Double Needle [66791] Mũi khâu: Kim đôi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013652Z" creationid="Kieu Lan" creationdate="20210510T013652Z">
+        <seg>Stitching: Double needle [66791] Đường may: Kim đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stitching: Double needle Khâu: Kim đôi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T043949Z" creationid="Kieu Lan" creationdate="20210508T043949Z">
@@ -17525,10 +17533,34 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[66789] Trọng lượng nhồi đầy: Khi hậu nhiệt đới tối thiểu 150 gm², nhiệt độ vừa phải tối thiểu 200 gm², khí hậu lạnh tối thiểu 220 gm².</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013640Z" creationid="Kieu Lan" creationdate="20210510T013640Z">
+        <seg>[66789] Trọng lượng ruột chăn: Khí hậu nhiệt đới tối thiểu 150 gm², ôn đới thiểu 200 gm², hàn đới tối thiểu 220 gm².</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[66792] Chất liệu nhồi: Khuyến nghị lông vũ/ lông tơ ngỗng</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013345Z" creationid="Kieu Lan" creationdate="20210510T013345Z">
         <seg>[66792] Chất liệu nhồi: Khuyến nghị lông vũ/lông nhung ngỗng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66794] Chần vải Quilting: khâu vuông 25x25cm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013824Z" creationid="Kieu Lan" creationdate="20210510T013824Z">
+        <seg>[66794] Chần chăn: khuyến nghị chần hình vuông 25x25cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66795] Đường ống: Màu xanh lá cây (King), Xanh da trời (Queen), Đỏ (Double), Trắng (Single).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013927Z" creationid="Kieu Lan" creationdate="20210510T013927Z">
+        <seg>[66795] Viền gân: Màu xanh lá cây (giường King), Xanh da trời (Queen), Đỏ (Double), Trắng (Single).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18977,6 +19009,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125638Z" creationid="Kieu Lan" creationdate="20210423T125638Z">
         <seg>[882]      Luôn phải có nhạc phát tại khu vực lễ tân và lối vào chính, nơi lắp loa ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88302] Kích thước: Chiều rộng của Duvet phải vượt quá giường tối thiểu 40cm (16in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013701Z" creationid="Kieu Lan" creationdate="20210510T013701Z">
+        <seg>[88302] Kích thước: Chiều rộng của chăn phải vượt quá giường tối thiểu 40cm (16in).</seg>
       </tuv>
     </tu>
     <tu>
