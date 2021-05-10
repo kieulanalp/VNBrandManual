@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 128)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085505Z" creationid="LanHK" creationdate="20210510T085505Z">
+        <seg>(Trang 126)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 13)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014728Z" creationid="LanHK" creationdate="20210406T014728Z">
@@ -1814,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battery operated unit [89270]       Thiết bị dùng pin</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085632Z" creationid="LanHK" creationdate="20210510T085632Z">
+        <seg>Battery operated unit [89270]       Đèn sử dụng pin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be a minimum thickness of 8mm (5/16in) [65695] Độ dày tối thiểu là 8 mm (5 / 16in)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -3060,6 +3076,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092007Z" creationid="LanHK" creationdate="20210405T092007Z">
         <seg>Commercial Thương mại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concealed [89259]     Che kín</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085544Z" creationid="LanHK" creationdate="20210510T085544Z">
+        <seg>Concealed [89259]     Được giấu kín</seg>
       </tuv>
     </tu>
     <tu>
@@ -10662,6 +10686,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stored in wardrobe or drawer [89271]       Đựng trong tủ hoặc ngăn kéo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085644Z" creationid="LanHK" creationdate="20210510T085644Z">
+        <seg>Stored in wardrobe or drawer [89271]       Cất trong tủ quần áo hoặc ngăn kéo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storm Water Drainage</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011531Z" creationid="LanHK" creationdate="20210406T011531Z">
@@ -13486,10 +13518,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113184] Đề xuất cửa xoay bản lề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085453Z" creationid="LanHK" creationdate="20210510T085450Z">
+        <seg>[113184] Khuyến nghị dùng cửa bản lề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113185]       Không cho phép tủ đựng lớn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T085441Z" creationid="LanHK" creationdate="20210510T085441Z">
         <seg>[113185]       Không cho phép tủ walk in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113187] Đề xuất một thanh treo có chiều dài 1,20m (4ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085521Z" creationid="LanHK" creationdate="20210510T085521Z">
+        <seg>[113187] Khuyến nghị thanh treo có chiều dài 1,20m (4ft)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16378,6 +16426,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="LanHK" creationdate="20210419T071012Z">
         <seg>[476086] Bộ ngắt mạch nối đất (GFCI)/Cầu dao chống rò điện (RCD), dưới dạng cầu dao hoặc ổ cắm được bảo vệ, được yêu cầu ở các khu vực trong trong phạm vi 1m của nguồn nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[490048] Nếu có nguồn cung cấp ánh sáng khẩn cấp trong phòng khi mất điện, không cần có đèn pin.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085923Z" creationid="LanHK" creationdate="20210510T085923Z">
+        <seg>[490048] Nếu có nguồn chiếu sáng khẩn cấp trong phòng khi mất điện, không cần cung cấp đèn pin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21130,6 +21186,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T025828Z" creationid="LanHK" creationdate="20210508T025828Z">
         <seg>[89030]     Khu vực tiếp khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89257]     Lắp để chiếu sáng không gian treo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085535Z" creationid="LanHK" creationdate="20210510T085535Z">
+        <seg>[89257]     Bố trí để chiếu sáng không gian treo quần áo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89265]     Tối thiểu là hai.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085551Z" creationid="LanHK" creationdate="20210510T085551Z">
+        <seg>[89265]     Tối thiểu hai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89267] Được tích hợp trong tủ quần áo hoặc được cung cấp trong khu vực ngủ như một thiết bị độc lập.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T085613Z" creationid="LanHK" creationdate="20210510T085613Z">
+        <seg>[89267] Được tích hợp trong tủ quần áo hoặc được cung cấp trong khu vực ngủ như một tủ ngăn kéo/kệ độc lập.</seg>
       </tuv>
     </tu>
     <tu>
