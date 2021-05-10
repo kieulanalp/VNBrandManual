@@ -4061,16 +4061,24 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Factory-sealed [60123] Đóng kín</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043404Z" creationid="Kieu Lan" creationdate="20210422T043404Z">
-        <seg>Factory-sealed [60123] Đóng kín như khi xuất khỏi nhà máy</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061040Z" creationid="Kieu Lan" creationdate="20210422T043404Z">
+        <seg>Factory-sealed [60123] Niêm phong kín như khi xuất khỏi nhà máy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Factory-sealed [61926] Đóng kín</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064329Z" creationid="Kieu Lan" creationdate="20210422T064329Z">
-        <seg>Factory-sealed [61926] Đóng kín như khi xuất khỏi nhà máy</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061046Z" creationid="Kieu Lan" creationdate="20210422T064329Z">
+        <seg>Factory-sealed [61926] Niêm phong kín như khi xuất khỏi nhà máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factory-sealed [64918] Niêm phong kín từ nhà máy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061053Z" creationid="Kieu Lan" creationdate="20210510T061053Z">
+        <seg>Factory-sealed [64918] Niêm phong kín như khi xuất khỏi nhà máy</seg>
       </tuv>
     </tu>
     <tu>
