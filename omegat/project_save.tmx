@@ -12766,6 +12766,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where self-standing televisions are provided they must meet the following: [58009] Trường hợp cung cấp TV tự đứng, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094351Z" creationid="LanHK" creationdate="20210510T094351Z">
+        <seg>Where self-standing televisions are provided they must meet the following: [58009] Trường hợp cung cấp TV tự đứng, TV phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where single occupant restrooms are provided, they must be lockable from the inside by the guest [22325] Khi cung cấp phòng vệ sinh có một người dùng, khách có thể khóa từ bên trong</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T020238Z" creationid="LanHK" creationdate="20210428T020238Z">
@@ -12866,6 +12874,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T095729Z" creationid="LanHK" creationdate="20210423T095729Z">
         <seg>Where valet parking is provided the following must be provided: [98099] Trường hợp có dịch vụ phục vụ đỗ xe thì phải cung cấp như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where wall-mounted televisions are provided they must meet the following: [58000] Trường hợp cung cấp TV gắn tường, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094411Z" creationid="LanHK" creationdate="20210510T094411Z">
+        <seg>Where wall-mounted televisions are provided they must meet the following: [58000] Trường hợp cung cấp TV gắn tường, TV phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20054,6 +20070,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[711059]    thương hiệu được đề nghị của IHG là LG, Samsung và Philips.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094339Z" creationid="LanHK" creationdate="20210510T094339Z">
+        <seg>[711059]    IHG đề xuất các thương hiệu LG, Samsung và Philips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[716049] Màu sắc và phông chữ chung phải phù hợp với thương hiệu phù hợp</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T013709Z" creationid="LanHK" creationdate="20210407T013709Z">
@@ -21122,6 +21146,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T065007Z" creationid="Kieu Lan" creationdate="20210422T065007Z">
         <seg>[819] Nếu khách phải chờ để được phục vụ, nhân viên phải xin lỗi và cảm ơn vì họ đã dành thời gian đợi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[82910] Đế xoay phải cho phép quan sát từ vị trí ngủ và chỗ ngồi trong phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T094405Z" creationid="LanHK" creationdate="20210510T094405Z">
+        <seg>[82910] Đế xoay cho phép xem TV từ vị trí ngủ và các chỗ ngồi trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
