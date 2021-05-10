@@ -2271,6 +2271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Casing material: 100% Cotton [36465]       Chất liệu vỏ: 100% Cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031052Z" creationid="Kieu Lan" creationdate="20210510T031052Z">
+        <seg>Casing material: 100% Cotton [36465]       Chất liệu vỏ bọc topper: 100% Cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Casing material: 100% Cotton [65929] Chất liệu vỏ: 100% Cotton</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051408Z" creationid="LanHK" creationdate="20210508T032942Z">
@@ -4046,6 +4054,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013438Z" creationid="LanHK" creationdate="20210508T035436Z">
         <seg>Filling material: Outer filling 50% duck down, inner filling 5% duck down [65938] Nhồi ruột gối: bên ngoài 50% lông nhung vịt, bên trong 5% lông nhung vịt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filling: Hollow fibre polyester [66823] Nhồi đầy: sợi polyester rỗng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030833Z" creationid="Kieu Lan" creationdate="20210510T030833Z">
+        <seg>Filling: Hollow fibre polyester [66823] Ruột: sợi polyester rỗng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7147,6 +7163,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum casing threadcount per square inch: 233 [8548]       Số lượng sợi vỏ tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031108Z" creationid="Kieu Lan" creationdate="20210510T031108Z">
+        <seg>Minimum casing threadcount per square inch: 233 [8548]       Mật độ vải tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum of one cordless phone at reception / maitre d’ station or one of the Point of Sales System (POS) stations [92611]    Tối thiểu một điện thoại không dây tại quầy lễ tân / maitre d’ hoặc một trong các quầy của Hệ thống POS</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -8608,6 +8632,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032935Z" creationid="LanHK" creationdate="20210508T032935Z">
         <seg>Quantity: Two firm pillows for King, Queen and double or one for single [65927] Số lượng: Hai chiếc gối cứng cho giường King, Queen và twin hoặc một gối cho giường đơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quilting: 25cm x 25cm (10in x 10in) diamond pattern [96140] Chần vải Quilting: khuôn kim cương 25x25cm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030949Z" creationid="Kieu Lan" creationdate="20210510T030949Z">
+        <seg>Quilting: 25cm x 25cm (10in x 10in) diamond pattern [96140] Chần: hình kim cương 25x25cm</seg>
       </tuv>
     </tu>
     <tu>
@@ -10381,6 +10413,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The separate mattress topper must meet the following minimum requirements: [8542] topper nệm riêng biệt phải đáp ứng các yêu cầu tối thiểu sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031023Z" creationid="Kieu Lan" creationdate="20210510T031023Z">
+        <seg>The separate mattress topper must meet the following minimum requirements: [8542] topper rời phải đáp ứng các yêu cầu tối thiểu sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sound system delivering the signature sound must meet the following: [76542] Hệ thống âm thanh cung cấp âm thanh đặc trưng, đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T014653Z" creationid="LanHK" creationdate="20210424T014620Z">
@@ -10705,6 +10745,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044017Z" creationid="Kieu Lan" creationdate="20210508T042401Z">
         <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [95801] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treatment: Airy, DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [95804] Xử lý: Thoáng khí, xử lý bằng DuPont Teflon (chống thấm nước &amp; dầu), vải chống ố bẩn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030932Z" creationid="Kieu Lan" creationdate="20210510T030932Z">
+        <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [95804] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
       </tuv>
     </tu>
     <tu>
@@ -14121,6 +14169,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102420Z" creationid="LanHK" creationdate="20210428T102420Z">
         <seg>[346197] • Nên đặt ở nhiệt độ 24°C (75,2 ° F).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[346198] Phải cung cấp một topper nệm riêng hoặc topper phủ nệm tích hợp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031008Z" creationid="Kieu Lan" creationdate="20210510T031008Z">
+        <seg>[346198] Phải cung cấp một topper riêng hoặc tích hợp topper</seg>
       </tuv>
     </tu>
     <tu>
@@ -17681,6 +17737,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T022207Z" creationid="Kieu Lan" creationdate="20210510T022207Z">
         <seg>[66819] Chất liệu bọc: Cotton với tối đa 50% polyester.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66826] Chốt: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030858Z" creationid="Kieu Lan" creationdate="20210510T030858Z">
+        <seg>[66826] Dây cố định ruột: dây thun 45cm x 3,5cm (18in x 1,4in) ở các góc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66828] Kích thước: Phải che hoàn toàn mặt trên của nệm sau khi co rút bình thường do giặt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030919Z" creationid="Kieu Lan" creationdate="20210510T030919Z">
+        <seg>[66828] Kích thước: Phải che kín mặt trên của nệm sau khi vải co rút bình thường do giặt.</seg>
       </tuv>
     </tu>
     <tu>
