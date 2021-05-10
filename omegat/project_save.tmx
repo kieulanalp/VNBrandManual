@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 46)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030152Z" creationid="Kieu Lan" creationdate="20210510T030152Z">
+        <seg>(Trang 104)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 51)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T014130Z" creationid="Kieu Lan" creationdate="20210420T014117Z">
@@ -16359,8 +16367,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[56630] Ổ cắm điện trong các khu vực sau phải được bảo vệ bằng Bộ ngắt mạch nối đất (GFCI) / Thiết bị dòng điện dư (RCD) dưới dạng bộ ngắt mạch hoặc ổ cắm được bảo vệ.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="LanHK" creationdate="20210419T070815Z">
-        <seg>[56630] Ổ cắm điện trong các khu vực sau phải được bảo vệ bằng Bộ ngắt mạch nối đất (GFCI)/Cầu dao chống rò điện (RCD) dưới dạng bộ ngắt mạch hoặc ổ cắm được bảo vệ.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030148Z" creationid="LanHK" creationdate="20210419T070815Z">
+        <seg>`1[56630] Ổ cắm điện trong các khu vực sau phải được bảo vệ bằng Bộ ngắt mạch nối đất (GFCI)/Cầu dao chống rò điện (RCD) dưới dạng bộ ngắt mạch hoặc ổ cắm được bảo vệ.</seg>
       </tuv>
     </tu>
     <tu>
