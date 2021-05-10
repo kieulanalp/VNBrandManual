@@ -14070,6 +14070,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[16033] Đề xuất rằng đỉnh của bàn cạnh giường ngủ ít nhất là 5cm (2in) dưới đầu nệm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084759Z" creationid="LanHK" creationdate="20210510T084759Z">
+        <seg>[16033] khuyến nghị mặt trên của tab đầu giường thấp hơn mặt nệm ít nhất 5cm (2in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[16091]      Chiều dài của các yếu tố vải không trang trí (vải lót / vải mỏng / vải tối) không được vượt quá chiều dài của các yếu tố trang trí.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -14226,6 +14234,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064847Z" creationid="Kieu Lan" creationdate="20210510T064847Z">
         <seg>[18560] cốc tumbler được khuyến nghị có thành cốc thẳng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[1966] Bàn cạnh giường ngủ lớn hơn nên được cung cấp khi chỉ có một bàn cạnh giường ngủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084719Z" creationid="LanHK" creationdate="20210510T084719Z">
+        <seg>[1966] Nên cung cấp tab đầu giường lớn hơn nếu chỉ có một tab đầu giường</seg>
       </tuv>
     </tu>
     <tu>
@@ -15154,6 +15170,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T084613Z" creationid="LanHK" creationdate="20210510T084613Z">
         <seg>[29520] Trong phòng twin có giường zip and link (giường twin dùng khóa zip để nối lại với nhau), tab đầu giường phải di động</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[29521] Bàn đầu giường cố định nên được đúc hẫng khỏi đầu giường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T084907Z" creationid="LanHK" creationdate="20210510T084813Z">
+        <seg>[29521] tab đầu giường cố định nên được cố định vào vách đầu giường (không có chân chống xuống đất)</seg>
       </tuv>
     </tu>
     <tu>
