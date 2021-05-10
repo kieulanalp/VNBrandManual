@@ -14,6 +14,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 100)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082354Z" creationid="LanHK" creationdate="20210510T082354Z">
+        <seg>(Trang 99)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 101)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082411Z" creationid="LanHK" creationdate="20210510T082411Z">
+        <seg>(Trang 100)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 102)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082316Z" creationid="LanHK" creationdate="20210510T082316Z">
+        <seg>(Trang 101)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 103)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082304Z" creationid="LanHK" creationdate="20210510T082304Z">
+        <seg>(Trang 102)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 104)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082255Z" creationid="LanHK" creationdate="20210510T082255Z">
+        <seg>(Trang 103)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 105)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T043812Z" creationid="Kieu Lan" creationdate="20210508T043812Z">
@@ -167,6 +207,14 @@
     <tu>
       <tuv lang="EN-US">
         <seg>(Trang 124)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 125)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082144Z" creationid="LanHK" creationdate="20210510T082144Z">
+        <seg>(Trang 123)</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,6 +399,22 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103530Z" creationid="LanHK" creationdate="20210428T103530Z">
         <seg>(Trang 96)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 98)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082341Z" creationid="LanHK" creationdate="20210510T082341Z">
+        <seg>(Trang 97)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trang 99)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210510T082346Z" creationid="LanHK" creationdate="20210510T082346Z">
+        <seg>(Trang 98)</seg>
       </tuv>
     </tu>
     <tu>
