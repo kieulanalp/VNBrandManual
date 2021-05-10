@@ -13709,6 +13709,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[25808] Chính sách và giới hạn hút thuốc phải được thông báo cho khách trong Danh mục dịch vụ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T034715Z" creationid="Kieu Lan" creationdate="20210510T034715Z">
+        <seg>[25808] Chính sách và các hạn chế hút thuốc phải được thông báo cho khách trong Danh mục dịch vụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[263053]      Trường hợp các đám cháy khí được cung cấp một nguồn đánh lửa tự động với các điều khiển đốt để ngăn khí thoát ra khỏi phòng là bắt buộc.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T034510Z" creationid="Kieu Lan" creationdate="20210417T034510Z">
@@ -16781,6 +16789,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[569048] Văn bản được đề xuất cho chính sách và giới hạn hút thuốc trong Danh mục dịch vụ như sau: [Tên khách sạn] cam kết cung cấp cho khách và nhân viên môi trường không khói thuốc trong phòng và không gian công cộng cấm hút thuốc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T035852Z" creationid="Kieu Lan" creationdate="20210510T035852Z">
+        <seg>[569048] Văn bản được đề xuất cho chính sách và giới hạn hút thuốc trong Danh mục dịch vụ như sau: [Tên khách sạn] cam kết cung cấp cho khách và nhân viên môi trường không khói thuốc trong các phòng khách và không gian công cộng không hút thuốc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[56908] Định hướng và thời gian đi lại gần đúng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T021517Z" creationid="LanHK" creationdate="20210424T021517Z">
@@ -16825,6 +16841,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T015101Z" creationid="Kieu Lan" creationdate="20210426T015101Z">
         <seg>[57026] Khi cất giữ hành lý cho khách, hành lý phải được gắn tag và khách phải được cấp biên lai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[57050] Khuyến nghị Tiếng Anh -Anh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T034724Z" creationid="Kieu Lan" creationdate="20210510T034724Z">
+        <seg>[57050] Khuyến nghị sử dụng Tiếng Anh Anh</seg>
       </tuv>
     </tu>
     <tu>
