@@ -4346,6 +4346,30 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flat Base Plate 1 Tấm đế phẳng 1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043923Z" creationid="Kieu Lan" creationdate="20210510T043923Z">
+        <seg>Flat Base Plate 1 Tấm đế phẳng 1 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flat Base Plate 2 Tấm đế phẳng 2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043921Z" creationid="Kieu Lan" creationdate="20210510T043921Z">
+        <seg>Flat Base Plate 2 Tấm đế phẳng 2 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flat base plate to prevent water collection [13756] Tấm đế phẳng để ngăn nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043910Z" creationid="Kieu Lan" creationdate="20210510T043910Z">
+        <seg>Flat base plate to prevent water collection [13756] Tấm đế phẳng để ngăn đọng nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flexible steam / condensate connections must be guarded to prevent burn hazard [331122]</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -9977,6 +10001,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T043556Z" creationid="LanHK" creationdate="20210428T043556Z">
         <seg>Stainless steel strainer [394066] Lưới lọc thép không gỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stainless-steel anti-scale concealed heating element [13758] Thiết bị đốu nóng kín chống cặn bằng thép không gỉ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T044005Z" creationid="Kieu Lan" creationdate="20210510T044005Z">
+        <seg>Stainless-steel anti-scale concealed heating element [13758] Linh kiện làm nóng kín chống cặn bằng thép không gỉ</seg>
       </tuv>
     </tu>
     <tu>
