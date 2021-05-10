@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 109)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013932Z" creationid="Kieu Lan" creationdate="20210510T013932Z">
+        <seg>(Trang 108)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 11)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012929Z" creationid="LanHK" creationdate="20210406T012929Z">
@@ -2225,8 +2233,8 @@
       <tuv lang="EN-US">
         <seg>Casing Weave: Percale Single Pick [66788] Dệt ren: bình thường kiểu đơn</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012732Z" creationid="Kieu Lan" creationdate="20210510T012732Z">
-        <seg>Casing weave: Plain single pick [66788] Phương pháp dệt vải vỏ chăn: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T014059Z" creationid="Kieu Lan" creationdate="20210510T012732Z">
+        <seg>Casing weave: Plain single pick [66788] Phương pháp dệt vải vỏ ruột chăn: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3300,6 +3308,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T103901Z" creationid="LanHK" creationdate="20210419T103901Z">
         <seg>Drop down rail locking mechanism must be unreachable by the child or difficult for a child to release [56625] Cơ chế khóa thành cũi không được để trẻ có thể với tới hoặc phải khó mở đối với trẻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duvet cover must be provided and meet the following: [66798] Phải cung cấp vỏ chăn duvet và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T013942Z" creationid="Kieu Lan" creationdate="20210510T013942Z">
+        <seg>Duvet cover must be provided and meet the following: [66798] Phải cung cấp vỏ chăn và đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,6 +11241,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012238Z" creationid="Kieu Lan" creationdate="20210510T012238Z">
         <seg>Weave: Plain single pick [66780] Phương pháp dệt vải: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weave: Plain single pick [66804] Dệt: bình thường kiểu đơn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T014223Z" creationid="Kieu Lan" creationdate="20210510T014223Z">
+        <seg>Weave: Plain single pick [66804] Phương pháp dệt: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
       </tuv>
     </tu>
     <tu>
