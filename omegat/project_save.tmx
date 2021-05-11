@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 134)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T091036Z" creationid="LanHK" creationdate="20210511T091036Z">
+        <seg>(Trang 132)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -2239,14 +2247,6 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Brand Standards Manual - This document includes all brand standards that apply to Holiday Inn Resort hotels in Vietnam.</seg>
-      </tuv>
-      <tuv lang="VI" changeid="tieuphuong" changedate="20210508T035859Z">
-        <seg>Brand Standards Manual - This document includes all brand standards that apply to Holiday Inn Resort hotels in Vietnam.d</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Brand Standards Manual - This document includes all brand standards that apply to Holiday Inn Resort hotels in Vietnam.&lt;t0/&gt; &lt;t1/&gt;Hướng dẫn tiêu chuẩn thương hiệu - Tài liệu này bao gồm tất cả các tiêu chuẩn thương hiệu áp dụng cho các khách sạn Holiday Inn Resort tại Việt Nam.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210331T012154Z" creationid="LanHK" creationdate="20210331T012154Z">
@@ -2971,6 +2971,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T100930Z" creationid="LanHK" creationdate="20210406T100930Z">
         <seg>Tài liệu chỉ được cung cấp cho các khách sạn nhượng quyền để định hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chúng tôi cam kết đảm bảo quyền lợi hoặc quý khách không phải thanh toán cho việc lưu trú này.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T091206Z" creationid="LanHK" creationdate="20210511T091206Z">
+        <seg>Chúng tôi cam kết sẽ giải quyết vấn đề hoặc bạn sẽ không phải thanh toán cho sự bất tiện ấy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6142,6 +6150,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T084839Z" creationid="LanHK" creationdate="20210428T084839Z">
         <seg>Đồ đạc và Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hãy báo Giám Đốc Ca hoặc nhân viên lễ tân nếu có bất kỳ bất tiện nào.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T091126Z" creationid="LanHK" creationdate="20210511T091114Z">
+        <seg>Hãy báo Quản lý ca hoặc nhân viên lễ tân nếu có kỳ nghỉ của bạn có bất kỳ bất tiện nào.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12685,6 +12701,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a built-in luggage rack is provided it must meet the following: [89766] Khi cung cấp giá hành lý tích hợp, phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T091005Z" creationid="LanHK" creationdate="20210511T091005Z">
+        <seg>Where a built-in luggage rack is provided it must meet the following: [89766] Khi cung cấp giá hành lý liền tường, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a designated loading/unloading area is provided it must meet the following: [136116] Khi cung cấp một khu vực bốc / dỡ hàng được chỉ định, nó phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -14117,6 +14141,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[1217] Phải cung cấp một giá hành lý.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090930Z" creationid="LanHK" creationdate="20210511T090930Z">
+        <seg>[1217] Phải cung cấp giá để hành lý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[12244] Khi cung cấp các tòa nhà đỗ xe riêng biệt, là một phần của khách sạn, họ phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T094157Z" creationid="LanHK" creationdate="20210422T094157Z">
@@ -14737,6 +14769,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064847Z" creationid="Kieu Lan" creationdate="20210510T064847Z">
         <seg>[18560] cốc tumbler được khuyến nghị có thành cốc thẳng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[196102] Lắp sẵn hoặc có thể gấp lại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090940Z" creationid="LanHK" creationdate="20210511T090937Z">
+        <seg>[196102] Liền tường hoặc có thể gấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[196104] Thiết bị lắp sẵn được đề xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090957Z" creationid="LanHK" creationdate="20210511T090957Z">
+        <seg>[196104] Khuyến nghị dùng thiết bị liền tường</seg>
       </tuv>
     </tu>
     <tu>
@@ -18613,6 +18661,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[57221] Đem đến sự thành công cho kì nghỉ của bạn là mục tiêu của chúng tôi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T091105Z" creationid="LanHK" creationdate="20210511T091105Z">
+        <seg>[57221] Đem đến cho bạn một kỳ nghỉ thành công là mục tiêu của chúng tôi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[5722] Phải thực hiện một chương trình tái sử dụng vải.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020143Z" creationid="LanHK" creationdate="20210508T020143Z">
@@ -22083,6 +22139,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90540]      Không cho phép tấm bàn ủi mặt bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090850Z" creationid="LanHK" creationdate="20210511T090850Z">
+        <seg>[90540]      Không cho phép cầu là đặt trên mặt bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90541]       Phải có một chân đứng sàn ổn định</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090635Z" creationid="LanHK" creationdate="20210511T090635Z">
@@ -22869,8 +22933,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[98699] Phải cung cấp phòng lưu trữ cho xe đẩy hành lý.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210426T092258Z" creationid="LanHK" creationdate="20210426T092258Z">
-        <seg>[98699] Phải cung cấp phòng kho chứa xe đẩy hành lý.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090924Z" creationid="LanHK" creationdate="20210426T092258Z">
+        <seg>[98699] Phải cung cấp phòng chứa xe đẩy hành lý.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23584,6 +23648,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102410Z" creationid="LanHK" creationdate="20210428T102410Z">
         <seg>•  It is recommended to set the temperature at 24°C (75.2 °F).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Minimum recommended ironing surface: 110cm(44in) x 30cm(12in) [151048] Bề mặt ủi tối thiểu được đề nghị: 110cm (44in) x 30cm (12in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090905Z" creationid="LanHK" creationdate="20210511T090859Z">
+        <seg>•  Minimum recommended ironing surface: 110cm(44in) x 30cm(12in) [151048] Bề mặt sử dụng tối thiểu được khuyến nghị: 110cm (44in) x 30cm (12in)</seg>
       </tuv>
     </tu>
     <tu>
