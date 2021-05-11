@@ -21343,8 +21343,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[78349] Vật liệu và thiết kế phải phối hợp với bảng chỉ dẫn phòng / hành lang và cửa sắt.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[78349] Vật liệu và thiết kế phải phối hợp với bảng chỉ dẫn phòng/hành lang và cửa sắt.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T101113Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[78349] Vật liệu và thiết kế biển phải phối hợp với biển số phòng/biển chỉ dẫn hành lang và chi tiết kim loại trên cửa.</seg>
       </tuv>
     </tu>
     <tu>
