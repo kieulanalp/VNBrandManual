@@ -19605,6 +19605,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[61113] Nếu dự trữ, phải trưng bày một thực đơn định giá và in ra các hạng mục trong minibar và tủ lạnh nhỏ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T091825Z" creationid="LanHK" creationdate="20210511T091825Z">
+        <seg>[61113] Nếu cung cấp sẵn đồ, phải có một bản in danh mục vật phẩm trong mini bar và tủ lạnh mini kèm giá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[61924] Nước đóng chai lạnh dự trữ trong một hộp làm mát.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064336Z" creationid="Kieu Lan" creationdate="20210422T064336Z">
