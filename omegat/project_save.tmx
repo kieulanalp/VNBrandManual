@@ -6579,6 +6579,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Include a wash basin [113118]     Bao gồm một chậu rửa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104505Z" creationid="LanHK" creationdate="20210511T104505Z">
+        <seg>Include a wash basin [113118]     Bao gồm một chậu rửa mặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Include an alarm [263149]      Cung cấp báo động</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T023759Z" creationid="LanHK" creationdate="20210417T023759Z">
@@ -10331,6 +10339,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See also ID number [13011] Xem thêm số ID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104418Z" creationid="LanHK" creationdate="20210511T104418Z">
+        <seg>See also ID number [13011] Xem thêm số ID [13011]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See also ID number [22723] Xem thêm số ID</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T084132Z" creationid="LanHK" creationdate="20210510T084132Z">
@@ -13595,6 +13611,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[107098]     Độ sâu tối thiểu là 50 cm (20in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104502Z" creationid="LanHK" creationdate="20210511T104502Z">
+        <seg>[107098]     Độ sâu tối thiểu 50 cm (20in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[107] Sắp xếp vận chuyển cho người sử dụng xe lăn cũng phải được cung cấp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T062337Z" creationid="Kieu Lan" creationdate="20210422T062337Z">
@@ -13911,6 +13935,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T015147Z" creationid="LanHK" creationdate="20210508T015147Z">
         <seg>[113110] Phòng twin connecting và KidSuites® phải có bồn tắm với vòi hoa sen phía trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113120]     Tất cả các yếu tố phải phù hợp với vật liệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104522Z" creationid="LanHK" creationdate="20210511T104522Z">
+        <seg>[113120]     Tất cả các yếu tố sử dụng vật liệu đồng bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113123]     Bắn tóe vào tường liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104625Z" creationid="LanHK" creationdate="20210511T104555Z">
+        <seg>[113123]     Ốp chống bắn nước cho các tường bên cạnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113124]     Bề mặt phóa sau bồn rửa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104641Z" creationid="LanHK" creationdate="20210511T104641Z">
+        <seg>[113124]     Ốp chống bắn nước cho tường sau vanity</seg>
       </tuv>
     </tu>
     <tu>
@@ -21387,6 +21435,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78150] Ổ điện nối đất (đối với máy cạo râu điện) phải được cung cấp liền kề với gương trang điểm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104457Z" creationid="LanHK" creationdate="20210511T104457Z">
+        <seg>[78150] Ổ điện nối đất (đối với máy cạo râu điện) phải được cung cấp liền kề với gương vanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78181]     Đạt được 300 lux ở cấp độ bề mặt làm việc.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T090009Z" creationid="LanHK" creationdate="20210510T090009Z">
@@ -24273,6 +24329,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T042520Z" creationid="Kieu Lan" creationdate="20210417T042520Z">
         <seg>• Mortice lock with a minimum 2cm (¾in) throw thumb-turn deadbolt [56228] Tất cả các cửa phòng connecting phải có khóa lỗ mộng (có tay nắm gạt hoặc tay nắm tròn) với chốt vặn ngón cái tối thiểu 2cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• On or adjacent to the vanity there must be a flat surface, minimum 45cm x 30cm (18in x 12in) of clear space available for guest use [992] Trên hoặc liền kề với bàn trang điểm phải có bề mặt phẳng, tối thiểu 45cm x 30cm (18in x 12in) không gian trống cho khách sử dụng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104447Z" creationid="LanHK" creationdate="20210511T104447Z">
+        <seg>• On or adjacent to the vanity there must be a flat surface, minimum 45cm x 30cm (18in x 12in) of clear space available for guest use [992] Trên hoặc liền kề với vanity phải có bề mặt phẳng, tối thiểu 45cm x 30cm (18in x 12in) không gian trống cho khách sử dụng</seg>
       </tuv>
     </tu>
     <tu>
