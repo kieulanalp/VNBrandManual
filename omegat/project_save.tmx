@@ -13917,6 +13917,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113197] Khuyến nghị tuân thủ Chỉ thị hạn chế các chất độc hại (RoHS).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094035Z" creationid="LanHK" creationdate="20210511T094023Z">
+        <seg>[113197] Khuyến nghị tuân thủ Chỉ thị về hạn chế các chất nguy hiểm (RoHS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113654]     Phải được cố định an toàn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T090408Z" creationid="LanHK" creationdate="20210510T090408Z">
@@ -21105,6 +21113,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T084635Z" creationid="LanHK" creationdate="20210511T084635Z">
         <seg>[78106] Trong phòng một giường, phải được đặt trên tab đầu giường giường gần khu vực chỗ ngồi nhất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78122] Hấp thụ hoặc máy nén im lặng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094358Z" creationid="LanHK" creationdate="20210511T094358Z">
+        <seg>[78122] Tủ lạnh hấp thụ hoặc tủ lạnh dàn nóng không ồn</seg>
       </tuv>
     </tu>
     <tu>
