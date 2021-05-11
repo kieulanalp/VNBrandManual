@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0: outside line [847116] 0: đường dây bên ngoài</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085204Z" creationid="LanHK" creationdate="20210511T085133Z">
+        <seg>0: outside line [847116] gọi đường dây bên ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.5m (5ft) above the floor [56222]       1,5m (5ft) so với sàn nhà</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T041335Z" creationid="Kieu Lan" creationdate="20210417T041335Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T095035Z" creationid="Kieu Lan" creationdate="20210427T095035Z">
         <seg>90° radius bend at each end of the handrail back to the wall [15681]      Uốn cong 90° trở lại tường ở mỗi đầu tay vịn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9: nhân viên vận hành</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085207Z" creationid="LanHK" creationdate="20210511T085126Z">
+        <seg>gọi nhân viên tổng đài</seg>
       </tuv>
     </tu>
     <tu>
@@ -3611,8 +3627,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Dimmable/black out LCD back-lit display in case of digital alarm [874055] Màn hình LCD có thể điều chỉnh độ sáng dimmable / tắt trong trường hợp báo động kỹ thuật số</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Dimmable/black out LCD back-lit display in case of digital alarm [874055] Màn hình LCD có thể điều chỉnh độ sáng dimmable/tắt trong trường hợp báo động kỹ thuật số</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085410Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Dimmable/black out LCD back-lit display in case of digital alarm [874055] Màn hình LCD có thể điều chỉnh độ sáng/tắt nếu là báo thức kỹ thuật số</seg>
       </tuv>
     </tu>
     <tu>
@@ -13040,8 +13056,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Yêu cầu một quy ước đánh số mặc định trên điện thoại.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210511T085058Z" creationid="LanHK" creationdate="20210511T085058Z">
-        <seg>Yêu cầu sử dụng quy ước đánh số mặc định</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085143Z" creationid="LanHK" creationdate="20210511T085058Z">
+        <seg>Yêu cầu đánh số theo quy ước mặc định</seg>
       </tuv>
     </tu>
     <tu>
@@ -15746,6 +15762,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T022554Z" creationid="Kieu Lan" creationdate="20210427T022554Z">
         <seg>[32265] Chiều rộng tối thiểu cho sảnh thang máy được đề xuất là 3 m (10ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[323] Phải cung cấp một cơ sở báo thức trong phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085215Z" creationid="LanHK" creationdate="20210511T085215Z">
+        <seg>[323] Phải cung cấp tiện ích báo thức trong phòng</seg>
       </tuv>
     </tu>
     <tu>
