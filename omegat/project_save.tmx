@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 137)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103634Z" creationid="LanHK" creationdate="20210511T103634Z">
+        <seg>(Trang 135)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -10397,6 +10405,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See also ID number [56630] Xem thêm số ID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103606Z" creationid="LanHK" creationdate="20210511T103606Z">
+        <seg>See also ID number [56630] Xem thêm số ID [56630]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See also ID number [56658] Xem thêm số ID</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T074140Z" creationid="Kieu Lan" creationdate="20210422T074137Z">
@@ -15601,6 +15617,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023328Z" creationid="Kieu Lan" creationdate="20210427T023317Z">
         <seg>[269] xe đẩy buồng phòng và trang bị làm vệ sinh không được ảnh hưởng đến khách sử dụng hành lang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[27266] Tối thiểu hai ổ cắm ở bàn bên giường, hoặc cùng nhau hoặc riêng biệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103719Z" creationid="LanHK" creationdate="20210511T103719Z">
+        <seg>[27266] Tối thiểu hai ổ cắm ở tab đầu giường, hoặc liền nhau hoặc tách riêng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21317,6 +21341,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78136]     Một phích cắm mức dưới để sử dụng cho buồng phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103736Z" creationid="LanHK" creationdate="20210511T103736Z">
+        <seg>[78136]     Một ổ cắm ở độ cao thấp để sử dụng cho buồng phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78181]     Đạt được 300 lux ở cấp độ bề mặt làm việc.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T090009Z" creationid="LanHK" creationdate="20210510T090009Z">
@@ -21833,6 +21865,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T103450Z" creationid="LanHK" creationdate="20210511T103450Z">
         <seg>[83162]     Không cho phép sử dụng dây kéo dài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[83163] Không cho phép bộ điều hợp không có bộ ngắt mạch tích hợp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103508Z" creationid="LanHK" creationdate="20210511T103508Z">
+        <seg>[83163] Không cho dùng adapter không có thiết bị ngắt mạch tích hợp</seg>
       </tuv>
     </tu>
     <tu>
@@ -23119,6 +23159,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032732Z" creationid="LanHK" creationdate="20210508T032732Z">
         <seg>[96206] phải có chăn trang trí đặt ở cuối mỗi giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[964] Phải cung cấp ổ cắm điện có sẵn cho khách sử dụng ở những vị trí dễ tiếp cận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103557Z" creationid="LanHK" creationdate="20210511T103557Z">
+        <seg>[964] Phải cung cấp ổ cắm điện cho khách sử dụng ở những vị trí dễ tiếp cận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[965] Tối thiểu hai ổ cắm trên hoặc trên bề mặt khu vực làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103624Z" creationid="LanHK" creationdate="20210511T103624Z">
+        <seg>[965] Tối thiểu hai ổ cắm trên mặt bàn làm việc hoặc phía trên mặt bàn.</seg>
       </tuv>
     </tu>
     <tu>
