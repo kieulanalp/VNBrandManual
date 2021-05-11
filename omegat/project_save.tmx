@@ -6644,6 +6644,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron Organiser Example Ví Dụ về Giá Đựng Bàn Là</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085955Z" creationid="LanHK" creationdate="20210511T085955Z">
+        <seg>Iron Organiser Example Ví Dụ về Giá Đựng Bàn Là (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended for the breakfast buffet /individual dishes to be stocked, at a minimum of one third full at the end of the advertised breakfast service time [578056] Khuyến nghị cho bữa sáng tự chọn / các món ăn riêng lẻ đặt ra, tối thiểu là một phần ba đầy đủ vào cuối thời gian phục vụ bữa sáng được báo trước</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -19246,6 +19254,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58879]       Cơ sở báo thức phải có một đồng hồ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085752Z" creationid="LanHK" creationdate="20210511T085747Z">
+        <seg>[58879]       Tiện ích báo thức phải bao gồm đồng hồ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58880] Cơ sở báo động phải có cài đặt thời gian chính xác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085733Z" creationid="LanHK" creationdate="20210511T085733Z">
+        <seg>[58880] Tiện ích báo thức phải có cài đặt thời gian chính xác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58883] Thiết bị báo động phải được hủy kích hoạt khi khách rời đi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085820Z" creationid="LanHK" creationdate="20210511T085820Z">
+        <seg>[58883] Tiện ích báo thức phải được tắt khi khách rời đi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59001] Phải gửi một bức thư hoặc email cảm ơn cho khách hàng trong vòng một ngày làm việc sau khi kiểm tra / tham quan.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -20250,6 +20282,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[720086]      Nếu toàn bộ hệ thống, hoặc một phần của thiết bị được lắp đặt bị hỏng đến mức cần phải thay thế hoàn toàn nhưng không được bảo hành theo hợp đồng bảo hành hoặc bảo trì, cần nỗ lực để thay thế thiết bị và/hoặc tác động đến nhà sản xuất thay thế, càng nhanh càng tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[722050] Đồng hồ báo thức có thể được kết hợp với điện thoại đầu giường như một thiết bị tích hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085919Z" creationid="LanHK" creationdate="20210511T085912Z">
+        <seg>[722050] Đồng hồ báo thức có thể được tích hợp với điện thoại đầu giường thành một unit</seg>
       </tuv>
     </tu>
     <tu>
@@ -21350,6 +21390,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[847117] Nếu điện thoại có chức năng đồng hồ, radio và báo thức, không cần có thiết bị báo thức trong phòng riêng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085836Z" creationid="LanHK" creationdate="20210511T085836Z">
+        <seg>[847117] Nếu điện thoại có chức năng đồng hồ, radio và báo thức, không cần có thiết bị báo thức riêng trong phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[850073] thiết bị phát hiện khói phải được giám sát bởi bảng báo cháy chính.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T012157Z" creationid="LanHK" creationdate="20210417T012157Z">
@@ -21806,6 +21854,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[89761] Một máy ủi và bàn ủi kích thước toàn phần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085939Z" creationid="LanHK" creationdate="20210511T085939Z">
+        <seg>[89761] Một bàn là và cầu là full size</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[89808]     Rèm tắm hoặc cửa kính tôi an toàn / pespec.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -22072,6 +22128,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T074540Z" creationid="Kieu Lan" creationdate="20210426T040213Z">
         <seg>[94900]      Khuyến nghị dùng bức điêu khắc trang trí tường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[95134]       Dùng để đựng bàn là và bảng là</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090006Z" creationid="LanHK" creationdate="20210511T090006Z">
+        <seg>[95134]       được dùng để đựng bàn là và cầu là</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[95136]       Lưu trữ trong tủ đựng hoặc thiết bị đựng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090101Z" creationid="LanHK" creationdate="20210511T090101Z">
+        <seg>[95136]       được cất trong hộp hoặc tủ áo</seg>
       </tuv>
     </tu>
     <tu>
