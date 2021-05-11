@@ -2,3 +2,4 @@ bàn cạnh giường	tab đầu giường
 Recommended	Khuyến nghị
 construction	kết cấu
 bên giường	tab đầu giường
+trang điểm	vanity
