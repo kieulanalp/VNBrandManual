@@ -13885,6 +13885,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113190] Ngôi sao năng lượng tối thiểu, Nhãn EU A hoặc tiêu chuẩn địa phương tương đương theo Nguyên tắc Tiêu Chuẩn Xanh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T092412Z" creationid="LanHK" creationdate="20210511T092412Z">
+        <seg>[113190] Tối thiểu có energy star, Nhãn EU hạng A hoặc tiêu chuẩn địa phương tương đương theo Hướng dẫn Tiêu Chuẩn Xanh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113193] Vỏ tủ lạnh phải cung cấp thông gió theo các khuyến nghị của nhà sản xuất.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T092013Z" creationid="LanHK" creationdate="20210511T092013Z">
