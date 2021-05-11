@@ -20776,8 +20776,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[78105]   Trong cấu hình phòng đôi, phải được đặt trên bàn cạnh giường giữa các giường.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210511T084459Z" creationid="LanHK" creationdate="20210511T084459Z">
-        <seg>[78105]   Trong phòng twin, phải được đặt trên bàn cạnh giường giữa các giường.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084508Z" creationid="LanHK" creationdate="20210511T084459Z">
+        <seg>[78105]   Trong phòng twin, phải được đặt trên tab giữa hai giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78106] Trong cấu hình một giường, phải được đặt trên bàn cạnh giường gần khu vực chỗ ngồi nhất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084635Z" creationid="LanHK" creationdate="20210511T084635Z">
+        <seg>[78106] Trong phòng một giường, phải được đặt trên tab đầu giường giường gần khu vực chỗ ngồi nhất.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20898,6 +20906,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T084948Z" creationid="LanHK" creationdate="20210510T084948Z">
         <seg>[78909] Bố trí cạnh hoặc phía trên mỗi giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79112]   Nếu cung cấp nút quay số lại, bộ nhớ cho số cuối được quay số phải được đặt lại sau khi Trả phòng hoặc theo các khoảng thời gian cố định để bảo vệ quyền riêng tư của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084749Z" creationid="LanHK" creationdate="20210511T084749Z">
+        <seg>[79112]   Nếu điện thoại có nút redial, bộ nhớ cho số gọi gần nhất được reset sau khi khách trả phòng hoặc sau khoảng thời gian cố định để bảo vệ quyền riêng tư của khách.</seg>
       </tuv>
     </tu>
     <tu>
