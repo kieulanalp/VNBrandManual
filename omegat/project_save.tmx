@@ -21965,6 +21965,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[88230]      Phải có độ đầy đủ tối thiểu 150%.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100249Z" creationid="LanHK" creationdate="20210511T100249Z">
+        <seg>[88230]      Phải có độ nhún tối thiểu 150%. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[88231]     Chiều dài của các yếu tố vải không trang trí (lót / vải mỏng/ vải tối) không được vượt quá chiều dài của các yếu tố trang trí.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
