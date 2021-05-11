@@ -10534,6 +10534,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Single-line [39526]     Đường đơn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084436Z" creationid="LanHK" creationdate="20210511T084436Z">
+        <seg>Single-line [39526]     Điện thoại single line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Site Utilities and Equipment</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153458Z" creationid="Kieu Lan" creationdate="20210405T153458Z">
@@ -14626,6 +14634,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041409Z" creationid="Kieu Lan" creationdate="20210510T041409Z">
         <seg>[20009] ngôn ngữ bổ sung có thể được sử dụng khi thích hợp, bao gồm ngôn ngữ của các thị trường khách lớn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[20196]     Một cái trên bàn cạnh giường ngủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084333Z" creationid="LanHK" creationdate="20210511T084333Z">
+        <seg>[20196]     Một cái điện thoại bàn cạnh giường ngủ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20110,6 +20126,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[711055] Một kênh hiển thị các dịch vụ và tiện nghi của khách sạn, các chương trình và chương trình khuyến mãi của IHG.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084250Z" creationid="LanHK" creationdate="20210511T084250Z">
+        <seg>[711055] Một kênh chiếu các dịch vụ và tiện nghi của khách sạn, các chương trình và chương trình khuyến mãi của IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[711059]    thương hiệu được đề nghị của IHG là LG, Samsung và Philips.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T094339Z" creationid="LanHK" creationdate="20210510T094339Z">
@@ -20746,6 +20770,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032712Z" creationid="LanHK" creationdate="20210508T032712Z">
         <seg>[78104]    Hướng dẫn về Quay số trực tiếp quốc tế (IDD), gọi nội địa, gọi từ phòng này sang phòng khác và quay số khẩn cấp địa phương (nếu có).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78105]   Trong cấu hình phòng đôi, phải được đặt trên bàn cạnh giường giữa các giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084459Z" creationid="LanHK" creationdate="20210511T084459Z">
+        <seg>[78105]   Trong phòng twin, phải được đặt trên bàn cạnh giường giữa các giường.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21840,6 +21872,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[92634] Cho phép sử dụng linh hoạt và thiết kế cho phép đóng và/hoặc sử dụng cho các mục đích khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[926] Phải cung cấp một ti vi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084326Z" creationid="LanHK" creationdate="20210511T084326Z">
+        <seg>[926] Phải cung cấp một điện thoại bàn.</seg>
       </tuv>
     </tu>
     <tu>
