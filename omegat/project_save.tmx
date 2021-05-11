@@ -19270,6 +19270,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[58835] Không cho phép bàn là thiết kế travel size</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090331Z" creationid="LanHK" creationdate="20210511T090331Z">
+        <seg>[58835] Không cho phép bàn là du lịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58838] Tài liệu cho kiểm tra thường xuyên phải được duy trì.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103817Z" creationid="LanHK" creationdate="20210428T103817Z">
@@ -22044,6 +22052,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90899] Nhân viên cần đảm bảo rằng bàn là được đặt trong tủ quần áo với một thùng rỗng sau khi sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090402Z" creationid="LanHK" creationdate="20210511T090402Z">
+        <seg>[90899] Nhân viên cần đảm bảo rằng bàn là được đặt trong tủ quần áo với khoang chứa nước rỗng sau khi sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90998] Nên tồn tại một liên kết trở về từ trang web của doanh nghiệp liên quan đến Trang web Khách sạn Độc lập.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T031201Z" creationid="LanHK" creationdate="20210407T031201Z">
@@ -22304,6 +22320,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T091121Z" creationid="LanHK" creationdate="20210510T091121Z">
         <seg>[957]  Không cho phép ghế có thể ngả lưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[95806] Tất cả các thiết bị điện phải được sản xuất theo quy định địa phương hiện hành hoặc tối thiểu để tuân thủ nhãn hiệu 'UL', 'CE', 'CCC'</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090458Z" creationid="LanHK" creationdate="20210511T090458Z">
+        <seg>[95806] Tất cả các thiết bị điện phải được sản xuất theo quy định địa phương hiện hành hoặc tối thiểu để tuân thủ tiêu chuẩn 'UL', 'CE', 'CCC'</seg>
       </tuv>
     </tu>
     <tu>
