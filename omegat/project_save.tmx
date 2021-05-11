@@ -8170,6 +8170,12 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <note>a matching flame retardant removable insert</note>
+      <tuv lang="EN-US">
+        <seg>Must have a matching flame retardant removable insert.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Must have a metal hook size to fit closet rod [58793] Móc kim loại có kích thước phù hợp với thanh tủ quần áo</seg>
       </tuv>
@@ -8215,6 +8221,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093443Z" creationid="LanHK" creationdate="20210405T093443Z">
         <seg>My Room Phòng của tôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Room -&gt; Bathroom -&gt; Fixtures and Fittings Phòng của tôi -&gt; Phòng tắm -&gt; Đồ đạc và thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104309Z" creationid="LanHK" creationdate="20210511T104309Z">
+        <seg>My Room -&gt; Bathroom -&gt; Fixtures and Fittings Phòng tắm -&gt; Đồ đạc và thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -11665,6 +11679,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>The speech transmission index/quality must be in compliance with IEC 60268.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vanity must meet the following: [991] Bàn trang điểm phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104411Z" creationid="LanHK" creationdate="20210511T104411Z">
+        <seg>The vanity must meet the following: [991] Vanity phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21185,6 +21207,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T032103Z" creationid="LanHK" creationdate="20210428T032103Z">
         <seg>[77693] Khuyến nghị giá treo giấy vệ sinh tích hợp kệ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[77775] Nếu cho phép không gian, chúng phải được đặt dưới bàn trang điểm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104303Z" creationid="LanHK" creationdate="20210511T104115Z">
+        <seg>[77775] Nếu không gian cho phép, thùng rác phải được đặt dưới vanity.</seg>
       </tuv>
     </tu>
     <tu>
