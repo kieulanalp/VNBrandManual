@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(4.6 - 5.2ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095112Z" creationid="LanHK" creationdate="20210511T095112Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(4.6 - 5.2ft) [65019] Mức mắt được khuyến nghị là trong khoảng từ 1,4 - 1,6m chiều cao.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095105Z" creationid="LanHK" creationdate="20210511T095105Z">
+        <seg>(4.6 - 5.2ft) [65019] Tầm mắt được khuyến nghị cao khoảng từ 1,4 - 1,6m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(E.g. infra-red sensor mixers) [81996] Đồ đạc nên có một công tác tự động.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T030714Z" creationid="LanHK" creationdate="20210428T030648Z">
@@ -10173,6 +10189,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sample Instructions and Diagram Hướng dẫn và sơ đồ mẫu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094950Z" creationid="LanHK" creationdate="20210511T094950Z">
+        <seg>Sample Instructions and Diagram Mẫu Hướng dẫn và Sơ đồ (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample water bottle security label sticker</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043719Z" creationid="Kieu Lan" creationdate="20210422T043719Z">
@@ -16061,6 +16085,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[338] Ít nhất một cái gạt tàn phải được cung cấp trong phòng hút thuốc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095121Z" creationid="LanHK" creationdate="20210511T095121Z">
+        <seg>[338] Tối thiểu một gạt tàn phải được cung cấp trong phòng hút thuốc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[341083]      Nên có thảm với lớp lót.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T033538Z" creationid="Kieu Lan" creationdate="20210426T033538Z">
@@ -16767,8 +16799,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[44571]      hướng dẫn đơn giản và sử dụng hệ thống sơ đồ chi tiết phải bằng tiếng Anh và ngôn ngữ địa phương, nếu ngôn ngữ địa phương được áp dụng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210511T094743Z" creationid="LanHK" creationdate="20210511T094743Z">
-        <seg>[44571]      hướng dẫn sử dụng đơn giản và đồ chi tiết phải bằng tiếng Anh và ngôn ngữ địa phương, nếu ngôn ngữ địa phương được áp dụng.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094936Z" creationid="LanHK" creationdate="20210511T094743Z">
+        <seg>[44571]      Phải có hướng dẫn sử dụng đơn giản và sơ đồ giải thích cách sử dụng hệ thống bằng tiếng Anh và ngôn ngữ địa phương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[44572] Phải cung cấp hướng dẫn đơn giản và sơ đồ trong tầm nhìn của người dùng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095044Z" creationid="LanHK" creationdate="20210511T095044Z">
+        <seg>[44572] Phải cung cấp hướng dẫn đơn giản và sơ đồ xét từ quan điểm của người dùng.</seg>
       </tuv>
     </tu>
     <tu>
