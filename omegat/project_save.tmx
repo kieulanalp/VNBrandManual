@@ -12749,10 +12749,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a silent compressor fridge is provided, it must meet the following: [78823] Trường hợp cung cấp tủ lạnh nén im lặng, phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094522Z" creationid="LanHK" creationdate="20210511T094522Z">
+        <seg>Where a silent compressor fridge is provided, it must meet the following: [78823] Trường hợp cung cấp tủ lạnh dainén im lặng, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a wheel chair refuge is provided in staircases it must meet the following: [356095] Trường hợp cung cấp chỗ cho xe lăn trong cầu thang, nó phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T045053Z" creationid="Kieu Lan" creationdate="20210427T040607Z">
         <seg>Where a wheel chair refuge is provided in staircases it must meet the following: [356095] Trường hợp cung cấp vị trí chờ cho xe lăn trên cầu thang thoát hiểm, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where an absorption type fridge is provided, it must meet the following: [78817] Trường hợp cung cấp một tủ lạnh loại hấp thụ, phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094418Z" creationid="LanHK" creationdate="20210511T094418Z">
+        <seg>Where an absorption type fridge is provided, it must meet the following: [78817] Trường hợp cung cấp tủ lạnh hấp thụ, phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21193,6 +21209,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[78798]     Chiếu sáng phải tuân theo các thông số kỹ thuật tương tự như nhà bếp/pantry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78821]     Rò rỉ amoniac và tự động tắt cảm biến.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T094435Z" creationid="LanHK" creationdate="20210511T094435Z">
+        <seg>[78821]     Cảm biến rò rỉ amoniac và cơ chế tự động tắt.</seg>
       </tuv>
     </tu>
     <tu>
