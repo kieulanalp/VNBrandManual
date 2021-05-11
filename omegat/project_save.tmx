@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 132)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085101Z" creationid="LanHK" creationdate="20210511T085101Z">
+        <seg>(Trang 130)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -13030,6 +13038,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yêu cầu một quy ước đánh số mặc định trên điện thoại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085058Z" creationid="LanHK" creationdate="20210511T085058Z">
+        <seg>Yêu cầu sử dụng quy ước đánh số mặc định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zinc plated brass swivel clips [79925]      Kẹp đồng mạ kẽm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T090216Z" creationid="LanHK" creationdate="20210423T090216Z">
@@ -16410,6 +16426,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[412050]    Chủ sở hữu/Đại lý độc quyền/chuyên gia tư vấn được chỉ định của mình phải thông báo cho IHG về bất kỳ xung đột nào giữa các tiêu chuẩn IHG và các luật, quy tắc hoặc quy định quốc tế, quốc gia và địa phương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[413048]      Điện thoại tại bàn được khuyến nghị là loại không cần tổ hợp (hand-free).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084954Z" creationid="LanHK" creationdate="20210511T084954Z">
+        <seg>[413048]      Điện thoại bàn được khuyến nghị là loại hand-free.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21306,6 +21330,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[859104] Ống hút phân hủy sinh học phải được phân hủy hoàn toàn và/hoặc phân hủy sinh học trong bãi rác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[860049] Điện thoại có thể bao gồm: đồng hồ, radio, chức năng báo thức và tối thiểu hai cổng USB để sạc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T085003Z" creationid="LanHK" creationdate="20210511T085003Z">
+        <seg>[860049] Điện thoại có thể tích hợp: đồng hồ, radio, chức năng báo thức và tối thiểu hai cổng USB để sạc</seg>
       </tuv>
     </tu>
     <tu>
