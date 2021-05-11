@@ -9604,6 +9604,22 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide complete blackout [2539]       Cung cấp che tối hoàn toàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095208Z" creationid="LanHK" creationdate="20210511T095208Z">
+        <seg>Provide complete blackout [2539]       Có thể cản sáng hoàn toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide privacy from views into the room but allow light in [2540] Cung cấp sự riêng tư từ góc nhìn vào phòng nhưng cho phép ánh sáng vào</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095226Z" creationid="LanHK" creationdate="20210511T095226Z">
+        <seg>Provide privacy from views into the room but allow light in [2540] Cung cấp sự riêng tư tránh người ngoài nhìn vào nhưng cho phép ánh sáng vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide visual privacy [99311]     Cung cấp độ kín đáo về tầm nhìn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T034612Z" creationid="LanHK" creationdate="20210428T034612Z">
@@ -13189,6 +13205,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window treatments must be provided to all guest room exterior windows and glazed doors and meet the following: [2538]    Phải xử lý cửa sổ cho tất cả các cửa sổ bên ngoài phòng khách và cửa ra vào bằng kính và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095157Z" creationid="LanHK" creationdate="20210511T095157Z">
+        <seg>Window treatments must be provided to all guest room exterior windows and glazed doors and meet the following: [2538]    Phải cung cấp rèm cửa sổ cho tất cả các cửa sổ phòng khách nhìn ra ngoài và cửa ra vào bằng kính và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012807Z" creationid="LanHK" creationdate="20210406T012807Z">
@@ -16465,6 +16489,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032639Z" creationid="LanHK" creationdate="20210508T032639Z">
         <seg>[37957] Vật liệu nên nên là vật liệu có thể tái chế và được  tái chế bất cứ khi nào có thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[37971] Không được có logo in.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095126Z" creationid="LanHK" creationdate="20210511T095126Z">
+        <seg>[37971] Không được có logo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21457,6 +21489,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T025340Z" creationid="LanHK" creationdate="20210508T025340Z">
         <seg>[79132]    Ổ cắm, điểm kết nối gắn tường phải được lắp đặt với chiều cao từ 45cm (18in) đến 1m (3ft 4in) so với mức sàn hoàn thiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79136]       Yêu cầu vải mỏng (sheer)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095238Z" creationid="LanHK" creationdate="20210511T095238Z">
+        <seg>[79136]       Yêu cầu có rèm sheer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79137]      Phải được khách điều chỉnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T095252Z" creationid="LanHK" creationdate="20210511T095252Z">
+        <seg>[79137]      khách phải có thể điều chỉnh.</seg>
       </tuv>
     </tu>
     <tu>
