@@ -21349,6 +21349,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78350]   Trên sàn hút thuốc và không hút thuốc chuyên dụng, phải cung cấp biển báo ở khu vực sảnh thang máy hoặc bên ngoài mỗi cửa phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103348Z" creationid="LanHK" creationdate="20210511T103348Z">
+        <seg>[78350]   Trên các tầng hút thuốc và không hút thuốc, phải cung cấp biển báo ở khu vực sảnh thang máy hoặc bên ngoài mỗi cửa phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[785] Nếu một Trưởng phòng rời khỏi hệ thống IHG® từ một năm trở lên, họ phải hoàn thành lại khóa đào tạo cấp phòng khi họ trở về.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T014330Z" creationid="Kieu Lan" creationdate="20210420T014330Z">
