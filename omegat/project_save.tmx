@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 133)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090118Z" creationid="LanHK" creationdate="20210511T090118Z">
+        <seg>(Trang 131)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of 1.8m (6ft) length cord with a soft grip handle [58827] Dây dài tối thiểu 1,8m (6ft) với tay cầm mềm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090252Z" creationid="LanHK" creationdate="20210511T090252Z">
+        <seg>A minimum of 1.8m (6ft) length cord with a soft grip handle [58827] Dây điện dài tối thiểu 1,8m (6ft) với tay cầm mềm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of one breakfast package (eg: picnic, adventure with kids, romantic on the balcony / beach).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T034854Z" creationid="Kieu Lan" creationdate="20210417T034854Z">
         <seg>A non-combustible floor extending a minimum of 1m (3ft) around an open fireplace [263059] Sàn chống cháy kéo dài tối thiểu 1m xung quanh lò sưởi mở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A power light to indicate when the unit is in auto shut-off mode [58829] Đèn điện để báo khi thiết bị ở chế độ tự động tắt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090313Z" creationid="LanHK" creationdate="20210511T090313Z">
+        <seg>A power light to indicate when the unit is in auto shut-off mode [58829] Đèn báo khi thiết bị ở chế độ tự động tắt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1914,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Be a minimum thickness of 8mm (5/16in) [65695] Độ dày tối thiểu là 8 mm (5/16in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be able to prevent scale build up and flushes scale particles [58833] Có thể ngăn chặn cặn vôi bám và loại bỏ mảnh cặn vôi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090323Z" creationid="LanHK" creationdate="20210511T090323Z">
+        <seg>Be able to prevent scale build up and flushes scale particles [58833] Có thể ngăn chặn cặn vôi bám và loại bỏ cặn vôi</seg>
       </tuv>
     </tu>
     <tu>
@@ -10790,6 +10822,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steam and dry ironing mode [58817] Chế độ ủi hơi và khô</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090133Z" creationid="LanHK" creationdate="20210511T090133Z">
+        <seg>Steam and dry ironing mode [58817] Chế độ là hơi và là khô</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steps [56661]       bậc thang</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T105752Z" creationid="LanHK" creationdate="20210419T105752Z">
@@ -12254,6 +12294,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Variable temperature dial [58824] Quay số nhiệt độ thay đổi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090231Z" creationid="LanHK" creationdate="20210511T090231Z">
+        <seg>Variable temperature dial [58824] Nút xoay để thay đổi nhiệt độ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Variation agreed by / sign off documentation [338052]     Hồ sơ kí kết/ phê duyệt thay đổi</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -12498,6 +12546,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T014223Z" creationid="Kieu Lan" creationdate="20210510T014223Z">
         <seg>Weave: Plain single pick [66804] Phương pháp dệt: kiểu dệt single pick (duy nhất một sợi ngang được dệt vào sợi dọc trong 1 thời điểm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weigh between 900g (2lbs) to 1.8kg (4lbs) [58826] Cân nặng từ 900g (2lbs) đến 1,8kg (4lbs)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090302Z" creationid="LanHK" creationdate="20210511T090302Z">
+        <seg>Weigh between 900g (2lbs) to 1.8kg (4lbs) [58826] Trọng lượng từ 900g (2lbs) đến 1,8kg (4lbs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19194,6 +19250,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041707Z" creationid="Kieu Lan" creationdate="20210510T041707Z">
         <seg>[58790] Không cho phép mắc chống trộm và móc treo gắn tường có thể tháo rời</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58825] Phải là kích thước toàn phần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090238Z" creationid="LanHK" creationdate="20210511T090238Z">
+        <seg>[58825] Phải là bàn là full size.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58834] Không được rò rỉ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T090317Z" creationid="LanHK" creationdate="20210511T090317Z">
+        <seg>[58834] Không được rò nước.</seg>
       </tuv>
     </tu>
     <tu>
