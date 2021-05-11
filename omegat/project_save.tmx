@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 136)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100828Z" creationid="LanHK" creationdate="20210511T100828Z">
+        <seg>(Trang 134)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -1114,6 +1122,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Additionally, in developing their policies, franchised hotels may also refer to The UN Global Compact's ten principles, The Universal Declaration of Human Rights and/or The International Labour Organisation's Declaration on Fundamental Principles and Rights at Work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjustable seat height [886050]       Chiều cao chỗ ngồi tùy chỉnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100920Z" creationid="LanHK" creationdate="20210511T100920Z">
+        <seg>Adjustable seat height [886050]       Chiều cao ghế có thể tùy chỉnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -6573,8 +6589,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Indicated by tent card or door signage [78346]     Được chỉ định bởi thẻ tent card hoặc biển báo cửa</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210510T075718Z" creationid="LanHK" creationdate="20210510T075718Z">
-        <seg>Indicated by tent card or door signage [78346]     Được chỉ định bởi tent card hoặc biển báo cửa</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100959Z" creationid="LanHK" creationdate="20210510T075718Z">
+        <seg>Indicated by tent card or door signage [78346]     Được chỉ định bởi tent card hoặc biển báo gắn cửa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11997,6 +12013,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trường hợp cung cấp sàn bề mặt cứng trong phòng, cần lắp đặt các thanh trượt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100933Z" creationid="LanHK" creationdate="20210511T100933Z">
+        <seg>Trường hợp cung cấp sàn bề mặt cứng trong phòng, cần lắp đặt các bánh xe trượt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trường hợp được cung cấp trong phòng khách và văn phòng hành chính phải có trọng lượng sản phẩm tối thiểu 345g / m2 (15oz mỗi yard chiều dài).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -12881,6 +12905,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T094502Z" creationid="LanHK" creationdate="20210422T094502Z">
         <seg>Where controlled parking is provided, the access point must meet the following: [12252] Khi cung cấp bãi đậu xe có kiểm soát, điểm truy cập phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where door signage is provided to indicate smoking or non-smoking rooms, it must meet the following: [78347]     Trường hợp cung cấp biển báo cửa để chỉ phòng hút thuốc hoặc không hút thuốc, thì phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T101009Z" creationid="LanHK" creationdate="20210511T101009Z">
+        <seg>Where door signage is provided to indicate smoking or non-smoking rooms, it must meet the following: [78347]     Trường hợp cung cấp biển báo gắn cửa để chỉ phòng hút thuốc hoặc không hút thuốc, thì phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14733,6 +14765,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[16030] Không cho phép rèm dọc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100757Z" creationid="LanHK" creationdate="20210511T100757Z">
+        <seg>[16030] Không cho phép rèm lá dọc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[16033] Đề xuất rằng đỉnh của bàn cạnh giường ngủ ít nhất là 5cm (2in) dưới đầu nệm.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T084759Z" creationid="LanHK" creationdate="20210510T084759Z">
@@ -16197,6 +16237,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[36464] Không cho phép sắp xếp hoa và cây cối.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100854Z" creationid="LanHK" creationdate="20210511T100854Z">
+        <seg>[36464] Không cho phép bố trí chậu cây và cắm hoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[370] Yêu cầu hai cốc vại.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064810Z" creationid="Kieu Lan" creationdate="20210510T064810Z">
@@ -16857,6 +16905,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020458Z" creationid="LanHK" creationdate="20210508T020458Z">
         <seg>[45086] Yêu cầu có các phòng connecting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[45236]    Chất lượng thương mại và định mức cho sử dụng bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100729Z" creationid="LanHK" creationdate="20210511T100729Z">
+        <seg>[45236]    Chất lượng thương mại và chất lượng phù hợp cho sử dụng bên ngoài.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22133,6 +22189,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[886049]     Ghế và bàn phải phối hợp trong thiết kế và chiều cao để cho phép ghế được cuộn bên dưới bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100913Z" creationid="LanHK" creationdate="20210511T100913Z">
+        <seg>[886049]     Ghế và bàn phải phối hợp trong thiết kế và chiều cao để cho phép ghế có thể đẩy vào hộc bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[886052] Cho phép ghế được di chuyển dưới bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100943Z" creationid="LanHK" creationdate="20210511T100943Z">
+        <seg>[886052] Cho phép ghế có thể di chuyển dưới bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[886] Đài phát thanh không được sử dụng làm nhạc nền.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125654Z" creationid="Kieu Lan" creationdate="20210423T125654Z">
@@ -22991,6 +23063,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T092604Z" creationid="LanHK" creationdate="20210423T091511Z">
         <seg>[96199] Hai tông xanh lá cây với hình cung Holiday Inn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[96204] Không cho phép dịch vụ đánh bóngchuyên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100819Z" creationid="LanHK" creationdate="20210511T100819Z">
+        <seg>[96204] Không cho phép cung cấp dịch vụ chuyên đánh giày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[96205] Cho phép các tiện ích đánh bóng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T100835Z" creationid="LanHK" creationdate="20210511T100835Z">
+        <seg>[96205] Cho phép các tiện ích để đánh giày.</seg>
       </tuv>
     </tu>
     <tu>
