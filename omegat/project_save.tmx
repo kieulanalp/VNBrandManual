@@ -6749,8 +6749,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Items should be reasonably priced with nominal mark-ups on market prices [61116] mặt hàng nên được định giá hợp lý với tăng giá danh nghĩa trên giá thị trường</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210511T093511Z" creationid="LanHK" creationdate="20210511T093511Z">
-        <seg>Items should be reasonably priced with nominal mark-ups on market prices [61116] Các mặt hàng nên được định giá hợp lý, khoản markup không quá cao so với thị trường</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T093519Z" creationid="LanHK" creationdate="20210511T093511Z">
+        <seg>Items should be reasonably priced with nominal mark-ups on market prices [61116] Các mặt hàng nên được định giá hợp lý, khoản markup không quá cao so với giá thị trường</seg>
       </tuv>
     </tu>
     <tu>
@@ -20121,6 +20121,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T091217Z" creationid="LanHK" creationdate="20210428T103837Z">
         <seg>[6745] Trường hợp cung cấp các ấn phẩm tôn giáo, chúng phải được đặt ở vị trí kín đáo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[67502] Khi tủ lạnh mini được dự trữ, nó nên chứa các nhãn hiệu đồ ăn nhẹ và đồ uống được công nhận phù hợp trong khu vực.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T093946Z" creationid="LanHK" creationdate="20210511T093946Z">
+        <seg>[67502] Khi tủ lạnh mini có sẵn đồ, nên gồm các nhãn hiệu đồ ăn nhẹ và đồ uống nổi tiếng và phù hợp với khu vực.</seg>
       </tuv>
     </tu>
     <tu>
