@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 131)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084035Z" creationid="LanHK" creationdate="20210511T084035Z">
+        <seg>(Trang 129)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -13726,6 +13734,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113699]     Ưu tiên gắn tường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084124Z" creationid="LanHK" creationdate="20210511T084124Z">
+        <seg>[113699]     Ưu tiên TV gắn tường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113705] • Nên phụ thuộc vào vị trí cửa sổ kéo.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102711Z" creationid="LanHK" creationdate="20210428T102711Z">
@@ -20610,6 +20626,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T032103Z" creationid="LanHK" creationdate="20210428T032103Z">
         <seg>[77693] Khuyến nghị giá treo giấy vệ sinh tích hợp kệ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[77778] Lắp đặt không được làm giảm hiệu suất âm thanh của bức tường được lắp đặt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084100Z" creationid="LanHK" creationdate="20210511T084100Z">
+        <seg>[77778] Việc lắp đặt không được làm giảm hiệu suất cách âm của tường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[77779] Nên quan sát từ khu vực làm việc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T084120Z" creationid="LanHK" creationdate="20210511T084120Z">
+        <seg>[77779] Khuyến nghị tạo điều kiện cho phép xem TV từ khu vực làm việc</seg>
       </tuv>
     </tu>
     <tu>
