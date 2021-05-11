@@ -14077,6 +14077,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113704] Phải cung cấp tối thiểu một ổ cắm quốc tế gần giường hoặc bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103757Z" creationid="LanHK" creationdate="20210511T103757Z">
+        <seg>[113704] Phải cung cấp tối thiểu một ổ cắm quốc tế gần giường hoặc bàn làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113705] • Nên phụ thuộc vào vị trí cửa sổ kéo.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102711Z" creationid="LanHK" creationdate="20210428T102711Z">
@@ -21335,16 +21343,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[78135] Nên sử dụng một ổ cắm liền kề với khu vực treo / lưu trữ quần áo</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T014613Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[78135] Khuyến nghị có 1 ổ cắm liền kề với khu vực treo/lưu trữ quần áo</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103856Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[78135] Khuyến nghị có 1 ổ cắm liền kề với khu tủ treo quần áo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[78136]     Một phích cắm mức dưới để sử dụng cho buồng phòng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210511T103736Z" creationid="LanHK" creationdate="20210511T103736Z">
-        <seg>[78136]     Một ổ cắm ở độ cao thấp để sử dụng cho buồng phòng.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103751Z" creationid="LanHK" creationdate="20210511T103736Z">
+        <seg>[78136]     Một ổ cắm ở độ cao thấp phục vụ housekeeping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21825,6 +21833,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045618Z" creationid="Kieu Lan" creationdate="20210510T045618Z">
         <seg>[8083] Yêu cầu cốc có quai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[8101]      Nên sử dụng phích cắm mức dưới cho nhân viên buồng phòng sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103831Z" creationid="LanHK" creationdate="20210511T103831Z">
+        <seg>[8101]      Nên có nhiều ổ cắm ở độ cao thấp cho housekeeping</seg>
       </tuv>
     </tu>
     <tu>
@@ -22500,9 +22516,20 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>[90508]    Công tắc phải được đặt ở lối vào và đầu giường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T103937Z" creationid="LanHK" creationdate="20210511T103937Z">
+        <seg>[90508]    Công tắc phải được bố trí ở lối vào và đầu giường.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Em đang chưa hiểu control ở đây là cái kiểm soát gì? kiểu bảng điều khiển??</note>
       <tuv lang="EN-US">
         <seg>[90509]    Kiểm soát phải bao gồm các thiết bị đèn và ổ cắm cho các thiết bị này.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T104006Z">
+        <seg>[90509]    Bảng điều khiển phải kiểm soát ccác thiết bị đèn và ổ cắm cho các thiết bị này.</seg>
       </tuv>
     </tu>
     <tu>
