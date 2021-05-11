@@ -6747,6 +6747,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items should be reasonably priced with nominal mark-ups on market prices [61116] mặt hàng nên được định giá hợp lý với tăng giá danh nghĩa trên giá thị trường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T093511Z" creationid="LanHK" creationdate="20210511T093511Z">
+        <seg>Items should be reasonably priced with nominal mark-ups on market prices [61116] Các mặt hàng nên được định giá hợp lý, khoản markup không quá cao so với thị trường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Journey within the hotel</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093256Z" creationid="LanHK" creationdate="20210405T093256Z">
@@ -13889,6 +13897,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T092412Z" creationid="LanHK" creationdate="20210511T092412Z">
         <seg>[113190] Tối thiểu có energy star, Nhãn EU hạng A hoặc tiêu chuẩn địa phương tương đương theo Hướng dẫn Tiêu Chuẩn Xanh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113191] Chu kỳ rã đông ổn định và tùy chỉnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210511T092420Z" creationid="LanHK" creationdate="20210511T092420Z">
+        <seg>[113191] Chu kỳ rã đông ổn định và có thể tùy chỉnh.</seg>
       </tuv>
     </tu>
     <tu>
