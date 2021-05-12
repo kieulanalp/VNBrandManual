@@ -5034,6 +5034,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; General F&amp;B -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074658Z" creationid="Kieu Lan" creationdate="20210512T074658Z">
+        <seg>Food &amp; Beverage -&gt; General Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; In Room Dining / Room Service -&gt; Doorknob Menu Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống trong phòng / Dịch vụ phòng -&gt; Thực đơn Doorknob</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11659,6 +11667,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following Food and Beverage outlets must be provided as a minimum: [102722] quầy F&amp;B sau đây phải được cung cấp tối thiểu:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074715Z" creationid="Kieu Lan" creationdate="20210512T074715Z">
+        <seg>The following Food and Beverage outlets must be provided as a minimum: [102722] Tối thiểu phải cung cấp các outlet F&amp;B sau đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following areas must have a Slip Resistant finish: khu vực phải chống trơn:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075725Z" creationid="LanHK" creationdate="20210419T075725Z">
@@ -12191,6 +12207,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="PHUONG.DTM" changedate="20210508T031240Z" creationid="PHUONG.DTM" creationdate="20210508T031240Z">
         <seg>Trong trường hợp có sự khác biệt giữa luật pháp hoặc quy định quốc tế, quốc gia và địa phương và Tiêu chuẩn hoặc Thông số kỹ thuật, yêu cầu nghiêm ngặt hơn phải được ưu tiên (trừ khi các yêu cầu nghiêm ngặt hơn của phía IHG bị cấm tại địa phương).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trong trường hợp văn hóa địa phương hoặc các quy định không cho phép mở  quán bar, ỷ tưởng về quán cà phê hoặc phòng lounge là những lựa chọn thay thế được chấp nhận.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074945Z" creationid="Kieu Lan" creationdate="20210512T074945Z">
+        <seg>Trong trường hợp văn hóa địa phương hoặc các quy định không cho phép mở quán bar, concept quán cà phê hoặc lounge là các phương án thay thế được chấp nhận.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14551,6 +14575,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[115639] Khuyến nghị một trung tâm bán hàng dành riêng cho các cuộc họp/phục vụ catering/sự kiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115903]       Một quầy đồ uống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074721Z" creationid="Kieu Lan" creationdate="20210512T074721Z">
+        <seg>[115903]       Một outlet đồ uống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115904]      nhà hàng và quán bar chuyên doanh khác được khuyến nghị nhưng phải tuân theo địa điểm, phân tích thị trường và phê duyệt IHG®.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074755Z" creationid="Kieu Lan" creationdate="20210512T074755Z">
+        <seg>[115904]      nhà hàng và quán bar chuyên doanh khác được khuyến nghị nhưng phải phụ thuộc vào địa điểm, phân tích thị trường và được phê duyệt IHG®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115905] cửa hàng của bên thứ ba có các thương hiệu hoặc ý tưởng được công nhận được phép theo chấp thuận IHG®.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074848Z" creationid="Kieu Lan" creationdate="20210512T074848Z">
+        <seg>[115905] Outlet của bên thứ ba có của các thương hiệu hoặc concept được công nhận có thể được chấp thuận, phụ thuộc vào phê duyệt của IHG®.</seg>
       </tuv>
     </tu>
     <tu>
