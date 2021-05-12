@@ -20499,6 +20499,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[60712] Thực đơn tự chọn và thực đơn gọi món phải bao gồm các món ăn địa phương hoặc khu vực và phương Tây</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081628Z" creationid="Kieu Lan" creationdate="20210512T081628Z">
+        <seg>[60712] Thực đơn buffet và a la carte phải bao gồm các món ăn địa phương hoặc khu vực và món Âu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[60825] Hành lang phải được dọn sạch các khay và xe đẩy của khách hai giờ một lần và / hoặc theo yêu cầu của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
