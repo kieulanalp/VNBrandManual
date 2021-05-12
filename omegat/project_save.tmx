@@ -21771,6 +21771,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79104]     Hệ thống vòng đệm gắn sẵn không móc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T045025Z" creationid="Kieu Lan" creationdate="20210512T045025Z">
+        <seg>[79104]     Rèm treo bằng khoen cố định thẳng vào vải rèm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79107] Thanh hoặc cần hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035530Z" creationid="Kieu Lan" creationdate="20210512T032006Z">
