@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At minimum, the following Kids tableware and cutlery must be offered to a kid aged 3-6 years when seated at the dining table: [63209] Tối thiểu, phải cung cấp bộ đồ ăn và dao dĩa trẻ em như sau cho trẻ từ 3-6 tuổi khi ngồi vào bàn ăn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095311Z" creationid="LanHK" creationdate="20210512T095311Z">
+        <seg>At minimum, the following Kids tableware and cutlery must be offered to a kid aged 3-6 years when seated at the dining table: [63209] Tối thiểu, phải cung cấp bộ đồ ăn và dao dĩa trẻ em như sau cho trẻ từ 3-6 tuổi khi vào bàn ăn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attached and assisted lid [13754] Nắp đính kèm và hỗ trợ</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043344Z" creationid="Kieu Lan" creationdate="20210510T043344Z">
@@ -1898,6 +1906,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T031637Z" creationid="Kieu Lan" creationdate="20210417T031637Z">
         <seg>Automatically turn off fuel supply to cooking equipment when system is activated [56564] Tự động ngfắt nguồn cung cấp nhiên liệu cho thiết bị nấu khi hệ thống được kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BPA free [300063] BPA miễn phí</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095322Z" creationid="LanHK" creationdate="20210512T095322Z">
+        <seg>BPA free [300063] không có BPA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,6 +3904,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dishwasher safe [300064] Dụng cụ Diswasher safe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095331Z" creationid="LanHK" creationdate="20210512T095331Z">
+        <seg>Dishwasher safe [300064] Dụng cụ có thể rửa trong máy rửa bát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dishwasher safe [304057] Sản phẩm Diswasher safe</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082710Z" creationid="Kieu Lan" creationdate="20210512T082710Z">
@@ -4004,6 +4028,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210507T043833Z" creationid="LanHK" creationdate="20210507T043833Z">
         <seg>Doors opening onto a balcony area must have a secondary device fitted to limit the initial opening of the balcony door. Cửa mở vào khu vực ban công phải có phụ kiện hạn chế mở cửa ban đầu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-handles, non-spill straw cups are recommended [369369] Nên sử dụng tay cầm đôi, cốc không tràn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095252Z" creationid="LanHK" creationdate="20210512T095252Z">
+        <seg>Double-handles, non-spill straw cups are recommended [369369] Cốc nước nên có hai quai, có ống hút, chống đổ nước</seg>
       </tuv>
     </tu>
     <tu>
@@ -9597,6 +9629,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082646Z" creationid="Kieu Lan" creationdate="20210512T082646Z">
         <seg>Plastic or Disposable bib [304054] Yếm nhựa hoặc yếm dùng một lần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plates are recommended to have non-flip design, [300066] Đĩa nên thiết kế không lật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095350Z" creationid="LanHK" creationdate="20210512T095350Z">
+        <seg>Plates are recommended to have non-flip design, [300066] Đĩa nên có thiết kế chống lật</seg>
       </tuv>
     </tu>
     <tu>
@@ -16723,6 +16763,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[300065] Thìa và dĩa nên có lớp phủ mềm, thiết kế công thái học, thiết kế kiểu rocking đế nặng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095337Z" creationid="LanHK" creationdate="20210512T095337Z">
+        <seg>[300065] Thìa và dĩa nên có lớp phủ mềm, thiết kế dễ cầm nắm, thiết kế chống đổ thức ăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[300067] Cốc nhựa nên có đế cao su chống trượt và thiết kế rocking đế nặng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095526Z" creationid="LanHK" creationdate="20210512T095526Z">
+        <seg>[300067] Cốc nhựa nên có đế cao su chống trượt và thiết kế nặng đáy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[303088] Kiểm soát nồng độ clo trong không khí để ngăn chặn clo / ngưng tụ trên bề mặt</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -16738,11 +16794,20 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Spoons and forks are recommended to have soft-touch coating, ergonomic design, /////base-heavy rocking design///??</note>
       <tuv lang="EN-US">
         <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế công thái học, thiết kế kiểu rocking đế nặng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T084125Z" creationid="Kieu Lan" creationdate="20210512T084125Z">
-        <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế dễ cầm nắm, thiết kế kiểu rocking đế nặng.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095151Z" creationid="Kieu Lan" creationdate="20210512T084125Z">
+        <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế dễ cầm nắm, thiết kế chống đổ thức ăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[304060] Đĩa nên có thiết kế không lật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095201Z" creationid="LanHK" creationdate="20210512T095201Z">
+        <seg>[304060] Đĩa nên có thiết kế chống lật</seg>
       </tuv>
     </tu>
     <tu>
@@ -16775,6 +16840,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[304212] Máy dò hiện diện (PR) và giao diện/cảm biến ở cửa ra vào để tắt đèn phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[307049] Dao dĩa trẻ em nên chịu nhiệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210512T095209Z" creationid="LanHK" creationdate="20210512T095209Z">
+        <seg>[307049] Khuyến nghị chọn dao dĩa trẻ em chịu nhiệt.</seg>
       </tuv>
     </tu>
     <tu>
