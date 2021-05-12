@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All available food offerings (breakfast, lunch when offered, dinner, banquet) must include: [2262] Tất cả các dịch vụ thực phẩm có sẵn (bữa sáng, bữa trưa khi được cung cấp, bữa tối, bữa tiệc) phải bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080737Z" creationid="Kieu Lan" creationdate="20210512T080737Z">
+        <seg>All available food offerings (breakfast, lunch when offered, dinner, banquet) must include: [2262] Tất cả các offer có sẵn (bữa sáng, bữa trưa khi được cung cấp, bữa tối, bữa tiệc) phải bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All buildings must be protected by a Fixed Fire Suppression System that is appropriate to the classification of fire loading in the location except: [581083]   Tất cả các tòa nhà phải được bảo vệ bởi Hệ thống chữa cháy cố định phù hợp với việc phân loại tải chống cháy ở vị trí ngoại trừ:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T024122Z" creationid="LanHK" creationdate="20210417T024122Z">
@@ -9625,6 +9633,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Popular Internationally Recognised Dishes List Danh sách món ăn quốc tế phổ biến</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080825Z" creationid="Kieu Lan" creationdate="20210512T080825Z">
+        <seg>Popular Internationally Recognised Dishes List Danh sách món ăn quốc tế phổ biến (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powder coated white [79902]      Phủ bột màu trắng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T103309Z" creationid="LanHK" creationdate="20210422T103309Z">
@@ -16515,6 +16531,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[29008] Món ăn phù hợp cho khách bị dị ứng, nhạy cảm hoặc ưu tiên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080903Z" creationid="Kieu Lan" creationdate="20210512T080903Z">
+        <seg>[29008] Món ăn phù hợp cho khách bị dị ứng, nhạy cảm hoặc tuân theo yêu cầu ưu tiên của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[29166] Nhà vô địch Trải nghiệm khách hoặc Giám đốc đào tạo được chỉ định phải đảm bảo rằng tất cả các hoạt động đào tạo Dịch vụ thương hiệu trong khách sạn được thực hiện và hoàn thành.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T120225Z" creationid="LanHK" creationdate="20210419T120225Z">
@@ -16727,6 +16751,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T063806Z" creationid="LanHK" creationdate="20210419T063806Z">
         <seg>[324257]   Việc kiểm tra nhiệt độ nên được tiến hành ít nhất 5 năm một lần bởi một người có chứng nhận chuyên môn và có bằng chứng trên giấy tờ chứng minh cho thấy họ có thể thực hiện đo nhiệt độ chính xác và hiệu quả trên thiết bị điện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[32569] Thực đơn nên bao gồm các món mới được chế biến bao gồm thịt nạc nướng và cá, rau hấp, gạo lứt và trái cây.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080944Z" creationid="Kieu Lan" creationdate="20210512T080944Z">
+        <seg>[32569] Thực đơn nên bao gồm các món được chế biến tươi bao gồm thịt nạc và cá nướng, rau hấp, gạo lứt và trái cây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[32578] Thực đơn bữa tối và quầy bar nên bao gồm các mặt hàng thực phẩm và đồ uống quen thuộc và theo vùng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081028Z" creationid="Kieu Lan" creationdate="20210512T081028Z">
+        <seg>[32578] Thực đơn bữa tối và quầy bar nên bao gồm các món ăn và đồ uống quen thuộc và có tính vùng miền.</seg>
       </tuv>
     </tu>
     <tu>
