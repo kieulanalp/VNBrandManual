@@ -14051,6 +14051,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113133]     Men trắng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T030636Z" creationid="Kieu Lan" creationdate="20210512T030636Z">
+        <seg>[113133]     Men sứ trắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113147]   Giường đôi phải rộng tối thiểu 1,05m (3ft 6in).</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075821Z" creationid="LanHK" creationdate="20210510T075821Z">
@@ -22647,6 +22655,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T030557Z" creationid="Kieu Lan" creationdate="20210512T030557Z">
         <seg>[89481]     Chiều dài tối thiểu 1,5m (5ft) với lỗ thoát chống tràn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89482]     Với chặn kéo lên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T030627Z" creationid="Kieu Lan" creationdate="20210512T030609Z">
+        <seg>[89482]     Với bộ xả nhấn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89483]       Lan can gắn tường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T030632Z" creationid="Kieu Lan" creationdate="20210512T030632Z">
+        <seg>[89483]       Thanh vịn gắn tường.</seg>
       </tuv>
     </tu>
     <tu>
