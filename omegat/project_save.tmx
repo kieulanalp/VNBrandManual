@@ -21745,6 +21745,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79110]       Thanh phẳng hoặc thanh hình ống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T032600Z" creationid="Kieu Lan" creationdate="20210512T032600Z">
+        <seg>[79110]       Thanh treo phẳng hoặc hình ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79112]   Nếu cung cấp nút quay số lại, bộ nhớ cho số cuối được quay số phải được đặt lại sau khi Trả phòng hoặc theo các khoảng thời gian cố định để bảo vệ quyền riêng tư của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T084749Z" creationid="LanHK" creationdate="20210511T084749Z">
