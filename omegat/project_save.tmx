@@ -9658,6 +9658,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide a minimum clearance of 1.8m (6ft) between bottom of shower head and shower or bath floor.[89870] Cung cấp một khoảng trống tối thiểu 1,8m (6ft) giữa đáy vòi hoa sen và vòi sen hoặc sàn tắm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025623Z" creationid="Kieu Lan" creationdate="20210512T025606Z">
+        <seg>Provide a minimum clearance of 1.8m (6ft) between bottom of shower head and shower or bath floor.[89870] Cung cấp một khoảng trống tối thiểu 1,8m (6ft) giữa mặt dưới bát sen và sàn phòng tắm hoặc sàn bồn tắm đứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide a minimum sound level of 65dBA in Places of Assembly [263148]      Cung cấp mức âm thanh tối thiểu 65dBA trong Nơi Tập Kết</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T023149Z" creationid="LanHK" creationdate="20210417T023149Z">
@@ -22653,8 +22661,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[89864] Phải cung cấp một vòi tắm hoa sen.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025043Z" creationid="Kieu Lan" creationdate="20210512T025041Z">
-        <seg>[89864] Phải cung cấp bát sen.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025506Z" creationid="Kieu Lan" creationdate="20210512T025041Z">
+        <seg>[89864] Phải cung cấp vòi sen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22663,6 +22671,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025051Z" creationid="Kieu Lan" creationdate="20210512T025051Z">
         <seg>[89865]       Với ba chế độ phun nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89866]   Tay vặn tối thiểu 7,5cm (3in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025515Z" creationid="Kieu Lan" creationdate="20210512T025515Z">
+        <seg>[89866]   Đường kính bát sen tối thiểu 7,5cm (3in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89867]       Điều chỉnh chiều cao và cầm tay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025529Z" creationid="Kieu Lan" creationdate="20210512T025529Z">
+        <seg>[89867]       Có thể điều chỉnh độ cao và cầm tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89868]       Bao gồm chức năng massage.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025535Z" creationid="Kieu Lan" creationdate="20210512T025535Z">
+        <seg>[89868]       Bao gồm tính năng massage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89871] Thanh trượt gắn giữa 85cm - 2,25m (34in - 7ft 6in) phía trên vòi hoa sen hoặc sàn tắm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025644Z" creationid="Kieu Lan" creationdate="20210512T025644Z">
+        <seg>[89871] Thanh trượt gắn từ 85cm - 2,25m (34in - 7ft 6in) phía trên vòi hoa sen hoặc sàn tắm.</seg>
       </tuv>
     </tu>
     <tu>
