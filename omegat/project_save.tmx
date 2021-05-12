@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At minimum, the following Kids tableware and cutlery must be offered to a kid aged 0-2 years when seated at the dining table: [304051] Tối thiểu, phải cung cấp bộ đồ ăn và dao dĩa trẻ em như sau cho trẻ từ 0-2 tuổi khi ngồi vào bàn ăn:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082220Z" creationid="Kieu Lan" creationdate="20210512T082220Z">
+        <seg>At minimum, the following Kids tableware and cutlery must be offered to a kid aged 0-2 years when seated at the dining table: [304051] Tối thiểu phải cung cấp bộ đồ ăn và dao dĩa trẻ em như sau cho trẻ từ 0-2 tuổi khi vào bàn ăn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attached and assisted lid [13754] Nắp đính kèm và hỗ trợ</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043344Z" creationid="Kieu Lan" creationdate="20210510T043344Z">
@@ -7251,6 +7259,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kids Tableware &amp; Cutlery Reference Tham chiếu Bộ đồ ăn &amp; Dao dĩa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082241Z" creationid="Kieu Lan" creationdate="20210512T082241Z">
+        <seg>Kids Tableware &amp; Cutlery Reference Tham khảo Bộ đồ ăn &amp; Dao dĩa trẻ em (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kids Welcome Pack (Merlin &gt;Brand Central &gt;Holiday Inn Resorts &gt;Brand Warehouse &gt;Brand Info&gt; Campaigns) Gói chào mừng trẻ em (Merlin&gt; Trung tâm thương hiệu&gt; Khu nghỉ mát Holiday Inn&gt; Kho thương hiệu&gt; Thông tin thương hiệu&gt; Chiến dịch)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T024723Z" creationid="LanHK" creationdate="20210424T024723Z">
@@ -9733,6 +9749,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T073754Z" creationid="LanHK" creationdate="20210406T043614Z">
         <seg>Printed Manuals [18266]Ấn phẩm hướng dẫn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prior to serving, guests must be offered to taste the wine, if ordered by bottle [59720] Trước khi phục vụ, khách phải được mời nếm rượu, nếu được gọi bằng chai</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082018Z" creationid="Kieu Lan" creationdate="20210512T082018Z">
+        <seg>Prior to serving, guests must be offered to taste the wine, if ordered by bottle [59720] Trước khi phục vụ, khách phải được mời nếm rượu nếu order theo chai</seg>
       </tuv>
     </tu>
     <tu>
@@ -15779,6 +15803,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2191] Không cho phép bộ đồ bếp làm từ polystyrene.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082154Z" creationid="Kieu Lan" creationdate="20210512T082154Z">
+        <seg>[2191] Không cho phép sử bát đĩa.. và dụng cụ ăn từ xốp polystyrene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[219] Khi không thể thực hiện đúng đặt phòng , khách sạn phải trả tiền và di dời khách đến chỗ ở chất lượng tương tự thay thế.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T031548Z" creationid="LanHK" creationdate="20210424T031548Z">
@@ -20527,6 +20559,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081628Z" creationid="Kieu Lan" creationdate="20210512T081628Z">
         <seg>[60712] Thực đơn buffet và a la carte phải bao gồm các món ăn địa phương hoặc khu vực và món Âu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60748] Bàn phải sạch sẽ và được chuẩn bị đầy đủ trước khi khách ngồi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082032Z" creationid="Kieu Lan" creationdate="20210512T082027Z">
+        <seg>[60748] Bàn phải được dọn sạch và set up đầy đủ trước khi khách vào bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60749] Bàn phải được dọn sạch, làm sạch và đặt trong vòng năm phút sau khi khách rời khỏi trong giờ phục vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082050Z" creationid="Kieu Lan" creationdate="20210512T082050Z">
+        <seg>[60749] Bàn phải được dọn sạch, vệ sinh và set up mới trong vòng năm phút sau khi khách rời khỏi trong giờ phục vụ</seg>
       </tuv>
     </tu>
     <tu>
