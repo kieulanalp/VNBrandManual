@@ -21723,16 +21723,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[79107] Thanh hoặc cần hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
+        <seg>[79095] Khi lắp đặt rèm tắm, nó phải là rèm tắm có thương hiệu và đáp ứng các yêu cầu sau:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T032006Z" creationid="Kieu Lan" creationdate="20210512T032006Z">
-        <seg>[79107] Thanh treo rèm hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035709Z" creationid="Kieu Lan" creationdate="20210512T035709Z">
+        <seg>[79095] Nếu lắp đặt rèm tắm, nó phải là rèm của thương hiệu và đáp ứng các yêu cầu sau:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>????</note>
+      <tuv lang="EN-US">
+        <seg>[79107] Thanh hoặc cần hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035530Z" creationid="Kieu Lan" creationdate="20210512T032006Z">
+        <seg>[79107] Trục rèm cong hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>[79108]       Hệ thống gắn 2/3 lỗ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035454Z">
+        <seg>[79108]       Bas gắn trục rèm có 2 hoặc 3 lỗ bắt vít</seg>
       </tuv>
     </tu>
     <tu>
@@ -21747,8 +21757,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[79110]       Thanh phẳng hoặc thanh hình ống.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T032600Z" creationid="Kieu Lan" creationdate="20210512T032600Z">
-        <seg>[79110]       Thanh treo phẳng hoặc hình ống.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035514Z" creationid="Kieu Lan" creationdate="20210512T032600Z">
+        <seg>[79110]       Trục rèm phẳng hoặc hình ống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79111] lựa chọn gắn trần cũng có sẵn để phù hợp với cấu hình phòng tắm độc đáo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035652Z" creationid="Kieu Lan" creationdate="20210512T035652Z">
+        <seg>[79111] Có thể chọn phương án trục rèm gắn trần để đáp ứng cấu hình phòng tắm độc đáo</seg>
       </tuv>
     </tu>
     <tu>
