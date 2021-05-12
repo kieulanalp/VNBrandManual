@@ -12755,6 +12755,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wall-mounted upper cabinets the full length of the countertop [112805]    Tủ trên treo tường chiều dài toàn phần của mặt bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073741Z" creationid="Kieu Lan" creationdate="20210512T073741Z">
+        <seg>Wall-mounted upper cabinets the full length of the countertop [112805]    Tủ trên treo tường có chiều dài tương đương chiều dài toàn bộ mặt bàn bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Walls behind the front desk must meet the following: [102716] Tường phía sau bàn trước phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T020509Z" creationid="Kieu Lan" creationdate="20210426T020509Z">
@@ -14039,6 +14047,46 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071947Z" creationid="Kieu Lan" creationdate="20210512T071947Z">
         <seg>[112804]     Cung cấp một tủ lạnh dưới quầy hoặc full size.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112806] ổ cắm điện được đặt phía sau các thiết bị lắp đặt để che dây điện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073802Z" creationid="Kieu Lan" creationdate="20210512T073802Z">
+        <seg>[112806] ổ cắm điện được bố trí phía sau các thiết bị lắp đặt để che dây điện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112807]   Cung cấp một lò vi sóng gắn dưới tủ tường trên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073815Z" creationid="Kieu Lan" creationdate="20210512T073815Z">
+        <seg>[112807]   Cung cấp một lò vi sóng gắn dưới tủ phía trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112808]     Máy làm cà phê.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073819Z" creationid="Kieu Lan" creationdate="20210512T073819Z">
+        <seg>[112808]     Máy pha cà phê.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112809]     Tối thiểu, một bồn rửa thép không gỉ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073825Z" creationid="Kieu Lan" creationdate="20210512T073825Z">
+        <seg>[112809]     Tối thiểu một bồn rửa thép không gỉ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112810]     Không cho phép mặt quầy nấu ăn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073947Z" creationid="Kieu Lan" creationdate="20210512T073947Z">
+        <seg>[112810]     Không cho phép bếp âm dạng cooktop.</seg>
       </tuv>
     </tu>
     <tu>
