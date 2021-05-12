@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 141)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071206Z" creationid="Kieu Lan" creationdate="20210512T071206Z">
+        <seg>(Trang 139)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -15195,6 +15203,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[196059] Có thể đặt thêm các biển báo tái sử dụng khăn trên mặt bàn hoặc tường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071226Z" creationid="Kieu Lan" creationdate="20210512T071226Z">
+        <seg>[196059] Có thể bố trí thêm các biển báo tái sử dụng khăn trên mặt bàn hoặc tường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[196102] Lắp sẵn hoặc có thể gấp lại.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090940Z" creationid="LanHK" creationdate="20210511T090937Z">
@@ -15223,6 +15239,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T093933Z" creationid="LanHK" creationdate="20210510T093933Z">
         <seg>[1969] Phải cung cấp một ti vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[1972] Một hộp đựng giấy vệ sinh là cần thiết.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071234Z" creationid="Kieu Lan" creationdate="20210512T071234Z">
+        <seg>[1972] Cần có một hộp đựng giấy vệ sinh .</seg>
       </tuv>
     </tu>
     <tu>
@@ -20255,6 +20279,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T045242Z" creationid="Kieu Lan" creationdate="20210512T045242Z">
         <seg>[63529] Một biển cho mỗi nhà tắm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[63534] Phải cung cấp biển báo bằng các ngôn ngữ bổ sung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071052Z" creationid="Kieu Lan" creationdate="20210512T071052Z">
+        <seg>[63534] Có thể bổ sung biển báo bằng các ngôn ngữ khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[63535] Nên treo biển 'Quên một cái gì đó' và các biển báo tái sử dụng khăn trên cùng một biển báo để giảm thiểu sự lộn xộn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071202Z" creationid="Kieu Lan" creationdate="20210512T071202Z">
+        <seg>[63535] Nên thông báo về tiện ích 'Forget something' và và chương trình tái sử dụng khăn trên cùng một biển báo để tránh bừa bộn.</seg>
       </tuv>
     </tu>
     <tu>
