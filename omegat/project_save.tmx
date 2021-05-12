@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BPA free [304058] BPA miễn phí</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082714Z" creationid="Kieu Lan" creationdate="20210512T082714Z">
+        <seg>BPA free [304058] không có BPA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Baby cots/cribs must meet the following minimum safety requirements: [56616] Cũi / cũi trẻ em phải đáp ứng các yêu cầu an toàn tối thiểu sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T082121Z" creationid="LanHK" creationdate="20210419T082121Z">
@@ -3876,6 +3884,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T090208Z" creationid="LanHK" creationdate="20210510T090208Z">
         <seg>Directory of Services folder [98651] Danh Mục Dịch Vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dishwasher safe [304057] Sản phẩm Diswasher safe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082710Z" creationid="Kieu Lan" creationdate="20210512T082710Z">
+        <seg>Dishwasher safe [304057] Dụng cụ có thể rửa trong máy rửa bát</seg>
       </tuv>
     </tu>
     <tu>
@@ -9573,6 +9589,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T134207Z" creationid="Kieu Lan" creationdate="20210423T134207Z">
         <seg>Plants for the small planters must meet the following: [17694] Cây trồng trong chậu cây cỡ nhỏ phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plastic or Disposable bib [304054] Yếm nhựa hoặc dùng một lần</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082646Z" creationid="Kieu Lan" creationdate="20210512T082646Z">
+        <seg>Plastic or Disposable bib [304054] Yếm nhựa hoặc yếm dùng một lần</seg>
       </tuv>
     </tu>
     <tu>
@@ -16711,6 +16735,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[303132] Thiết bị phải cung cấp hệ thống sưởi và/hoặc làm mát và/hoặc hút ẩm, tùy thuộc vào điều kiện bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế công thái học, thiết kế kiểu rocking đế nặng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T084125Z" creationid="Kieu Lan" creationdate="20210512T084125Z">
+        <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế dễ cầm nắm, thiết kế kiểu rocking đế nặng.</seg>
       </tuv>
     </tu>
     <tu>
