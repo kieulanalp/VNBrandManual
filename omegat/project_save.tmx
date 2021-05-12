@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 140)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T031923Z" creationid="Kieu Lan" creationdate="20210512T031923Z">
+        <seg>(Trang 138)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -12931,6 +12939,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a shower rail is installed, it must be the brand approved curved shower rail and meet the following: [79106]    Nếu lắp đặt thanh treo nhà tắm, nó phải là thanh cong nhà tắm được phê duyệt và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T031426Z" creationid="Kieu Lan" creationdate="20210512T031426Z">
+        <seg>Where a shower rail is installed, it must be the brand approved curved shower rail and meet the following: [79106]    Nếu lắp đặt thanh treo rèm nhà tắm, phải là thanh treo dạng cong được thương hiệu phê duyệt và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a silent compressor fridge is provided, it must meet the following: [78823] Trường hợp cung cấp tủ lạnh nén im lặng, phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T094543Z" creationid="LanHK" creationdate="20210511T094522Z">
@@ -14063,6 +14079,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T031016Z" creationid="Kieu Lan" creationdate="20210512T031016Z">
         <seg>[113134]     Vòi sen cầm tay, với diverter để chuyển hướng dòng nước giữa vòi sen và vòi xả bồn tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113137] Bảng truy cập thoát nước nhà tắm nên che kín, gắn với thiết kế nhà tắm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T031255Z" creationid="Kieu Lan" creationdate="20210512T031250Z">
+        <seg>[113137] Nắp thăm hệ thoát nước nhà tắm nên được che kín, kết hợp vào thiết kế nhà tắm.</seg>
       </tuv>
     </tu>
     <tu>
