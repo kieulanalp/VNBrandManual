@@ -21731,6 +21731,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79097]    Chỉ một rèm cho mỗi vòi hoa sen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035726Z" creationid="Kieu Lan" creationdate="20210512T035726Z">
+        <seg>[79097]    Chỉ một rèm cho mỗi khoang tắm sen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79098]      Phần dưới cùng: màu trắng đục, hoa văn vuông tông màu thương hiệu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035921Z" creationid="Kieu Lan" creationdate="20210512T035903Z">
+        <seg>[79098]      Phần dưới: màu trắng đục, họa tiết hình vuông thương hiệu, các màu cùng tone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79099]       Phần trên cùng: tấm lót hình vòng cung được khâu vào đỉnh của bức màn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T040106Z" creationid="Kieu Lan" creationdate="20210512T035917Z">
+        <seg>[79099]       Phần trên: Panel vải sheer hình cung của thương hiệu được khâu vào phần trên cùng của tấm rèm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79107] Thanh hoặc cần hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035530Z" creationid="Kieu Lan" creationdate="20210512T032006Z">
