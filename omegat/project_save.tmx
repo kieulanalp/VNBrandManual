@@ -5114,10 +5114,26 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage flow chart Lưu đồ F&amp;B</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080709Z" creationid="Kieu Lan" creationdate="20210512T080709Z">
+        <seg>Food &amp; Beverage flow chart Lưu đồ F&amp;B (thiếu link) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food Safety</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092140Z" creationid="LanHK" creationdate="20210405T092140Z">
         <seg>Food Safety An toàn vệ sinh thực phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food and beverage outlets must meet the following requirements: [92594] Quầy hàng F&amp;B phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080436Z" creationid="Kieu Lan" creationdate="20210512T080436Z">
+        <seg>Food and beverage outlets must meet the following requirements: [92594] F&amp;B Outlet phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10246,6 +10262,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Restroom faucets/taps with automatic shut off/preset: 0.95 litre per cycle [305130]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restrooms availability [92596] Nhà vệ sinh có sẵn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080452Z" creationid="Kieu Lan" creationdate="20210512T080452Z">
+        <seg>Restrooms availability [92596] Có nhà vệ sinh</seg>
       </tuv>
     </tu>
     <tu>
@@ -23544,6 +23568,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075142Z" creationid="LanHK" creationdate="20210510T075142Z">
         <seg>[91798] Nên để dép trong tủ áo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92599] Nên có một lối vào bên ngoài riêng biệt cho tất cả các cửa hàng F&amp;B.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080521Z" creationid="Kieu Lan" creationdate="20210512T080521Z">
+        <seg>[92599] Nên có một lối vào riêng biệt từ bên ngoài cho tất cả các cửa hàng F&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92600]    Nên có một khu vực ăn uống được che kín một phần có sức chứa 12-15 khách cho các nhóm tùy thuộc vào quy mô và ý tưởng cửa hàng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080606Z" creationid="Kieu Lan" creationdate="20210512T080606Z">
+        <seg>[92600]    Nên có một khu vực ăn uống được có màn che một phần với sức chứa 12-15 khách cho khách đoàn tùy thuộc vào quy mô và concept cửa hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92601]     Lưu đồ ượng F&amp;B/ tham chiếu thiết kế đính kèm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080705Z" creationid="Kieu Lan" creationdate="20210512T080705Z">
+        <seg>[92601]     Lưu đồ F&amp;B/ thiết kế tham chiếu</seg>
       </tuv>
     </tu>
     <tu>
