@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amenity shelf or niche [89799]     Giá đỡ tiện ích hoặc hốc tường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T015435Z" creationid="Kieu Lan" creationdate="20210512T015435Z">
+        <seg>Amenity shelf or niche [89799]     Giá để đồ amenity hoặc hốc tường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An IHG® Loyalty Champion must carry out the following duties: [764] IHG® Loyalty Champion phải thực hiện các nhiệm vụ sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T121250Z" creationid="LanHK" creationdate="20210419T121250Z">
@@ -22607,6 +22615,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T085939Z" creationid="LanHK" creationdate="20210511T085939Z">
         <seg>[89761] Một bàn là và cầu là full size</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89802]     Đầu vòi hoa sen có thể điều chỉnh dọc, gắn tường.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T021332Z" creationid="Kieu Lan" creationdate="20210512T021332Z">
+        <seg>[89802]     Gắn tường, bát sen có thể điều chỉnh chiều cao.</seg>
       </tuv>
     </tu>
     <tu>
