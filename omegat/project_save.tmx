@@ -22627,6 +22627,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[89804]     Diện tích bên trong rõ ràng tối thiểu 90cm (3ft) x 90cm (3ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T021349Z" creationid="Kieu Lan" creationdate="20210512T021349Z">
+        <seg>[89804]     Diện tích thông thủy bên trong tối thiểu 90cm (3ft) x 90cm (3ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89805]     Máng nhà tắm chống axit tích hợp với thiết bị thoát nước thải có thể tháo rời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T024437Z" creationid="Kieu Lan" creationdate="20210512T024437Z">
+        <seg>[89805]     Đế bồn tắm đứng chống axit tích hợp với bộ xả có thể tháo rời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[89808]     Rèm tắm hoặc cửa kính tôi an toàn / pespec.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
