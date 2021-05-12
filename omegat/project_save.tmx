@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 144)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081636Z" creationid="Kieu Lan" creationdate="20210512T081636Z">
+        <seg>(Trang 142)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -11075,6 +11083,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sparkling wines [65598] Rượu vang sparkling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081829Z" creationid="Kieu Lan" creationdate="20210512T081823Z">
+        <seg>Sparkling wines [65598] Rượu vang sủi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speciality Restaurants</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093816Z" creationid="LanHK" creationdate="20210405T093816Z">
@@ -11103,6 +11119,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T074731Z" creationid="Kieu Lan" creationdate="20210331T074731Z">
         <seg>Speciality Restaurants&lt;t0/&gt; &lt;t1/&gt;Nhà Hàng bán món đặc sản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spirits [65600] rượu spirit</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081834Z" creationid="Kieu Lan" creationdate="20210512T081834Z">
+        <seg>Spirits [65600] rượu mạnh</seg>
       </tuv>
     </tu>
     <tu>
