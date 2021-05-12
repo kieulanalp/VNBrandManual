@@ -9001,6 +9001,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overflow outlet [78158]     Ổ điện quá dòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T015421Z" creationid="Kieu Lan" creationdate="20210512T015421Z">
+        <seg>Overflow outlet [78158]     Lỗ thoát nước chống tràn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PCI - Hiểu về tuân thủ PCI - Tuân thủ -</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T011941Z" creationid="Kieu Lan" creationdate="20210420T095809Z">
