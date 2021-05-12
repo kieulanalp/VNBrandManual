@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 142)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073654Z" creationid="Kieu Lan" creationdate="20210512T073654Z">
+        <seg>(Trang 140)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -8361,6 +8369,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Room -&gt; Kitchen Area Phòng của tôi -&gt; Khu vực bếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071859Z" creationid="Kieu Lan" creationdate="20210512T071859Z">
+        <seg>My Room -&gt; Kitchen Area Khu vực bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Room -&gt; Room Types -&gt; Accessible guest rooms Phòng của tôi -&gt; Loại phòng -&gt; Phòng cho người khuyết tật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T022100Z" creationid="LanHK" creationdate="20210508T022100Z">
@@ -14011,6 +14027,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[112802] Mặt quầy liên tục với chiều dài từ 90cm (3ft) đến 1,8m (6ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071925Z" creationid="Kieu Lan" creationdate="20210512T071925Z">
+        <seg>[112802] Mặt quầy liền mạch với chiều dài từ 90cm (3ft) đến 1,8m (6ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112804]     Cung cấp một tủ lạnh dưới quầy hoặc kích thước toàn phần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071947Z" creationid="Kieu Lan" creationdate="20210512T071947Z">
+        <seg>[112804]     Cung cấp một tủ lạnh dưới quầy hoặc full size.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[112825]       Dao dĩa</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075326Z" creationid="LanHK" creationdate="20210510T075311Z">
@@ -14079,6 +14111,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T031535Z" creationid="LanHK" creationdate="20210508T031535Z">
         <seg>[113095] Khuyến nghị có một bàn hoạt động lớn với hai ghế hoạt động với một đèn cây gần khu vực bếp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113096] Khách được kiểm soát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071854Z" creationid="Kieu Lan" creationdate="20210512T071854Z">
+        <seg>[113096] Khách có thể điều khiển.</seg>
       </tuv>
     </tu>
     <tu>
