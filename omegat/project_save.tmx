@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A clothes line is required [58603] Bắt buộc có dây phơi quần áo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T045107Z" creationid="Kieu Lan" creationdate="20210512T045107Z">
+        <seg>A clothes line is required [58603] Bắt buộc có chỗ phơi quần áo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A continuous kerb along the perimeter of the parking area [12241]     Một lề đường liên tục dọc phạm vi bãi đỗ xe.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T085512Z" creationid="LanHK" creationdate="20210422T085512Z">
@@ -7685,8 +7693,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Manufactured by Arcs &amp; Angles specifically for the Holiday Inn brand, Item number: HBH67HI01X HI INTL Lunch, Box/Chrome and a Snap White 180cm x 195cm (71” x 77”) [79105]      Được sản xuất bởi Arcs &amp; Angles dành riêng cho thương hiệu Holiday Inn, Số vật phẩm: HBH67HI01X HI INTL Lunch, Hộp / Chrome và Snap White 180cm x 195cm (71’’x 77’’)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Manufactured by Arcs &amp; Angles specifically for the Holiday Inn brand, Item number: HBH67HI01X HI INTL Lunch, Box/Chrome and a Snap White 180cm x 195cm (71” x 77”) [79105]      Được sản xuất bởi Arcs &amp; Angles dành riêng cho thương hiệu Holiday Inn, Số vật phẩm: HBH67HI01X HI INTL Lunch, Hộp/Chrome và Snap White 180cm x 195cm (71’’x 77’’)</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T045057Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Manufactured by Arcs &amp; Angles specifically for the Holiday Inn brand, Item number: HBH67HI01X HI INTL Lunch, Box/Chrome and a Snap White 180cm x 195cm (71” x 77”) [79105]      Được sản xuất bởi Arcs &amp; Angles dành riêng cho thương hiệu Holiday Inn, Mã sản phẩm: HBH67HI01X HI INTL Lunch, Box/Chrome và Snap White 180cm x 195cm (71’’x 77’’)</seg>
       </tuv>
     </tu>
     <tu>
