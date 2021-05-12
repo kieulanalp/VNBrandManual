@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 143)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074952Z" creationid="Kieu Lan" creationdate="20210512T074952Z">
+        <seg>(Trang 141)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -6837,8 +6845,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>It is recommended for the breakfast buffet /individual dishes to be stocked, at a minimum of one third full at the end of the advertised breakfast service time [578056] Khuyến nghị cho bữa sáng tự chọn / các món ăn riêng lẻ đặt ra, tối thiểu là một phần ba đầy đủ vào cuối thời gian phục vụ bữa sáng được báo trước</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>It is recommended for the breakfast buffet /individual dishes to be stocked, at a minimum of one third full at the end of the advertised breakfast service time [578056] Khuyến nghị cho bữa sáng tự chọn/các món ăn riêng lẻ đặt ra, tối thiểu là một phần ba đầy đủ vào cuối thời gian phục vụ bữa sáng được báo trước</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080424Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>It is recommended for the breakfast buffet /individual dishes to be stocked, at a minimum of one third full at the end of the advertised breakfast service time [578056] Khuyến nghị bữa sáng buffet / món lẻ phải được duy trì tối thiểu một phần ba lượng thức ăn vào cuối thời gian phục vụ bữa sáng theo quảng cáo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11615,6 +11623,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075407Z" creationid="LanHK" creationdate="20210419T075407Z">
         <seg>The balcony door in this room can open fully and guests with young children should exercise care’ [56516]      Ví dụ về biển báo cảnh báo “Chú ý!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The breakfast buffet must be stocked until the end of the advertised breakfast service time [59707] Buffet bữa sáng phải được dự trữ cho đến khi kết thúc thời gian phục vụ bữa sáng được báo trước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T075100Z" creationid="Kieu Lan" creationdate="20210512T075100Z">
+        <seg>The breakfast buffet must be stocked until the end of the advertised breakfast service time [59707] Buffet bữa sáng phải được duy trì cho đến khi kết thúc thời gian phục vụ bữa sáng theo đã quảng cáo</seg>
       </tuv>
     </tu>
     <tu>
@@ -20311,6 +20327,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045445Z" creationid="Kieu Lan" creationdate="20210510T045445Z">
         <seg>[59401] dụng cụ pha trà và cà phê phải được đặt liền kề với các gói trà và cà phê.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59705] Luôn phục vụ bữa sáng, bữa trưa và bữa tối trong một nhà hàng trọn gói bảy ngày một tuần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T075034Z" creationid="Kieu Lan" creationdate="20210512T075034Z">
+        <seg>[59705] Luôn phục vụ bữa sáng, bữa trưa và bữa tối trong một nhà hàng full-service bảy ngày một tuần.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59706] Bữa sáng trong nhà hàng trọn gói phải bao gồm tiệc buffet và phục vụ thực đơn gọi món giới hạn (à la carte).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T075140Z" creationid="Kieu Lan" creationdate="20210512T075140Z">
+        <seg>[59706] Bữa sáng trong nhà hàng full-service phải bao gồm tiệc buffet và phục vụ à la carte với số món giới hạn</seg>
       </tuv>
     </tu>
     <tu>
