@@ -21763,6 +21763,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79103] Mặt sau của rèm phải có lớp lót vải màu trắng đục để lắp, không hoa văn, không thấm nước được gắn vào rèm tắm dọc theo đường cong của vòng cung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T044330Z" creationid="Kieu Lan" creationdate="20210512T044330Z">
+        <seg>[79103] lớp lót vải trắng đục gắn vào mặt sau của rèm bằng cúc bấm, lót không có họa tiết, không thấm nước, gắn vào theo đường cong của vòng cung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79107] Thanh hoặc cần hình lưỡi liềm, 152cm đến 220cm (5ft đến 7ft 4in).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T035530Z" creationid="Kieu Lan" creationdate="20210512T032006Z">
