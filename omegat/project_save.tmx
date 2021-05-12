@@ -7659,6 +7659,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lắp đặt phải cung cấp khoảng trống cho thông gió theo khuyến nghị của nhà sản xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074425Z" creationid="Kieu Lan" creationdate="20210512T074359Z">
+        <seg>[112815]     Việc lắp đặt phải đảm bảo đủ khoảng trống thông gió theo khuyến nghị của nhà sản xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lợi ích trạng thái nên được phân phối theo từng bảng lợi ích và chỉ các điểm nên được trao theo tỷ lệ đủ điều kiện.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035847Z" creationid="LanHK" creationdate="20210406T035754Z">
@@ -8629,6 +8637,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Ngoài ra, trong việc xây dựng chính sách của mình, các khách sạn được nhượng quyền cũng có thể tham khảo mười nguyên tắc của UN Global Compact, Tuyên ngôn quốc tế về quyền con người và/hoặc Tuyên bố của Tổ chức Lao động Quốc tế về Nguyên tắc và Quyền cơ bản tại nơi làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ngôi sao năng lượng tối thiểu: Nhãn EU A hoặc tiêu chuẩn địa phương tương đương theo hướng dẫn của Tiêu Chuẩn Xanh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074523Z" creationid="Kieu Lan" creationdate="20210512T074513Z">
+        <seg>[112818] Tối thiểu có nhãn Energy star, nhãn EU hạng A hoặc tiêu chuẩn địa phương tương đương theo Hướng dẫn Tiêu Chuẩn Xanh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14087,6 +14103,70 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T073947Z" creationid="Kieu Lan" creationdate="20210512T073947Z">
         <seg>[112810]     Không cho phép bếp âm dạng cooktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112812] Chu kỳ rã đông ổn định và điều chỉnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074334Z" creationid="Kieu Lan" creationdate="20210512T074334Z">
+        <seg>[112812] Chu kỳ rã đông ổn định và có thể tùy chỉnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112814]     Kết nối với một ổ cắm giấu đằng sau tủ lạnh hoặc tủ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074344Z" creationid="Kieu Lan" creationdate="20210512T074344Z">
+        <seg>[112814]     Kết nối với một ổ cắm giấu đằng sau tủ lạnh hoặc tủ bếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112815]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074406Z" creationid="Kieu Lan" creationdate="20210512T074406Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112816]    Tủ lạnh dưới bàn phải được lắp đặt trong tủ dưới và phải nằm dưới mặt bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074452Z" creationid="Kieu Lan" creationdate="20210512T074452Z">
+        <seg>[112816]    Tủ lạnh dưới quầy phải được lắp đặt trong tủ dưới và phải nằm vừa dưới mặt bàn bếp liền mạch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112817]     Với bản lề cửa bên trái hoặc bên phải chuyển đổi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074506Z" creationid="Kieu Lan" creationdate="20210512T074506Z">
+        <seg>[112817]     Với bản lề cửa có thể chuyển đổi để mở bên trái hoặc bên phải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112818]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074519Z" creationid="Kieu Lan" creationdate="20210512T074519Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112822]      Phải được gắn dưới tủ bếp trên cao.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074549Z" creationid="Kieu Lan" creationdate="20210512T074549Z">
+        <seg>[112822]      Phải được gắn dưới tủ bếp phía trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[112823] Phải được kết nối với một ổ cắm sau lò vi sóng hoặc tủ lò vi sóng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074619Z" creationid="Kieu Lan" creationdate="20210512T074619Z">
+        <seg>[112823]     Phải được kết nối với một ổ cắm sau lò vi sóng hoặc tủ lò vi sóng.</seg>
       </tuv>
     </tu>
     <tu>
