@@ -11987,6 +11987,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Towel reuse signage read as follows: Towels on the rail: "I will use them again." Towels on the floor: "Please replace them." [63533] Biển báo tái sử dụng khăn tắm như sau: Khăn trên thanh treo: "Tôi sẽ sử dụng lại chúng." Khăn trên sàn: "Hãy thay thế chúng."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071034Z" creationid="Kieu Lan" creationdate="20210512T071034Z">
+        <seg>Towel reuse signage read as follows: Towels on the rail: "I will use them again." Towels on the floor: "Please replace them." [63533] Biển báo tái sử dụng khăn tắm như sau: Khăn trên thanh treo: "Tôi sẽ sử dụng lại khăn." Khăn trên sàn: "Hãy thay khăn."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trademark usage guidance Hướng dẫn sử dụng nhãn hiệu</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T073754Z" creationid="LanHK" creationdate="20210406T041545Z">
@@ -20239,6 +20247,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T022310Z" creationid="Kieu Lan" creationdate="20210420T022239Z">
         <seg>[62876] Nhân viên làm việc trong các khu vực cung cấp dịch vụ doanh nghiệp nên thành thạo trong việc giúp khách kết nối và sử dụng các thiết bị cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[63529] Một cho mỗi nhà tắm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T045242Z" creationid="Kieu Lan" creationdate="20210512T045242Z">
+        <seg>[63529] Một biển cho mỗi nhà tắm.</seg>
       </tuv>
     </tu>
     <tu>
