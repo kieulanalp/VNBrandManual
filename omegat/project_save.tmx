@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mirror above the vanity must be provided and meet the following: [13233] Phải cung cấp một tấm gương phía trên bàn trang điểm và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014453Z" creationid="Kieu Lan" creationdate="20210512T014453Z">
+        <seg>A mirror above the vanity must be provided and meet the following: [13233] Phải cung cấp một tấm gương phía trên vanity và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A non-combustible floor extending a minimum of 1m (3ft) around an open fireplace [263059] Một sàn chống cháy kéo dài tối thiểu 1m (3ft) xung quanh lò sưởi mở</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T034854Z" creationid="Kieu Lan" creationdate="20210417T034854Z">
@@ -9457,6 +9465,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Polished float glass mirror [13235]    Gương nổi đánh bóng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014510Z" creationid="Kieu Lan" creationdate="20210512T014510Z">
+        <seg>Polished float glass mirror [13235]    Gương kính nổi đánh bóng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pool</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095459Z" creationid="LanHK" creationdate="20210405T095459Z">
@@ -13979,6 +13995,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[113129]     Nên sử dụng chiều dài 1,2m (4ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014420Z" creationid="Kieu Lan" creationdate="20210512T014420Z">
+        <seg>[113129]     Khuyến nghị chiều dài 1,2m (4ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[113130] giá đỡ bổ sung được khuyến nghị nếu chiều dài bàn trang điểm nhỏ hơn 1,0m (26ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014443Z" creationid="Kieu Lan" creationdate="20210512T014443Z">
+        <seg>[113130] khuyến nghị bổ sung giá để đồ nếu chiều dài vanity nhỏ hơn 1,0m (26ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[113147]   Giường đôi phải rộng tối thiểu 1,05m (3ft 6in).</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075821Z" creationid="LanHK" creationdate="20210510T075821Z">
@@ -14891,6 +14923,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[16244] Không cho phép gương cạo râu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014647Z" creationid="Kieu Lan" creationdate="20210512T014647Z">
+        <seg>[16244] Không cho phép cung cấp gương cạo râu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[163083] Nước đóng chai mang thương hiệu Holiday Inn Resort®, theo nhãn hiệu hoặc miếng dán chai nước.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043456Z" creationid="Kieu Lan" creationdate="20210422T043456Z">
@@ -15007,6 +15047,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T024022Z" creationid="Kieu Lan" creationdate="20210426T024022Z">
         <seg>[180048]     Khoảng cách giữa các máy tính phải tối thiểu 1,5m (5ft) tính từ giữa bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[180050]       Cao tối thiểu 45 cm (18in) rộng x 90cm (36in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014503Z" creationid="Kieu Lan" creationdate="20210512T014503Z">
+        <seg>[180050]       Cao tối thiểu 45 cm (18in) x rộng 90cm (36in).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21447,6 +21495,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T104457Z" creationid="LanHK" creationdate="20210511T104457Z">
         <seg>[78150] Ổ điện nối đất (đối với máy cạo râu điện) phải được cung cấp liền kề với gương vanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78155]     Vòi, một đòn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014734Z" creationid="Kieu Lan" creationdate="20210512T014734Z">
+        <seg>[78155]     Vòi nóng lạnh, một tay gạt mở vòi</seg>
       </tuv>
     </tu>
     <tu>
