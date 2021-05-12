@@ -3295,6 +3295,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concealed fixings [285182]     Gắn kín</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071302Z" creationid="Kieu Lan" creationdate="20210512T071302Z">
+        <seg>Concealed fixings [285182]     phần cứng cố định hộp đựng giấy phải kín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concierge</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093250Z" creationid="LanHK" creationdate="20210405T093250Z">
@@ -9505,6 +9513,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Polished chrome [285177]     Đánh bóng chrome</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071349Z" creationid="Kieu Lan" creationdate="20210512T071349Z">
+        <seg>Polished chrome [285177]     chrome đánh bóng </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Polished float glass mirror [13235]    Gương nổi đánh bóng.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014510Z" creationid="Kieu Lan" creationdate="20210512T014510Z">
@@ -10174,6 +10190,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T075855Z" creationid="LanHK" creationdate="20210422T104235Z">
         <seg>Revolving truck assembly with stainless steel bearing [79903]    Đế gắn quả cầu trang trí đỉnh cột cờ có thể xoay, ổ trục bi bằng thép không gỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robe hook is to be finished to coordinate with plumbing hardware [39736] Móc áo được hoàn thiện để phối hợp với phần cứng hệ thống ống nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071549Z" creationid="Kieu Lan" creationdate="20210512T071549Z">
+        <seg>Robe hook is to be finished to coordinate with plumbing hardware [39736] Hoàn thiện móc áo đồng bộ với thiết bị vòi nước...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13531,10 +13555,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[1011] Phải cung cấp tủ đựng khăn giấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071444Z" creationid="Kieu Lan" creationdate="20210512T071429Z">
+        <seg>[1011] Phải cung cấp chỗ chứa khăn tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[101226] Nên là chiều cao bề mặt làm việc tối thiểu 90cm (36in) ở phía nhân viên.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T031553Z" creationid="Kieu Lan" creationdate="20210426T031541Z">
         <seg>[101226] Khuyến nghị chiều cao mặt làm việc tối thiểu 90cm (36in) ở phía nhân viên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[1012] Phải cung cấp một thanh treo khăn giấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071449Z" creationid="Kieu Lan" creationdate="20210512T071449Z">
+        <seg>[1012] Phải cung cấp một thanh treo khăn</seg>
       </tuv>
     </tu>
     <tu>
@@ -15251,6 +15291,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[1973] Phải cung cấp cho cơ sở giấy vệ sinh dự phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071337Z" creationid="Kieu Lan" creationdate="20210512T071337Z">
+        <seg>[1973] Phải có chỗ chứa giấy vệ sinh dự phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[20009] ngôn ngữ bổ sung có thể được sử dụng khi thích hợp, bao gồm ngôn ngữ xuất xứ cho các feeder market cao.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041409Z" creationid="Kieu Lan" creationdate="20210510T041409Z">
@@ -16039,6 +16087,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[285075]    Phải cung cấp thiết bị phát hiện rò rỉ khí/nhiên liệu với van ngắt tự động trong tất cả các khu vực sử dụng tiện ích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[285178]     Gắn kín</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071410Z" creationid="Kieu Lan" creationdate="20210512T071405Z">
+        <seg>[285178]     phần cứng cố định hộp đựng giấy phải kín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[285179] Không cho phép bệ giữ đứng sàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071423Z" creationid="Kieu Lan" creationdate="20210512T071423Z">
+        <seg>[285179] Không cho phép hộp đựng giấy vệ sinh đặt trên sàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[285180] Không cho phép bệ giữ đứng sàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071322Z" creationid="Kieu Lan" creationdate="20210512T071322Z">
+        <seg>[285180] Không cho phép hộp đựng giấy vệ sinh đặt trên sàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[285181]     Đánh bóng chrome</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071241Z" creationid="Kieu Lan" creationdate="20210512T071241Z">
+        <seg>[285181]     chrome đánh bóng </seg>
       </tuv>
     </tu>
     <tu>
