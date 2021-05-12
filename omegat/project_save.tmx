@@ -22651,6 +22651,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[89864] Phải cung cấp một vòi tắm hoa sen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025043Z" creationid="Kieu Lan" creationdate="20210512T025041Z">
+        <seg>[89864] Phải cung cấp bát sen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[89865]       Với ba bộ phun điều chỉnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T025051Z" creationid="Kieu Lan" creationdate="20210512T025051Z">
+        <seg>[89865]       Với ba chế độ phun nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[900] Không cho phép cửa sổ trên tường phía sau, ngay sau bàn tiếp tân vào khu vực BOH.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T080712Z" creationid="LanHK" creationdate="20210426T080712Z">
