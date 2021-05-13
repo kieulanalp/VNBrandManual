@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 158)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092806Z" creationid="LanHK" creationdate="20210513T092806Z">
+        <seg>(Trang 156)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -5534,6 +5542,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T090724Z" creationid="LanHK" creationdate="20210513T090724Z">
         <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Bakery Station Bữa sáng buffet -&gt; Quầy Bánh mì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Coffee Station Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Bữa sáng buffet -&gt; Quầy cà phê</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092622Z" creationid="LanHK" creationdate="20210513T092622Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Coffee Station Bữa sáng buffet -&gt; Quầy cà phê</seg>
       </tuv>
     </tu>
     <tu>
@@ -16611,6 +16627,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[151061] Phải luôn có cốc đầy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092751Z" creationid="LanHK" creationdate="20210513T092751Z">
+        <seg>[151061] Phải luôn có cốc có quai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[151062] Phải luôn có thìa uống trà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092756Z" creationid="LanHK" creationdate="20210513T092756Z">
+        <seg>[151062] Phải luôn có thìa trà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[15357] Lối vào phải được làm sạch và duy trì mặt tiền và cửa sổ.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T073215Z" creationid="Kieu Lan" creationdate="20210422T073215Z">
@@ -22270,8 +22302,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[60318] Cà phê / trà tự phục vụ phải có trong tiệc buffet.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[60318] Cà phê/trà tự phục vụ phải có trong tiệc buffet.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092727Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[60318] Cà phê/trà tự phục vụ phải có trong buffet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22792,6 +22824,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T090412Z" creationid="LanHK" creationdate="20210513T090412Z">
         <seg>[65660] Khi cung cấp bánh kếp và bánh quế, chúng phải được phục vụ nóng trong lò điện hoặc bày dưới đèn giữ nhiệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65668] Tối thiểu trà từ một máy tự động tự phục vụ và tối đa trà pha được phục vụ trên bàn trong một cái bình.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092716Z" creationid="LanHK" creationdate="20210513T092716Z">
+        <seg>[65668] Tối thiểu phải có trà từ một máy tự động tự phục vụ và tối đa trà được pha trong ấm và phục vụ tại bàn.</seg>
       </tuv>
     </tu>
     <tu>
