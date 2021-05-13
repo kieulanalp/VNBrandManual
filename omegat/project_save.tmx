@@ -12819,6 +12819,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trường hợp cung cấp tủ đựng mở, không được lắp đặt dưới 40cm (16in) trên mức sàn hoàn thiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060840Z" creationid="LanHK" creationdate="20210513T060840Z">
+        <seg>Trường hợp cung cấp tủ chứa đồ không cánh, không được lắp đặt ít hơn 40cm (16in) trên mức sàn hoàn thiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trường hợp được cung cấp trong phòng khách và văn phòng hành chính phải có trọng lượng sản phẩm tối thiểu 345g / m2 (15oz mỗi yard chiều dài).</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -24769,6 +24777,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T060524Z" creationid="LanHK" creationdate="20210513T060524Z">
         <seg>[92629]     Không cho phép khu bày buffet có thể di chuyển hoặc bàn gắn khăn skirt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92630]    Nếu cung cấp các quầy nấu ăn trưng bày như một phần của ý tưởng buffet, yêu cầu thông hút gió.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060642Z" creationid="LanHK" creationdate="20210513T060642Z">
+        <seg>[92630]    Nếu cung cấp các quầy nấu ăn biểu diễn như một phần của concept buffet, yêu cầu thông hút gió đúng chuẩn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92631] Mức cao nhất của quầy phải tối thiểu 85cm (34in) so với mức sàn hoàn thiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060656Z" creationid="LanHK" creationdate="20210513T060656Z">
+        <seg>[92631] Mặt quầy phải tối thiểu 85cm (34in) so với mức sàn hoàn thiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92632]    Trong các khách sạn có hơn 150 phòng, phải cung cấp một trạm nấu trứng và bánh kếp cũng như một phần của ý tưởng buffet chung, trừ khi quy định địa phương cấm điều này</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060724Z" creationid="LanHK" creationdate="20210513T060724Z">
+        <seg>[92632]    Trong các khách sạn có hơn 150 phòng, phải cung cấp một quầy món trứng và pancake như một phần của concept buffet chung, trừ khi quy định địa phương cấm điều này</seg>
       </tuv>
     </tu>
     <tu>
