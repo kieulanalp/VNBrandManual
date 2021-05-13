@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A delegated host or hostess is required at the entrance to greet guests [60383] Yêu cầu một chủ nhà được ủy nhiệm chào đón khách ở lối vào.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022937Z" creationid="LanHK" creationdate="20210513T022937Z">
+        <seg>A delegated host or hostess is required at the entrance to greet guests [60383] Yêu cầu có một host được ủy nhiệm chào đón khách ở lối vào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A distress alarm with direct connection to an on-site location that is permanently staffed Một báo động sự cố với kết nối trực tiếp đến một vị trí trên hiện trường có bố trí nhân viên cố định</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T043041Z" creationid="LanHK" creationdate="20210419T043041Z">
@@ -16035,6 +16043,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2235] Luôn phải có một nhân viên và dễ thấy trong nhà hàng và các quầy hàng F&amp;B khác trong giờ vận hành.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022738Z" creationid="LanHK" creationdate="20210513T022728Z">
+        <seg>[2235] Luôn phải có một nhân viên trực và ở vị trí dễ thấy trong nhà hàng và các outlet F&amp;B khác trong giờ mở cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[22730] ván đứng kín được khuyến khích để duy trì sự riêng tư của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T031322Z" creationid="Kieu Lan" creationdate="20210427T031322Z">
@@ -17664,6 +17680,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092521Z" creationid="LanHK" creationdate="20210426T092521Z">
         <seg>[38373] Phải chăm sóc và chuẩn bị chuyên nghiệp hoa và cây cối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38388] Thời gian cao điểm phải được xác định và các giải pháp nhân sự được đưa ra để đáp ứng các tiêu chuẩn F&amp;B 24 giờ một ngày.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022908Z" creationid="LanHK" creationdate="20210513T022908Z">
+        <seg>[38388] Thời gian cao điểm phải được xác định và có kế hoạch bố trí nhân sự để đáp ứng các tiêu chuẩn F&amp;B 24 giờ một ngày.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20292,6 +20316,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[579056] Khi đến bữa sáng, khách phải được chào đón trước và sau đó hỏi tên họ và số phòng chỉ trong trường hợp không biết.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022957Z" creationid="LanHK" creationdate="20210513T022957Z">
+        <seg>[579056] Khi đến bữa sáng, khách phải được chào trước và sau đó hỏi tên họ và số phòng chỉ trong trường hợp không biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[57920] Không cho phép lối vào tiện ích hiện trường bên dưới hoặc trên đường tới porte cochere.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T081345Z" creationid="Kieu Lan" creationdate="20210422T081345Z">
@@ -20840,6 +20872,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[60318] Cà phê/trà tự phục vụ phải có trong tiệc buffet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60382] Tất cả khách phải được chào đón ở lối vào của tất cả nhà hàng phục vụ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022919Z" creationid="LanHK" creationdate="20210513T022919Z">
+        <seg>[60382] Tất cả khách phải được chào đón ở lối vào của tất cả nhà hàng full service.</seg>
       </tuv>
     </tu>
     <tu>
