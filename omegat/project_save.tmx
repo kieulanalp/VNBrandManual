@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brand Central Path for artwork files_Sample food label tag for buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025101Z" creationid="LanHK" creationdate="20210513T025101Z">
+        <seg>Brand Central Path for artwork files_Sample food label tag for buffet Brand Central Path cho tranh ảnh_Sample tag món ăn cho buffet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brand Central Path for artwork files_Sample water bottle security label sticker</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043700Z" creationid="Kieu Lan" creationdate="20210422T043700Z">
@@ -5284,8 +5292,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food tags must be provided and meet the following: [59859] Phải cung cấp thẻ đồ ăn và đáp ứng như sau:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T024708Z" creationid="LanHK" creationdate="20210513T024708Z">
-        <seg>Food tags must be provided and meet the following: [59859] Phải cung cấp tag đồ ăn và đáp ứng như sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025109Z" creationid="LanHK" creationdate="20210513T024708Z">
+        <seg>Food tags must be provided and meet the following: [59859] Phải cung cấp tag món ăn và đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10715,10 +10723,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sample food label tag for buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025124Z" creationid="LanHK" creationdate="20210513T025124Z">
+        <seg>Sample food label tag for buffet Sample tag món ăn cho buffet`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample water bottle security label sticker</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043719Z" creationid="Kieu Lan" creationdate="20210422T043719Z">
         <seg>Sample water bottle security label sticker Sample nhãn dán an toàn cho chai nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample water bottle security label sticker Mẫu nhãn hiệu an toàn bình nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024957Z" creationid="LanHK" creationdate="20210513T024957Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -25647,8 +25671,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Đường Trung Tâm Thương Hiệu cho các hồ sơ tác phẩm nghệ thuật_Mẫu nhãn hiệu an toàn bình nước</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T024834Z" creationid="Kieu Lan" creationdate="20210422T064409Z">
-        <seg>Đường dẫnTrung Tâm Thương Hiệu cho các file tranh ảnh _Mẫu nhãn hiệu an toàn bình nước</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024953Z" creationid="Kieu Lan" creationdate="20210422T064409Z">
+        <seg>Sample water bottle security label sticker Sample nhãn dán an toàn cho chai nước</seg>
       </tuv>
     </tu>
     <tu>
