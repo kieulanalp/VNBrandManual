@@ -7195,6 +7195,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jun 2019 Guidelines Hướng dẫn ngày 14 tháng 6 năm 2019</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021543Z" creationid="LanHK" creationdate="20210513T021543Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>K value is less than or equals to 0.030 W/mK at 25°C (77°F) [329096]  Giá trị K nhỏ hơn hoặc bằng 0,030 W / mK ở 25 ° C (77 ° F)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -23140,10 +23148,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[859055] Chỉ được cung cấp theo yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021525Z" creationid="LanHK" creationdate="20210513T021525Z">
+        <seg>[859055] Chỉ được cung cấp khi khách yêu cầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[859103] Đề xuất ống hút giấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021556Z" creationid="LanHK" creationdate="20210513T021556Z">
+        <seg>[859103] Khuyến nghị dùng ống hút giấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[859104] Ống hút phân hủy sinh học phải được phân hủy hoàn toàn và / hoặc phân hủy sinh học trong bãi rác</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[859104] Ống hút phân hủy sinh học phải được phân hủy hoàn toàn và/hoặc phân hủy sinh học trong bãi rác</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021845Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[859104] Ống hút phân hủy sinh học phải được có thể ủ phân và/hoặc phân hủy sinh học trong bãi rác</seg>
       </tuv>
     </tu>
     <tu>
