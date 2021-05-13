@@ -5146,6 +5146,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; General -&gt; Service Expectations Thực phẩm và đồ uống (F&amp;B) -&gt; Chung -&gt; Mong đợi dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022358Z" creationid="LanHK" creationdate="20210513T022358Z">
+        <seg>Food &amp; Beverage -&gt; General -&gt; Service Expectations Kỳ vọng dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; General F&amp;B -&gt; Chung</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074658Z" creationid="Kieu Lan" creationdate="20210512T074658Z">
@@ -23184,6 +23192,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064205Z" creationid="Kieu Lan" creationdate="20210422T064205Z">
         <seg>[860052] Tại sân bay nên được sử dụng bảng tên điện tử cầm tay hoặc bảng tên in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[862084] Chỉ dùng máy khuấy đồ uống có thể tái sử dụng hoặc phân hủy sinh học trong bất kỳ nơi nào của khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022343Z" creationid="LanHK" creationdate="20210513T022343Z">
+        <seg>[862084] Chỉ dùng que khuấy đồ uống có thể tái sử dụng hoặc phân hủy sinh học trong bất kỳ nơi nào của khách sạn.</seg>
       </tuv>
     </tu>
     <tu>
