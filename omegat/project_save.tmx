@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Best Practices Guideline for Biodegradable Straws Hướng Dẫn Thực Tiễn Tốt Nhất cho Ống Hút Phân Hủy Sinh Học.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021515Z" creationid="LanHK" creationdate="20210513T021515Z">
+        <seg>Best Practices Guideline for Biodegradable Straws Hướng Dẫn Thực Tiễn Tốt Nhất cho Ống Hút Phân Hủy Sinh Học.https://myfederate.ihg.com/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fmyfederate.ihg.com&amp;TargetResource=HTTPS://me2.ihgmerlin.com/documents/63164707/0fe8c88b-3df8-4971-8986-46da1ebb06b7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Biển hiệu của “Thành Viên Gold Elite, Platinum Elite và Spire Elite" phải luôn được hiển thị rõ ràng tại quầy lễ tân.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T015546Z" creationid="LanHK" creationdate="20210406T015546Z">
@@ -8319,6 +8327,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T101015Z" creationid="LanHK" creationdate="20210505T101015Z">
         <seg>More than 1001 people, minimum of four separate exits, to be validated by a Qualified Person. Nếu có hơn 1001 người, tối thiểu 4 lối thoát riêng biệt, cần thông qua đánh giá bởi người có chuyên môn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be appropriate to the area and the time of the day [59731] Phải phù hợp với khu vực và thời gian trong ngày</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021418Z" creationid="LanHK" creationdate="20210513T021418Z">
+        <seg>Must be appropriate to the area and the time of the day [59731] Phải phù hợp với khu vực và thời điểm trong ngày</seg>
       </tuv>
     </tu>
     <tu>
@@ -14839,6 +14855,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T021129Z" creationid="LanHK" creationdate="20210513T021124Z">
         <seg>[115907]    Trường hợp bố trí nhà vệ sinh bên ngoài cửa hàng, khoảng cách đi bộ tối đa cho khách không được vượt quá 15m từ lối ra vào cửa hàng đến phòng vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115908]    Đối với các nhà hàng hơn 165 chỗ ngồi hoặc hơn 500m² (5382 sq ft) lối vào phòng vệ sinh phải từ trong cửa hàng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021248Z" creationid="LanHK" creationdate="20210513T021248Z">
+        <seg>[115908]    Đối với các nhà hàng hơn 165 chỗ ngồi hoặc hơn 500m² (5382 sq ft) phải có thể tiếp cận phòng vệ sinh từ trong cửa hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115909]     Tất cả các tiêu chuẩn cho nhà vệ sinh công cộng áp dụng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021259Z" creationid="LanHK" creationdate="20210513T021259Z">
+        <seg>[115909]     áp dụng tất cả các tiêu chuẩn cho nhà vệ sinh công cộng </seg>
       </tuv>
     </tu>
     <tu>
@@ -23969,6 +24001,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080705Z" creationid="Kieu Lan" creationdate="20210512T080705Z">
         <seg>[92601]     Lưu đồ F&amp;B/ thiết kế tham chiếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92618] Tất cả các bếp nhà hàng phải có lối vàp trực tiếp BOH và kết nối với bếp chính.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021329Z" creationid="LanHK" creationdate="20210513T021329Z">
+        <seg>[92618] Tất cả các bếp nhà hàng phải có lối trực tiếp vào BOH và trực tiếp kết nối với bếp chính.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92619] Không cho phép chuyển thực phẩm và đồ uống đến bếp nhà hàng qua các khu vực công cộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021349Z" creationid="LanHK" creationdate="20210513T021349Z">
+        <seg>[92619] Không cho phép chuyển đồ ăn và đồ uống đến bếp nhà hàng qua các khu vực công cộng.</seg>
       </tuv>
     </tu>
     <tu>
