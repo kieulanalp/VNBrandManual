@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 146)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021006Z" creationid="LanHK" creationdate="20210513T021006Z">
+        <seg>(Trang 144)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -3850,8 +3858,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Digital newspaper via app format is permitted and the password to be provided on complimentary basis Cho phép báo kỹ thuật số thông qua định dạng ứng dụng và cung cấp mật khẩu miễn phí</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T020810Z" creationid="LanHK" creationdate="20210513T020810Z">
-        <seg>Digital newspaper via app format is permitted and the password to be provided on complimentary basis [578067] Cho phép báo kỹ thuật số thông qua định dạng ứng dụng và cung cấp mật khẩu miễn phí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T020950Z" creationid="LanHK" creationdate="20210513T020810Z">
+        <seg>Digital newspaper via app format is permitted and the password to be provided on complimentary basis [578067] Cho phép sử dụng app đọc báo kỹ thuật số và phải cung cấp mật khẩu miễn phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +14835,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115907]    Trường hợp cung cấp bên ngoài cửa hàng, khoảng cách đi bộ tối đa cho khách không được vượt quá 15m (50ft) từ lối vào của cửa hàng đến phòng vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021124Z" creationid="LanHK" creationdate="20210513T021124Z">
+        <seg>[115907]    Trường hợp bố trí nhà vệ sinh bên ngoài cửa hàng, khoảng cách đi bộ tối đa cho khách không được vượt quá 15m từ lối vào cửa hàng đến phòng vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[116010]    Trường hợp móc để hỗ trợ giá treo áo phù hợp được lắp đặt ở phía trước bàn, chúng phải được lắp đặt một cách riêng biệt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T031525Z" creationid="Kieu Lan" creationdate="20210426T031525Z">
@@ -17876,10 +17892,18 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[45425] Khu vực F&amp;B phải luôn sạch sẽ và được bày biện tốt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T020959Z" creationid="LanHK" creationdate="20210513T020959Z">
+        <seg>[45425] Tất cả các khu F&amp;B phải luôn sạch sẽ và được bày biện tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[45426] Tối thiểu, các khu vực này phải được dọn dẹp sau khi ăn uống và / hoặc giờ cao điểm.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[45426] Tối thiểu, các khu vực này phải được dọn dẹp sau khi ăn uống và/hoặc giờ cao điểm.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021019Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[45426] Tối thiểu, các khu vực này phải được dọn dẹp sau các bữa ăn và/hoặc giờ cao điểm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20784,6 +20808,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082050Z" creationid="Kieu Lan" creationdate="20210512T082050Z">
         <seg>[60749] Bàn phải được dọn sạch, vệ sinh và set up mới trong vòng năm phút sau khi khách rời khỏi trong giờ phục vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60759] Phải đề xuất một lựa chọn trải nghiệm ăn uống riêng tư.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021039Z" creationid="LanHK" creationdate="20210513T021039Z">
+        <seg>[60759] Phải cung cấp lựa chọn trải nghiệm ăn uống riêng tư.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25497,6 +25529,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075610Z" creationid="LanHK" creationdate="20210419T075610Z">
         <seg>• Be at least 1.1m (3ft 6in) high [56528] Cao ít nhất 1,1m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Beach or garden, roof top are recommended [60760] Nên có bãi biển hoặc vườn, mái nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021055Z" creationid="LanHK" creationdate="20210513T021055Z">
+        <seg>• Beach or garden, roof top are recommended [60760] Ưu tiên vị trí bãi biển hoặc vườn, mái nhà.</seg>
       </tuv>
     </tu>
     <tu>
