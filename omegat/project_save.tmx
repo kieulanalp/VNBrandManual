@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A live juice station is permitted [606055] Cho phép quầy nước ép pha trực tiếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092343Z" creationid="LanHK" creationdate="20210513T092343Z">
+        <seg>A live juice station is permitted [606055] Cho phép quầy pha nước ép trực tiếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A local or regional spread is recommended (e.g. kaya, vegemite) [581103] Khuyến nghị loại phết bánh hương vị khu vực hoặc địa phương (ví dụ kaya, vegemite)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070141Z" creationid="LanHK" creationdate="20210513T070141Z">
@@ -7803,6 +7811,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Juice dispensers must be refilled using jugs or pitchers [606056] Máy ép nước trái cây phải được đổ đầy lại bằng bình hoặc bình đựng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092612Z" creationid="LanHK" creationdate="20210513T092612Z">
+        <seg>Juice dispensers must be refilled using jugs or pitchers [606056] Bình dispenser đựng nước quả phải được đổ đầy lại bằng bình nhỏ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jun 2019 Guidelines Hướng dẫn ngày 14 tháng 6 năm 2019</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T021543Z" creationid="LanHK" creationdate="20210513T021543Z">
@@ -11767,6 +11783,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="LanHK" creationdate="20210419T105136Z">
         <seg>Self-locking feature on folding cots/cribs [56627]       Tính năng tự khóa đối với cũi gấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Self-serve commercial juicer is permitted [606054] Cho phép máy ép trái cây thương mại tự phục vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092226Z" creationid="LanHK" creationdate="20210513T092226Z">
+        <seg>Self-serve commercial juicer is permitted [606054] Cho phép sử dụng nước trái cây thương mại tự phục vụ</seg>
       </tuv>
     </tu>
     <tu>
