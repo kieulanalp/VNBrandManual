@@ -5282,6 +5282,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food tags must be provided and meet the following: [59859] Phải cung cấp thẻ đồ ăn và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024708Z" creationid="LanHK" creationdate="20210513T024708Z">
+        <seg>Food tags must be provided and meet the following: [59859] Phải cung cấp tag đồ ăn và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For Mediterranean Climate: Total Energy- 250kWh/m²/annum; Water- 0.45m3/guest night maximum; Carbon Emission- 148kg/m² [298100]    Đối với Khí hậu Địa Trung Hải: Tổng năng lượng - 250kWh / m2/ năm; Nước- tối đa 0,45m3/ đêm; Lượng khí thải carbon- 148kg / m2</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -7023,6 +7031,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080424Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>It is recommended for the breakfast buffet /individual dishes to be stocked, at a minimum of one third full at the end of the advertised breakfast service time [578056] Khuyến nghị bữa sáng buffet / món lẻ phải được duy trì tối thiểu một phần ba lượng thức ăn vào cuối thời gian phục vụ bữa sáng theo quảng cáo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended that a Kids Eat Free Menu is provided in all hotel owned restaurants [76553] Cung cấp thực đơn miễn phí cho trẻ em trong tất cả các nhà hàng thuộc sở hữu của khách sạn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024544Z" creationid="LanHK" creationdate="20210513T024544Z">
+        <seg>It is recommended that a Kids Eat Free Menu is provided in all hotel owned restaurants [76553] Khuyến nghị cung cấp thực đơn Kids Eat Free trong tất cả các nhà hàng thuộc sở hữu của khách sạn</seg>
       </tuv>
     </tu>
     <tu>
@@ -12271,6 +12287,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T032158Z" creationid="LanHK" creationdate="20210419T032149Z">
         <seg>[56137] Thông tin An toàn và An ninh phù hợp với khách sạn phải được cung cấp trong phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thẻ nhãn thực phẩm mẫu cho tiệc buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024726Z" creationid="LanHK" creationdate="20210513T024726Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -24365,6 +24389,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[93409] Thực đơn bữa tối và quầy bar nên bao gồm các mặt hàng thực phẩm và đồ uống quen thuộc và theo vùng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024658Z" creationid="LanHK" creationdate="20210513T024644Z">
+        <seg>[93409] Thực đơn bữa tối và quầy bar nên bao gồm các món ăn và đồ uống quen thuộc và có tính vùng miền.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[93420] Trong trường hợp không đủ chỗ để có cả URL thương hiệu và số điện thoại miễn phí, thì chỉ được phép có các chi tiết URL thương hiệu.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093206Z" creationid="LanHK" creationdate="20210415T093206Z">
@@ -25615,7 +25647,15 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Đường Trung Tâm Thương Hiệu cho các hồ sơ tác phẩm nghệ thuật_Mẫu nhãn hiệu an toàn bình nước</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064409Z" creationid="Kieu Lan" creationdate="20210422T064409Z">
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024834Z" creationid="Kieu Lan" creationdate="20210422T064409Z">
+        <seg>Đường dẫnTrung Tâm Thương Hiệu cho các file tranh ảnh _Mẫu nhãn hiệu an toàn bình nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đường dẫn thương hiệu trung tâm cho các hồ sơ tác phẩm nghệ thuật.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024733Z" creationid="LanHK" creationdate="20210513T024733Z">
         <seg></seg>
       </tuv>
     </tu>
