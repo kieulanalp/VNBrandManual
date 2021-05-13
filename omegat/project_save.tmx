@@ -5746,6 +5746,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glasses must be set at the beverage section of the buffet set-up [59976] Ly thủy tinh phải được để tại quầy đồ uống khu vực bày biện buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040325Z" creationid="LanHK" creationdate="20210513T040325Z">
+        <seg>Glasses must be set at the beverage section of the buffet set-up [59976] Ly thủy tinh phải được để tại quầy đồ uống của khu vực setup buffet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glassware is not permitted with the cover set up [60379] Không cho phép phủ đồ thủy tinh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T035537Z" creationid="LanHK" creationdate="20210513T035537Z">
@@ -21276,6 +21284,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[59977] Phải cùng kích thước và phong cách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040331Z" creationid="LanHK" creationdate="20210513T040331Z">
+        <seg>[59977] Phải cùng kích thước và kiểu dáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59] Ở các quốc gia không có số điện thoại miễn phí, chỉ được phép có các chi tiết URL của thương hiệu.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093133Z" creationid="LanHK" creationdate="20210415T093133Z">
@@ -26161,6 +26177,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>•  Brand neutral/generic keywords may be purchased.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Cotton mix is recommended [581049] Khuyến nghị dùng hỗn hợp CT</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040306Z" creationid="LanHK" creationdate="20210513T040306Z">
+        <seg>•  Cotton mix is recommended [581049] Khuyến nghị dùng khăn pha cotton</seg>
       </tuv>
     </tu>
     <tu>
