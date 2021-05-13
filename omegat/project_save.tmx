@@ -1048,8 +1048,8 @@
       <tuv lang="EN-US">
         <seg>A minimum of one and a maximum of two types of seeds (e.g. pumpkin seeds, sunflower seeds) [60329] Tối thiểu một và tối đa hai loại hạt (ví dụ: hạt bí ngô, hạt hướng dương)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T071436Z" creationid="LanHK" creationdate="20210513T071436Z">
-        <seg>A minimum of one and a maximum of two types of seeds (e.g. pumpkin seeds, sunflower seeds) [60329] Tối thiểu một và tối đa hai loại hạt seed (ví dụ: hạt bí ngô, hạt hướng dương)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071544Z" creationid="LanHK" creationdate="20210513T071436Z">
+        <seg>A minimum of one and a maximum of two types of seeds (e.g. pumpkin seeds, sunflower seeds) [60329] Tối thiểu một và tối đa hai loại hạt nhỏ (ví dụ: hạt bí ngô, hạt hướng dương)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8831,6 +8831,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Must be presented with a pack of at least five different coloured crayons/colour pencils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be served in either a dispenser, carafes or glass jugs [59952] Phải được phục vụ trong một bình pha, bình đựng hoặc bình thủy tinh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071746Z" creationid="LanHK" creationdate="20210513T071746Z">
+        <seg>Must be served in either a dispenser, carafes or glass jugs [59952] Phải được phục vụ trong một bình dispenser, bình carafe hoặc bình thủy tinh</seg>
       </tuv>
     </tu>
     <tu>
