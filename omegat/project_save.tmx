@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 149)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T030316Z" creationid="LanHK" creationdate="20210513T030316Z">
+        <seg>(Trang 147)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -20620,6 +20628,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[580056] Nếu tiếng Anh không phải là ngôn ngữ địa phương, các thẻ thực phẩm nên bằng hai ngôn ngữ, với tiếng Anh là một trong hai ngôn ngữ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T030119Z" creationid="LanHK" creationdate="20210513T030119Z">
+        <seg>[580056] Nếu tiếng Anh không phải là ngôn ngữ địa phương, các tag món nên bằng hai ngôn ngữ, trong đó có tiếng Anh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58006]     Hệ thống quản lý cáp</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T081708Z" creationid="LanHK" creationdate="20210511T081708Z">
@@ -21544,6 +21560,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042541Z" creationid="Kieu Lan" creationdate="20210510T042541Z">
         <seg>[65026] Phải được để trong tủ quần áo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65603] Thực đơn phải ở mức tối thiểu bằng tiếng Anh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T030138Z" creationid="LanHK" creationdate="20210513T030138Z">
+        <seg>[65603] Tối thiểu thực đơn phải bằng tiếng Anh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25845,6 +25869,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•  A separate menu is recommended for each language [580057] Một thực đơn riêng được khuyến nghị cho mỗi ngôn ngữ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T030330Z" creationid="LanHK" creationdate="20210513T030330Z">
+        <seg>•  A separate menu is recommended for each language [580057] Khuyến nghị có quyển thực đơn riêng cho mỗi ngôn ngữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>•  Airlocks / weather lobbies should be sized so as to avoid both doors being triggered simultaneously.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -25905,6 +25937,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102410Z" creationid="LanHK" creationdate="20210428T102410Z">
         <seg>•  It is recommended to set the temperature at 24°C (75.2 °F).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Menus in other languages are recommended for main nationality of the guests in the hotel Thực đơn bằng các ngôn ngữ khác được khuyến nghị cho quốc tịch chính của khách trong khách sạn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T030312Z" creationid="LanHK" creationdate="20210513T030312Z">
+        <seg>•  Menus in other languages are recommended for main nationality of the guests in the hotel Khuyến nghị có thực đơn bằng các ngôn ngữ khác cho quốc tịch khách chính trong khách sạn</seg>
       </tuv>
     </tu>
     <tu>
