@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A local or regional spread is recommended (e.g. kaya, vegemite) [581103] Khuyến nghị loại phết bánh hương vị khu vực hoặc địa phương (ví dụ kaya, vegemite)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070141Z" creationid="LanHK" creationdate="20210513T070141Z">
+        <seg>A local or regional spread is recommended (e.g. kaya, vegemite) [581103] Khuyến nghị loại phết bánh của khu vực hoặc địa phương (ví dụ kaya, vegemite)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mattress must be provided and meet the following: [102638] Phải cung cấp một tấm đệm và đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075805Z" creationid="LanHK" creationdate="20210510T075805Z">
@@ -11723,6 +11731,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spreads are permitted to be in their individually commercial packaging (e.g. mini jars) on the buffet display [581111] Loại phết bánh được phép đóng gói thương mại cá nhân (ví dụ mứt minu) trên kệ buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070214Z" creationid="LanHK" creationdate="20210513T070214Z">
+        <seg>Spreads are permitted to be in their individually commercial packaging (e.g. mini jars) on the buffet display [581111] Phết bánh mì được phép trưng bày trong bao bì thương mại riêng lẻ (ví dụ lọ mứt mini) trên kệ buffet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sprung cleat and rope guide within aluminum frame [79918]      Hướng dẫn dây và thanh giằng có lò xo trong khung nhôm.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T090155Z" creationid="LanHK" creationdate="20210423T090155Z">
@@ -22448,6 +22464,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T090934Z" creationid="LanHK" creationdate="20210406T090802Z">
         <seg>[7014] Việc xem xét đánh giá Chính sách Bảo mật Thông tin và các quy trình phục vụ Chính sách này phải được thực hiện tối thiểu là thường niên, hoặc mỗi lần xảy ra sự kiện xâm nhập hệ thống hoặc truy cập trái phép.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70304] loại phết bánh phải phục vụ điều khiển thành phần riêng lẻ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070128Z" creationid="LanHK" creationdate="20210513T070128Z">
+        <seg>[70304] Các loại phết bánh mì phải được phục vụ theo khẩu phần có kiểm soát</seg>
       </tuv>
     </tu>
     <tu>
