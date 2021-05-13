@@ -6907,6 +6907,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>International and local newspapers must be available in hard copy or in digital format [578064] Báo quốc tế và địa phương phải có sẵn ở dạng bản cứng hoặc ở định dạng kỹ thuật số</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015621Z" creationid="LanHK" creationdate="20210513T015621Z">
+        <seg>International and local newspapers must be available in hard copy or in digital format [578064] Báo quốc tế và địa phương phải có bản cứng hoặc bản mềm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internet&lt;t0/&gt; &lt;t1/&gt;Mạng Internet</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T075046Z" creationid="Kieu Lan" creationdate="20210331T075046Z">
@@ -13347,6 +13355,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where digital newspaper is provided, the host/hostess or delegated host/hostess must inform the guest of its availability and offer assistance [578066] Khi cung cấp báo kỹ thuật số, chủ nhà hoặc chủ nhà được ủy quyền phải thông báo cho khách về các hỗ trợ sẵn có này.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015924Z" creationid="LanHK" creationdate="20210513T015924Z">
+        <seg>Where digital newspaper is provided, the host/hostess or delegated host/hostess must inform the guest of its availability and offer assistance [578066] Khi cung cấp báo kỹ thuật số, nhân viên lễ tân hoặc nhân viên lễ tân được ủy quyền phải thông báo cho khách về các dịch vụ này và đề nghị hỗ trợ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where digital newspapers are requested, colleagues must be able to assist guests with installation and passwords for their own devices [578065] Khi yêu cầu báo kỹ thuật số, các nhân viên phải có thể hỗ trợ khách lắp đặt và mật khẩu cho thiết bị của riêng họ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015708Z" creationid="LanHK" creationdate="20210513T015708Z">
+        <seg>Where digital newspapers are requested, colleagues must be able to assist guests with installation and passwords for their own devices [578065] Nếu yêu cầu có báo kỹ thuật số, các nhân viên phải có thể hỗ trợ khách cài đặt và đặt mật khẩu cho thiết bị riêng của họ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where door signage is provided to indicate smoking or non-smoking rooms, it must meet the following: [78347]     Trường hợp cung cấp biển báo cửa để chỉ phòng hút thuốc hoặc không hút thuốc, thì phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T101009Z" creationid="LanHK" creationdate="20210511T101009Z">
@@ -18020,6 +18044,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[501048] Vải lót cho trẻ hoạt động nên được bày với một gói vật liệu màu không độc hại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015502Z" creationid="LanHK" creationdate="20210513T015502Z">
+        <seg>[501048] Bộ hoạt động giải trí cho trẻ nên được cung cấp cùng một gói màu vẽ không độc hại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[50329] Trường hợp khách phải đợi trước khi nhận hoặc trả phòng, đồng nghiệp phải xin lỗi vì sự chậm trễ.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T021801Z" creationid="Kieu Lan" creationdate="20210422T021801Z">
@@ -18160,6 +18192,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125612Z" creationid="Kieu Lan" creationdate="20210423T125612Z">
         <seg>[50856] Phát nhạc không thuộc InnTunes ™ trong khách sạn phải được IHG® phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[50891] Phải luôn có báo tạp chí.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015555Z" creationid="LanHK" creationdate="20210513T015555Z">
+        <seg>[50891] Phải luôn có báo để đọc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22694,8 +22734,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[7937] Chất liệu hoạt động phải được giới hạn trong các trò chơi đơn giản và không đắt có thể dễ dàng bày biện, lưu trữ và bổ sung.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T015421Z" creationid="LanHK" creationdate="20210513T015409Z">
-        <seg>[7937] Các hoạt động giải trí phải được giới hạn trong các trò chơi đơn giản và không đắt đỏ, dễ lưu trữ và mua bổ sung.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015424Z" creationid="LanHK" creationdate="20210513T015409Z">
+        <seg>[7937] Các hoạt động giải trí phải được giới hạn trong các trò chơi đơn giản và không đắt đỏ, dễ lưu trữ và bổ sung.</seg>
       </tuv>
     </tu>
     <tu>
