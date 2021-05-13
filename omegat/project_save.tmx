@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 152)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062806Z" creationid="LanHK" creationdate="20210513T062806Z">
+        <seg>(Trang 150)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -902,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A colleague must explain the process of the card usage to the guest [60829] Một nhân viên phải giải thích quá trình sử dụng thẻ cho khách</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062950Z" creationid="LanHK" creationdate="20210513T062950Z">
+        <seg>A colleague must explain the process of the card usage to the guest [60829] Một nhân viên phải giải thích cách sử dụng thẻ cho khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A continuous kerb along the perimeter of the parking area [12241]     Một lề đường liên tục dọc phạm vi bãi đỗ xe.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T085512Z" creationid="LanHK" creationdate="20210422T085512Z">
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T040257Z" creationid="LanHK" creationdate="20210513T040257Z">
         <seg>A minimum of paper and a maximum of cotton mix [60338] Tối thiểu là khăn giấy, tối đa là khăn pha cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A minimum of three and a maximum of four types of fruit compotes or preserved fruits must be offered: [59980] Phải cung cấp tối thiểu ba và tối đa bốn loại mứt trái cây hoặc trái cây được bảo quản.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T063024Z" creationid="LanHK" creationdate="20210513T063024Z">
+        <seg>A minimum of three and a maximum of four types of fruit compotes or preserved fruits must be offered: [59980] Phải cung cấp tối thiểu ba và tối đa bốn loại mứt trái cây hoặc hoa quả ngâm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brand Central Path for artwork files_Sample table numbering card for live stations Đường Trung Tâm Thương Hiệu cho các hồ sơ tác phẩm nghệ thuật_Thẻ đánh số bàn mẫu cho cho các quầy trực tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062803Z" creationid="LanHK" creationdate="20210513T062803Z">
+        <seg>Brand Central Path for artwork files_Sample table numbering card for live stations Đường Trung Tâm Thương Hiệu cho các file tranh ảnh_ Mẫu thẻ số bàn cho cho các quầy nấu trực tiếp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brand Central Path for artwork files_Sample water bottle security label sticker</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043700Z" creationid="Kieu Lan" creationdate="20210422T043700Z">
@@ -3283,6 +3315,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T014905Z" creationid="LanHK" creationdate="20210406T014452Z">
         <seg>Phải chấp nhận đặt phòng qua chương trình thưởng đêm nghỉ miễn phí cho khách hàng thân thiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chấp nhận đơn đặt hàng mẫu hoặc thẻ với số bàn của khách được đặt trên bàn của khách hoặc thẻ được phát hành tại các trạm trực tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062938Z" creationid="LanHK" creationdate="20210513T062924Z">
+        <seg>[881051] Chấp nhận đơn đặt món hoặc thẻ với số bàn của khách được đặt trên bàn của khách hoặc thẻ được phát hành tại các quầy nấu trực tiếp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10919,6 +10959,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T025126Z" creationid="LanHK" creationdate="20210513T025124Z">
         <seg>Sample food label tag for buffet Sample tag món ăn cho buffet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample table numbering card for live stations Thẻ đánh số bàn mẫu cho cho các quầy trực tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062820Z" creationid="LanHK" creationdate="20210513T062820Z">
+        <seg>Sample table numbering card for live stations Mẫu thẻ số bàn cho cho các quầy nấu trực tiếp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24032,6 +24080,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125526Z" creationid="Kieu Lan" creationdate="20210423T125526Z">
         <seg>[880] Phải đăng ký và phát chương trình âm nhạc InnTunes ™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[881051]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062933Z" creationid="LanHK" creationdate="20210513T062933Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
