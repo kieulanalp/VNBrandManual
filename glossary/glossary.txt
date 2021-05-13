@@ -4,3 +4,4 @@ construction	kết cấu
 bên giường	tab đầu giường
 trang điểm	vanity
 kích thước toàn phần	full size
+mong đợi	kỳ vọng về
