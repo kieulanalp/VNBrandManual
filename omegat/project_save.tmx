@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 154)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071752Z" creationid="LanHK" creationdate="20210513T071752Z">
+        <seg>(Trang 152)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -6474,6 +6482,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holiday Inn Brand_Recommended Beverage Dispensers Holiday Inn Brand_Máy Pha Đồ Uống Được Đề Xuất</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072040Z" creationid="LanHK" creationdate="20210513T072040Z">
+        <seg>Holiday Inn Brand_Recommended Beverage Dispensers Holiday Inn Brand_Dispenser Đồ Uống Được Đề Xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holiday Inn Resorts Branded Keycard Wallet (Brand Central&gt;Holiday Inn Resorts&gt;Brand Warehouse&gt;Collateral&gt;Artwork&gt;Hotel Collateral) Ví Thẻ Khóa Thương Hiệu Holiday Inn Resorts (Brand Central&gt;Holiday Inn Resorts&gt;Brand Warehouse&gt;Collateral&gt;Artwork&gt;Hotel Collateral)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T025124Z" creationid="LanHK" creationdate="20210406T024926Z">
@@ -6510,6 +6526,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T035343Z" creationid="LanHK" creationdate="20210513T035343Z">
         <seg>Hot and cold food and beverage options "To Go", clearly labelled with use by the indicated time [32965] Lựa chọn F&amp;B nóng và lạnh "To Go" (mang đi), được dán nhãn rõ ràng với hạn sử dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot milk must be available on request [59955] Sữa nóng phải có sẵn theo yêu cầu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071809Z" creationid="LanHK" creationdate="20210513T071809Z">
+        <seg>Hot milk must be available on request [59955] Sữa nóng phải được phục vụ theo yêu cầu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7015,6 +7039,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T040810Z" creationid="LanHK" creationdate="20210405T040810Z">
         <seg>IHG® Way -&gt; Guest Experience &amp; Quality&lt;t0/&gt; &lt;t1/&gt;Trải nghiệm của khách &amp; Chất lượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ice water must be offered on the buffet and be served in the following: [60106] Nước đá phải được cung cấp trong tiệc buffet và được phục vụ như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072100Z" creationid="LanHK" creationdate="20210513T072100Z">
+        <seg>Ice water must be offered on the buffet and be served in the following: [60106] Nước đá phải được cung cấp trên quầy buffet và được phục vụ như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12675,6 +12707,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The recommended dispensers are as per the attached presentation [581098] máy pha được đề xuất theo bản trình bày đính kèm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072008Z" creationid="LanHK" creationdate="20210513T072008Z">
+        <seg>The recommended dispensers are as per the attached presentation [581098] Dispenser được khuyến nghị được trình bày trong file đính kèm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The seat count must be established based on the key count of the hotel: [92605] Số lượng ghế phải dựa trên số lượng key của khách sạn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T034849Z" creationid="LanHK" creationdate="20210513T034849Z">
@@ -16415,6 +16455,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070944Z" creationid="LanHK" creationdate="20210513T070944Z">
         <seg>[195052] Omelette tiêu chuẩn dùng ba quả trứng hoặc 150ml trứng lỏng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[195054] Được phép phục vụ sữa đậu nành nóng trong bữa tiệc buffet hoặc theo yêu cầu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071826Z" creationid="LanHK" creationdate="20210513T071826Z">
+        <seg>[195054] Được phép phục vụ sữa đậu nành nóng trên quầy buffet hoặc theo yêu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[196057] Sữa ướp lạnh nên được phục vụ ở nhiệt độ chính xác, dao động trong khoảng từ 3 ° C đến 8 ° C.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071840Z" creationid="LanHK" creationdate="20210513T071840Z">
+        <seg>[196057] Sữa lạnh nên được phục vụ ở nhiệt độ đúng chuẩn, dao động trong khoảng từ 3 ° C đến 8 ° C.</seg>
       </tuv>
     </tu>
     <tu>
