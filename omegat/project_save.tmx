@@ -14837,8 +14837,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[115907]    Trường hợp cung cấp bên ngoài cửa hàng, khoảng cách đi bộ tối đa cho khách không được vượt quá 15m (50ft) từ lối vào của cửa hàng đến phòng vệ sinh.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T021124Z" creationid="LanHK" creationdate="20210513T021124Z">
-        <seg>[115907]    Trường hợp bố trí nhà vệ sinh bên ngoài cửa hàng, khoảng cách đi bộ tối đa cho khách không được vượt quá 15m từ lối vào cửa hàng đến phòng vệ sinh.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T021129Z" creationid="LanHK" creationdate="20210513T021124Z">
+        <seg>[115907]    Trường hợp bố trí nhà vệ sinh bên ngoài cửa hàng, khoảng cách đi bộ tối đa cho khách không được vượt quá 15m từ lối ra vào cửa hàng đến phòng vệ sinh.</seg>
       </tuv>
     </tu>
     <tu>
