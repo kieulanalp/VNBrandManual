@@ -5164,8 +5164,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; General -&gt; Collateral / Stationery Thực phẩm và đồ uống (F&amp;B)-&gt; Chung -&gt; Tài liệu quảng bá / Văn phòng phẩm</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Food &amp; Beverage -&gt; General -&gt; Collateral/Stationery Thực phẩm và đồ uống (F&amp;B)-&gt; Chung -&gt; Tài liệu quảng bá/Văn phòng phẩm</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023704Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Food &amp; Beverage -&gt; General -&gt; Collateral/Stationery Tài liệu quảng bá/ Văn phòng phẩm</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6438,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T091126Z" creationid="LanHK" creationdate="20210511T091114Z">
         <seg>Hãy báo Quản lý ca hoặc nhân viên lễ tân nếu có kỳ nghỉ của bạn có bất kỳ bất tiện nào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hóa đơn phải được chia thành từng khoản chính xác, tổng hợp và chỉ rõ có bao gồm dịch vụ và thuế hay không.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023458Z" creationid="LanHK" creationdate="20210513T023458Z">
+        <seg>[42142] Hóa đơn phải được chia thành từng mục rõ ràng, cộng tổng và chỉ rõ liệu có bao gồm phí dịch vụ và thuế hay không.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10599,6 +10607,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T090602Z" creationid="LanHK" creationdate="20210406T090335Z">
         <seg>Rủi ro đối với tính bảo mật, tính toàn vẹn và tính sẵn có của Dữ liệu Cá nhân và dữ liệu IHG phải được giảm thiểu thông qua việc sử dụng chương trình Bảo mật Thông tin.
 See also ID number 7009 Xem thêm số ID 7009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOP Reference Tham chiếu SOP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023359Z" creationid="LanHK" creationdate="20210513T023359Z">
+        <seg>SOP Reference Tham khảo Quy trình vận hành tiêu chuẩn (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16149,8 +16165,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[23564] Bàn có người ăn phải được phục vụ / kiểm tra thường xuyên trong khi ăn uống.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[23564] Bàn có người ăn phải được phục vụ/kiểm tra thường xuyên trong khi ăn uống.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023415Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[23564] Bàn có người ăn phải được phục vụ/kiểm tra thường xuyên trong bữa ăn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16935,6 +16951,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T023053Z" creationid="LanHK" creationdate="20210513T023053Z">
         <seg>[300054] Nên giao tiếp trực tiếp với trẻ trong khu vực ăn uống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[300055] SOPs thực đơn miễn phí cho trẻ để tham chiếu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023340Z" creationid="LanHK" creationdate="20210513T023340Z">
+        <seg>[300055] Quy trình vận hành tiêu chuẩn đối với chương trình Kids Eat Free để tham chiếu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17840,6 +17864,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T023946Z" creationid="LanHK" creationdate="20210428T023939Z">
         <seg>[41670]       Thùng rác đựng tã phải được đặt trong tầm với của bàn phòng thay tã.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[42142]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023437Z" creationid="LanHK" creationdate="20210513T023437Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -24745,6 +24777,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T095136Z" creationid="Kieu Lan" creationdate="20210420T095136Z">
         <seg>[97068] Tất cả các Tổng Quản lý, Trưởng Bộ phận và nhân viên phải hoàn thành Đào tạo Định hướng Thương hiệu trong vòng 14 ngày đầu tiên và Đào tạo Dịch vụ Thương hiệu trong vòng 60 ngày đầu tiên làm việc lại sau khi nghỉ hơn 12 tháng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[97104] Phải dùng bút có thương hiệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023502Z" creationid="LanHK" creationdate="20210513T023502Z">
+        <seg>[97104] Phải dùng bút thương hiệu.</seg>
       </tuv>
     </tu>
     <tu>
