@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 151)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040432Z" creationid="LanHK" creationdate="20210513T040432Z">
+        <seg>(Trang 149)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -5226,6 +5234,22 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast -&gt; Service Expectations Thực phẩm và đồ uống F&amp;B-&gt; Ăn uống -&gt; Ăn sáng -&gt; Mong đợi dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040534Z" creationid="LanHK" creationdate="20210513T040534Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast -&gt; Service Expectations Bữa sáng -&gt; Kỳ vọng về dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Bữa sáng tự chọn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040641Z" creationid="LanHK" creationdate="20210513T040641Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet Buffet sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Ăn sáng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T035121Z" creationid="LanHK" creationdate="20210513T035121Z">
@@ -6070,6 +6094,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T105241Z" creationid="LanHK" creationdate="20210419T105241Z">
         <seg>Guests must be able to call the following from their guest room telephone: [56629] Khách phải có thể gọi đến các máy như sau từ điện thoại trong phòng:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guests who do not have breakfast included in their room rate must be informed that an a la carte menu is available at extra cost by the colleague who escorts them to their table [50859] Những khách không bao gồm bữa sáng trong giá phòng của họ phải được nhân viên hộ tống đến bàn ăn thông báo rằng thực đơn gọi món a la carte có chi phí tính thêm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040627Z" creationid="LanHK" creationdate="20210513T040627Z">
+        <seg>Guests who do not have breakfast included in their room rate must be informed that an a la carte menu is available at extra cost by the colleague who escorts them to their table [50859] Khách không có bữa sáng bao gồm trong giá phòng phải được nhân viên hộ tống đến bàn ăn thông báo rằng thực đơn gọi món a la carte có chi phí tính thêm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18772,6 +18804,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[50858] Theo yêu cầu, khách phải được cung cấp một bản mô tả về tiệc buffet từ nhân viên hộ tống họ đến bàn ăn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040553Z" creationid="LanHK" creationdate="20210513T040553Z">
+        <seg>[50858] Theo yêu cầu, khách phải được nghe mô tả về buffet bởi nhân viên hộ tống họ đến bàn ăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[50891] Phải luôn có báo tạp chí.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T015555Z" creationid="LanHK" creationdate="20210513T015555Z">
@@ -19264,6 +19304,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T085433Z" creationid="LanHK" creationdate="20210415T085433Z">
         <seg>[53096] khách sạn không được sử dụng quảng cáo mang tính đe dọa hoặc chinh phục để cố tình đẩy khách hàng khỏi IHG Brand.com.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[53605] Cho phép cà phê đen và trà cung cấp bổ sung tại bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040424Z" creationid="LanHK" creationdate="20210513T040424Z">
+        <seg>[53605] Cho phép đề xuất rót thêm cà phê đen và trà tại bàn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24681,6 +24729,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T021349Z" creationid="LanHK" creationdate="20210513T021349Z">
         <seg>[92619] Không cho phép chuyển đồ ăn và đồ uống đến bếp nhà hàng qua các khu vực công cộng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92624] Phải cung cấp buffet bữa sáng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040645Z" creationid="LanHK" creationdate="20210513T040645Z">
+        <seg>[92624] Phải cung cấp buffet sáng.</seg>
       </tuv>
     </tu>
     <tu>
