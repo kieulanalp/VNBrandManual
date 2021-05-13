@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A selection of locally relevant hot and cold dishes [32964] Lựa chọn đồ ăn nóng và lạnh có liên quan địa phương</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035253Z" creationid="LanHK" creationdate="20210513T035253Z">
+        <seg>A selection of locally relevant hot and cold dishes [32964] Các món nóng và lạnh có tính địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sign must be provided adjacent to the call button(s) in lift lobbies and meet the following requirements: [56748]      Một biển báo phải được cung cấp liền kề với (các) nút gọi trong hành lang thang máy và đáp ứng các yêu cầu sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110416Z" creationid="LanHK" creationdate="20210419T110408Z">
@@ -5722,6 +5730,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glassware is not permitted with the cover set up [60379] Không cho phép phủ đồ thủy tinh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035537Z" creationid="LanHK" creationdate="20210513T035537Z">
+        <seg>Glassware is not permitted with the cover set up [60379] Không cho phép setup sẵn đồ thủy tinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glazing and Mirrors</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012444Z" creationid="LanHK" creationdate="20210406T012444Z">
@@ -6278,6 +6294,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154708Z" creationid="Kieu Lan" creationdate="20210405T154706Z">
         <seg>Hot Water Nước nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot and cold food and beverage options "To Go", clearly labelled with use by the indicated time [32965] Lựa chọn F&amp;B nóng và lạnh "To Go", được dán nhãn rõ ràng với thời gian sử dụng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035343Z" creationid="LanHK" creationdate="20210513T035343Z">
+        <seg>Hot and cold food and beverage options "To Go", clearly labelled with use by the indicated time [32965] Lựa chọn F&amp;B nóng và lạnh "To Go" (mang đi), được dán nhãn rõ ràng với hạn sử dụng</seg>
       </tuv>
     </tu>
     <tu>
@@ -9281,6 +9305,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One each: fork, knife and dessert spoon [60370] Mỗi bàn được setup: dĩa, dao và muỗng tráng miệng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035448Z" creationid="LanHK" creationdate="20210513T035427Z">
+        <seg>One each: fork, knife and dessert spoon [60370] Mỗi khách có: dĩa, dao và thìa tráng miệng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One local or regional beer option [57333] Một loại bia địa phương hoặc khu vực</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061739Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
@@ -11835,6 +11867,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tables must be set for a minimum of two covers [60371] bảng phải có tối thiểu hai vải phủ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035441Z" creationid="LanHK" creationdate="20210513T035408Z">
+        <seg>Tables must be set for a minimum of two covers [60371] Bàn được set up cho tối thiểu 2 người, bao gồm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Task light [116037]     Chiếu áng bổ sung</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T082646Z" creationid="LanHK" creationdate="20210426T082646Z">
@@ -12893,8 +12933,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Tối thiểu một gói bữa sáng (ví dụ: dã ngoại, phiêu lưu với trẻ em, lãng mạn trên ban công / bãi biển).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Tối thiểu một gói bữa sáng (ví dụ: dã ngoại, phiêu lưu với trẻ em, lãng mạn trên ban công/bãi biển).</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035235Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Tối thiểu một package bữa sáng (ví dụ: bữa sáng dã ngoại, phiêu lưu với trẻ em, lãng mạn trên ban công/bãi biển).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24585,6 +24625,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093206Z" creationid="LanHK" creationdate="20210415T093206Z">
         <seg>[93420] Trong trường hợp không đủ chỗ để để cả URL thương hiệu và số điện thoại miễn phí, thì được phép chỉ để chi tiết URL thương hiệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[93421] Nên cung cấp hướng dẫn sưởi ấm, khi thích hợp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035353Z" creationid="LanHK" creationdate="20210513T035353Z">
+        <seg>[93421] Nên cung cấp hướng dẫn làm nóng, khi thích hợp</seg>
       </tuv>
     </tu>
     <tu>
