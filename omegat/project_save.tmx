@@ -7083,6 +7083,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items displayed in their commercial packaging (e.g. bottles, jars) do not require a food tag [580055] sản phẩm trong bao bì thương mại của họ (ví dụ: chai, lọ) không yêu cầu thẻ thực phẩm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025326Z" creationid="LanHK" creationdate="20210513T025326Z">
+        <seg>Items displayed in their commercial packaging (e.g. bottles, jars) do not require a food tag [580055] sản phẩm được chứa trong bao bì thương mại của chúng (ví dụ: chai, lọ) không cần có tag món</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items on offer must be from breakfast items in the room service/in-room dining menu or all day dining menu [584065] món ăn được cung cấp phải từ các món ăn sáng trong dịch vụ phòng / thực đơn ăn uống trong phòng hoặc thực đơn all day dining</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10725,8 +10733,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Sample food label tag for buffet</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T025124Z" creationid="LanHK" creationdate="20210513T025124Z">
-        <seg>Sample food label tag for buffet Sample tag món ăn cho buffet`</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025126Z" creationid="LanHK" creationdate="20210513T025124Z">
+        <seg>Sample food label tag for buffet Sample tag món ăn cho buffet</seg>
       </tuv>
     </tu>
     <tu>
@@ -18080,6 +18088,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T091837Z" creationid="LanHK" creationdate="20210415T091837Z">
         <seg>[43] Các trang tập hợp đánh giá của cộng đồng nổi bật khác (ví dụ: TripAdvisor) nên được theo dõi với tần suất tương tự và 80% đánh giá trung lập và tích cực trên các trang web này cũng sẽ được phản hồi trong vòng 72 giờ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[440048] Tất cả các món ăn mới trong tiệc buffet phải có thẻ thực phẩm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025258Z" creationid="LanHK" creationdate="20210513T025206Z">
+        <seg>[440048] Tất cả các món ăn trong buffet phải có tag món.</seg>
       </tuv>
     </tu>
     <tu>
