@@ -24741,6 +24741,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[92626]     Yêu cầu các tấm chắn hắt hơi cho tất cả khu trưng bày thực phẩm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060320Z" creationid="LanHK" creationdate="20210513T060320Z">
+        <seg>[92626]     Yêu cầu có kính che tránh hắt hơi vào tại tất cả khu trưng bày thực phẩm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92627]     Tủ đựng khay gắn sẵn, nếu cung cấp khay đựng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060327Z" creationid="LanHK" creationdate="20210513T060327Z">
+        <seg>[92627]     Tủ đựng khay tích hợp, nếu cung cấp khay đựng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92628] Không gian lưu thông đối diện khách xung quanh quầy bar ăn sáng phải tối thiểu 1,5m (5ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060414Z" creationid="LanHK" creationdate="20210513T060414Z">
+        <seg>[92628] Không gian lưu thông dành cho khách xung quanh quầy bar ăn sáng phải tối thiểu 1,5m (5ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92629]     Không cho phép thiết bị xách tay hoặc bàn phủ khăn váy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060524Z" creationid="LanHK" creationdate="20210513T060524Z">
+        <seg>[92629]     Không cho phép khu bày buffet có thể di chuyển hoặc bàn gắn khăn skirt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[92634] Cho phép sử dụng linh hoạt và thiết kế cho phép đóng và / hoặc sử dụng cho các mục đích khác</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
