@@ -8531,6 +8531,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum two types of leaves (e.g. cos, iceberg, rocket, baby spinach, lettuce) [59811] Tối thiểu hai loại lá (ví dụ: cos, xà lách búp, xà lách rocket, rau bina bé, rau xà lách)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062339Z" creationid="LanHK" creationdate="20210513T061156Z">
+        <seg>Minimum two types of leaves (e.g. cos, iceberg, rocket, baby spinach, lettuce) [59811] Tối thiểu hai loại rau lá (ví dụ: rau diếp (romaine), xà lách iceberg, xà lách rocket, rau chân vịt non, rau xà lách)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum width: 2/3 of fire stair width [335184]     Chiều rộng tối thiểu: 2/3 chiều rộng cầu thang chặn lửa</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T033259Z" creationid="Kieu Lan" creationdate="20210427T033259Z">
