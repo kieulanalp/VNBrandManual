@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, two types of jams are required and include: [59985] Tối thiểu, yêu cầu hai loại mứt và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065214Z" creationid="LanHK" creationdate="20210513T065214Z">
+        <seg>At a minimum, two types of jams are required and include: [59985] Tối thiểu, yêu cầu hai loại mứt jam và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, two types of salad dressings must be provided and include: [59823] Tối thiểu, phải cung cấp hai loại salad trộn và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062415Z" creationid="LanHK" creationdate="20210513T062415Z">
@@ -7275,6 +7283,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jam without any added sugar must be clearly labelled [65513] Lọ không có đường phải được dán nhãn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065234Z" creationid="LanHK" creationdate="20210513T065234Z">
+        <seg>Jam without any added sugar must be clearly labelled [65513] Lọ không có đường phải được dán nhãn rõ ràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jams are permitted to be in their individually commercial packaging (e.g. mini jam jars) on the buffet display [581108] Mứt được phép đóng gói thương mại cá nhân (ví dụ mứt mini/0 trên kệ buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065324Z" creationid="LanHK" creationdate="20210513T065324Z">
+        <seg>Jams are permitted to be in their individually commercial packaging (e.g. mini jam jars) on the buffet display [581108] Mứt được phép đóng gói thương mại riêng lẻ (ví dụ lọ mứt mini) trên kệ buffet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Journey within the hotel</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093256Z" creationid="LanHK" creationdate="20210405T093256Z">
@@ -9441,6 +9465,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One jam must not contain any added sugar [60196] Một lọ mứt không có thêm đường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065229Z" creationid="LanHK" creationdate="20210513T065229Z">
+        <seg>One jam must not contain any added sugar [60196] Một lọ mứt jam không có thêm đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One local or regional beer option [57333] Một loại bia địa phương hoặc khu vực</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061739Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
@@ -9453,6 +9485,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>One lounge/easy chair or sofa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One marmalade [60195] Một mứt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065220Z" creationid="LanHK" creationdate="20210513T065220Z">
+        <seg>One marmalade [60195] Một marmalade</seg>
       </tuv>
     </tu>
     <tu>
@@ -26513,6 +26553,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>•  Refer to Annexure-35 for generator/back up power selection criteria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  The same type of fruit compote or preserved fruits is permitted in several sections of the buffet [581100] Cho phép cùng loại mứt hoa quả hoặc hoa quả bảo quản trong một số phần của buffet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065205Z" creationid="LanHK" creationdate="20210513T065205Z">
+        <seg>•  The same type of fruit compote or preserved fruits is permitted in several sections of the buffet [581100] Cho phép dùng cùng loại mứt quả compote hoặc mứt quả preserves tại một số khu khác nhau của buffet</seg>
       </tuv>
     </tu>
     <tu>
