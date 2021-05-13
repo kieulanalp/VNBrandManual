@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of one and a maximum of three types of croissants must be displayed and include: [59920] Cung cấp tối thiểu một và tối đa ba loại bánh sừng bò phải và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090851Z" creationid="LanHK" creationdate="20210513T090851Z">
+        <seg>A minimum of one and a maximum of three types of croissants must be displayed and include: [59920] Cung cấp tối thiểu một và tối đa ba loại bánh sừng bò và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of one and a maximum of two types of seeds (e.g. pumpkin seeds, sunflower seeds) [60329] Tối thiểu một và tối đa hai loại hạt (ví dụ: hạt bí ngô, hạt hướng dương)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T071544Z" creationid="LanHK" creationdate="20210513T071436Z">
@@ -1114,6 +1122,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T082318Z" creationid="LanHK" creationdate="20210513T082229Z">
         <seg>A minimum of two and a maximum of four types of cold cuts must be available: [53312] Phải có tối thiểu hai và tối đa bốn loại thịt nguội với phô mai:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A minimum of two and a maximum of four types of muffins must be available and include: [59927] Phải có tối thiểu hai và tối đa bốn loại bánh nướng xốp và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090758Z" creationid="LanHK" creationdate="20210513T090758Z">
+        <seg>A minimum of two and a maximum of four types of muffins must be available and include: [59927] Phải có tối thiểu hai và tối đa bốn loại muffin và bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All breads and pastries are recommended to be baked maximum two hours before breakfast service starts [583101] Tất cả bánh mì và bánh ngọt được khuyến nghị nướng tối đa hai giờ trước khi bắt đầu dịch vụ bữa sáng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090751Z" creationid="LanHK" creationdate="20210513T090751Z">
+        <seg>All breads and pastries are recommended to be baked maximum two hours before breakfast service starts [583101] Tất cả bánh mì và bánh ngọt được khuyến nghị nướng tối đa hai giờ trước khi bắt đầu phục vụ bữa sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All buildings must be protected by a Fixed Fire Suppression System that is appropriate to the classification of fire loading in the location except: [581083]   Tất cả các tòa nhà phải được bảo vệ bởi Hệ thống chữa cháy cố định phù hợp với việc phân loại tải chống cháy ở vị trí ngoại trừ:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T024122Z" creationid="LanHK" creationdate="20210417T024122Z">
@@ -1562,6 +1586,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>All pantry/kitchen wall finishes must meet the following: [80097] Tất cả các hoàn thiện tường pantry/nhà bếp phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All pastries and bread rolls must be baked fresh daily [583099] Tất cả bánh ngọt và bánh mì bread roll phải được nướng tươi hàng ngày</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090734Z" creationid="LanHK" creationdate="20210513T090734Z">
+        <seg>All pastries and bread rolls must be baked fresh daily [583099] Tất cả bánh ngọt và bánh mì chuột phải được nướng mới hàng ngày</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2050,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062415Z" creationid="LanHK" creationdate="20210513T062415Z">
         <seg>At a minimum, two types of salad dressings must be provided and include: [59823] Tối thiểu, phải cung cấp hai loại sốt salad trộn và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least one muffin must be low fat or low calorie [59930] Ít nhất một muffin phải ít chất béo hoặc ít calo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090804Z" creationid="LanHK" creationdate="20210513T090804Z">
+        <seg>At least one muffin must be low fat or low calorie [59930] Ít nhất một muffin phải ít béo hoặc ít calo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,6 +5486,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T040534Z" creationid="LanHK" creationdate="20210513T040534Z">
         <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast -&gt; Service Expectations Bữa sáng -&gt; Kỳ vọng về dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Bakery Station Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Bữa sáng buffet -&gt; Quầy Bánh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090724Z" creationid="LanHK" creationdate="20210513T090724Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Bakery Station Bữa sáng buffet -&gt; Quầy Bánh mì</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9019,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multi grain bread [583093] Bánh mì nhiều lớp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090939Z" creationid="LanHK" creationdate="20210513T090939Z">
+        <seg>Multi grain bread [583093] Bánh mì nhiều loại hạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be appropriate to the area and the time of the day [59731] Phải phù hợp với khu vực và thời gian trong ngày</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T021418Z" creationid="LanHK" creationdate="20210513T021418Z">
@@ -9865,6 +9921,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One plain [59922] Một plain</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090909Z" creationid="LanHK" creationdate="20210513T090909Z">
+        <seg>One plain [59922] Một bánh không nhân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One regular Coca Cola or Pepsi Cola bottle or can [57326] Một chai hoặc lon Coca Cola hoặc Pepsi Cola thông thường</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061232Z" creationid="Kieu Lan" creationdate="20210510T061232Z">
@@ -9981,6 +10045,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T030026Z" creationid="LanHK" creationdate="20210405T025946Z">
         <seg>Our standards include content that may apply across the lifecycle of a hotel.&lt;t0/&gt; &lt;t1/&gt;Tiêu Chuẩn bao gồm nội dung có thể áp dụng cho  các &lt;t2/&gt;vòng đời khác nhau của một &lt;t3/&gt;khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outsourced bakeries are permitted [583100] Cho phép tiệm bánh mỳ bên ngoài</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090744Z" creationid="LanHK" creationdate="20210513T090744Z">
+        <seg>Outsourced bakeries are permitted [583100] Cho phép dùng bánh mỳ outsource bên ngoài</seg>
       </tuv>
     </tu>
     <tu>
@@ -21972,6 +22044,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[59924] Cung cấp tối thiểu hai và tối đa bốn loại bánh ngọt Đan Mạch.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090920Z" creationid="LanHK" creationdate="20210513T090920Z">
+        <seg>[59924] Cung cấp tối thiểu hai và tối đa bốn loại bánh Danish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59974] Bày biện đông lạnh sữa chua.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T085858Z" creationid="LanHK" creationdate="20210513T085858Z">
@@ -22528,6 +22608,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T042541Z" creationid="Kieu Lan" creationdate="20210510T042541Z">
         <seg>[65026] Phải được để trong tủ quần áo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65500] Bánh mì không gluten phải có sẵn theo yêu cầu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090947Z" creationid="LanHK" creationdate="20210513T090947Z">
+        <seg>[65500] Bánh mì không gluten phải có khi khách yêu cầu</seg>
       </tuv>
     </tu>
     <tu>
