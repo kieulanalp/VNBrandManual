@@ -6482,6 +6482,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holiday Inn Brand_Recommended Beverage Dispensers (as of Nov 2016) Holiday Inn Brand_Máy Pha Đồ Uống Được Đề Xuất (tính đến tháng 11/2016)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072243Z" creationid="LanHK" creationdate="20210513T072233Z">
+        <seg>Holiday Inn Brand_Recommended Beverage Dispensers (as of Nov 2016) Holiday Inn Brand_Dispenser Đồ Uống Được Khuyến nghị (tính đến tháng 11/2016)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holiday Inn Brand_Recommended Beverage Dispensers Holiday Inn Brand_Máy Pha Đồ Uống Được Đề Xuất</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T072040Z" creationid="LanHK" creationdate="20210513T072040Z">
@@ -8867,10 +8875,18 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be served in dispensers or carafes or glass jugs [60108] Phải được phục vụ trong các máy pha chế hoặc bình đựng hoặc bình thủy tinh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072132Z" creationid="LanHK" creationdate="20210513T072132Z">
+        <seg>Must be served in a dispenser, carafes or glass jugs [60108] Phải được phục vụ trong bình dispenser, bình carafe hoặc bình thủy tinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be served in either a dispenser, carafes or glass jugs [59952] Phải được phục vụ trong một bình pha, bình đựng hoặc bình thủy tinh</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T071746Z" creationid="LanHK" creationdate="20210513T071746Z">
-        <seg>Must be served in either a dispenser, carafes or glass jugs [59952] Phải được phục vụ trong một bình dispenser, bình carafe hoặc bình thủy tinh</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072139Z" creationid="LanHK" creationdate="20210513T071746Z">
+        <seg>Must be served in either a dispenser, carafes or glass jugs [59952] Phải được phục vụ trong  bình dispenser, bình carafe hoặc bình thủy tinh</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,6 +9885,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T084115Z" creationid="LanHK" creationdate="20210422T083951Z">
         <seg>Parking spaces to be a minimum of 2.4m (8ft) x 4.8m (16ft) and free from obstruction [12230] Chỗ để xe kích thước tối thiểu 2,4m x 4,8m và không có vật cản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pass around items are not permitted [60334] Không cho phép các vật phẩm pass around</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T081342Z" creationid="LanHK" creationdate="20210513T081342Z">
+        <seg>Pass around items are not permitted [60334] Không cho phép các món pass around</seg>
       </tuv>
     </tu>
     <tu>
@@ -26849,6 +26873,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>•  Refer to Annexure-35 for generator/back up power selection criteria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  The recommended dispensers are as per the attached presentation [581102] máy pha chế được đề xuất theo bản trình bày đính kèm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T072203Z" creationid="LanHK" creationdate="20210513T072203Z">
+        <seg>•  The recommended dispensers are as per the attached presentation [581102] Dispenser được khuyến nghị được trình bày trong file đính kèm</seg>
       </tuv>
     </tu>
     <tu>
