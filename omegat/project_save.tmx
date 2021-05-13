@@ -2543,6 +2543,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakfast packages must be available and include, at a minimum: [60834] gói bữa sáng phải có sẵn và bao gồm, tối thiểu:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035204Z" creationid="LanHK" creationdate="20210513T035204Z">
+        <seg>Breakfast packages must be available and include, at a minimum: [60834] Phải có package bữa sáng và bao gồm tối thiểu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>British/USA papers: The Times, The Daily Telegraph, Wall Street Journal etc [50894] tờ báo Anh/ Mỹ: The Times, The Daily Telegraph, Wall Street Journal etc</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T020745Z" creationid="LanHK" creationdate="20210513T020745Z">
@@ -5190,6 +5198,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093703Z" creationid="LanHK" creationdate="20210405T093703Z">
         <seg>Food &amp; Beverage Dịch vụ F&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Ăn sáng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035121Z" creationid="LanHK" creationdate="20210513T035121Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Bữa sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -18044,6 +18060,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[40799] Lựa chọn có giới hạn các sản phẩm F&amp;B nóng và lạnh luôn có sẵn 24 giờ một ngày, 7 ngày một tuần, với các lựa chọn để đi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035043Z" creationid="LanHK" creationdate="20210513T035043Z">
+        <seg>[40799] Một số lượng giới hạn các sản phẩm F&amp;B nóng và lạnh luôn có sẵn 24 giờ một ngày, 7 ngày một tuần, với các lựa chọn để mang đi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[40807] Phải cung cấp các thùng chứa dùng một lần để sử dụng 'to go'.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035101Z" creationid="LanHK" creationdate="20210513T035101Z">
+        <seg>[40807] Phải cung cấp hộp chứa dùng một lần để khách mang đi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[40] Thông tin chi tiết về cách xây dựng quy trình xử lý khối lượng đánh giá xã hội và phản hồi phù hợp với khách có sẵn trên Trang Merlin Global HeartBeat Initiatives.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T091633Z" creationid="LanHK" creationdate="20210415T091633Z">
@@ -24441,6 +24473,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080705Z" creationid="Kieu Lan" creationdate="20210512T080705Z">
         <seg>[92601]     Lưu đồ F&amp;B/ thiết kế tham chiếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92606] Số lượng ghế dự kiến phải được hiệu chỉnh theo mật độ phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T034951Z" creationid="LanHK" creationdate="20210513T034951Z">
+        <seg>[92606] Số lượng chỗ ngồi dự kiến phải được cân đối theo mật độ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92607]     Số ghế cuối cùng phải được IHG phê duyệt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T034959Z" creationid="LanHK" creationdate="20210513T034959Z">
+        <seg>[92607]     Số chỗ ngồi cuối cùng phải được IHG phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92608]   Tối thiểu 40% số lượng key.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T034856Z" creationid="LanHK" creationdate="20210513T034856Z">
+        <seg>[92608]   Tối thiểu 40% số key.</seg>
       </tuv>
     </tu>
     <tu>
