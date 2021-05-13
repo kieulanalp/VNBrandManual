@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of paper and a maximum of cotton mix [60338] Tối thiểu là giấy và tối đa là hỗn hợp cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040257Z" creationid="LanHK" creationdate="20210513T040257Z">
+        <seg>A minimum of paper and a maximum of cotton mix [60338] Tối thiểu là khăn giấy, tối đa là khăn pha cotton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mirror above the vanity must be provided and meet the following: [13233] Phải cung cấp một tấm gương phía trên bàn trang điểm và đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014453Z" creationid="Kieu Lan" creationdate="20210512T014453Z">
@@ -7811,6 +7819,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linen and cotton table cloths are not permitted [60364] Không cho phép khăn trải bàn cotton và vải lanh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035913Z" creationid="LanHK" creationdate="20210513T035913Z">
+        <seg>Linen and cotton table cloths are not permitted [60364] Không cho phép khăn trải bàn cotton và linen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lobby -&gt; Furniture, Finishes, Fixtures &amp; Equipment Tiền sảnh -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092623Z" creationid="LanHK" creationdate="20210426T092623Z">
@@ -10803,6 +10819,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Salt and pepper shakers are recommended [60362] Khuyến nghị các lọ rắc muối tiêu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035948Z" creationid="LanHK" creationdate="20210513T035948Z">
+        <seg>Salt and pepper shakers are recommended [60362] Khuyến nghị các lọ rắc muối và tiêu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample Instructions and Diagram Hướng dẫn và sơ đồ mẫu</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T094950Z" creationid="LanHK" creationdate="20210511T094950Z">
@@ -11831,6 +11855,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T075732Z" creationid="LanHK" creationdate="20210422T102036Z">
         <seg>Swivel tops to prevent flags from wrapping [79896]      đỉnh cột cờ có thể xoay để lá cờ không bị quấn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synthetic placemats (e.g. chilewich) are recommended [60360] Khuyến nghị vải lót tổng hợp (ví dụ chilewich)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040001Z" creationid="LanHK" creationdate="20210513T040001Z">
+        <seg>Synthetic placemats (e.g. chilewich) are recommended [60360] Khuyến nghị lót đĩa chất liệu tổng hợp (ví dụ chilewich)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20788,6 +20820,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[581050] Khuyến nghị các bao/ túi đường nhỏ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035925Z" creationid="LanHK" creationdate="20210513T035925Z">
+        <seg>[581050] Khuyến nghị dùng các gói đường nhỏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[581055] khách sạn siêu cao tầng phải có Chiến lược chữa cháy được phát triển bởi Người đủ điều kiện.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T035955Z" creationid="Kieu Lan" creationdate="20210417T035955Z">
@@ -21624,6 +21664,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032412Z" creationid="LanHK" creationdate="20210508T032412Z">
         <seg>[63834] Không cho phép cung cấp chậu cây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[63844] Cho phép vải lót tổng hợp và giấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040010Z" creationid="LanHK" creationdate="20210513T040010Z">
+        <seg>[63844] Cho phép lót đĩa chất liệu tổng hợp và giấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[63846] Cho phép khăn giấy hoặc hỗn hợp cotton.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T040019Z" creationid="LanHK" creationdate="20210513T040019Z">
+        <seg>[63846] Cho phép khăn giấy hoặc khăn pha cotton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24841,6 +24897,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T100113Z" creationid="LanHK" creationdate="20210428T100113Z">
         <seg>[95307] Để tránh làm phiền các khách khác, nhân viên chỉ nên gõ cử hoặc bấm chuông sau 09:00 và trước 21:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[95583] Không cho phép vải lót lông và vải.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035904Z" creationid="LanHK" creationdate="20210513T035904Z">
+        <seg>[95583] Không cho phép lót đĩa bằng vải và da.</seg>
       </tuv>
     </tu>
     <tu>
