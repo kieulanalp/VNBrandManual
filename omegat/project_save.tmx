@@ -6933,8 +6933,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>In the event of a fire alarm being activated, lifts must automatically go to the Designated Floor Level.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210419T105758Z" creationid="LanHK" creationdate="20210419T105758Z">
-        <seg>`In the event of a fire alarm being activated, lifts must automatically go to the Designated Floor Level.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060910Z" creationid="LanHK" creationdate="20210419T105758Z">
+        <seg>In the event of a fire alarm being activated, lifts must automatically go to the Designated Floor Level.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10131,8 +10131,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Prior to the guest’s arrival their room must be assigned.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210406T030542Z" creationid="LanHK" creationdate="20210406T030542Z">
-        <seg>`Prior to the guest’s arrival their room must be assigned.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060910Z" creationid="LanHK" creationdate="20210406T030542Z">
+        <seg>Prior to the guest’s arrival their room must be assigned.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24807,8 +24807,24 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[92634] Cho phép sử dụng linh hoạt và thiết kế cho phép đóng và / hoặc sử dụng cho các mục đích khác</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[92634] Cho phép sử dụng linh hoạt và thiết kế cho phép đóng và/hoặc sử dụng cho các mục đích khác</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T061007Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[92634] Cho phép sử dụng linh hoạt và thiết kế cho phép đóng kín và/hoặc sử dụng cho các mục đích khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92636] phần thức ăn nóng nên được đặt gần lối vào nhất từ nhà bếp để đi lại ngắn nhất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T061031Z" creationid="LanHK" creationdate="20210513T061031Z">
+        <seg>[92636] Khu thức ăn nóng nên được đặt gần nhất với lối ra vào nhà bếp để lưu thông ngắn nhất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92637] Khuyến cáo rằng thiết kế ánh sáng phản ánh bố cục của tiệc buffet và tạo điểm nhấn cho khu bày biện món ăn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T061058Z" creationid="LanHK" creationdate="20210513T061058Z">
+        <seg>[92637] Khuyến nghị thiết kế ánh sáng phản ánh bố cục của buffet và tạo điểm nhấn cho vào sự trình bày món ăn</seg>
       </tuv>
     </tu>
     <tu>
@@ -26281,6 +26297,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>•  Airlocks/weather lobbies should be sized so as to avoid both doors being triggered simultaneously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Allow flexibility of use and a design that enables it to be closed down and/or used for other purposes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T060910Z" creationid="LanHK" creationdate="20210513T060857Z">
+        <seg>•  Allow flexibility of use and a design that enables it to be closed down and/or used for other purposes.</seg>
       </tuv>
     </tu>
     <tu>
