@@ -11235,6 +11235,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signage with the following wording is recommended: "Please inform your server of any food allergies, food intolerance, dietary requirements or religious interest that you or any of your party may have" Biển báo với dòng chữ sau được khuyến nghị: "Vui lòng thông báo cho máy chủ của bạn về bất kỳ dị ứng thực phẩm, không dung nạp thực phẩm, yêu cầu ăn kiêng hoặc yêu cầu tôn giáo mà bạn hoặc bất kỳ bên nào của bạn"</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025845Z" creationid="LanHK" creationdate="20210513T025845Z">
+        <seg>Signage with the following wording is recommended: "Please inform your server of any food allergies, food intolerance, dietary requirements or religious interest that you or any of your party may have" [388072] Khuyến nghị có biển thông báo như sau: "Vui lòng thông báo với người phục vụ của bạn về bất kỳ món dị ứng hay không dung nạp, nhu cầu ăn kiêng hoặc nhu cầu tôn giáo của bạn hoặc bất kỳ người nào khác trong đoàn"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single or multiple station (interconnected) carbon monoxide detectors incorporating an alarm must be installed as follows: [56647]      máy dò carbon monoxide đơn hoặc nhiều trạm (liên kết với nhau) kết hợp với báo động phải được cài đặt như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T064010Z" creationid="LanHK" creationdate="20210419T064010Z">
@@ -17904,6 +17912,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064637Z" creationid="Kieu Lan" creationdate="20210422T064637Z">
         <seg>[385074] Vào cuối mỗi chuyến đi, tài xế phải kiểm tra liệu khách có quên hành lý và đồ dùng cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[387086] Thông tin về dị ứng và không dung nạp thực phẩm có thể được tìm thấy trong phần An toàn thực phẩm của cổng thông tin Quản lý rủi ro trên Merlin.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025642Z" creationid="LanHK" creationdate="20210513T025642Z">
+        <seg>[387086] Thông tin về dị ứng và không dung nạp thức ăn có thể xem trong mục An toàn thực phẩm của cổng thông tin Quản lý rủi ro trên Merlin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[388072]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T025650Z" creationid="LanHK" creationdate="20210513T025650Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
