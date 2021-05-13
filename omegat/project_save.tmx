@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 147)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022600Z" creationid="LanHK" creationdate="20210513T022600Z">
+        <seg>(Trang 145)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 15)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035728Z" creationid="LanHK" creationdate="20210406T035728Z">
@@ -5148,8 +5156,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; General -&gt; Service Expectations Thực phẩm và đồ uống (F&amp;B) -&gt; Chung -&gt; Mong đợi dịch vụ</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T022358Z" creationid="LanHK" creationdate="20210513T022358Z">
-        <seg>Food &amp; Beverage -&gt; General -&gt; Service Expectations Kỳ vọng dịch vụ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022402Z" creationid="LanHK" creationdate="20210513T022358Z">
+        <seg>Food &amp; Beverage -&gt; General -&gt; Service Expectations Kỳ vọng về dịch vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16051,6 +16059,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2280] nhân viên F&amp;B phải được đào tạo để hiểu tất cả các mục trong thực đơn và các thành phần chế độ ăn uống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022653Z" creationid="LanHK" creationdate="20210513T022653Z">
+        <seg>[2280] nhân viên F&amp;B phải được đào tạo để hiểu tất cả các món trong thực đơn và các thành phần dinh dưỡng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[22967]       Cung cấp tối thiểu một tay vịn treo tường.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T025324Z" creationid="Kieu Lan" creationdate="20210427T025324Z">
@@ -18120,6 +18136,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="LanHK" creationdate="20210419T071012Z">
         <seg>[476086] Bộ ngắt mạch nối đất (GFCI)/Cầu dao chống rò điện (RCD), dưới dạng cầu dao hoặc ổ cắm được bảo vệ, được yêu cầu ở các khu vực trong trong phạm vi 1m của nguồn nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[478] (Các) quầy hàng thực phẩm phải tuân thủ thời gian đóng và mở tối thiểu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022418Z" creationid="LanHK" creationdate="20210513T022418Z">
+        <seg>[478] Outlet bán đồ ăn tuân thủ thời gian đóng và mở tối thiểu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20732,6 +20756,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[59695] Bữa sáng phải tối thiểu bốn giờ trong khoảng từ 05:00 đến 12:00.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022427Z" creationid="LanHK" creationdate="20210513T022427Z">
+        <seg>[59695] Bữa sáng tối thiểu bốn tiếng trong khoảng từ 05:00 đến 12:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59696] Bữa trưa phải tối thiểu ba giờ, từ 11:00 đến 16:00.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022437Z" creationid="LanHK" creationdate="20210513T022437Z">
+        <seg>[59696] Bữa trưa tối thiểu ba tiếng, từ 11:00 đến 16:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59697] Bữa tối phải tối thiểu ba giờ, từ 17:00 đến 01:00.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022444Z" creationid="LanHK" creationdate="20210513T022444Z">
+        <seg>[59697] Bữa tối tối thiểu ba tiếng, từ 17:00 đến 01:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59698] Quầy bar phải tối thiểu năm giờ, từ 10:00 đến 03:00.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022529Z" creationid="LanHK" creationdate="20210513T022529Z">
+        <seg>[59698] Quầy bar tối thiểu năm tiếng, từ 10:00 đến 03:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59705] Luôn phục vụ bữa sáng, bữa trưa và bữa tối trong một nhà hàng trọn gói bảy ngày một tuần.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T075034Z" creationid="Kieu Lan" creationdate="20210512T075034Z">
@@ -20894,8 +20950,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[61054] Dịch vụ ăn uống trong phòng / dịch vụ phòng phải hoạt động trong 24 giờ, bảy ngày một tuần.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[61054] Dịch vụ ăn uống trong phòng/dịch vụ phòng phải hoạt động trong 24 giờ, bảy ngày một tuần.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T022553Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[61054] Dịch vụ ăn uống trong phòng/dịch vụ phòng hoạt động 24 giờ, bảy ngày một tuần.</seg>
       </tuv>
     </tu>
     <tu>
