@@ -1094,6 +1094,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of two and a maximum of four types of cold cuts must be available: [53312] Phải có tối thiểu hai và tối đa bốn loại thịt nguội với pho mát:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082318Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>A minimum of two and a maximum of four types of cold cuts must be available: [53312] Phải có tối thiểu hai và tối đa bốn loại thịt nguội với phô mai:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A minimum of two and a maximum of six types of cheeses must be displayed and include: [60231] Tối thiểu hai và tối đa sáu loại phô mai phải được bày biện và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082122Z" creationid="LanHK" creationdate="20210513T082122Z">
+        <seg>A minimum of two and a maximum of six types of cheeses must be displayed and include: [60231] Tối thiểu hai và tối đa sáu loại phô mai phải được bày và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of two and a maximum of three types of nuts (e.g. walnuts, macadamia, pecans) [60323] Tối thiểu hai và tối đa ba loại hạt (ví dụ: quả óc chó, hạt macadamia, quả hồ đào)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T071510Z" creationid="LanHK" creationdate="20210513T071347Z">
@@ -8755,6 +8771,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum one [583069] Tối thiểu một pho mát vỏ trắng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082258Z" creationid="LanHK" creationdate="20210513T082142Z">
+        <seg>Minimum one white rind cheese [583069] Tối thiểu một phô mai vỏ trắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum one hard cheese [583070] Tối thiểu một pho mát cứng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082304Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>Minimum one hard cheese [583070] Tối thiểu một phô mai cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum one hard cheese [587069] Tối thiểu một pho mát cứng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082331Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>Minimum one hard cheese [587069] Tối thiểu một phô mai cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum one white rind cheese [587068] Tối thiểu một pho mát vỏ trắng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082326Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>Minimum one white rind cheese [587068] Tối thiểu một phô mai vỏ trắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum size: 18cm (D) x 25cm (H) (7.2in x 10in) [8419]       Kích thước tối thiểu: 18cm (D) x 25cm (H) (7.2in x 10in)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T015223Z" creationid="LanHK" creationdate="20210508T015223Z">
@@ -13271,6 +13319,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Two robe/towel hooks in the drying area [92582]     Hai móc khăn tắm/áo tắm trong khu vực sấy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two types of cold cuts [584061] Hai loại thịt nguội với pho mát (cold cuts)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082312Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>Two types of cold cuts [584061] Hai loại thịt nguội với phô mai (cold cuts)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21832,6 +21888,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070433Z" creationid="LanHK" creationdate="20210513T070433Z">
         <seg>[60228] Cho phép bổ sung thêm các loại sốt cho mỗi buffet theo thông lệ ở vùng đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60234] Phải bày tối thiểu hai và tối đa bốn loại thịt nguội với pho mát (cold cuts)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082254Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>[60234] Phải bày tối thiểu hai và tối đa bốn loại thịt nguội với phô mai (cold cuts)</seg>
       </tuv>
     </tu>
     <tu>
