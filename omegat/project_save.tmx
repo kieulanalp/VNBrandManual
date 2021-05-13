@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All guests must be escorted to their table at every full service restaurant [60384] Tất cả khách phải được hộ tống đến bàn của họ tại tất cả nhà hàng phục vụ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023028Z" creationid="LanHK" creationdate="20210513T023028Z">
+        <seg>All guests must be escorted to their table at every full service restaurant [60384] Tất cả khách phải được hộ tống đến bàn của họ tại tất cả nhà hàng full service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All hotel social media pages must be reviewed for guest comments and any guest questions or concerns must be addressed within 48 hours [794069] Tất cả các trang truyền thông xã hội của khách sạn phải được xem xét các phản hồi của khách và mọi thắc mắc hoặc câu hỏi của khách phải được giải quyết trong vòng 48 giờ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T091032Z" creationid="LanHK" creationdate="20210415T091032Z">
@@ -16911,6 +16919,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T023303Z" creationid="Kieu Lan" creationdate="20210422T023303Z">
         <seg>[300050] Đào tạo về Thực đơn miễn phí cho trẻ em phải được hoàn thành bởi tất cả các nhân viên F&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[300052] Trẻ em phải được chào đón riêng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023020Z" creationid="LanHK" creationdate="20210513T023020Z">
+        <seg>[300052] Từng trẻ em đều phải được chào riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[300054] Nên hướng dẫn trẻ trực tiếp tại khu vực ăn uống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023053Z" creationid="LanHK" creationdate="20210513T023053Z">
+        <seg>[300054] Nên giao tiếp trực tiếp với trẻ trong khu vực ăn uống.</seg>
       </tuv>
     </tu>
     <tu>
