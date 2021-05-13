@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acrylic sugar bowl or container is not permitted [60346] Không cho phép bát hoặc hộp đựng đường acrylic</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035721Z" creationid="LanHK" creationdate="20210513T035721Z">
+        <seg>Acrylic sugar bowl or container is not permitted [60346] Không cho phép bát hoặc hộp đựng đường bằng acrylic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activity table is permitted to replace standard desk / work zone, subject to IHG approval.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11699,6 +11707,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sugar bowl/container [98424] Bát/ chai đường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035601Z" creationid="LanHK" creationdate="20210513T035601Z">
+        <seg>Sugar bowl/container [98424] Bát/hộp đựng đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suites&lt;t0/&gt; &lt;t1/&gt;Phòng Suites</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T073109Z" creationid="Kieu Lan" creationdate="20210331T073109Z">
@@ -11863,6 +11879,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T012312Z" creationid="LanHK" creationdate="20210417T012312Z">
         <seg>System hard-wired detectors connected to the fire panel are required in the following areas: [56347 Đầu báo có dây được kết nối với bảng điiều khiển báo cháy được yêu cầu trong các khu vực sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table top set up must include: [60342] Mặt bàn phải có:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035544Z" creationid="LanHK" creationdate="20210513T035544Z">
+        <seg>Table top set up must include: [60342] Trên mặt bàn phải có:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12527,6 +12551,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T092911Z" creationid="LanHK" creationdate="20210415T092911Z">
         <seg>Toll free CRO numbers Số điện thoại CRO miễn phí https://www.ihg.com/content/gb/en/customer-care/contact-us.wwr_offices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toothpicks must be individually wrapped, available on request and not pre-set on the table [60353] Tăm xỉa răng phải được bọc riêng, có sẵn theo yêu cầu và không được đặt sẵn trên bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035710Z" creationid="LanHK" creationdate="20210513T035710Z">
+        <seg>Toothpicks must be individually wrapped, available on request and not pre-set on the table [60353] Tăm xỉa răng phải được gói riêng lẻ, được cung cấp theo yêu cầu và không được đặt sẵn trên bàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -21240,6 +21272,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[60318] Cà phê/trà tự phục vụ phải có trong tiệc buffet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60345] Không cho phép mứt và mật ong được đóng gói thương mại vào lọ thủy tinh điều chỉnh lượng cân riêng lẻ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035651Z" creationid="LanHK" creationdate="20210513T035651Z">
+        <seg>[60345] Không cho phép dùng mứt và mật ong được đóng gói thương mại vào lọ thủy tinh nhỏ chứa khẩu phần được kiểm soát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60349] Không cho phép các vòm bơ đông lạnh cá nhân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035846Z" creationid="LanHK" creationdate="20210513T035846Z">
+        <seg>[60349] Không cho phép có khay đựng bơ đông lạnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60350] Hộp đựng/ xay muối và tiêu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T035553Z" creationid="LanHK" creationdate="20210513T035553Z">
+        <seg>[60350] Lọ đựng/ lọ xay muối và tiêu</seg>
       </tuv>
     </tu>
     <tu>
