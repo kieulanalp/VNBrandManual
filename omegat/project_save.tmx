@@ -8779,6 +8779,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum one fruit flavored [59970] Tối thiểu một loại hương vị trái cây</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082611Z" creationid="LanHK" creationdate="20210513T082611Z">
+        <seg>Minimum one fruit flavored [59970] Tối thiểu một loại hương trái cây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum one hard cheese [583070] Tối thiểu một pho mát cứng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T082304Z" creationid="LanHK" creationdate="20210513T082229Z">
@@ -9269,6 +9277,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T073500Z" creationid="Kieu Lan" creationdate="20210422T073500Z">
         <seg>National [101896] Quốc kỳ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Natural unsweetened yoghurt [59969] Sữa chua không đường tự nhiên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082602Z" creationid="LanHK" creationdate="20210513T082602Z">
+        <seg>Natural unsweetened yoghurt [59969] Sữa chua tự nhiên không đường</seg>
       </tuv>
     </tu>
     <tu>
@@ -21832,6 +21848,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T081623Z" creationid="LanHK" creationdate="20210513T081416Z">
         <seg>[59884] Phải cung cấp một món cá nguội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59974] Bày biện đông lạnh sữa chua.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T085858Z" creationid="LanHK" creationdate="20210513T085858Z">
+        <seg>[59974] Sữa chua được giữ lạnh khi bày.</seg>
       </tuv>
     </tu>
     <tu>
