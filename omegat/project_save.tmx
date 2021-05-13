@@ -7309,8 +7309,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Khách phải được thông báo về việc Truy cập Internet miễn phí tại khách sạn và Chương trình Trẻ em ăn uống miễn phí.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210424T021051Z" creationid="LanHK" creationdate="20210424T021044Z">
-        <seg>[2505] Khách phải được thông báo về việc Truy cập Internet miễn phí và Chương trình Trẻ em ăn uống miễn phí tại khách sạn.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023855Z" creationid="LanHK" creationdate="20210424T021044Z">
+        <seg>[2505] Khách phải được thông báo về việc Truy cập Internet miễn phí và Chương trình Trẻ em Lưu trú &amp; Ăn uống miễn phí tại khách sạn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12541,8 +12541,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Trẻ em từ 12 tuổi trở xuống chỉ được ăn miễn phí khi chúng chọn các bữa ăn trong thực đơn Ăn miễn phí cho trẻ em.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210416T013403Z" creationid="LanHK" creationdate="20210416T013403Z">
-        <seg>Trẻ em từ 12 tuổi trở xuống chỉ được ăn miễn phí khi chọn các bữa ăn trong thực đơn Ăn miễn phí cho trẻ em.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023811Z" creationid="LanHK" creationdate="20210416T013403Z">
+        <seg>Trẻ em từ 12 tuổi trở xuống chỉ được ăn miễn phí khi chọn các bữa ăn trong thực đơn Kids Eat Free.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16259,6 +16259,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2492] Luôn có một thực đơn miễn phí cho trẻ trong tất cả các bữa ăn tại nhà hàng chính</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023719Z" creationid="LanHK" creationdate="20210513T023719Z">
+        <seg>[2492] Luôn có một thực đơn Kids Eat Free trong tất cả các bữa ăn tại nhà hàng chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[2502] nhân viên phải hỏi khách xem họ đã ở khách sạn trước nếu chưa biết.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T020933Z" creationid="LanHK" creationdate="20210424T020933Z">
@@ -16285,8 +16293,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[2507] nhân viên nên dự đoán các câu hỏi của khách và đề xuất các dịch vụ phù hợp, ví dụ: làm nổi bật các dịch vụ kinh doanh cho khách doanh nhân hoặc chương trình Ưu đãi trẻ em ăn uống miễn phí cho khách có trẻ em.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210424T021227Z" creationid="LanHK" creationdate="20210424T021227Z">
-        <seg>[2507] nhân viên nên đón ý các câu hỏi của khách và đề xuất các dịch vụ phù hợp, ví dụ: làm nổi bật các dịch vụ kinh doanh cho khách doanh nhân hoặc chương trình Ưu đãi trẻ em ăn uống miễn phí cho khách có trẻ nhỏ.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023912Z" creationid="LanHK" creationdate="20210424T021227Z">
+        <seg>[2507] nhân viên nên đón ý các câu hỏi của khách và đề xuất các dịch vụ phù hợp, ví dụ: làm nổi bật các dịch vụ kinh doanh cho khách doanh nhân hoặc chương trình Ưu đãi trẻ em lưu trú và ăn uống miễn phí cho khách có trẻ nhỏ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16933,8 +16941,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[300050] Đào tạo thực đơn miễn phí cho trẻ em phải được hoàn thành bởi tất cả các nhân viên F&amp;B.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T023303Z" creationid="Kieu Lan" creationdate="20210422T023303Z">
-        <seg>[300050] Đào tạo về Thực đơn miễn phí cho trẻ em phải được hoàn thành bởi tất cả các nhân viên F&amp;B.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023837Z" creationid="Kieu Lan" creationdate="20210422T023303Z">
+        <seg>[300050] Đào tạo về Thực đơn Kids Eat Free phải được hoàn thành bởi tất cả các nhân viên F&amp;B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17856,6 +17864,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T084954Z" creationid="LanHK" creationdate="20210511T084954Z">
         <seg>[413048]      Điện thoại bàn được khuyến nghị là loại hand-free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[41582] Phải dùng mẫu thực đơn miễn phí cho trẻ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T023748Z" creationid="LanHK" creationdate="20210513T023748Z">
+        <seg>[41582] Phải dùng template của thực đơn Kids Eat Free Kids Eat Free .</seg>
       </tuv>
     </tu>
     <tu>
