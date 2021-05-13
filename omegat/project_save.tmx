@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Day Dining  restaurant must meet the following: [102723] Nhà hàng All Day Dining phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T034800Z" creationid="LanHK" creationdate="20210513T034800Z">
+        <seg>All Day Dining restaurant must meet the following: [102723] Nhà hàng All Day Dining phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Fire Rated Doors except for service riser and/or connecting guest room doors must be equipped with automatic door closers to ensure latching.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T070233Z" creationid="LanHK" creationdate="20210505T070226Z">
@@ -5182,6 +5190,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093703Z" creationid="LanHK" creationdate="20210405T093703Z">
         <seg>Food &amp; Beverage Dịch vụ F&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T030345Z" creationid="LanHK" creationdate="20210513T030345Z">
+        <seg>Food &amp; Beverage -&gt; Dining Ăn uống</seg>
       </tuv>
     </tu>
     <tu>
