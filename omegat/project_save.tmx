@@ -10082,6 +10082,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended to have one for each of the key customer groups [50893] Đề xuất có một cho mỗi nhóm khách hàng quan trọng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T020725Z" creationid="LanHK" creationdate="20210513T020725Z">
+        <seg>Recommended to have one for each of the key customer groups [50893] Đề xuất có một báo cho mỗi nhóm khách hàng quan trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Record / as-built drawings of all systems [322294]     Hồ sơ/ các bản vẽ thi công của tất cả các hệ thống.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
