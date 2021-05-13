@@ -16267,6 +16267,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[117044]      Không cho phép ghế bành.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T094009Z" creationid="LanHK" creationdate="20210513T094009Z">
+        <seg>[117044]      Không cho phép ghế có tay vịn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[1217] Phải cung cấp một giá hành lý.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090930Z" creationid="LanHK" creationdate="20210511T090930Z">
@@ -19048,6 +19056,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T025237Z" creationid="Kieu Lan" creationdate="20210427T025237Z">
         <seg>[39446] Không được cung cấp thùng rác hoặc thùng rác gắn liền gạt tàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[39998]       Hỗn hợp các bàn 2 đỉnh và 4 đỉnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093949Z" creationid="LanHK" creationdate="20210513T093949Z">
+        <seg>[39998]       Bao gồm cả các bàn cho 2 và 4 người</seg>
       </tuv>
     </tu>
     <tu>
