@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of six and a maximum of ten types of hot dishes must be displayed and include: [59848] Tối thiểu sáu và tối đa mười loại đồ nóng phải được bày biện và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090211Z" creationid="LanHK" creationdate="20210513T090211Z">
+        <seg>A minimum of six and a maximum of ten types of hot dishes must be displayed and include: [59848] Tối thiểu sáu và tối đa mười món nóng phải được bày và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of six ingredients must be available for omelettes [581094] Tối thiểu sáu thành phần phải có sẵn cho món trứng tráng ốp lết</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070838Z" creationid="LanHK" creationdate="20210513T070838Z">
@@ -2202,6 +2210,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T032715Z" creationid="Kieu Lan" creationdate="20210510T031408Z">
         <seg>Baffled Box Feather Bed [8544]       Nhồi lông vũ, chần hình hộp vuông (baffle box)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Baked beans [583081] Đậu nướng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090112Z" creationid="LanHK" creationdate="20210513T090112Z">
+        <seg>Baked beans [583081] hạt đậu nướng</seg>
       </tuv>
     </tu>
     <tu>
@@ -4196,6 +4212,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T090208Z" creationid="LanHK" creationdate="20210510T090208Z">
         <seg>Directory of Services folder [98651] Danh Mục Dịch Vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dishes consisting of several variations should be considered as one dish e.g. a variety of dim sum (har gow, siu mai), a range of sushi or chinese congee with its necessary condiments [67296] món ăn bao gồm một số biến thể nên được coi là một món ăn, ví dụ: nhiều loại dim sum (har gow, siu mai), các loại sushi hoặc cháo Trung Quốc với gia vị cần thiết của nó</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090347Z" creationid="LanHK" creationdate="20210513T090347Z">
+        <seg>Dishes consisting of several variations should be considered as one dish e.g. a variety of dim sum (har gow, siu mai), a range of sushi or chinese congee with its necessary condiments [67296] món ăn bao gồm nhiều biến thể nên được coi là một món, ví dụ: các loại dim sum (há cảo, xíu mại), các loại sushi hoặc cháo Trung Quốc với gia vị cần thiết của nó</seg>
       </tuv>
     </tu>
     <tu>
@@ -7411,6 +7435,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended for the above items to be on rotation [583082] cật phẩm trên được khuyến nghị luân chuyển</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090138Z" creationid="LanHK" creationdate="20210513T090138Z">
+        <seg>It is recommended for the above items to be on rotation [583082] Khuyến nghị phục vụ luân chuyển các món trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended for the breakfast buffet /individual dishes to be stocked, at a minimum of one third full at the end of the advertised breakfast service time [578056] Khuyến nghị cho bữa sáng tự chọn / các món ăn riêng lẻ đặt ra, tối thiểu là một phần ba đầy đủ vào cuối thời gian phục vụ bữa sáng được báo trước</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080424Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -8823,6 +8855,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T082331Z" creationid="LanHK" creationdate="20210513T082229Z">
         <seg>Minimum one hard cheese [587069] Tối thiểu một phô mai cứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum one starch [583088] Tối thiểu một đồ tinh bột</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090218Z" creationid="LanHK" creationdate="20210513T090218Z">
+        <seg>Minimum one starch [583088] Tối thiểu một món tinh bột</seg>
       </tuv>
     </tu>
     <tu>
@@ -13711,6 +13751,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Variation agreed by/sign off documentation [338052]     Hồ sơ kí kết/ phê duyệt thay đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variations of bacon should be considered as one dish [583083] Biến thể của thịt xông khói nên được coi là một món ăn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090151Z" creationid="LanHK" creationdate="20210513T090151Z">
+        <seg>Variations of bacon should be considered as one dish [583083] Biến thể của thịt xông khói nên được coi là một món</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variations of sausage should be considered as one dish [583084] Biến thể của xúc xích nên được coi là một món ăn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090158Z" creationid="LanHK" creationdate="20210513T090158Z">
+        <seg>Variations of sausage should be considered as one dish [583084] Biến thể của xúc xích nên được coi là một món</seg>
       </tuv>
     </tu>
     <tu>
