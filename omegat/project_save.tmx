@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 153)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070337Z" creationid="LanHK" creationdate="20210513T070337Z">
+        <seg>(Trang 151)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -21116,6 +21124,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[583049] Đồ gia vị được phép đựng trong các chai thương mại chính thức.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070255Z" creationid="LanHK" creationdate="20210513T070245Z">
+        <seg>[583049] Đồ gia vị được phép đựng trong các chai bao bì thương mại ban đầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[583050] Nếu đồ gia vị đựng trong chai đóng kiểu thương mại ban đầu, không yêu cầu thẻ thực phẩm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070330Z" creationid="LanHK" creationdate="20210513T070330Z">
+        <seg>[583050] Nếu gia vị đựng trong chai bao bì thương mại ban đầu, không yêu cầu tag món.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58390] Phải phối hợp với thiết kế nội thất liền kề.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T025054Z" creationid="Kieu Lan" creationdate="20210427T025041Z">
@@ -21544,6 +21568,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T043422Z" creationid="Kieu Lan" creationdate="20210422T043422Z">
         <seg>[60124] Nước đóng chai từ 200ml đến 600ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60217] Nếu đồ gia vị đựng trong lọ, nên đựng đầy ít nhất một nửa lọ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070542Z" creationid="LanHK" creationdate="20210513T070542Z">
+        <seg>[60217] Phải có bơ và bơ thực vật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60228] Cho phép các loại sốt bổ sung cho mỗi đề xuất buffet khu vực.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070433Z" creationid="LanHK" creationdate="20210513T070433Z">
+        <seg>[60228] Cho phép bổ sung thêm các loại sốt cho mỗi buffet theo thông lệ ở vùng đó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22608,6 +22648,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T085801Z" creationid="LanHK" creationdate="20210415T085500Z">
         <seg>[719048] Tất cả các tuyên bố trong quảng cáo phải có bằng chứng xác thực trên trang web độc lập của khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[71995]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070514Z" creationid="LanHK" creationdate="20210513T070514Z">
+        <seg>[71995] Nếu gia vị đựng trong hộp chứa, hộp phải đầy tối thiểu một nửa</seg>
       </tuv>
     </tu>
     <tu>
