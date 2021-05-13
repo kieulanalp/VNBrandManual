@@ -16765,8 +16765,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[300065] Thìa và dĩa nên có lớp phủ mềm, thiết kế công thái học, thiết kế kiểu rocking đế nặng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210512T095337Z" creationid="LanHK" creationdate="20210512T095337Z">
-        <seg>[300065] Thìa và dĩa nên có lớp phủ mềm, thiết kế dễ cầm nắm, thiết kế chống đổ thức ăn.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T011829Z" creationid="LanHK" creationdate="20210512T095337Z">
+        <seg>[300065] Thìa và dĩa nên có lớp bọc mềm, thiết kế dễ cầm nắm, thiết kế chống đổ thức ăn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16798,8 +16798,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế công thái học, thiết kế kiểu rocking đế nặng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210512T095151Z" creationid="Kieu Lan" creationdate="20210512T084125Z">
-        <seg>[304059] Thìa và dĩa nên có lớp phủ mềm, thiết kế dễ cầm nắm, thiết kế chống đổ thức ăn.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T011834Z" creationid="Kieu Lan" creationdate="20210512T084125Z">
+        <seg>[304059] Thìa và dĩa nên có lớp bọc mềm, thiết kế dễ cầm nắm, thiết kế chống đổ thức ăn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16848,6 +16848,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210512T095209Z" creationid="LanHK" creationdate="20210512T095209Z">
         <seg>[307049] Khuyến nghị chọn dao dĩa trẻ em chịu nhiệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[307050] Dao dĩa trẻ em nên chịu nhiệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T011848Z" creationid="LanHK" creationdate="20210513T011848Z">
+        <seg>[307050] Khuyến nghị chọn dao dĩa trẻ em chịu nhiệt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18232,6 +18240,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T101120Z" creationid="LanHK" creationdate="20210416T101120Z">
         <seg>[513057] Khi các đầu báo nhiệt cục bộ có dây đến hạn thay thế khi hết tuổi thọ, phải được thay thế bằng đầu báo khói, không bao gồm các khách sạn Xây mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[522] Luôn có sẵn các chất liệu hoạt động của trẻ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T011932Z" creationid="LanHK" creationdate="20210513T011932Z">
+        <seg>[522] Luôn có sẵn hoạt động giải trí cho trẻ (tranh ảnh sách vở tô màu...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22320,6 +22336,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T103348Z" creationid="LanHK" creationdate="20210511T103348Z">
         <seg>[78350]   Trên các tầng hút thuốc và không hút thuốc, phải cung cấp biển báo ở khu vực sảnh thang máy hoặc bên ngoài mỗi cửa phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[7850] Khi trẻ em ngồi vào bàn ăn, phải cung cấp miếng vải lót dĩa cho trẻ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T015222Z" creationid="LanHK" creationdate="20210513T015222Z">
+        <seg>[7850] Khi trẻ em vào bàn ăn, phải cung cấp bộ hoạt động giải trí cho trẻ.</seg>
       </tuv>
     </tu>
     <tu>
