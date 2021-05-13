@@ -4401,6 +4401,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Egg menu must be displayed at the live cooking egg station [195048] Thực đơn trứng phải để tại quầy chế biến trứng trực tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070928Z" creationid="LanHK" creationdate="20210513T070928Z">
+        <seg>Egg menu must be displayed at the live cooking egg station [195048] Thực đơn món trứng phải để tại quầy món trứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Egress / escape stair door width must meet the following: [335183] Chiều rộng cầu thang thoát hiểm / lối thoát phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T033251Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -6802,6 +6810,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IHG Frontline - Recipes for Egg Dishes IHG Frontline – Công Thức Cho Món Trứng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071106Z" creationid="LanHK" creationdate="20210513T071106Z">
+        <seg>IHG Frontline - Recipes for Egg Dishes IHG Frontline – Công Thức Món Trứng (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IHG Frontline Tiền tuyến IHG</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T014519Z" creationid="Kieu Lan" creationdate="20210420T014519Z">
@@ -7319,6 +7335,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>It is recommended to screen the sleeping area from the living/working area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended to use fresh eggs [195053] Đề xuất sử dụng trứng tươi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070958Z" creationid="LanHK" creationdate="20210513T070958Z">
+        <seg>It is recommended to use fresh eggs [195053] Khuyến nghị sử dụng trứng tươi</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10646,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T135155Z" creationid="Kieu Lan" creationdate="20210423T134136Z">
         <seg>Một số loại cây: Red Gnome Siberian Dogwood Summer, Nordic Inkberry Holly, Red Gnome Siberian Dogwood Winter, Compact Inkberry Holly, Ornamental Grass, Shamrock Holly hoặc Siberian Pearls Dogwood [266062]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to IHG Frontline Egg Recipes [196062] Tham chiếu Bí quyết trứng của IHG Frontline</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071102Z" creationid="LanHK" creationdate="20210513T071102Z">
+        <seg>Refer to IHG Frontline Egg Recipes [196062] Tham chiếu Công thức món trứng IHG Frontline</seg>
       </tuv>
     </tu>
     <tu>
@@ -16347,6 +16379,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[195052] Trứng ốp lết tiêu chuẩn dùng ba quả trứng hoặc 150ml trứng lỏng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070944Z" creationid="LanHK" creationdate="20210513T070944Z">
+        <seg>[195052] Omelette tiêu chuẩn dùng ba quả trứng hoặc 150ml trứng lỏng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[196059] Có thể đặt thêm các biển báo tái sử dụng khăn trên mặt bàn hoặc tường.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T071226Z" creationid="Kieu Lan" creationdate="20210512T071226Z">
@@ -21588,6 +21628,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[59803]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070852Z" creationid="LanHK" creationdate="20210513T070852Z">
+        <seg>[59803] phải có omelette lòng trắng trứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59977] Phải cùng kích thước và phong cách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T040331Z" creationid="LanHK" creationdate="20210513T040331Z">
@@ -25777,6 +25825,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T063812Z" creationid="LanHK" creationdate="20210423T063812Z">
         <seg>[98399]       Phải được dán theo chiều ngang trên toàn bộ chiều rộng của tất cả các tấm cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[98423] Cho phép phục vụ trứng luộc cứng và trứng cuộn trong buffet.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T071158Z" creationid="LanHK" creationdate="20210513T071158Z">
+        <seg>[98423] Chỉ cho phép phục vụ trứng luộc chín và trứng bác trên quầy buffet.</seg>
       </tuv>
     </tu>
     <tu>
