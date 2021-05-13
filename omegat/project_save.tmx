@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 157)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T091912Z" creationid="LanHK" creationdate="20210513T091912Z">
+        <seg>(Trang 155)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -906,6 +914,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>A Property Improvement Plan (PIP) or Property Report, provided by IHG, will be required for all existing properties undergoing the following license/contract actions: [21253] Kế hoạch cải thiện tòa nhà (PIP) hoặc Báo cáo tòa nhà, do IHG cung cấp, sẽ bắt buộc cho tất cả các tòa nhà hiện có trải qua việc cấp phép/hợp đồng sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Signature juice that includes a minimum of one vegetable on a rotational basis is recommended Khuyến nghị nước ép đặc trưng bao gồm tối thiểu một loại rau luân phiên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T091948Z" creationid="LanHK" creationdate="20210513T091948Z">
+        <seg>A Signature juice that includes a minimum of one vegetable on a rotational basis is recommended [583105] Khuyến nghị nước ép Đặc trưng bao gồm tối thiểu một loại rau được thay đổi luân phiên</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,10 +2046,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, four types of fresh cut fruit are required and include: [59760] Tối thiểu, yêu cầu bốn loại trái cây tươi và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092038Z" creationid="LanHK" creationdate="20210513T092038Z">
+        <seg>At a minimum, four types of fresh cut fruit are required and include: [59760] Tối thiểu, yêu cầu bốn loại trái cây tươi cắt sẵn và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, three types of spreads are required and include: [67495] Tối thiểu, yêu cầu ba phết bánh và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T065343Z" creationid="LanHK" creationdate="20210513T065343Z">
         <seg>At a minimum, three types of spreads are required and include: [67495] Tối thiểu, yêu cầu ba loại phết bánh mì và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, three types of whole fruits must be available and include: [59780] Tối thiểu, luôn có ba loại trái cây và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092033Z" creationid="LanHK" creationdate="20210513T092033Z">
+        <seg>At a minimum, three types of whole fruits must be available and include: [59780] Tối thiểu, luôn có ba loại trái cây nguyên quả và bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9857,6 +9889,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One citrus [581067] Một quả cam</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092136Z" creationid="LanHK" creationdate="20210513T092000Z">
+        <seg>One citrus [581067] Một quả thuộc chi cam chanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One citrus [59769] Một quả cam</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092120Z" creationid="LanHK" creationdate="20210513T092045Z">
+        <seg>One citrus [59769] Một quả thuộc chi cam chanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One clothes rail must be installed at an accessible height: [39744] Một thanh treo quần áo phải được cài đặt ở độ cao cho người khuyết tật:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T023829Z" creationid="LanHK" creationdate="20210508T023829Z">
@@ -9877,6 +9925,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T035448Z" creationid="LanHK" creationdate="20210513T035427Z">
         <seg>One each: fork, knife and dessert spoon [60370] Mỗi khách có: dĩa, dao và thìa tráng miệng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One fresh fruit salad must be displayed with no added sugar [59773] Một món salad trái cây tươi phải được bày biện và không thêm đường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092151Z" creationid="LanHK" creationdate="20210513T092151Z">
+        <seg>One fresh fruit salad must be displayed with no added sugar [59773] Một món salad trái cây tươi phải được bày và không thêm đường</seg>
       </tuv>
     </tu>
     <tu>
@@ -9909,6 +9965,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T065220Z" creationid="LanHK" creationdate="20210513T065220Z">
         <seg>One marmalade [60195] Một marmalade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One melon [59768] Một quả dưa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092042Z" creationid="LanHK" creationdate="20210513T092042Z">
+        <seg>One melon [59768] Một quả họ dưa</seg>
       </tuv>
     </tu>
     <tu>
@@ -18964,6 +19028,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[422053] Khuyến nghị máy pha</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T091921Z" creationid="LanHK" creationdate="20210513T091921Z">
+        <seg>[422053] Khuyến nghị dùng dispenser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[42276] Thông tin khách được yêu cầu bao gồm các mẫu Đơn đăng ký IHG® Rewards Club và thông tin Thực phẩm &amp; Đồ uống địa phương phải được dễ truy cập bởi các nhân viên của Quầy lễ tân, không được trưng ra.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T015546Z" creationid="Kieu Lan" creationdate="20210426T015429Z">
@@ -21660,6 +21732,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[583105]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T091927Z" creationid="LanHK" creationdate="20210513T091927Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58390] Phải phối hợp với thiết kế nội thất liền kề.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T025054Z" creationid="Kieu Lan" creationdate="20210427T025041Z">
@@ -22232,6 +22312,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T105510Z" creationid="LanHK" creationdate="20210419T105510Z">
         <seg>[606050]      Ánh sáng trong phòng máy bán hàng tự động và phòng giặt luôn phải bật hoặc phải tự động bật khi khách vào phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[606053] Yêu cầu một quầy nước trái cây vào bữa sáng all day dining</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T092204Z" creationid="LanHK" creationdate="20210513T092204Z">
+        <seg>[606053] Yêu cầu một quầy nước trái cây trong bữa sáng all day dining</seg>
       </tuv>
     </tu>
     <tu>
