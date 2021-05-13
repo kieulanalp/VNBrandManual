@@ -4218,8 +4218,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Dishes consisting of several variations should be considered as one dish e.g. a variety of dim sum (har gow, siu mai), a range of sushi or chinese congee with its necessary condiments [67296] món ăn bao gồm một số biến thể nên được coi là một món ăn, ví dụ: nhiều loại dim sum (har gow, siu mai), các loại sushi hoặc cháo Trung Quốc với gia vị cần thiết của nó</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T090347Z" creationid="LanHK" creationdate="20210513T090347Z">
-        <seg>Dishes consisting of several variations should be considered as one dish e.g. a variety of dim sum (har gow, siu mai), a range of sushi or chinese congee with its necessary condiments [67296] món ăn bao gồm nhiều biến thể nên được coi là một món, ví dụ: các loại dim sum (há cảo, xíu mại), các loại sushi hoặc cháo Trung Quốc với gia vị cần thiết của nó</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090355Z" creationid="LanHK" creationdate="20210513T090347Z">
+        <seg>Dishes consisting of several variations should be considered as one dish e.g. a variety of dim sum (har gow, siu mai), a range of sushi or chinese congee with its necessary condiments [67296] món ăn bao gồm nhiều biến thể nên được coi là một món, ví dụ: các loại dim sum (há cảo, xíu mại), các loại sushi hoặc cháo Trung Quốc với gia vị đi kèm</seg>
       </tuv>
     </tu>
     <tu>
@@ -8475,6 +8475,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maple Syrup [61607]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090711Z" creationid="LanHK" creationdate="20210513T090711Z">
+        <seg>Maple Syrup [61607] Xi rô lá phong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marked to indicate lanes and parking spaces, with a paint manufactured for traffic use, or a change in surface materials [12229] Được đánh dấu để chỉ làn đường và khu đỗ xe, bằng sơn được sản xuất để sử dụng cho giao thông hoặc thay đổi vật liệu bề mặt</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T084541Z" creationid="LanHK" creationdate="20210422T084541Z">
@@ -8831,6 +8839,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T082258Z" creationid="LanHK" creationdate="20210513T082142Z">
         <seg>Minimum one white rind cheese [583069] Tối thiểu một phô mai vỏ trắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum one berry compote [59873] Tối thiểu mứt hoa quả</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090556Z" creationid="LanHK" creationdate="20210513T090556Z">
+        <seg>Minimum one berry compote [59873] Tối thiểu một compote từ dâu</seg>
       </tuv>
     </tu>
     <tu>
@@ -14407,6 +14423,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T091322Z" creationid="Kieu Lan" creationdate="20210427T091322Z">
         <seg>Where nosings are installed they must be flush and securely fastened [15677] Nếu lắp bọc mép bậc cầu thang, chúng phải phẳng và được cố định chắc chắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where pancakes or waffles are offered, a minimum of two and a maximum of four condiments must include: [59872] Trường hợp cung cấp bánh kếp hoặc bánh quế, tối thiểu hai và tối đa bốn gia vị phải bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090546Z" creationid="LanHK" creationdate="20210513T090546Z">
+        <seg>Where pancakes or waffles are offered, a minimum of two and a maximum of four condiments must include: [59872] Trường hợp cung cấp bánh kếp hoặc bánh quế, tối thiểu hai và tối đa bốn gia vị phải được cung cấp và bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22516,6 +22540,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[65660] Khi cung cấp bánh kếp và bánh quế, chúng phải được phục vụ nóng trong lò điện hoặc dưới đèn nhiệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090412Z" creationid="LanHK" creationdate="20210513T090412Z">
+        <seg>[65660] Khi cung cấp bánh kếp và bánh quế, chúng phải được phục vụ nóng trong lò điện hoặc bày dưới đèn giữ nhiệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[65672] Bắt buộc có máy pha cà phê / trà tự phục vụ</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -25749,6 +25781,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[95715] Bánh quế và bánh kếp phải được thay thế bằng sản phẩm tươi cứ sau 30 phút</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090424Z" creationid="LanHK" creationdate="20210513T090424Z">
+        <seg>[95715] Bánh quế và bánh kếp phải được thay thế bằng bánh mới sau mỗi 30 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[957]  Không cho phép ghế ngả.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T091121Z" creationid="LanHK" creationdate="20210510T091121Z">
@@ -26985,6 +27025,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T060910Z" creationid="LanHK" creationdate="20210513T060857Z">
         <seg>•  Allow flexibility of use and a design that enables it to be closed down and/or used for other purposes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Alternatively cooked to order from a live station or back of house is recommended [65661] Khuyến khích nấu thay thế để đặt hàng từ một quầy trực tiếp hoặc BOH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090515Z" creationid="LanHK" creationdate="20210513T090503Z">
+        <seg>•  Alternatively cooked to order from a live station or back of house is recommended [65661] Khuyến khích phương án nấu theo yêu cầu tại một quầy bánh trực tiếp hoặc tại BOH</seg>
       </tuv>
     </tu>
     <tu>
