@@ -7035,6 +7035,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended to have a minimum of 3 dishes and a maximum of 5 dishes under the "Chef Specials" section in the Kids Menu [800049] Nên có tối thiểu 3 món và tối đa 5 món trong phần "Đặc sản " trong Menu trẻ em</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024437Z" creationid="LanHK" creationdate="20210513T024437Z">
+        <seg>It is recommended to have a minimum of 3 dishes and a maximum of 5 dishes under the "Chef Specials" section in the Kids Menu [800049 Khuyến nghị có tối thiểu 3 món và tối đa 5 món trong phần "Món đặc biệt của đầu bếp" trong Menu trẻ em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended to screen the sleeping area from the living / working area.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -7407,6 +7415,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T024049Z" creationid="LanHK" creationdate="20210513T024006Z">
         <seg>Kids Eat Free Menu Template (Brand Central &gt; Holiday Inn Resort &gt; Brand Warehouse &gt; Brand Info &gt; Campaigns &gt; Kids Menu &gt; Kids Menu Final Artwork EN folder) Mẫu thực đơn Kids Eat Free (Trung tâm thương hiệu&gt; Holiday Inn Resort&gt; Kho thương hiệu&gt; Thông tin thương hiệu&gt; Chiến dịch&gt; Thực đơn trẻ em&gt; Thư mục Thực đơn trẻ em tranh ảnh bản cuối) https://www.ihgbrandcentral.com/%26redirecturl/clusters/brand/holiday-inn-resort/region/global/subcategory/brand-info/campaigns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kids Menu Toolkit (Brand Central &gt; Holiday Inn Resort &gt; Brand Warehouse &gt; Brand Info &gt; Campaigns &gt; Kids Menu &gt; Kids Menu EN folder) Bộ Thực Đơn Cho Trẻ (Trung tâm thương hiệu&gt; Holiday Inn Resort&gt; Kho thương hiệu&gt; Thông tin thương hiệu&gt; Chiến dịch&gt; Thực Đơn Trẻ Em&gt; Thư Mục Thực Đơn Cho Trẻ EN</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024349Z" creationid="LanHK" creationdate="20210513T024349Z">
+        <seg>Kids Menu Toolkit (Brand Central &gt; Holiday Inn Resort &gt; Brand Warehouse &gt; Brand Info &gt; Campaigns &gt; Kids Menu &gt; Kids Menu EN folder) Bộ toolkit Thực Đơn trẻ em (Trung tâm thương hiệu&gt; Holiday Inn Resort&gt; Kho thương hiệu&gt; Thông tin thương hiệu&gt; Chiến dịch&gt; Thực Đơn Trẻ Em&gt; Thư Mục Thực Đơn Cho Trẻ EN</seg>
       </tuv>
     </tu>
     <tu>
@@ -16867,6 +16883,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[29010] Nên có món ăn phù hợp cho khách bị dị ứng, nhạy cảm hoặc theo sở thích.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024450Z" creationid="LanHK" creationdate="20210513T024450Z">
+        <seg>[29010] Nên có món ăn phù hợp cho khách bị dị ứng, nhạy cảm hoặc tuân theo yêu cầu ưu tiên của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[29166] Nhà vô địch Trải nghiệm khách hoặc Giám đốc đào tạo được chỉ định phải đảm bảo rằng tất cả các hoạt động đào tạo Dịch vụ thương hiệu trong khách sạn được thực hiện và hoàn thành.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T120225Z" creationid="LanHK" creationdate="20210419T120225Z">
@@ -16959,6 +16983,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T031918Z" creationid="LanHK" creationdate="20210406T031918Z">
         <seg>[29868] Khi không có phòng nâng cấp, các nhân viên phải lịch sự thông báo cho khách Spire Elite và Platinum Elite rằng tiện ích này không có sẵn tại thời điểm hiện tại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[300048] Bộ thực đơn ăn miễn phí cho trẻ để tham chiếu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024324Z" creationid="LanHK" creationdate="20210513T024324Z">
+        <seg>[300048] Bộ toolkit thực đơn Kids Eat Free để tham khảo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17168,6 +17200,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080944Z" creationid="Kieu Lan" creationdate="20210512T080944Z">
         <seg>[32569] Thực đơn nên bao gồm các món được chế biến tươi bao gồm thịt nạc và cá nướng, rau hấp, gạo lứt và trái cây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[32570] Thực đơn cho trẻ em ăn miễn phí nên có các món được chế biến tươi bao gồm thịt nạc nướng và cá, rau hấp, gạo lứt và trái cây.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T024518Z" creationid="LanHK" creationdate="20210513T024518Z">
+        <seg>[32570] Thực đơn Kids Eat Free nên có các món được chế biến tươi bao gồm thịt nạc và cá nướng, rau hấp, gạo lứt và trái cây.</seg>
       </tuv>
     </tu>
     <tu>
