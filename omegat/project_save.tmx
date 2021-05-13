@@ -5394,6 +5394,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Cold Station Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Bữa sáng buffet -&gt; Quầy đồ lạnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T081633Z" creationid="LanHK" creationdate="20210513T081407Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Cold Station Bữa sáng buffet -&gt; Quầy đồ nguội</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Bữa sáng tự chọn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T040641Z" creationid="LanHK" creationdate="20210513T040641Z">
@@ -8539,6 +8547,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meats, cold cuts and fish must be displayed chilled [60235] Thịt, thịt nguội và cá phải được bày biện ướp lạnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T082114Z" creationid="LanHK" creationdate="20210513T082114Z">
+        <seg>Meats, cold cuts and fish must be displayed chilled [60235] Thịt, thịt nguội và cá phải được bày biện được giữ mát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153537Z" creationid="Kieu Lan" creationdate="20210405T153537Z">
@@ -9693,6 +9709,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033049Z" creationid="Kieu Lan" creationdate="20210510T033049Z">
         <seg>One mug [58860] Một cốc có quai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One pass around item for kids during breakfast is permitted [583054] Cho phép một vật phẩm pass around cho trẻ em trong bữa sáng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T081348Z" creationid="LanHK" creationdate="20210513T081348Z">
+        <seg>One pass around item for kids during breakfast is permitted [583054] Cho phép một món pass around cho trẻ em trong bữa sáng</seg>
       </tuv>
     </tu>
     <tu>
@@ -21748,6 +21772,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[59884] Phải cung cấp một con cái lạnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T081623Z" creationid="LanHK" creationdate="20210513T081416Z">
+        <seg>[59884] Phải cung cấp một món cá nguội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59977] Phải cùng kích thước và phong cách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T040331Z" creationid="LanHK" creationdate="20210513T040331Z">
@@ -26857,6 +26889,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T031607Z" creationid="LanHK" creationdate="20210508T031607Z">
         <seg>•  One full size sofa bed with coffee table and end table with lamp is recommended [847109] Khuyến nghị có một giường sofa full size với bàn cà phê và và bàn bên để đèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  One ham, one turkey or chicken based are recommended [583073] Khuyến nghị có thịt giăm bông, gà tây hoặc gà</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T081752Z" creationid="LanHK" creationdate="20210513T081752Z">
+        <seg>•  One ham, one turkey or chicken based are recommended [583073] Khuyến nghị có thịt giăm bông, giăm bông gà tây hoặc giăm bông gà</seg>
       </tuv>
     </tu>
     <tu>
