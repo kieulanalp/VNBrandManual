@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, two types of salad dressings must be provided and include: [59823] Tối thiểu, phải cung cấp hai loại salad trộn và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062415Z" creationid="LanHK" creationdate="20210513T062415Z">
+        <seg>At a minimum, two types of salad dressings must be provided and include: [59823] Tối thiểu, phải cung cấp hai loại sốt salad trộn và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At minimum, the following Kids tableware and cutlery must be offered to a kid aged 0-2 years when seated at the dining table: [304051] Tối thiểu, phải cung cấp bộ đồ ăn và dao dĩa trẻ em như sau cho trẻ từ 0-2 tuổi khi ngồi vào bàn ăn:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T082220Z" creationid="Kieu Lan" creationdate="20210512T082220Z">
@@ -8539,6 +8547,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum two types of other vegetables (e.g: carrot, cucumber, corn, avocado, onion) [59812] Tối thiểu hai loại rau khác (ví dụ: cà rốt, dưa chuột, ngô, bơ, hành tây)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062403Z" creationid="LanHK" creationdate="20210513T062403Z">
+        <seg>Minimum two types of other vegetables (e.g: carrot, cucumber, corn, avocado, onion) [59812] Tối thiểu hai loại rau củ khác (ví dụ: cà rốt, dưa chuột, ngô, bơ, hành tây)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum width: 2/3 of fire stair width [335184]     Chiều rộng tối thiểu: 2/3 chiều rộng cầu thang chặn lửa</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T033259Z" creationid="Kieu Lan" creationdate="20210427T033259Z">
@@ -9445,6 +9461,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>One utility/service station per 50 covers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One vinaigrette [59824] Một vinaigrette</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062452Z" creationid="LanHK" creationdate="20210513T062434Z">
+        <seg>One vinaigrette [59824] Một sốt dầu giấm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One yoghurt based [59825] Một loại salad sữa chua</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062455Z" creationid="LanHK" creationdate="20210513T062447Z">
+        <seg>One yoghurt based [59825] Một loại sốt sữa chua</seg>
       </tuv>
     </tu>
     <tu>
@@ -21512,6 +21544,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[60825] Hành lang phải được dọn sạch các khay và xe đẩy của khách hai giờ một lần và/hoặc theo yêu cầu của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60827] Cần có một quy trình để cung cấp các đơn đặt hàng trạm nấu ăn trực tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T062646Z" creationid="LanHK" creationdate="20210513T062646Z">
+        <seg>[60827] Cần có một quy trình thực hiện các đơn đặt món tại quầy nấu ăn trực tiếp.</seg>
       </tuv>
     </tu>
     <tu>
