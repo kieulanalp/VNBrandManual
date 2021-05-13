@@ -2590,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bircher muesli is required [582063] Yêu cầu bircher muesli</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093511Z" creationid="LanHK" creationdate="20210513T093511Z">
+        <seg>Bircher muesli is required [582063] Yêu cầu có bircher muesli (ngũ cốc ngâm qua đêm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Biển hiệu của “Thành Viên Gold Elite, Platinum Elite và Spire Elite" phải luôn được hiển thị rõ ràng tại quầy lễ tân.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T015546Z" creationid="LanHK" creationdate="20210406T015546Z">
@@ -8757,8 +8765,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Meats, cold cuts and fish must be displayed chilled [60235] Thịt, thịt nguội và cá phải được bày biện ướp lạnh</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T082114Z" creationid="LanHK" creationdate="20210513T082114Z">
-        <seg>Meats, cold cuts and fish must be displayed chilled [60235] Thịt, thịt nguội và cá phải được bày biện được giữ mát</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093536Z" creationid="LanHK" creationdate="20210513T082114Z">
+        <seg>Meats, cold cuts and fish must be displayed chilled [60235] Thịt, thịt nguội và cá phải được giữ lạnh khi bày</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,6 +8987,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum one cereal must be low sugar or sugar-free [59752] Tối thiểu một loại ngũ cốc phải ít đường hoặc không đường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093213Z" creationid="LanHK" creationdate="20210513T093213Z">
+        <seg>Minimum one cereal must be low sugar or sugar-free [59752] Tối thiểu một loại ngũ cốc ít đường hoặc không đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum one fruit flavored [59970] Tối thiểu một loại hương vị trái cây</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T082611Z" creationid="LanHK" creationdate="20210513T082611Z">
@@ -9127,6 +9143,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092818Z" creationid="LanHK" creationdate="20210426T092818Z">
         <seg>Must be clearly visible from the front desk [6316] Phải dễ thấy từ quầy lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be displayed chilled [582065] Phải bày biện ướp lạnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093524Z" creationid="LanHK" creationdate="20210513T093524Z">
+        <seg>Must be displayed chilled [582065] Phải giữ lạnh khi bày</seg>
       </tuv>
     </tu>
     <tu>
@@ -13255,6 +13279,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T024726Z" creationid="LanHK" creationdate="20210513T024726Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093551Z" creationid="LanHK" creationdate="20210513T093551Z">
+        <seg>Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -22200,6 +22232,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T075140Z" creationid="Kieu Lan" creationdate="20210512T075140Z">
         <seg>[59706] Bữa sáng trong nhà hàng full-service phải bao gồm tiệc buffet và phục vụ à la carte với số món giới hạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59758] Khuyến nghị máy pha chế ngũ cốc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T093232Z" creationid="LanHK" creationdate="20210513T093232Z">
+        <seg>[59758] Khuyến nghị dùng dispenser cho ngũ cốc</seg>
       </tuv>
     </tu>
     <tu>
