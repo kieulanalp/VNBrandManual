@@ -13179,6 +13179,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toasters are required: [65656] Yêu cầu lò nướng bánh:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T091630Z" creationid="LanHK" creationdate="20210513T091630Z">
+        <seg>Toasters are required: [65656] Yêu cầu có máy nướng bánh mì:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toilet [984]     Nhà vệ sinh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T015039Z" creationid="LanHK" creationdate="20210508T015039Z">
@@ -22040,6 +22048,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T081623Z" creationid="LanHK" creationdate="20210513T081416Z">
         <seg>[59884] Phải cung cấp một món cá nguội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59917] Tối thiểu, cung cấp hai loại bánh mì bread roll</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T091540Z" creationid="LanHK" creationdate="20210513T091540Z">
+        <seg>[59917] Tối thiểu, cung cấp hai loại bánh mì chuột</seg>
       </tuv>
     </tu>
     <tu>
