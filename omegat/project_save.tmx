@@ -18179,6 +18179,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[300068] Nên dùng ghế nâng cho trẻ từ 3-6 tuổi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T094219Z" creationid="LanHK" creationdate="20210513T094211Z">
+        <seg>[300068] Nên dùng đệm ghế cao cho trẻ từ 3-6 tuổi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[300069] Thực đơn cho trẻ em ăn miễn phí phải sử dụng các công thức nấu ăn được IHG phê duyệt, ngoại trừ phần “đặc biệt của Đầu bếp”.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T024150Z" creationid="LanHK" creationdate="20210513T024150Z">
@@ -19060,6 +19068,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[39990]       Không cho phép các ghế chồng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T094046Z" creationid="LanHK" creationdate="20210513T094046Z">
+        <seg>[39990]       Không cho phép dùng ghế có thể xếp chồng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[39998]       Hỗn hợp các bàn 2 đỉnh và 4 đỉnh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T093949Z" creationid="LanHK" creationdate="20210513T093949Z">
@@ -19528,6 +19544,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T085827Z" creationid="LanHK" creationdate="20210415T085827Z">
         <seg>[4914] trang truyền thông mạng xã hội của khách sạn phải tuân thủ các điều khoản và điều kiện cho từng truyền thông mạng xã hội tương ứng đang được sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[498] Luôn có các ghế cao, sạch sẽ và bảo trì tốt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T094111Z" creationid="LanHK" creationdate="20210513T094111Z">
+        <seg>[498] Phải có ghế trẻ em, sạch sẽ và bảo trì tốt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22408,6 +22432,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T022919Z" creationid="LanHK" creationdate="20210513T022919Z">
         <seg>[60382] Tất cả khách phải được chào đón ở lối vào của tất cả nhà hàng full service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60394] Đồ sành sứ và thủy tinh phải ở trong tình trạng tốt, không có chip, sạch sẽ và không có vết bẩn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T094330Z" creationid="LanHK" creationdate="20210513T094330Z">
+        <seg>[60394] Đồ sứ và đồ thủy tinh phải ở trong tình trạng tốt, sạch sẽ, không sứt mẻ.</seg>
       </tuv>
     </tu>
     <tu>
