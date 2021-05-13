@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 155)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T085917Z" creationid="LanHK" creationdate="20210513T085917Z">
+        <seg>(Trang 153)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -1970,6 +1978,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T062347Z" creationid="LanHK" creationdate="20210419T062347Z">
         <seg>Assemblies [241067]       Cấu kiện lắp ráp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, five hot side dishes must be displayed from the following: [583075] Tối thiểu, năm món ăn phụ nóng phải được cung cấp như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090051Z" creationid="LanHK" creationdate="20210513T090051Z">
+        <seg>At a minimum, five hot side dishes must be displayed from the following: [583075] Tối thiểu, năm món nóng ăn kèm phải được cung cấp như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5430,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T081633Z" creationid="LanHK" creationdate="20210513T081407Z">
         <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Cold Station Bữa sáng buffet -&gt; Quầy đồ nguội</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Hot Food Station Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Bữa sáng buffet -&gt; Quầy đồ ăn nóng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090040Z" creationid="LanHK" creationdate="20210513T090040Z">
+        <seg>Food &amp; Beverage -&gt; Dining -&gt; Breakfast Buffet -&gt; Hot Food Station Bữa sáng buffet -&gt; Quầy đồ nóng</seg>
       </tuv>
     </tu>
     <tu>
@@ -12391,6 +12415,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T012312Z" creationid="LanHK" creationdate="20210417T012312Z">
         <seg>System hard-wired detectors connected to the fire panel are required in the following areas: [56347 Đầu báo có dây được kết nối với bảng điiều khiển báo cháy được yêu cầu trong các khu vực sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sữa Chua Đóng Gói Thương Mại</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T090017Z" creationid="LanHK" creationdate="20210513T085954Z">
+        <seg>Sữa Chua Đóng Gói bao bì Thương Mại (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21440,6 +21472,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070330Z" creationid="LanHK" creationdate="20210513T070330Z">
         <seg>[583050] Nếu gia vị đựng trong chai bao bì thương mại ban đầu, không yêu cầu tag món.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[583062] Cho phép suất ăn kiểm soát thành phần, đóng gói thương mại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T085944Z" creationid="LanHK" creationdate="20210513T085944Z">
+        <seg>[583062] Cho phép sử dụng sữa chua trong bao bì thương mại theo khẩu phần nhỏ</seg>
       </tuv>
     </tu>
     <tu>
