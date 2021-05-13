@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, three types of spreads are required and include: [67495] Tối thiểu, yêu cầu ba phết bánh và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065343Z" creationid="LanHK" creationdate="20210513T065343Z">
+        <seg>At a minimum, three types of spreads are required and include: [67495] Tối thiểu, yêu cầu ba loại phết bánh mì và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, two types of jams are required and include: [59985] Tối thiểu, yêu cầu hai loại mứt và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T065214Z" creationid="LanHK" creationdate="20210513T065214Z">
@@ -6394,6 +6402,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Honey must be in a dispenser or bowl or in individual commercially packaged serving [581118] Mật ong phải ở trong một hộp đựng hoặc bát hoặc đóng gói thương mại riêng lẻ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T070052Z" creationid="LanHK" creationdate="20210513T070052Z">
+        <seg>Honey must be in a dispenser or bowl or in individual commercially packaged serving [581118] Mật ong phải ở trong một hộp dispenser hoặc bát hoặc trong bao bì đóng gói thương mại riêng lẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot Food Station</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093746Z" creationid="LanHK" creationdate="20210405T093746Z">
@@ -9285,6 +9301,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T094955Z" creationid="LanHK" creationdate="20210416T094955Z">
         <seg>Numbers indicating floor levels are required on Emergency Egress stairwells and must meet the following requirements: [56321]       Biển đánh số tầng phải có trên cầu thang thoát hiểm khẩn cấp và phải đáp ứng các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nutella) [70302] Loại sô cô la Hazelnut (ví dụ Nutella)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210513T065402Z" creationid="LanHK" creationdate="20210513T065402Z">
+        <seg>Nutella) [70302] Loại sô cô la hạt phỉ (ví dụ Nutella)</seg>
       </tuv>
     </tu>
     <tu>
