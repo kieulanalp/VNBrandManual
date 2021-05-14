@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 168)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091127Z" creationid="LanHK" creationdate="20210514T091127Z">
+        <seg>(Trang 166)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 17)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T044912Z" creationid="LanHK" creationdate="20210406T044912Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T062347Z" creationid="LanHK" creationdate="20210419T062347Z">
         <seg>Assemblies [241067]       Cấu kiện lắp ráp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, a limited late night menu must be available between 00:00hrs to 05:30hrs (overnight hours): [51688] Tối thiểu, luôn có một thực đơn đêm muộn có giới hạn trong khoảng từ 00: 00 giờ đến 05: 30 giờ (giờ qua đêm):</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091122Z" creationid="LanHK" creationdate="20210514T091122Z">
+        <seg>At a minimum, a limited late night menu must be available between 00:00hrs to 05:30hrs (overnight hours): [51688] Tối thiểu, luôn có một thực đơn đêm muộn trong khoảng từ 00:00 đến 05: 30 giờ (buổi đêm):</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,6 +6142,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T114730Z" creationid="LanHK" creationdate="20210422T114730Z">
         <seg>Foundation for freestanding flag poles must meet the following: [79927] Móng cho cột cờ đứng tự do phải đáp ứng các điều sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Four types of main courses, including one type of pasta dish and two types of protein dishes [588056] Bốn loại món chính, bao gồm một loại món mì pasta và hai loại món ăn protein</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091353Z" creationid="LanHK" creationdate="20210514T091353Z">
+        <seg>Four types of main courses, including one type of pasta dish and two types of protein dishes [588056] Bốn loại món chính, bao gồm một món pasta và hai món protein (thịt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14043,6 +14067,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The late night menu must be an extra section in the room service or in-room dining menu and clearly marked as such [587107] Thực đơn đêm muộn phải là một phần phụ trong dịch vụ phòng hoặc thực đơn ăn uống trong phòng và được đánh dấu rõ ràng như vậy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091205Z" creationid="LanHK" creationdate="20210514T091205Z">
+        <seg>The late night menu must be an extra section in the room service or in-room dining menu and clearly marked as such [587107] Thực đơn đêm muộn phải là một phần phụ trong  thực đơn dịch vụ phòng và được chú thích rõ ràng là thực đơn đêm muộn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The late night menu must be extracted from the room service menu [587106] Thực đơn đêm muộn phải được trích xuất từ thực đơn dịch vụ phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091133Z" creationid="LanHK" creationdate="20210514T091133Z">
+        <seg>The late night menu must be extracted from the room service menu [587106] Thực đơn đêm muộn phải được lấy từ thực đơn dịch vụ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The level of lighting in a Swimming Pool area must allow the entire bottom of the swimming pool to be clearly seen.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T105735Z" creationid="LanHK" creationdate="20210506T105735Z">
@@ -14285,8 +14325,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Thực phẩm và đồ uống (F&amp;B) -&gt; Dịch vụ phòng / ăn uống trong phòng -&gt; Thực đơn đêm muộn</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Thực phẩm và đồ uống (F&amp;B) -&gt; Dịch vụ phòng/ăn uống trong phòng -&gt; Thực đơn đêm muộn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091056Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Thực đơn đêm muộn</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,10 +14707,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two types of burgers or sandwiches including a Club Sandwich [588054] Hai loại burgers hoặc bánh sandwich bao gồm Club Sandwich</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091330Z" creationid="LanHK" creationdate="20210514T091330Z">
+        <seg>Two types of burgers or sandwiches including a Club Sandwich [588054] Hai loại burger hoặc bánh sandwich bao gồm Club Sandwich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two types of cold cuts [584061] Hai loại thịt nguội với pho mát (cold cuts)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T072236Z" creationid="LanHK" creationdate="20210513T082229Z">
         <seg>Two types of cold cuts [584061] Hai loại thịt nguội (cold cuts)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two types of light bites including a wrap [588055] Hai loại đồ ăn nhẹ bao gồm một gói</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091323Z" creationid="LanHK" creationdate="20210514T091323Z">
+        <seg>Two types of light bites including a wrap [588055] Hai loại đồ ăn nhẹ bao gồm một món wrap</seg>
       </tuv>
     </tu>
     <tu>
