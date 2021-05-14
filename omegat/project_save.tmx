@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 166)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T082924Z" creationid="LanHK" creationdate="20210514T082924Z">
+        <seg>(Trang 164)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 17)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T044912Z" creationid="LanHK" creationdate="20210406T044912Z">
@@ -2182,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, six types of condiments must be available upon request from the following: [53335] Tối thiểu, phải có sáu loại gia vị theo yêu cầu từ như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T082853Z" creationid="LanHK" creationdate="20210514T082845Z">
+        <seg>At a minimum, six types of condiments must be available upon request from the following: [53335] Tối thiểu, phải có sáu loại gia vị được cung cấp theo yêu cầu như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, three types of appetisers must be available and include: [52278] Tối thiểu, phải có ba loại đồ khai vị và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082423Z" creationid="LanHK" creationdate="20210514T082423Z">
@@ -2738,6 +2754,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T015546Z" creationid="LanHK" creationdate="20210406T015546Z">
         <seg>Một biển “Thành Viên Gold Elite, Platinum Elite và Spire Elite" phải luôn được bày tại quầy lễ tân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black coffee with a minimum serving of two cups [60591] Cà phê đen với tối thiểu phục vụ hai ly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083058Z" creationid="LanHK" creationdate="20210514T083058Z">
+        <seg>Black coffee with a minimum serving of two cups [60591] Cà phê đen, phục vụ tối thiểu hai tách</seg>
       </tuv>
     </tu>
     <tu>
@@ -9099,6 +9123,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maple syrup [60600]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T082906Z" creationid="LanHK" creationdate="20210514T082906Z">
+        <seg>Maple Syrup [60600] Xi rô lá phong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marked to indicate lanes and parking spaces, with a paint manufactured for traffic use, or a change in surface materials [12229] Được đánh dấu để chỉ làn đường và khu đỗ xe, bằng sơn được sản xuất để sử dụng cho giao thông hoặc thay đổi vật liệu bề mặt</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T084541Z" creationid="LanHK" creationdate="20210422T084541Z">
@@ -9517,8 +9549,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum one local or regional [51906] Tối thiểu một kiểu địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T073244Z" creationid="LanHK" creationdate="20210514T073244Z">
-        <seg>Minimum one local or regional [51906] Tối thiểu set một kiểu địa phương hoặc khu vực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T073244Z">
+        <seg>Minimum one local or regional [51906] Tối thiểu set một kiểu </seg>
       </tuv>
     </tu>
     <tu>
@@ -10587,24 +10619,24 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One local or regional beer option [57333] Một loại bia địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061739Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
-        <seg>One local or regional beer option [57333] Một loại bia tại địa phương hoặc khu vực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
+        <seg>One local or regional beer option [57333] Một loại bia tại </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional breakfast set [584052] Một bữa ăn sáng địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T072104Z" creationid="LanHK" creationdate="20210514T072058Z">
-        <seg>One local or regional breakfast set [584052] Set bữa sáng địa phương hoặc khu vực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T072058Z">
+        <seg>One local or regional breakfast set [584052] Set bữa sáng </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional item [587059] Một vật phẩm địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T082542Z" creationid="LanHK" creationdate="20210514T082542Z">
-        <seg>One local or regional item [587059] Một món địa phương hoặc khu vực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T082542Z">
+        <seg>One local or regional item [587059] Một món </seg>
       </tuv>
     </tu>
     <tu>
@@ -23454,8 +23486,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[60712] Thực đơn tự chọn và thực đơn gọi món phải bao gồm các món ăn địa phương hoặc khu vực và phương Tây</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T081628Z" creationid="Kieu Lan" creationdate="20210512T081628Z">
-        <seg>[60712] Thực đơn buffet và a la carte phải bao gồm các món ăn địa phương hoặc khu vực và món Âu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="Kieu Lan" creationdate="20210512T081628Z">
+        <seg>[60712] Thực đơn buffet và a la carte phải bao gồm các món ăn  và món Âu</seg>
       </tuv>
     </tu>
     <tu>
@@ -28631,8 +28663,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn nóng ngọt địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T075245Z" creationid="LanHK" creationdate="20210514T075245Z">
-        <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn ngọt nóng của địa phương hoặc khu vực</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T075245Z">
+        <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn ngọt nóng của </seg>
       </tuv>
     </tu>
     <tu>
