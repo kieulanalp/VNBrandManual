@@ -14285,8 +14285,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Utility / Service stations must provide storage for the following: [116178] quầy tiện ích / dịch vụ phải cung cấp lưu trữ cho các mục sau:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Utility/Service stations must provide storage for the following: [116178] quầy tiện ích/dịch vụ phải cung cấp lưu trữ cho các mục sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T034507Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Utility/Service stations must provide storage for the following: [116178] quầy phục vụ phải trữ sẵn các vật phẩm sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16591,6 +16591,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T034333Z" creationid="LanHK" creationdate="20210514T034333Z">
         <seg>[116174]     quầy dọn bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116180]     Đồ sành sứ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T034513Z" creationid="LanHK" creationdate="20210514T034513Z">
+        <seg>[116180]     Đồ sứ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116183]     Thiết bị đầu cuối Cashiering</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T034724Z" creationid="LanHK" creationdate="20210514T034724Z">
+        <seg>[116183]     Máy thu ngân</seg>
       </tuv>
     </tu>
     <tu>
@@ -26193,6 +26209,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T033316Z" creationid="LanHK" creationdate="20210514T033316Z">
         <seg>[92155] Nằm trong hoặc gần nhà hàng họ đang phục vụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92156] Đề nghị được đặt ở các vị trí khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T034350Z" creationid="LanHK" creationdate="20210514T034350Z">
+        <seg>[92156] Khuyến nghị được đặt ở các vị trí khuất khỏi tầm nhìn của khách.</seg>
       </tuv>
     </tu>
     <tu>
