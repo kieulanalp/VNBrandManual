@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 169)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091830Z" creationid="LanHK" creationdate="20210514T091830Z">
+        <seg>(Trang 167)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 17)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T044912Z" creationid="LanHK" creationdate="20210406T044912Z">
@@ -1362,6 +1370,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T025147Z" creationid="LanHK" creationdate="20210419T025147Z">
         <seg>A system of key control must be in place for the safe keeping of: [56154] Phải có một hệ thống kiểm soát khóa để giữ an toàn cho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A transparent trolley cloche is permitted [60689] Cho phép một lồng chụp xe đẩy trong suốt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T092016Z" creationid="LanHK" creationdate="20210514T092016Z">
+        <seg>A transparent trolley cloche is permitted [60689] Cho phép một nắp đậy thức ăn trong suốt dùng trên xe đẩy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +2938,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T025101Z" creationid="LanHK" creationdate="20210513T025101Z">
         <seg>Brand Central Path for artwork files_Sample food label tag for buffet Brand Central Path cho tranh ảnh_Sample tag món ăn cho buffet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brand Central Path for artwork files_Sample room service tray pick-up card Đường dẫn trung tâm thương hiệu cho các tập tin tác phẩm nghệ thuật_Thẻ mẫu lấy khay dịch vụ phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091939Z" creationid="LanHK" creationdate="20210514T091939Z">
+        <seg>Brand Central Path for artwork files_Sample room service tray pick-up card Đường Trung Tâm Thương Hiệu cho các file tranh ảnh_ Mẫu thẻ yêu cầu dọn khay phục vụ phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -7082,6 +7106,22 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot Box Example 1 Ví Dụ Hộp Đồ Nóng 1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091727Z" creationid="LanHK" creationdate="20210514T091727Z">
+        <seg>Hot Box Example 1 Ví Dụ Hộp Đồ Nóng 1 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot Box Example 2 Ví Dụ Hộp Đồ Nóng 2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091726Z" creationid="LanHK" creationdate="20210514T091726Z">
+        <seg>Hot Box Example 2 Ví Dụ Hộp Đồ Nóng 2 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot Food Station</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093746Z" creationid="LanHK" creationdate="20210405T093746Z">
@@ -9837,16 +9877,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Molton Cover Lớp trải Molton</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T091643Z" creationid="LanHK" creationdate="20210514T091643Z">
-        <seg>Molton Cover Lớp lót Molton</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091718Z" creationid="LanHK" creationdate="20210514T091643Z">
+        <seg>Molton Cover Lớp lót Molton (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Molton Cover Material Example Ví dụ Chất Liệu Trải Molton</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T091651Z" creationid="LanHK" creationdate="20210514T091651Z">
-        <seg>Molton Cover Material Example Ví dụ Chất Liệu của lót Molton</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091723Z" creationid="LanHK" creationdate="20210514T091651Z">
+        <seg>Molton Cover Material Example Ví dụ Chất Liệu của lót Molton (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10332,6 +10372,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
         <seg>New Build     Tòa nhà mới</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T090210Z" creationid="LanHK" creationdate="20210406T014459Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Build Thi công mới</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091815Z" creationid="LanHK" creationdate="20210514T091815Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -12595,6 +12643,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sample room service tray pick-up card Thẻ mẫu lấy khay dịch vụ phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091948Z" creationid="LanHK" creationdate="20210514T091948Z">
+        <seg>Sample room service tray pick-up card Mẫu thẻ yêu cầu dọn khay phục vụ phòng (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample table numbering card for live stations Thẻ đánh số bàn mẫu cho cho các quầy trực tiếp.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062820Z" creationid="LanHK" creationdate="20210513T062820Z">
@@ -14607,6 +14663,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031436Z" creationid="Kieu Lan" creationdate="20210510T031436Z">
         <seg>Treatment: Airy DuPont Teflon treated (water &amp; oil repellent), stain-resistant fabric [96007] Xử lý: xử lý Airy DuPont Teflon  (chống thấm nước &amp; dầu), vải chống ố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trolley Example Ví dụ về xe đẩy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091956Z" creationid="LanHK" creationdate="20210514T091956Z">
+        <seg>Trolley Example Ví dụ về xe đẩy (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17533,8 +17597,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[124048] Một thẻ tent card khuyên khách gọi cho khoảng trống khay/ xe đẩy phải được đặt trên xe đẩy / khay ăn trong phòng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210510T075726Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[124048] Một tent card khuyên khách gọi cho khoảng trống khay/ xe đẩy phải được đặt trên xe đẩy/khay ăn trong phòng.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091801Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[124048] Một tent card hướng dẫn khách gọi nhân viên dọn khay/ xe đẩy phải được đặt trên xe đẩy/khay ăn trong phòng.</seg>
       </tuv>
     </tu>
     <tu>
