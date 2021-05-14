@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 162)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T065507Z" creationid="LanHK" creationdate="20210514T065507Z">
+        <seg>(Trang 160)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 17)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T044912Z" creationid="LanHK" creationdate="20210406T044912Z">
@@ -1458,6 +1466,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Administrative Assistant/General Personnel Office [100188] Văn phòng trợ lý hành chính/nhân sự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After presenting the food, covers are permitted to be left covering the food upon guest request [60679] Sau khi bày biện thực phẩm, cho phép lớp phủ để lại che đậy thực phẩm theo yêu cầu của khách</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064502Z" creationid="LanHK" creationdate="20210514T064502Z">
+        <seg>After presenting the food, covers are permitted to be left covering the food upon guest request [60679] Sau khi bày biện thực phẩm, cho để lại nắp đậy đồ ăn theo yêu cầu của khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -13693,8 +13709,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Thực phẩm và đồ uống (F&amp;B)-&gt; Ăn uống trong phòng / Dịch vụ phòng -&gt; Mong đợi dịch vụ</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Thực phẩm và đồ uống (F&amp;B)-&gt; Ăn uống trong phòng/Dịch vụ phòng -&gt; Mong đợi dịch vụ</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064434Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Kỳ vọng về dịch vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23088,6 +23104,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T092204Z" creationid="LanHK" creationdate="20210513T092204Z">
         <seg>[606053] Yêu cầu một quầy nước trái cây trong bữa sáng all day dining</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60683] Dụng cụ đậy phải được làm bằng sợi thủy tinh hoặc kim loại</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064517Z" creationid="LanHK" creationdate="20210514T064517Z">
+        <seg>[60683] Nắp đậy phải được làm bằng sợi thủy tinh hoặc kim loại</seg>
       </tuv>
     </tu>
     <tu>
