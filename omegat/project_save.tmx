@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of two and maximum of four soups must be available from the following: [52294] Tối thiểu phải có hai và tối đa bốn súp từ sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T080906Z" creationid="LanHK" creationdate="20210514T080906Z">
+        <seg>A minimum of two and maximum of four soups must be available from the following: [52294] Tối thiểu phải có hai và tối đa bốn món sup như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mirror above the vanity must be provided and meet the following: [13233] Phải cung cấp một tấm gương phía trên bàn trang điểm và đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T014453Z" creationid="Kieu Lan" creationdate="20210512T014453Z">
@@ -2186,6 +2194,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062415Z" creationid="LanHK" creationdate="20210513T062415Z">
         <seg>At a minimum, two types of salad dressings must be provided and include: [59823] Tối thiểu, phải cung cấp hai loại sốt salad trộn và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, two types of sweet hot dishes must be offered and include: [53322] Tối thiểu, phải cung cấp hai loại đồ nóng ngọt và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T075213Z" creationid="LanHK" creationdate="20210514T075213Z">
+        <seg>At a minimum, two types of sweet hot dishes must be offered and include: [53322] Tối thiểu, phải cung cấp hai loại m món ngọt nóng và bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28505,6 +28521,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T081752Z" creationid="LanHK" creationdate="20210513T081752Z">
         <seg>•  One ham, one turkey or chicken based are recommended [583073] Khuyến nghị có thịt giăm bông, giăm bông gà tây hoặc giăm bông gà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn nóng ngọt địa phương hoặc khu vực</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T075245Z" creationid="LanHK" creationdate="20210514T075245Z">
+        <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn ngọt nóng của địa phương hoặc khu vực</seg>
       </tuv>
     </tu>
     <tu>
