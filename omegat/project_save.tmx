@@ -5972,8 +5972,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; In Room Dining / Room Service -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống trong phòng / Dịch vụ phòng -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/Dịch vụ phòng -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091627Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service -&gt; Furniture, Finishes, Fixtures &amp; Equipment Ăn uống trong phòng/Dịch vụ phòng -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -9835,6 +9835,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Molton Cover Lớp trải Molton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091643Z" creationid="LanHK" creationdate="20210514T091643Z">
+        <seg>Molton Cover Lớp lót Molton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Molton Cover Material Example Ví dụ Chất Liệu Trải Molton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091651Z" creationid="LanHK" creationdate="20210514T091651Z">
+        <seg>Molton Cover Material Example Ví dụ Chất Liệu của lót Molton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monitoring IHG® Rewards Club standards performance [765] Giám sát hiệu suất tiêu chuẩn Câu lạc bộ IHG® Awards Club</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T121446Z" creationid="LanHK" creationdate="20210419T121446Z">
@@ -10843,16 +10859,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One local or regional drink is recommended [587086] Khuyến nghị một đồ uống địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional drink is recommended [587086] Khuyến nghị một đồ uống </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091503Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional drink is recommended [587086] Khuyến nghị một đồ uống địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional fruit is recommended [587083] Khuyến nghị một loại trái cây địa phương hoặc khu vực.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional fruit is recommended [587083] Khuyến nghị một loại trái cây .</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091444Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional fruit is recommended [587083] Khuyến nghị một loại trái cây địa phương hoặc vùng miền.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14333,8 +14349,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống trong phòng / Dịch vụ phòng -&gt; Chung</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/Dịch vụ phòng -&gt; Chung</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091609Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Ăn uống trong phòng/Dịch vụ phòng -&gt; Thông tin chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -20536,6 +20552,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T025317Z" creationid="Kieu Lan" creationdate="20210422T025317Z">
         <seg>[44286] Khi phải giữ máy một cuộc gọi, nhân viên phải thông báo cho người gọi và cho họ biết thời gian chờ dự kiến.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[44502] Tất cả các món ăn phải được bày biện trên đồ sành hoặc sứ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091557Z" creationid="LanHK" creationdate="20210514T091557Z">
+        <seg>[44502] Tất cả các món ăn phải được bày bằng đồ sành hoặc sứ</seg>
       </tuv>
     </tu>
     <tu>
@@ -29047,24 +29071,24 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>•  One local or regional snack is recommended [589057] Khuyến nghị món ăn nhẹ địa phương hoặc khu vực.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>•  One local or regional snack is recommended [589057] Khuyến nghị món ăn nhẹ .</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091523Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>•  One local or regional snack is recommended [589057] Khuyến nghị món ăn nhẹ địa phương hoặc vùng miền.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•  One local or regional soup is recommended [587061] Khuyến nghị một loại súp địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>•  One local or regional soup is recommended [587061] Khuyến nghị một loại súp </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091439Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>•  One local or regional soup is recommended [587061] Khuyến nghị một loại súp địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn nóng ngọt địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T075245Z">
-        <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn ngọt nóng của </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091534Z" creationid="LanHK" creationdate="20210514T075245Z">
+        <seg>•  One local or regional sweet hot dish is recommended [587075] Khuyến nghị một món ăn ngọt nóng của địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -29215,8 +29239,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>• One local or regional dish is recommended [588059] Khuyến nghị một món ăn địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>• One local or regional dish is recommended [588059] Khuyến nghị một món ăn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091510Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>• One local or regional dish is recommended [588059] Khuyến nghị một món ăn địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
