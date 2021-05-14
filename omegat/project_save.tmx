@@ -1944,8 +1944,8 @@
       <tuv lang="EN-US">
         <seg>Arrival -&gt; Exterior -&gt; Furniture, Finishes, Fixtures &amp; Equipment Điểm đến -&gt; Bên ngoài -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210422T100056Z" creationid="LanHK" creationdate="20210422T100056Z">
-        <seg>Arrival -&gt; Exterior -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210422T100056Z">
+        <seg>Arrival -&gt; Exterior -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -3063,6 +3063,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Business Services -&gt; Business Service Centre -&gt; Furniture, Finishes, Fixtures &amp; Equipment dịch vụ kinh doanh -&gt; Trung tâm dịch vụ văn phòng -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Business Services -&gt; Business Service Centre -&gt; Furniture, Finishes, Fixtures &amp; Equipment dịch vụ kinh doanh -&gt; Trung tâm dịch vụ văn phòng -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Business: 1.5 persons per room [309072]     Kinh doanh: 1,5 người / phòng</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -3417,8 +3425,8 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       <tuv lang="EN-US">
         <seg>Check in -&gt; Front Desk -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nhận phòng -&gt; Quầy lễ tân -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T023924Z" creationid="Kieu Lan" creationdate="20210426T023924Z">
-        <seg>Check in -&gt; Front Desk -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="Kieu Lan" creationdate="20210426T023924Z">
+        <seg>Check in -&gt; Front Desk -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,8 +3809,8 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       <tuv lang="EN-US">
         <seg>Concierge -&gt; Furniture, Finishes, Fixtures &amp; Equipment Concierge -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210427T013919Z" creationid="LanHK" creationdate="20210427T013912Z">
-        <seg>Concierge -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210427T013912Z">
+        <seg>Concierge -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,10 +5370,42 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fitness &amp; Giải trí -&gt; Bể bơi -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Fitness &amp; Giải trí -&gt; Bể bơi -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Giải trí -&gt; Cơ sở Fitness -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Fitness &amp; Giải trí -&gt; Cơ sở Fitness -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Giải trí -&gt; Spa -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Fitness &amp; Giải trí -&gt; Spa -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095449Z" creationid="LanHK" creationdate="20210405T095449Z">
         <seg>Fitness &amp; RecreationFitness &amp; Recreation&lt;t0/&gt; &lt;t1/&gt;Fitness &amp; Giải Trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,6 +5666,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm và đồ uống (F&amp;B) -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Food &amp; Beverage -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm và đồ uống (F&amp;B) -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; General -&gt; Collateral / Stationery Thực phẩm và đồ uống (F&amp;B)-&gt; Chung -&gt; Tài liệu quảng bá / Văn phòng phẩm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T023704Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -5660,8 +5708,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; In Room Dining / Room Service -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống trong phòng / Dịch vụ phòng -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/Dịch vụ phòng -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/Dịch vụ phòng -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -6978,6 +7026,206 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hành trình xây dựng  - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Tác phẩm nghệ thuật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng  - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Tác phẩm nghệ thuật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị  -&gt;  Đồ trang trí cửa sổ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị  -&gt;  Đồ trang trí cửa sổ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị  -&gt;  Đồ trang trí cửa sổ -&gt; Rèm và Mành che</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị  -&gt;  Đồ trang trí cửa sổ -&gt; Rèm và Mành che</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị  -&gt; Hoàn thiện sàn -&gt; Gạch và sứ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị  -&gt; Hoàn thiện sàn -&gt; Gạch và sứ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị  -&gt; Hoàn thiện sàn -&gt; Gỗ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị  -&gt; Hoàn thiện sàn -&gt; Gỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Hoàn thiện sàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Hoàn thiện sàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; Sàn gỗ đàn hồi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; Sàn gỗ đàn hồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; thảm trang trí</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; thảm trang trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; Đá</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; Đá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Lắp kính và gương</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Lắp kính và gương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Lớp phủ tường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Lớp phủ tường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Sơn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Sơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Trần</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Trần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Trần -&gt; Gạch Trần Treo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Trần -&gt; Gạch Trần Treo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Tấm phủ tường -&gt; Vinyl</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Tấm phủ tường -&gt; Vinyl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Vật phẩm bọc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Vật phẩm bọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Đồ mộc, đồ gỗ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Đồ mộc, đồ gỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Đồ đạc và Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - Xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Đồ đạc và Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Công trình nề</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Công trình nề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; Thảm - Thảm dệt khổ rộng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Hoàn thiện sàn -&gt; Thảm - Thảm dệt khổ rộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Thiết bị và Đồ đạc -&gt; Hệ thống ống nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Thiết bị và Đồ đạc -&gt; Hệ thống ống nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Đồ đạc và Thiết bị -&gt; Thiết bị bằng đồng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Đồ đạc và Thiết bị -&gt; Thiết bị bằng đồng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị -&gt; Đồ đạc và Thiết bị -&gt; Thiết bị vệ sinh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Hành trình xây dựng - xây dựng cơ sở -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị -&gt; Đồ đạc và Thiết bị -&gt; Thiết bị vệ sinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hãy báo Giám Đốc Ca hoặc nhân viên lễ tân nếu có bất kỳ bất tiện nào.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T091126Z" creationid="LanHK" creationdate="20210511T091114Z">
@@ -7709,8 +7957,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Furniture, Finishes, Fixtures &amp; Equipment Hành trình trong khách sạn -&gt; Hành lang cho khách &amp; Sảnh thang máy -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023335Z" creationid="Kieu Lan" creationdate="20210427T023335Z">
-        <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="Kieu Lan" creationdate="20210427T023335Z">
+        <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -7757,8 +8005,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Journey within the hotel -&gt; Guest Stairs -&gt; Furniture, Finishes, Fixtures &amp; Equipment Hành trình trong khách sạn -&gt; Cầu thang cho khách -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T045827Z" creationid="Kieu Lan" creationdate="20210427T045827Z">
-        <seg>Journey within the hotel -&gt; Guest Stairs -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="Kieu Lan" creationdate="20210427T045827Z">
+        <seg>Journey within the hotel -&gt; Guest Stairs -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -7821,8 +8069,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Journey within the hotel -&gt; Public Restrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Hành trình trong khách sạn -&gt; Phòng vệ sinh công cộng -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210428T022345Z" creationid="LanHK" creationdate="20210428T022345Z">
-        <seg>Journey within the hotel -&gt; Public Restrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210428T022345Z">
+        <seg>Journey within the hotel -&gt; Public Restrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -7935,6 +8183,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T035616Z" creationid="Kieu Lan" creationdate="20210422T035555Z">
         <seg>[2287] Khi cúp máy cuộc gọi đặt chỗ đã chốt, nhân viên phải xác nhận việc lưu trú trong tương lai của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Khu vực BOH -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Khu vực BOH -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -8333,8 +8589,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Lobby -&gt; Furniture, Finishes, Fixtures &amp; Equipment Tiền sảnh -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210426T092623Z" creationid="LanHK" creationdate="20210426T092623Z">
-        <seg>Lobby -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210426T092623Z">
+        <seg>Lobby -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -8867,10 +9123,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Ballrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; phòng ballroom -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Meetings &amp; Events -&gt; Ballrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; phòng ballroom -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Collateral / Stationery phòng họp và sự kiện -&gt; Tài liệu quảng bá/ Văn phòng phẩm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Meetings &amp; Events -&gt; Collateral/Stationery phòng họp và sự kiện -&gt; Tài liệu quảng bá/ Văn phòng phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; Phòng Pre Function &amp; Khu vực thảo luận -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; Phòng Pre Function &amp; Khu vực thảo luận -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -9323,8 +9595,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>My Room -&gt; Bathroom -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng của tôi -&gt; Phòng tắm -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210508T015156Z" creationid="LanHK" creationdate="20210508T015156Z">
-        <seg>My Room -&gt; Bathroom -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng tắm -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210508T015156Z">
+        <seg>My Room -&gt; Bathroom -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng tắm -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -9349,6 +9621,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T032446Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>My Room -&gt; Collateral/Stationery  Tài liệu quảng bá/Văn phòng phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Room -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng của tôi -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>My Room -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng của tôi -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -11086,6 +11366,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Reception/maitre d’ station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reception or maitre d' stations must meet the following: [92149]    quầy tiếp nhận hoặc maitre d' phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033154Z" creationid="LanHK" creationdate="20210514T033154Z">
+        <seg>Reception or maitre d' stations must meet the following: [92149]    quầy lễ tân hoặc maitre d' phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13309,8 +13597,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Thực phẩm &amp; Đồ uống (F&amp;B) -&gt; Ăn uống -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T093551Z" creationid="LanHK" creationdate="20210513T093551Z">
-        <seg>Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210513T093551Z">
+        <seg>Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -16285,8 +16573,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[116173]     Một quầy tiện ích / dịch vụ trên 50 áo.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[116173]     Một quầy tiện ích/dịch vụ trên 50 áo.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033430Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[116173]     Một quầy phục vụ trên 50 bàn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25877,6 +26165,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[92153] Nên cung cấp một kho đựng áo khoác liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033238Z" creationid="LanHK" creationdate="20210514T033238Z">
+        <seg>[92153] Nên cung cấp một phòng gửi áo khoác gần đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92155] Nằm trong hoặc gần với nhà hàng họ đang phục vụ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033316Z" creationid="LanHK" creationdate="20210514T033316Z">
+        <seg>[92155] Nằm trong hoặc gần nhà hàng họ đang phục vụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[92173]    Khi một nhà hàng được vận hành độc lập với khách sạn, các rủi ro an ninh liên quan đến hoạt động của bên thứ ba phải được xem xét khi thiết kế khu vực giao hàng, chuẩn bị, lưu trữ và nhà bếp, và các cơ sở nhân viên.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T032944Z" creationid="LanHK" creationdate="20210514T032944Z">
@@ -27061,6 +27365,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cuộc họp và sự kiện -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>cuộc họp và sự kiện -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cuộc họp và sự kiện -&gt; Phòng họp -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>cuộc họp và sự kiện -&gt; Phòng họp -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dòng chữ “Mềm” và “Chắc Chắn” phải được thêu ở góc trên bên phải của đầu bịt kín của vỏ gối.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044511Z" creationid="Kieu Lan" creationdate="20210508T044149Z">
@@ -27225,6 +27545,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T015249Z" creationid="Kieu Lan" creationdate="20210427T015249Z">
         <seg>Nhân viên phải cập nhật cho khách sau khi vấn đề đã được giải quyết và đề nghị hỗ trợ thêm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phòng họp &amp; Sự kiện -&gt; Thiết bị phòng họp -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>phòng họp &amp; Sự kiện -&gt; Thiết bị phòng họp -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
