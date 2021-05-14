@@ -7963,6 +7963,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items ordered from the room service menu must be delivered within 30 minutes of ordering [60808] mặt hàng được đặt từ thực đơn dịch vụ phòng phải được giao trong vòng 30 phút kể từ khi đặt hàng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T070144Z" creationid="LanHK" creationdate="20210514T070144Z">
+        <seg>Items ordered from the room service menu must be delivered within 30 minutes of ordering [60808] Đồ ăn uống được đặt từ thực đơn dịch vụ phòng phải được giao trong vòng 30 phút kể từ khi đặt hàng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items should be reasonably priced with nominal mark-ups on market prices [61116] mặt hàng nên được định giá hợp lý với tăng giá danh nghĩa trên giá thị trường</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T093519Z" creationid="LanHK" creationdate="20210511T093511Z">
@@ -11959,6 +11967,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070718Z" creationid="LanHK" creationdate="20210513T070718Z">
         <seg>Salted butter must be available either set up on the buffet or on request [67295] Bơ mặn phải có trên quầy buffet hoặc theo yêu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample Cloche or Food Cover for Holiday Inn brand Mẫu cloche hoặc bọc thực phẩm cho thương hiệu Holiday Inn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T065950Z" creationid="LanHK" creationdate="20210514T065950Z">
+        <seg>Sample Cloche or Food Cover for Holiday Inn brand Mẫu cloche hoặc nắp đậy đồ ăn cho thương hiệu Holiday Inn</seg>
       </tuv>
     </tu>
     <tu>
@@ -18635,6 +18651,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2907] Khi bày khay dịch vụ phòng cho khách, nhân viên phải xác nhận các mặt hàng F&amp;B và đảm bảo khách có mọi thứ họ cần trước khi khởi hành</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T070110Z" creationid="LanHK" creationdate="20210514T070110Z">
+        <seg>[2907] Khi bày khay dịch vụ phòng cho khách, nhân viên phải xác nhận các đồ F&amp;B và đảm bảo khách có mọi thứ họ cần trước khi rời đi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[29166] Nhà vô địch Trải nghiệm khách hoặc Giám đốc đào tạo được chỉ định phải đảm bảo rằng tất cả các hoạt động đào tạo Dịch vụ thương hiệu trong khách sạn được thực hiện và hoàn thành.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T120225Z" creationid="LanHK" creationdate="20210419T120225Z">
@@ -23160,6 +23184,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T021039Z" creationid="LanHK" creationdate="20210513T021039Z">
         <seg>[60759] Phải cung cấp lựa chọn trải nghiệm ăn uống riêng tư.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60810] món thường mất hơn 20 phút phải được ghi chú trong thực đơn và khách phải được thông báo tại thời điểm đặt hàng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T070228Z" creationid="LanHK" creationdate="20210514T070228Z">
+        <seg>[60810] Các món thường mất hơn 20 phút phải được chú thích trong thực đơn và khách phải được thông báo tại thời điểm đặt hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60811] Nếu có sự chậm trễ hơn nữa, khách phải được thông báo về sự chậm trễ ít nhất năm phút trước thời gian giao hàng được thông báo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T070232Z" creationid="LanHK" creationdate="20210514T070232Z">
+        <seg>[60811] Nếu có sự chậm trễ hơn nữa, khách phải được thông báo về sự chậm trễ ít nhất năm phút trước thời gian giao hàng đã thông báo.</seg>
       </tuv>
     </tu>
     <tu>
