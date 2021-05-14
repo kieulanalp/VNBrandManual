@@ -5772,8 +5772,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; In Room Dining / Room Service Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống trong phòng / Dịch vụ phòng</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/Dịch vụ phòng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064404Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service Ăn uống trong phòng/Dịch vụ phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -16851,6 +16851,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[124057] Chiếu sáng với đèn tiêu điểm chỉ định.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064305Z" creationid="LanHK" creationdate="20210514T064305Z">
+        <seg>[124057] được chiếu sáng bằng đèn accent riêng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[124058]       Cố định an toàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064312Z" creationid="LanHK" creationdate="20210514T064312Z">
+        <seg>[124058]       Cố định chắc chắn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[124065]    chức năng điều khiển ánh sáng, được lắp đặt ở vị trí FOH, phải che chắn khỏi tầm nhìn của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T031810Z" creationid="LanHK" creationdate="20210514T031738Z">
@@ -18039,6 +18055,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T015147Z" creationid="Kieu Lan" creationdate="20210426T015147Z">
         <seg>[2512] Khi làm check-in cho một khách đến ngoài giờ nhà hàng hoạt động, các nhân viên phải thông báo cho khách về các lựa chọn đồ ăn uống có sẵn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[2525] khay dịch vụ phòng phải được gỡ bỏ khỏi tất cả các hành lang trước 23:00</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064420Z" creationid="LanHK" creationdate="20210514T064420Z">
+        <seg>[2525] khay dịch vụ phòng phải được dọn khỏi tất cả các hành lang trước 23:00</seg>
       </tuv>
     </tu>
     <tu>
