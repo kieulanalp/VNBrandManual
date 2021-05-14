@@ -23524,6 +23524,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[60566] Sữa ca cao.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T084813Z" creationid="LanHK" creationdate="20210514T084813Z">
+        <seg>[60566] ca cao đá xay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[606048]</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075311Z" creationid="LanHK" creationdate="20210419T075311Z">
