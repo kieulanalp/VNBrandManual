@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, two types of red wines must be available by the glass: [53826] Tối thiểu, luôn có hai loại rượu vang đỏ bằng ly:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T090447Z" creationid="LanHK" creationdate="20210514T090447Z">
+        <seg>At a minimum, two types of red wines must be available by the glass: [53826] Tối thiểu, luôn có hai loại rượu vang đỏ phục vụ theo ly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, two types of salad dressings must be provided and include: [59823] Tối thiểu, phải cung cấp hai loại salad trộn và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062415Z" creationid="LanHK" creationdate="20210513T062415Z">
