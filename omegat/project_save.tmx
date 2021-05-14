@@ -5706,6 +5706,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Speciality Restaurants Thực phẩm và đồ uống (F&amp;B) -&gt; Nhà hàng chuyên doanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032658Z" creationid="LanHK" creationdate="20210514T032658Z">
+        <seg>Food &amp; Beverage -&gt; Speciality Restaurants Nhà hàng chuyên doanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage flow chart / design reference attached.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -16291,6 +16299,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[117039]     Tách biệt bếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032710Z" creationid="LanHK" creationdate="20210514T032710Z">
+        <seg>[117039]     Bếp tách biệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[117040] Tách biệt các cơ sở nhân viên khi được các bên thứ ba vận hành độc lập.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032729Z" creationid="LanHK" creationdate="20210514T032729Z">
+        <seg>[117040] Đội ngũ nhân viên tách biệt nếu nhà hàng được các bên thứ ba vận hành độc lập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[117044]      Không cho phép ghế bành.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T094009Z" creationid="LanHK" creationdate="20210513T094009Z">
@@ -16359,6 +16383,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T031810Z" creationid="LanHK" creationdate="20210514T031738Z">
         <seg>[124065]    Các điều khiển ánh sáng khi lắp ở vị trí FOH phải được che khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[124066]     Kiểm soát ánh sáng không cho khách truy cập</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032652Z" creationid="LanHK" creationdate="20210514T032652Z">
+        <seg>[124066]     Không cho khách tiếp cập điều khiển chiếu sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[124070] Chiếu sáng tiêu điểm hoặc đặc biệt để làm nổi bật tác phẩm nghệ thuật hoặc các chi tiết khác được quan tâm đặc biệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032601Z" creationid="LanHK" creationdate="20210514T032601Z">
+        <seg>[124070] Chiếu sáng tiêu điểm hoặc đặc biệt để làm nổi bật tranh ảnh nghệ thuật hoặc các chi tiết khác đáng quan tâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[124072]     Đèn điều chỉnh độ sáng và với điều chỉnh cảnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032633Z" creationid="LanHK" creationdate="20210514T032633Z">
+        <seg>[124072]     Có thể điều chỉnh độ sáng và có chế độ chiếu sáng cài đặt sẵn.</seg>
       </tuv>
     </tu>
     <tu>
