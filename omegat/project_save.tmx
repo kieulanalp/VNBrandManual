@@ -10897,10 +10897,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One must be Cabernet Sauvignon or the main grape variety in a blend [53829] Một phải là Cabernet Sauvignon hoặc giống nho chính trong một pha trộn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T090534Z" creationid="LanHK" creationdate="20210514T090452Z">
+        <seg>One must be Cabernet Sauvignon or the main grape variety in a blend [53824] Một loại phải là Cabernet Sauvignon hoặc Cabernet Sauvignon là loại nho chính trong hỗn hợp nho ủ rượu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One must be Chardonnay or the main grape variety in a blend [587093] Một phải là Chardonnay hoặc giống nho chính trong một pha trộn</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T090421Z" creationid="LanHK" creationdate="20210514T090421Z">
-        <seg>One must be Chardonnay or the main grape variety in a blend [587093] Một loại phải là Sauvignon Blanc hoặc Chardonnay là loại nho chính trong hỗn hợp nho ủ rượu</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T090508Z" creationid="LanHK" creationdate="20210514T090421Z">
+        <seg>One must be Chardonnay or the main grape variety in a blend [587093] Một loại phải là Chardonnay hoặc Chardonnay là loại nho chính trong hỗn hợp nho ủ rượu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One must be Pinot Noir or the main grape variety in a blend [98435] Một phải là Cabernet Pinot Noir hoặc giống nho chính trong một pha trộn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T090559Z" creationid="LanHK" creationdate="20210514T090559Z">
+        <seg>One must be Pinot Noir or the main grape variety in a blend [53824] Một loại phải là Pinot Noir hoặc Pinot Noir là loại nho chính trong hỗn hợp nho ủ rượu</seg>
       </tuv>
     </tu>
     <tu>
@@ -23272,6 +23288,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T105652Z" creationid="LanHK" creationdate="20210406T105652Z">
         <seg>[58675] Một Green Team (Team Hành động Xanh) nên được thành lập để khuyến khích đạt được các mục tiêu bền vững của khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[587096] Tối thiểu, luôn có một chai rượu vang trong chai</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T091041Z" creationid="LanHK" creationdate="20210514T091041Z">
+        <seg>[587096] Tối thiểu, luôn có một loại rượu sủi bọt phục vụ theo chai</seg>
       </tuv>
     </tu>
     <tu>
