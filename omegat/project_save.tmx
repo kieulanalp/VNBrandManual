@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, of one type of jam and one honey must be available and include: [52154] Tối thiểu, phải luôn có một loại mứt và một loại mật ong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073321Z" creationid="LanHK" creationdate="20210514T073321Z">
+        <seg>At a minimum, of one type of jam and one honey must be available and include: [52154] Tối thiểu, phải luôn có một loại jam và một loại mật ong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, three types of spreads are required and include: [67495] Tối thiểu, yêu cầu ba phết bánh và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T065343Z" creationid="LanHK" creationdate="20210513T065343Z">
@@ -10821,6 +10829,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Phải có trọng lượng lông nhung ngang tối thiểu được chứng nhận là 1085g/m2 (32oz/m2 yd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phải có tối thiểu một và tối đa ba loại mứt trái cây</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073317Z" creationid="LanHK" creationdate="20210514T073317Z">
+        <seg>Phải có tối thiểu một và tối đa ba loại compote trái cây</seg>
       </tuv>
     </tu>
     <tu>
@@ -20560,6 +20576,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T101120Z" creationid="LanHK" creationdate="20210416T101120Z">
         <seg>[513057] Khi các đầu báo nhiệt cục bộ có dây đến hạn thay thế khi hết tuổi thọ, phải được thay thế bằng đầu báo khói, không bao gồm các khách sạn Xây mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[52156] Một mứt cam.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074836Z" creationid="LanHK" creationdate="20210514T074836Z">
+        <seg>[52156] Một mứt marmalade</seg>
       </tuv>
     </tu>
     <tu>
