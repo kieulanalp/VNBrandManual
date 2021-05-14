@@ -13243,6 +13243,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thiết kế nội thất nên mang lại cho nhà hàng bản sắc và không khí riêng, do đó, thiết kế nên khác biệt rõ ràng với thiết kế nội thất của các khu vực công cộng của khách sạn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032857Z" creationid="LanHK" creationdate="20210514T032857Z">
+        <seg>[117042] Thiết kế nội thất nên mang lại cho nhà hàng bản sắc và không khí riêng, do đó, thiết kế nên khác biệt rõ ràng với thiết kế nội thất của các khu vực công cộng trong khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thread count per square inch: Minimum 200 [66763] Số lượng chỉ trên mỗi inch vuông: Tối thiểu 200</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T012321Z" creationid="Kieu Lan" creationdate="20210510T012321Z">
@@ -16311,6 +16319,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T032729Z" creationid="LanHK" creationdate="20210514T032729Z">
         <seg>[117040] Đội ngũ nhân viên tách biệt nếu nhà hàng được các bên thứ ba vận hành độc lập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[117041]     Đề xuất một lối vào bên ngoài riêng biệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032741Z" creationid="LanHK" creationdate="20210514T032735Z">
+        <seg>[117041]     Đề xuất có một lối vào riêng từ bên ngoài .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[117042]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032754Z" creationid="LanHK" creationdate="20210514T032754Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -25849,6 +25873,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075142Z" creationid="LanHK" creationdate="20210510T075142Z">
         <seg>[91798] Nên để dép trong tủ áo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92173]    Khi một nhà hàng được vận hành độc lập với khách sạn, các rủi ro an ninh liên quan đến hoạt động của bên thứ ba phải được xem xét khi thiết kế khu vực giao hàng, chuẩn bị, lưu trữ và nhà bếp, và các cơ sở nhân viên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T032944Z" creationid="LanHK" creationdate="20210514T032944Z">
+        <seg>[92173]    Khi một nhà hàng được vận hành độc lập với khách sạn, các rủi ro an ninh liên quan đến hoạt động của bên thứ ba phải được xem xét khi thiết kế khu vực giao hàng, chuẩn bị, kho hàng và nhà bếp, và các cơ sở vật chất cho nhân viên.</seg>
       </tuv>
     </tu>
     <tu>
