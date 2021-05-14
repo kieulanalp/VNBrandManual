@@ -5682,6 +5682,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Fixtures and Fittings Thực phẩm và đồ uống (F&amp;B) -&gt; Đồ đạc và phụ kiện</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T063058Z" creationid="LanHK" creationdate="20210514T063058Z">
+        <seg>Food &amp; Beverage -&gt; Fixtures and Fittings Thực phẩm và đồ uống (F&amp;B) -&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; Furniture, Finishes, Fixtures &amp; Equipment Thực phẩm và đồ uống (F&amp;B) -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
@@ -7981,8 +7989,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Fixtures and Fittings Hành trình trong khách sạn -&gt; Hành lang cho khách &amp; Sảnh thang máy -&gt; Đồ đạc và Phụ kiện</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023836Z" creationid="Kieu Lan" creationdate="20210427T023836Z">
-        <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Fixtures and Fittings Đồ đạc và Phụ kiện</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T063058Z" creationid="Kieu Lan" creationdate="20210427T023836Z">
+        <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Fixtures and Fittings </seg>
       </tuv>
     </tu>
     <tu>
