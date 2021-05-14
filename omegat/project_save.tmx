@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 164)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074921Z" creationid="LanHK" creationdate="20210514T074921Z">
+        <seg>(Trang 162)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 17)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T044912Z" creationid="LanHK" creationdate="20210406T044912Z">
@@ -1738,6 +1746,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T025702Z" creationid="Kieu Lan" creationdate="20210426T025702Z">
         <seg>All storage at the front desk must be out of guest view [54820]      Tất cả tủ chứa tại quầy lễ tân phải nằm ngoài tầm nhìn của khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All white [60513] Hoàn toàn trắng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074948Z" creationid="LanHK" creationdate="20210514T074948Z">
+        <seg>All white [60513] omelette lòng trắng trứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -3843,6 +3859,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092007Z" creationid="LanHK" creationdate="20210405T092007Z">
         <seg>Commercial Thương mại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commercially packaged into individual portions [53341] Đóng gói thương mại thành các phần riêng biệt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074854Z" creationid="LanHK" creationdate="20210514T074854Z">
+        <seg>Commercially packaged into individual portions [53341] Đóng gói trong bao bì thương mại thành các khẩu phần lẻ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7426,6 +7450,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IHG Frontline - Recipe for Egg Dishes IHG Frontline – Công Thức cho Món Trứng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T075056Z" creationid="LanHK" creationdate="20210514T075056Z">
+        <seg>IHG Frontline - Recipe for Egg Dishes IHG Frontline – Công Thức cho Món Trứng (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IHG Frontline - Recipes for Egg Dishes IHG Frontline – Công Thức Cho Món Trứng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T071106Z" creationid="LanHK" creationdate="20210513T071106Z">
@@ -10337,6 +10369,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Omelettes must be offered and include: [53316] Phải cung cấp trứng ốp lét và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074934Z" creationid="LanHK" creationdate="20210514T074934Z">
+        <seg>Omelettes must be offered and include: [53316] Phải cung cấp trứng omelette và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On / Off [285518]     Bật/ tắt</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11630,6 +11670,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Registrations of existing violating Domain and/or Sub-Domain Names must be allowed to expire or be transferred to IHG®, at IHG’s option and at no cost to IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular [60514] Bình thường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074952Z" creationid="LanHK" creationdate="20210514T074952Z">
+        <seg>Regular [60514] omelette bình thường</seg>
       </tuv>
     </tu>
     <tu>
@@ -13551,6 +13599,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T023847Z" creationid="Kieu Lan" creationdate="20210427T023847Z">
         <seg>The following signage must be provided within the main lift lobby: [57696] Phải cung cấp các loại biển báo trong sảnh thang máy chính:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following types of egg preparations must be offered: [53315] Phải cung cấp các loại trứng sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074916Z" creationid="LanHK" creationdate="20210514T074916Z">
+        <seg>The following types of egg preparations must be offered: [53315] Phải cung cấp các món trứng sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following types of hot side dishes must be offered and include: [53319] Phải cung cấp thêm các món ăn nóng sau đây và bao gồm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T075108Z" creationid="LanHK" creationdate="20210514T075108Z">
+        <seg>The following types of hot side dishes must be offered and include: [53319] Phải cung cấp thêm các món ăn nóng ăn kèm sau đây và bao gồm</seg>
       </tuv>
     </tu>
     <tu>
@@ -23220,6 +23284,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[60515] Phải có tối thiểu sáu lần đổ đầy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074958Z" creationid="LanHK" creationdate="20210514T074958Z">
+        <seg>[60515] Phải có tối thiểu sáu loại nhân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[606048]</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075311Z" creationid="LanHK" creationdate="20210419T075311Z">
@@ -28389,6 +28461,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>•  Local and reputable products are recommended [67540] Đề xuất các sản phẩm địa phương và uy tín</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T074908Z" creationid="LanHK" creationdate="20210514T074908Z">
+        <seg>•  Local and reputable products are recommended [67540] Khuyến nghị dùng các sản phẩm địa phương và uy tín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>•  Menus in other languages are recommended for main nationality of the guests in the hotel Thực đơn bằng các ngôn ngữ khác được khuyến nghị cho quốc tịch chính của khách trong khách sạn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T030312Z" creationid="LanHK" creationdate="20210513T030312Z">
@@ -28433,6 +28513,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>•  Refer to Annexure-35 for generator/back up power selection criteria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Refer to IHG Frontline Egg Recipes [587073] Tham chiếu Công Thức Nấu Trứng của IHG Frontline</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T075032Z" creationid="LanHK" creationdate="20210514T075032Z">
+        <seg>•  Refer to IHG Frontline Egg Recipes [587073] Tham chiếu Công thức món trứng IHG Frontline</seg>
       </tuv>
     </tu>
     <tu>
