@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 167)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083450Z" creationid="LanHK" creationdate="20210514T083450Z">
+        <seg>(Trang 165)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 17)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T044912Z" creationid="LanHK" creationdate="20210406T044912Z">
@@ -1504,8 +1512,8 @@
       <tuv lang="EN-US">
         <seg>Additional flavours of carbonated soft drinks (e.g. ginger ale, orangina) [52226] Hương vị bổ sung của nước ngọt có ga (ví dụ: rượu gừng, cam)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083412Z" creationid="LanHK" creationdate="20210514T083412Z">
-        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Các loại nước ngọt có ga khác (ví dụ: nước ngọt có ga hương gừng, bia gừng, nước cam)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083434Z" creationid="LanHK" creationdate="20210514T083412Z">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Các loại nước ngọt có ga khác (ví dụ: ginger ale, nước cam)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2242,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082554Z" creationid="LanHK" creationdate="20210514T082554Z">
         <seg>At a minimum, two burgers or sandwiches must be available and include: [52267] Tối thiểu, phải có hai loại burger hoặc bánh sandwich và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, two types of ice blended drinks must be available and include: [53331] Tối thiểu, luôn phải có hai loại đồ uống pha đá và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T084804Z" creationid="LanHK" creationdate="20210514T084804Z">
+        <seg>At a minimum, two types of ice blended drinks must be available and include: [53331] Tối thiểu, luôn phải có hai loại đồ uống đá xay và bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8379,6 +8395,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Juice options [52229] nước ép lựa chọn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083447Z" creationid="LanHK" creationdate="20210514T083447Z">
+        <seg>Juice options [52229] các loại nước quả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jun 2019 Guidelines Hướng dẫn ngày 14 tháng 6 năm 2019</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T021543Z" creationid="LanHK" creationdate="20210513T021543Z">
@@ -13775,6 +13799,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T061436Z" creationid="LanHK" creationdate="20210419T061436Z">
         <seg>The following items must comply with the testing criteria of an IHG recognised Test Authority: [55908] Các hạng mục sau đây phải tuân thủ các tiêu chí kiểm tra của Cơ quan kiểm tra được IHG công nhận:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following juices are recommended to be available; pineapple, tomato and cranberry [587080] Đề nghị luôn có các loại nước ép sau; nước dứa, cà chua và việt quất</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083513Z" creationid="LanHK" creationdate="20210514T083513Z">
+        <seg>The following juices are recommended to be available; pineapple, tomato and cranberry [587080] Khuyến nghị luôn có các loại nước ép sau; nước dứa, cà chua và việt quất</seg>
       </tuv>
     </tu>
     <tu>
