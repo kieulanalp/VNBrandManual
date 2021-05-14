@@ -5684,8 +5684,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; Fixtures and Fittings Thực phẩm và đồ uống (F&amp;B) -&gt; Đồ đạc và phụ kiện</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T063058Z" creationid="LanHK" creationdate="20210514T063058Z">
-        <seg>Food &amp; Beverage -&gt; Fixtures and Fittings Thực phẩm và đồ uống (F&amp;B) -&gt; </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064002Z" creationid="LanHK" creationdate="20210514T063058Z">
+        <seg>Food &amp; Beverage -&gt; Fixtures and Fittings Chiếu sáng và Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
@@ -7989,8 +7989,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Fixtures and Fittings Hành trình trong khách sạn -&gt; Hành lang cho khách &amp; Sảnh thang máy -&gt; Đồ đạc và Phụ kiện</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T063058Z" creationid="Kieu Lan" creationdate="20210427T023836Z">
-        <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Fixtures and Fittings </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T063941Z" creationid="Kieu Lan" creationdate="20210427T023836Z">
+        <seg>Journey within the hotel -&gt; Guest Corridors &amp; Elevator/Lift Lobbies -&gt; Fixtures and Fittings Chiếu sáng và Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
@@ -8037,8 +8037,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Journey within the hotel -&gt; Guest Stairs -&gt; Fixtures and Fittings Hành trình trong khách sạn -&gt; Cầu thang cho khách -&gt; Đồ đạc và phụ kiện</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T091339Z" creationid="Kieu Lan" creationdate="20210427T091339Z">
-        <seg>Journey within the hotel -&gt; Guest Stairs -&gt; Fixtures and Fittings Đồ đạc và Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T063948Z" creationid="Kieu Lan" creationdate="20210427T091339Z">
+        <seg>Journey within the hotel -&gt; Guest Stairs -&gt; Fixtures and Fittings Chiếu sáng và Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
@@ -15507,6 +15507,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[102720] Phải cung cấp tác phẩm nghệ thuật trong tất cả các quầy hàng F&amp;B.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064250Z" creationid="LanHK" creationdate="20210514T064250Z">
+        <seg>[102720] Phải cung cấp tranh ảnh nghệ thuật trong tất cả các outletF&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[103215] Khuyến nghị tiền sảnh hoặc tường ô gạch ở lối vào nhà vệ sinh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T094147Z" creationid="LanHK" creationdate="20210428T020534Z">
@@ -17971,6 +17979,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2482] Hiển thi thời gian hoạt động tại lối vào các quầy F&amp;B.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064040Z" creationid="LanHK" creationdate="20210514T064040Z">
+        <seg>[2482] Phải có thông báo về thời gian hoạt động tại các lối vào outlet F&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[2492] Luôn có một thực đơn miễn phí cho trẻ trong tất cả các bữa ăn tại nhà hàng chính</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T023719Z" creationid="LanHK" creationdate="20210513T023719Z">
@@ -19512,6 +19528,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T022908Z" creationid="LanHK" creationdate="20210513T022908Z">
         <seg>[38388] Thời gian cao điểm phải được xác định và có kế hoạch bố trí nhân sự để đáp ứng các tiêu chuẩn F&amp;B 24 giờ một ngày.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38503]      Nếu theo văn hóa địa phương, phải có một cơ sở che chắn các cửa hàng F&amp;B khỏi tầm nhìn công cộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T064101Z" creationid="LanHK" creationdate="20210514T064101Z">
+        <seg>[38503]      Tùy theo văn hóa địa phương, phải có một cơ chế che chắn các cửa hàng F&amp;B khỏi tầm nhìn công cộng.</seg>
       </tuv>
     </tu>
     <tu>
