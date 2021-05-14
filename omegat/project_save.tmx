@@ -3215,6 +3215,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cashiering terminals must meet the following: [116185] Thiết bị đầu cuối Cashiering phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T040232Z" creationid="LanHK" creationdate="20210514T040232Z">
+        <seg>Cashiering terminals must meet the following: [116185] Máy tính thu ngân phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Casing Material: 100% cotton [66508] Chất liệu vỏ gối: 100% cotton</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051453Z" creationid="Kieu Lan" creationdate="20210508T051453Z">
@@ -16619,6 +16627,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116187]     (Các) máy rút tiền</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T040241Z" creationid="LanHK" creationdate="20210514T040241Z">
+        <seg>[116187]     (Các) máy cà thẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[11624] Trường hợp sử dụng biển hiệu tại sân bay, phải được chuẩn bị chuyên nghiệp, hiển thị logo khách sạn và tên vị trí.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T063648Z" creationid="Kieu Lan" creationdate="20210422T063648Z">
@@ -26225,6 +26241,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T034350Z" creationid="LanHK" creationdate="20210514T034350Z">
         <seg>[92156] Khuyến nghị được đặt ở các vị trí khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92158] Nằm trong hoặc gần nhà hàng họ đang phục vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T040127Z" creationid="LanHK" creationdate="20210514T040127Z">
+        <seg>[92158] Nằm trong hoặc gần nhà hàng chúng phục vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92159] Đề nghị được đặt ở các vị trí khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T040141Z" creationid="LanHK" creationdate="20210514T040138Z">
+        <seg>[92159] Khuyến nghị được đặt ở các vị trí khuất khỏi tầm nhìn của khách.</seg>
       </tuv>
     </tu>
     <tu>
