@@ -7739,6 +7739,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inputting terminals must meet the following: [116194] thiết bị đầu vào phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T042326Z" creationid="LanHK" creationdate="20210514T042326Z">
+        <seg>Inputting terminals must meet the following: [116194] thiết bị nhập phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insulation</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T011637Z" creationid="LanHK" creationdate="20210406T011637Z">
