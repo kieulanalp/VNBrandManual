@@ -23204,6 +23204,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[60812] Khách cần được thông báo nếu có bất kỳ sự chậm trễ nào vì bất kỳ lý do nào vượt quá thời gian quy định tại thời điểm đặt hàng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T071711Z" creationid="LanHK" creationdate="20210514T071711Z">
+        <seg>[60812] Khách phải được thông báo nếu có bất kỳ sự chậm trễ nào vì bất cứ lý do nào khi vượt quá thời gian đợi đã thông báo vào lúc đặt hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[60825] Hành lang phải được dọn sạch các khay và xe đẩy của khách hai giờ một lần và / hoặc theo yêu cầu của khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
