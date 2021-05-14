@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 159)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T031651Z" creationid="LanHK" creationdate="20210514T031651Z">
+        <seg>(Trang 157)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 16)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T041923Z" creationid="LanHK" creationdate="20210406T041923Z">
@@ -1880,8 +1888,8 @@
       <tuv lang="EN-US">
         <seg>Arrival -&gt; Entrances -&gt; Fixtures and Fittings Điểm Đến -&gt; Lối vào -&gt; Đồ đạc và Thiết Bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210424T014949Z" creationid="LanHK" creationdate="20210424T014949Z">
-        <seg>Arrival -&gt; Entrances -&gt; Fixtures and Fittings Đồ đạc và Thiết Bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T020725Z" creationid="LanHK" creationdate="20210424T014949Z">
+        <seg>Arrival -&gt; Entrances -&gt; Fixtures and Fittings </seg>
       </tuv>
     </tu>
     <tu>
@@ -5436,8 +5444,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Fixtures and Fittings</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T093012Z" creationid="LanHK" creationdate="20210405T093012Z">
-        <seg>Fixtures and Fittings Đồ đạc và Thiết Bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T020723Z" creationid="LanHK" creationdate="20210405T093012Z">
+        <seg>Fixtures and Fittings Chiếu sáng và Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
@@ -13309,8 +13317,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Thực phẩm và đồ uống (F&amp;B)-&gt; Ăn uống -&gt; Đồ đạc và thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T020353Z" creationid="LanHK" creationdate="20210513T100745Z">
-        <seg>Thiết bị chiếu sáng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T020748Z" creationid="LanHK" creationdate="20210513T100745Z">
+        <seg>Chiếu sáng và Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
