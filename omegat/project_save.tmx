@@ -7941,8 +7941,24 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>In room Dining Service Trolley with Molton Cover Xe Đẩy Dịch Vụ Ăn Uống Trong Phòng với Lớp Bảo Vệ Molton</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T092258Z" creationid="LanHK" creationdate="20210514T092258Z">
-        <seg>In room Dining Service Trolley with Molton Cover Xe Đẩy Dịch Vụ Lớp lót Molton</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T093049Z" creationid="LanHK" creationdate="20210514T092258Z">
+        <seg>In room Dining Service Trolley with Molton Cover Xe Đẩy Dịch Vụ với Lớp lót Molton (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In room Dining Trolley with Hot Box_1 Xe Đẩy Ăn Uống Trong Phòng với Hộp Đồ Nóng_1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T093125Z" creationid="LanHK" creationdate="20210514T093107Z">
+        <seg>In room Dining Trolley with Hot Box_1 Xe Đẩy Đồ Ăn với Hộp Nóng_1 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In room Dining Trolley with Hot Box_2 Xe Đẩy Ăn Uống Trong Phòng với Hộp Đồ Nóng_2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T093110Z" creationid="LanHK" creationdate="20210514T093105Z">
+        <seg>In room Dining Trolley with Hot Box_2 Xe Đẩy Đồ Ăn với Hộp Nóng_2 (thiếu link)</seg>
       </tuv>
     </tu>
     <tu>
