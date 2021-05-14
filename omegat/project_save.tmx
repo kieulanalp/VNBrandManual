@@ -10441,6 +10441,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One wireless telephone for customer use for inbound or outbound calls [92612]     Một điện thoại không dây cho khách hàng gọi trong hoặc ngoài nước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T062500Z" creationid="LanHK" creationdate="20210514T062500Z">
+        <seg>One wireless telephone for customer use for inbound or outbound calls [92612]     Một điện thoại không dây nhận cuộc gọi đến từ khách hàng và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One yoghurt based [59825] Một loại salad sữa chua</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062455Z" creationid="LanHK" creationdate="20210513T062447Z">
@@ -26353,6 +26361,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T034856Z" creationid="LanHK" creationdate="20210513T034856Z">
         <seg>[92608]   Tối thiểu 40% số key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92613]     Hiển thị tên khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T045145Z" creationid="LanHK" creationdate="20210514T045145Z">
+        <seg>[92613]     Màn hình hiển thị tên khách.</seg>
       </tuv>
     </tu>
     <tu>
