@@ -1166,6 +1166,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minimum of three and a maximum of five sweet bakery products [585060] Tối thiểu ba và tối đa năm sản phẩm bánh ngọt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073220Z" creationid="LanHK" creationdate="20210514T073220Z">
+        <seg>A minimum of three and a maximum of five sweet bakery products [585060] Tối thiểu ba và tối đa năm loại bánh mì ngọt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A minimum of three and a maximum of five types of breakfast set menus must be offered and include: [51703] Tối thiểu ba và tối đa năm loại thực đơn bữa sáng phải được cung cấp và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073230Z" creationid="LanHK" creationdate="20210514T073230Z">
+        <seg>A minimum of three and a maximum of five types of breakfast set menus must be offered and include: [51703] Tối thiểu ba và tối đa năm set bữa sáng phải được cung cấp và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum of three and a maximum of four types of fruit compotes or preserved fruits must be offered: [59980] Phải cung cấp tối thiểu ba và tối đa bốn loại mứt trái cây hoặc trái cây được bảo quản.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T065112Z" creationid="LanHK" creationdate="20210513T063024Z">
@@ -5796,8 +5812,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Food &amp; Beverage -&gt; In Room Dining / Room Service -&gt; Room Service Menu Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/ Dịch vụ phòng -&gt; Thực đơn Dịch vụ phòng</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service -&gt; Room Service Menu Thực phẩm và đồ uống (F&amp;B) -&gt; Ăn uống trong phòng/ Dịch vụ phòng -&gt; Thực đơn Dịch vụ phòng</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073022Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service -&gt; Room Service Menu Thực đơn Dịch vụ phòng</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9411,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum one local or regional [51906] Tối thiểu một kiểu địa phương hoặc khu vực</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073244Z" creationid="LanHK" creationdate="20210514T073244Z">
+        <seg>Minimum one local or regional [51906] Tối thiểu set một kiểu địa phương hoặc khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum one starch [583088] Tối thiểu một đồ tinh bột</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T090218Z" creationid="LanHK" creationdate="20210513T090218Z">
@@ -9435,6 +9459,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum three types of sliced fruits [585056] Tối thiểu ba loại trái cây thái lát</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073148Z" creationid="LanHK" creationdate="20210514T073148Z">
+        <seg>Minimum three types of sliced fruits [585056] Tối thiểu ba loại trái cây cắt sẵn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum two types of leaves (e.g. cos, iceberg, rocket, baby spinach, lettuce) [59811] Tối thiểu hai loại lá (ví dụ: cos, xà lách búp, xà lách rocket, rau bina bé, rau xà lách)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062339Z" creationid="LanHK" creationdate="20210513T061156Z">
@@ -9447,6 +9479,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062403Z" creationid="LanHK" creationdate="20210513T062403Z">
         <seg>Minimum two types of other vegetables (e.g: carrot, cucumber, corn, avocado, onion) [59812] Tối thiểu hai loại rau củ khác (ví dụ: cà rốt, dưa chuột, ngô, bơ, hành tây)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum two types of toast (e.g. white, brown, multi grain, whole wheat) [585057] Tối thiểu hai loại bánh mì nướng (ví dụ: trắng, nâu, multi grain, lúa mì nguyên hạt)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073158Z" creationid="LanHK" creationdate="20210514T073158Z">
+        <seg>Minimum two types of toast (e.g. white, brown, multi grain, whole wheat) [585057] Tối thiểu hai loại bánh mì nướng (ví dụ: bánh mì trắng, nâu, multi grain, lúa mì nguyên hạt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10309,6 +10349,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063430Z" creationid="Kieu Lan" creationdate="20210510T063430Z">
         <seg>One 30ml (1 fl oz) body lotion [57366] Một sữa dưỡng thể 30ml (1 fl oz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One American [51905] Một kiểu Mỹ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073238Z" creationid="LanHK" creationdate="20210514T073238Z">
+        <seg>One American [51905] Một set kiểu Mỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One Continental [51704] Một kiểu Âu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073236Z" creationid="LanHK" creationdate="20210514T073236Z">
+        <seg>One Continental [51704] Một set kiểu Âu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11878,6 +11934,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T091516Z" creationid="LanHK" creationdate="20210405T091516Z">
         <seg>General&lt;t0/&gt; &lt;t1/&gt;Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room service menu must offer: [585053] Thực đơn dịch vụ phòng phải cung cấp:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073026Z" creationid="LanHK" creationdate="20210514T073026Z">
+        <seg>Room service menu must offer: [585053] Thực đơn dịch vụ phòng phải có:</seg>
       </tuv>
     </tu>
     <tu>
