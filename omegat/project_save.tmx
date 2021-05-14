@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional flavours of carbonated soft drinks (e.g. ginger ale, orangina) [52226] Hương vị bổ sung của nước ngọt có ga (ví dụ: rượu gừng, cam)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083412Z" creationid="LanHK" creationdate="20210514T083412Z">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Các loại nước ngọt có ga khác (ví dụ: nước ngọt có ga hương gừng, bia gừng, nước cam)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, in developing their policies, franchised hotels may also refer to The UN Global Compact's ten principles, The Universal Declaration of Human Rights and / or The International Labour Organisation's Declaration on Fundamental Principles and Rights at Work.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -2762,6 +2770,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T083058Z" creationid="LanHK" creationdate="20210514T083058Z">
         <seg>Black coffee with a minimum serving of two cups [60591] Cà phê đen, phục vụ tối thiểu hai tách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black, e.g English Breakfast [60583] Đen, ví dụ bữa sáng kiểu Anh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083153Z" creationid="LanHK" creationdate="20210514T083153Z">
+        <seg>Black, e.g English Breakfast [60583] Trà đen, ví dụ bữa sáng kiểu Anh</seg>
       </tuv>
     </tu>
     <tu>
@@ -6442,6 +6458,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Green [60585] Xanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083158Z" creationid="LanHK" creationdate="20210514T083158Z">
+        <seg>Green [60585] Trà xanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gross and Net area calculation Tính toán diện tích tổng (gross) và diện tích hiệu dụng (net)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020137Z" creationid="LanHK" creationdate="20210508T020137Z">
@@ -6942,6 +6966,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T084756Z" creationid="Kieu Lan" creationdate="20210331T084756Z">
         <seg>Heating, Ventilation and Air Conditioning Systems&lt;t0/&gt; &lt;t1/&gt;Hệ Thống Sưởi, Thông Gió và Điều Hòa Không K&lt;t2/&gt;hí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Herbal, e.g Chamomile [60587] Thảo dược, ví dụ hoa cúc Chamomile</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083209Z" creationid="LanHK" creationdate="20210514T083209Z">
+        <seg>Herbal, e.g Chamomile [60587] Trà thảo dược, ví dụ trà hoa cúc</seg>
       </tuv>
     </tu>
     <tu>
@@ -8955,6 +8987,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low fat yoghurt [52143] Sữa chua giảm béo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083247Z" creationid="LanHK" creationdate="20210514T083247Z">
+        <seg>Low fat yoghurt [52143] Sữa chua ít béo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low sugar or no sugar Coca Cola or Pepsi Cola in bottle or can [52225] Chai hoặc lon Coca Cola hoặc Pepsi Cola không đường hoặc ít đường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083341Z" creationid="LanHK" creationdate="20210514T083341Z">
+        <seg>Low sugar or no sugar Coca Cola or Pepsi Cola bottle or can [52224] Chai/lon Coca Cola/Pepsi Cola ít đường/không đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low-rise and Medium-rise buildings where a risk assessment carried out by IHG shows that the design, construction and local infrastructure achieves an acceptable level of protection against Special Fire Hazard(s) [581084]   tòa nhà thấp tầng và trung tầng nơi IHG thực hiện đánh giá rủi ro cho thấy rằng thiết kế, xây dựng và cơ sở hạ tầng địa phương đạt được mức độ bảo vệ chấp nhận được đối với các Nguy cơ hỏa hoạn đặc biệt</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T031051Z" creationid="Kieu Lan" creationdate="20210417T031051Z">
@@ -10085,6 +10133,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T073500Z" creationid="Kieu Lan" creationdate="20210422T073500Z">
         <seg>National [101896] Quốc kỳ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Natural unsweetened yoghurt [52144] Sữa chua không đường tự nhiên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083258Z" creationid="LanHK" creationdate="20210514T083258Z">
+        <seg>Natural unsweetened yoghurt [52144] Sữa chua tự nhiên không đường</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,6 +11854,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Registrations of existing violating Domain and/or Sub-Domain Names must be allowed to expire or be transferred to IHG®, at IHG’s option and at no cost to IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular Coca Cola or Pepsi Cola bottle or can [52224] Chai hoặc lon Coca Cola hoặc Pepsi Cola bình thường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083323Z" creationid="LanHK" creationdate="20210514T083323Z">
+        <seg>Regular Coca Cola or Pepsi Cola bottle or can [52224] Chai/lon Coca Cola/Pepsi Cola thường</seg>
       </tuv>
     </tu>
     <tu>
@@ -14357,8 +14421,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Hai hương vị bổ sung của nước ngọt có ga (ví dụ: nước ngọt có ga hương gừng, bia gừng, cam)</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061314Z" creationid="Kieu Lan" creationdate="20210510T061314Z">
-        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Hai loại nước ngọt có ga khác (ví dụ: nước ngọt có ga hương gừng, bia gừng, nước cam)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083425Z" creationid="Kieu Lan" creationdate="20210510T061314Z">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Hai loại nước ngọt có ga khác (ví dụ: ginger ale, bia gừng, nước cam)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15085,8 +15149,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>When tea and/or coffee is ordered, the following must be offered at a minimum: [51345] Khi đặt hàng trà và / hoặc cà phê, phải cung cấp tối thiểu như sau:</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>When tea and/or coffee is ordered, the following must be offered at a minimum: [51345] Khi đặt hàng trà và/hoặc cà phê, phải cung cấp tối thiểu như sau:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083230Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>When tea and/or coffee is ordered, the following must be offered at a minimum: [51345] Khi khách đặt trà và/hoặc cà phê, phải cung cấp tối thiểu như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24168,6 +24232,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045518Z" creationid="Kieu Lan" creationdate="20210510T045518Z">
         <seg>[675082] Nếu cung cấp sữa, nên cung cấp cả lựa chọn không phải sữa theo yêu cầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[67551] Khuyến nghị loại địa phương</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T083218Z" creationid="LanHK" creationdate="20210514T083218Z">
+        <seg>[67551] Khuyến nghị dùng trà địa phương</seg>
       </tuv>
     </tu>
     <tu>
