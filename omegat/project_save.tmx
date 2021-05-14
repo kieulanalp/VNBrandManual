@@ -1184,8 +1184,8 @@
       <tuv lang="EN-US">
         <seg>A minimum of two and a maximum of four types of cold cuts must be available: [53312] Phải có tối thiểu hai và tối đa bốn loại thịt nguội với pho mát:</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T082318Z" creationid="LanHK" creationdate="20210513T082229Z">
-        <seg>A minimum of two and a maximum of four types of cold cuts must be available: [53312] Phải có tối thiểu hai và tối đa bốn loại thịt nguội với phô mai:</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072244Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>A minimum of two and a maximum of four types of cold cuts must be available: [53312] Phải có tối thiểu hai và tối đa bốn loại thịt nguội:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1258,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210507T043203Z" creationid="LanHK" creationdate="20210507T043203Z">
         <seg>A secure storage area must be available where the luggage of registered guests can be stored temporarily. Một khu vực chứa đồ an toàn phải có để tạm thời trữ hành lý của khách đã đăng ký </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A selection of Tea &amp; Coffee [584049] Một loại Trà &amp; Cà phê</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072319Z" creationid="LanHK" creationdate="20210514T072319Z">
+        <seg>A selection of Tea &amp; Coffee [584049] Một số loại Trà &amp; Cà phê</seg>
       </tuv>
     </tu>
     <tu>
@@ -3959,6 +3967,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continental and American breakfast sets [584051] Bữa sáng kiểu Âu và Mỹ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072051Z" creationid="LanHK" creationdate="20210514T072051Z">
+        <seg>Continental and American breakfast sets [584051] Set bữa sáng kiểu Âu và Mỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continuously illuminated or immediately illuminate upon entry by guest.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T074520Z" creationid="LanHK" creationdate="20210506T074520Z">
@@ -4645,6 +4661,14 @@ See also ID number Xem thêm số ID 26944</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070928Z" creationid="LanHK" creationdate="20210513T070928Z">
         <seg>Egg menu must be displayed at the live cooking egg station [195048] Thực đơn món trứng phải để tại quầy món trứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eggs preparations, any style [584053] Chuẩn bị trứng, bất kì kiểu nào</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072125Z" creationid="LanHK" creationdate="20210514T072125Z">
+        <seg>Eggs preparations, any style [584053] Các loại món trứng, không giới hạn phương thức nấu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,8 +7981,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Items on offer must be from breakfast items in the room service/in-room dining menu or all day dining menu [584065] món ăn được cung cấp phải từ các món ăn sáng trong dịch vụ phòng / thực đơn ăn uống trong phòng hoặc thực đơn all day dining</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Items on offer must be from breakfast items in the room service/in-room dining menu or all day dining menu [584065] món ăn được cung cấp phải từ các món ăn sáng trong dịch vụ phòng/thực đơn ăn uống trong phòng hoặc thực đơn all day dining</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T073012Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Items on offer must be from breakfast items in the room service/in-room dining menu or all day dining menu [584065] món ăn được cung cấp phải thuộc nhóm các món ăn sáng trong thực đơn dịch vụ phòng hoặc thực đơn all day dining</seg>
       </tuv>
     </tu>
     <tu>
@@ -10389,6 +10413,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061739Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
         <seg>One local or regional beer option [57333] Một loại bia tại địa phương hoặc khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One local or regional breakfast set [584052] Một bữa ăn sáng địa phương hoặc khu vực</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072104Z" creationid="LanHK" creationdate="20210514T072058Z">
+        <seg>One local or regional breakfast set [584052] Set bữa sáng địa phương hoặc khu vực</seg>
       </tuv>
     </tu>
     <tu>
@@ -14085,8 +14117,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Two types of cold cuts [584061] Hai loại thịt nguội với pho mát (cold cuts)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T082312Z" creationid="LanHK" creationdate="20210513T082229Z">
-        <seg>Two types of cold cuts [584061] Hai loại thịt nguội với phô mai (cold cuts)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072236Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>Two types of cold cuts [584061] Hai loại thịt nguội (cold cuts)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23038,8 +23070,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[60234] Phải bày tối thiểu hai và tối đa bốn loại thịt nguội với pho mát (cold cuts)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T082254Z" creationid="LanHK" creationdate="20210513T082229Z">
-        <seg>[60234] Phải bày tối thiểu hai và tối đa bốn loại thịt nguội với phô mai (cold cuts)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T072226Z" creationid="LanHK" creationdate="20210513T082229Z">
+        <seg>[60234] Phải bày tối thiểu hai và tối đa bốn loại thịt nguội (cold cuts)</seg>
       </tuv>
     </tu>
     <tu>
