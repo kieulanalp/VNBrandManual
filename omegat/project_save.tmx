@@ -16643,6 +16643,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116191]     Bề mặt làm việc: rộng 90cm x sâu 60cm (35in x 24in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T041232Z" creationid="LanHK" creationdate="20210514T041232Z">
+        <seg>[116191]     Bề mặt bàn làm việc: rộng 90cm x sâu 60cm (35in x 24in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116192]     Nguồn điện và dữ liệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T041529Z" creationid="LanHK" creationdate="20210514T041529Z">
+        <seg>[116192]     ổ điện và cổng dữ liệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[11624] Trường hợp sử dụng biển hiệu tại sân bay, phải được chuẩn bị chuyên nghiệp, hiển thị logo khách sạn và tên vị trí.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T063648Z" creationid="Kieu Lan" creationdate="20210422T063648Z">
