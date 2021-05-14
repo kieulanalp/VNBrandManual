@@ -10233,6 +10233,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One Point of Sales System (POS) terminal per 50 covers [116193]     Một máy hệ thống POS cho 50 covers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210514T041957Z" creationid="LanHK" creationdate="20210514T041957Z">
+        <seg>One Point of Sales System (POS) terminal per 50 covers [116193]     Một bộ máy POS cho 50 khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One all bran cereal [59753] Ngũ cốc all bran</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T093200Z" creationid="LanHK" creationdate="20210513T093200Z">
