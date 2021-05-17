@@ -3823,6 +3823,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ceiling recessed roll-up projection screen [114511]      Màn hình máy chiếu cuộn lên lõm vào trần</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085528Z" creationid="LanHK" creationdate="20210517T085528Z">
+        <seg>Ceiling recessed roll-up projection screen [114511]      Cuộn màn hình máy chiếu âm trần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ceilings</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012427Z" creationid="LanHK" creationdate="20210406T012427Z">
