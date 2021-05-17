@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 181)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092256Z" creationid="LanHK" creationdate="20210517T092256Z">
+        <seg>(Trang 179)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -2802,6 +2810,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Ball room/meeting store [100430]    Phòng ballroom/  cửa hàng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballroom must provide the following facilities and equipments: [82047] Phòng ballroom phải cung cấp các cơ sở và thiết bị sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092305Z" creationid="LanHK" creationdate="20210517T092305Z">
+        <seg>Ballroom must provide the following facilities and equipments: [82047] Phòng ballroom phải cung cấp các cơ sở vật chất và thiết bị sau đây:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8475,6 +8491,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infrastructure for special lighting, sound system and projection [114530]     Cơ sở hạ tầng cho chiếu sáng đặc biệt, hệ thống âm thanh và máy chiếu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092225Z" creationid="LanHK" creationdate="20210517T092225Z">
+        <seg>Infrastructure for special lighting, sound system and projection [114530]     Cơ sở hạ tầng cho đèn chiếu sáng đặc biệt, hệ thống âm thanh và máy chiếu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inputting terminals must meet the following: [116194] thiết bị đầu vào phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T042326Z" creationid="LanHK" creationdate="20210514T042326Z">
@@ -9957,8 +9981,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Ballrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; phòng ballroom -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>Meetings &amp; Events -&gt; Ballrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; phòng ballroom -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092253Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Meetings &amp; Events -&gt; Ballrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Phòng ballroom -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -17097,6 +17121,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[109008]       Cho phép một giai đoạn tạm thời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092234Z" creationid="LanHK" creationdate="20210517T092234Z">
+        <seg>[109008]       Cho phép sử dụng sân khấu tạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[1097] Yêu cầu tác phẩm nghệ thuật.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T084126Z" creationid="LanHK" creationdate="20210510T084126Z">
@@ -17809,6 +17841,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[114399] Thiết kế nên xem xét lối vào phương tiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092243Z" creationid="LanHK" creationdate="20210517T092243Z">
+        <seg>[114399] Thiết kế nên cân nhắc đến lối vào cho phương tiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[114523] Phần lưng cao hoặc tầm trung với thiết kế công thái học.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T085153Z" creationid="LanHK" creationdate="20210517T085153Z">
@@ -17829,6 +17869,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T091859Z" creationid="LanHK" creationdate="20210517T091859Z">
         <seg>[114528] Kích thước phòng và số lượng khoang chia nhỏ được xác định theo nhu cầu địa phương và được IHG® phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115512] Một màn hình chiếu thả xuống tự động và máy chiếu trong mỗi khu vực ballroom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092356Z" creationid="LanHK" creationdate="20210517T092326Z">
+        <seg>[115512] Một màn chiếu buông xuống tự động và máy chiếu cho mỗi khoang ballroom chia nhỏ.</seg>
       </tuv>
     </tu>
     <tu>
