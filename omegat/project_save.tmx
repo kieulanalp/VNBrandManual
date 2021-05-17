@@ -18137,6 +18137,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115549]      Phối hợp với thiết kế phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161028Z" creationid="Kieu Lan" creationdate="20210517T161028Z">
+        <seg>[115549]      Phù hợp với thiết kế phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115550]      Được bọc hoàn toàn với ghế đệm và đệm lưng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161316Z" creationid="Kieu Lan" creationdate="20210517T161316Z">
+        <seg>[115550]      Ghế được bọc hoàn toàn - có đệm ngồi và đệm lưng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115574]</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143411Z" creationid="Kieu Lan" creationdate="20210517T143411Z">
