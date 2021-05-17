@@ -4279,6 +4279,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cotton mix is recommended [589052] Khuyến nghị hỗn hợp cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T012719Z" creationid="LanHK" creationdate="20210517T012719Z">
+        <seg>Cotton mix is recommended [589052] Khuyến nghị khăn cotton pha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creative can be accessed via Merlin: Brand Central &gt; AMEA &gt; IHG® Rewards Club &gt; Brand Warehouse &gt; Collateral &gt; Artwork &gt; IHG Rewards Club Key Card Wallet Artwork Bạn có thể truy cập quảng cáo qua Merlin: Trung tâm thương hiệu&gt; AMEA&gt; Câu lạc bộ khách hàng thân thiết của IHG®&gt; Kho hàng thương hiệu&gt; Vật phẩm phụ&gt; Tác phẩm nghệ thuật&gt; Câu lạc bộ thẻ khách hàng thân thiết IHG Ảnh minh họa</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T030001Z" creationid="LanHK" creationdate="20210406T025742Z">
@@ -21272,6 +21280,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T101120Z" creationid="LanHK" creationdate="20210416T101120Z">
         <seg>[513057] Khi các đầu báo nhiệt cục bộ có dây đến hạn thay thế khi hết tuổi thọ, phải được thay thế bằng đầu báo khói, không bao gồm các khách sạn Xây mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[51535] Yêu cầu một khăn ăn, một đĩa phụ và dao kéo cho mỗi loại đồ ăn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T012242Z" creationid="LanHK" creationdate="20210517T012242Z">
+        <seg>[51535] Yêu cầu một khăn ăn, một đĩa phụ và dụng cụ ăn cho mỗi loại đồ ăn.</seg>
       </tuv>
     </tu>
     <tu>
