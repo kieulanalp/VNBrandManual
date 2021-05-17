@@ -10467,6 +10467,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be dressed [115517]      Phải được xếp thẳng hàng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T094225Z" creationid="LanHK" creationdate="20210517T094225Z">
+        <seg>Must be dressed [115517]      Phải được set up, trang trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be located in the Swimming Pool [476066]      Phải được đặt trong Hồ bơi</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T042312Z" creationid="LanHK" creationdate="20210419T042306Z">
