@@ -3983,6 +3983,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coasters must be provided [60662] Phải cung cấp đế lót ly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064327Z" creationid="LanHK" creationdate="20210517T064327Z">
+        <seg>Coasters must be provided [60662] Phải cung miếng lót cốc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coat hook [13035]       Móc quần áo</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T032021Z" creationid="LanHK" creationdate="20210428T032021Z">
@@ -29601,6 +29609,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T075032Z" creationid="LanHK" creationdate="20210514T075032Z">
         <seg>•  Refer to IHG Frontline Egg Recipes [587073] Tham chiếu Công thức món trứng IHG Frontline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  Strahl is the recommended supplier for polycarbonate [60665] Strahl là nhà cung cấp được đề nghị cho polycarbonate</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064627Z" creationid="LanHK" creationdate="20210517T064627Z">
+        <seg>•  Strahl is the recommended supplier for polycarbonate [60665] Strahl là nhà cung cấp được khuyến nghị cho sản phẩm polycarbonate</seg>
       </tuv>
     </tu>
     <tu>
