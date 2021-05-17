@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 177)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070636Z" creationid="LanHK" creationdate="20210517T070636Z">
+        <seg>(Trang 175)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 18)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104233Z" creationid="LanHK" creationdate="20210406T104215Z">
@@ -9907,6 +9915,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Pre event cuộc họp và sự kiện -&gt; Trước sự kiện</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070634Z" creationid="LanHK" creationdate="20210517T070634Z">
+        <seg>Meetings &amp; Events -&gt; Pre event Trước sự kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Service Expectations cuộc họp và sự kiện -&gt; Mong đợi dịch vụ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T065558Z" creationid="LanHK" creationdate="20210517T065558Z">
@@ -17651,6 +17667,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115641]    Một phòng họp với diện tích thực 35m² (376,7 ft²).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070435Z" creationid="LanHK" creationdate="20210517T070435Z">
+        <seg>[115641]    Một phòng họp với diện tích net 35m² (376,7 ft²).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115903]       Một quầy đồ uống.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T074721Z" creationid="Kieu Lan" creationdate="20210512T074721Z">
@@ -19263,6 +19287,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103610Z" creationid="LanHK" creationdate="20210428T103610Z">
         <seg>[23680] Tất cả đồ vải trong cũi phải được thay thế hàng ngày.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[2392] nhân viên phải xác nhận đã nhận được yêu cầu kinh doanh hoặc Yêu cầu đề xuất trong vòng hai giờ làm việc, cung cấp phản hồi bằng lời nói hoặc bằng văn bản khi có thông tin liên hệ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070756Z" creationid="LanHK" creationdate="20210517T070756Z">
+        <seg>[2392] nhân viên phải xác nhận đã nhận được yêu cầu làm việc hoặc Đề nghị mời thầu trong vòng hai giờ làm việc, cung cấp phản hồi bằng lời nói hoặc bằng văn bản khi có thông tin liên hệ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20956,6 +20988,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[38598] Một lịch trình làm sạch sâu phải được đặt ra và ghi lại cho tất cả các phòng họp và không gian công cộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070629Z" creationid="LanHK" creationdate="20210517T070629Z">
+        <seg>[38598] Phải có kế hoạch làm sạch sâu thường xuyên cho tất cả các phòng họp và không gian công cộng, và phải được ghi lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[387086] Thông tin về dị ứng và không dung nạp thực phẩm có thể được tìm thấy trong phần An toàn thực phẩm của cổng thông tin Quản lý rủi ro trên Merlin.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T025642Z" creationid="LanHK" creationdate="20210513T025642Z">
@@ -22432,6 +22472,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T105133Z" creationid="LanHK" creationdate="20210406T105133Z">
         <seg>[5515] Một Tuyên bố về Quyền riêng tư có thể bao gồm các nội dung như tên của khách sạn, đơn vị vận hành khách sạn và liệu khách sạn có phải là khách sạn nhượng quyền hay không, Dữ liệu cá nhân nào được thu thập, Dữ liệu cá nhân được thu thập ở đâu, như thế nào,và vì mục đích gì, khi nào sẽ xin sự đồng thuận của khách lưu trú hoặc khách tới thăm để thu thập hoặc sử dụng Dữ liệu cá nhân của họ, Dữ liệu cá nhân có thể được chia sẻ khi nào và với ai, cách Dữ liệu cá nhân được bảo mật, phương thức liên hệ với khách sạn để khách lưu trú hoặc khách đếm thăm để yêu cầu sửa, cập nhật hoặc hỏi về dữ liệu cá nhân của họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[55448] Hệ thống theo dõi sự hài lòng của các cuộc họp (MSTS) phải được tích cực triển khai và duy trì.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070503Z" creationid="LanHK" creationdate="20210517T070503Z">
+        <seg>[55448] Hệ thống Theo dõi Mức độ hài lòng của các cuộc họp (MSTS) phải được tích cực triển khai và duy trì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25728,6 +25776,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T065842Z" creationid="LanHK" creationdate="20210517T065842Z">
         <seg>[72000] Một nhân viên thuộc team Meetings nên có mặt khi được yêu cầu thông qua điện thoại di động hoặc email nếu bàn họp không có nhân viên trực liên tục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[72001] Nhóm họp nên thông báo cho người lập kế hoạch cuộc họp về khảo sát MSTS và phản hồi của họ rất quan trọng đối với khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070530Z" creationid="LanHK" creationdate="20210517T070530Z">
+        <seg>[72001] Meeting team nên thông báo cho người lập kế hoạch cuộc họp về khảo sát MSTS và phản hồi của họ rất quan trọng đối với khách sạn.</seg>
       </tuv>
     </tu>
     <tu>
