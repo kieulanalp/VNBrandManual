@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 176)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065600Z" creationid="LanHK" creationdate="20210517T065600Z">
+        <seg>(Trang 174)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 18)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104233Z" creationid="LanHK" creationdate="20210406T104215Z">
@@ -4051,6 +4059,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041924Z" creationid="Kieu Lan" creationdate="20210510T041924Z">
         <seg>Clips must be padded on the inside [58796] Kẹp áo phải có đệm bên trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Club Lounge -&gt; General Club Loung -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065541Z" creationid="LanHK" creationdate="20210517T065538Z">
+        <seg>Club Lounge -&gt; General Thông tin chung </seg>
       </tuv>
     </tu>
     <tu>
@@ -9847,6 +9863,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
         <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; Phòng Pre Function &amp; Khu vực thảo luận -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Service Expectations cuộc họp và sự kiện -&gt; Mong đợi dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065558Z" creationid="LanHK" creationdate="20210517T065558Z">
+        <seg>Meetings &amp; Events -&gt; Service Expectations cuộc họp và sự kiện -&gt; Kỳ vọng về dịch vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21468,6 +21492,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[50340] Ít nhất luôn có một nhân viên từ nhóm họp có mặt trong suốt thời gian của cuộc họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065729Z" creationid="LanHK" creationdate="20210517T065729Z">
+        <seg>[50340] Ít nhất luôn có một nhân viên thuộc team Meetings có mặt trong suốt thời gian của cuộc họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[507049] Crisps, sôcôla, các loại hạt, thanh kẹo, đồ ngọt hoặc bánh quy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T062100Z" creationid="Kieu Lan" creationdate="20210510T062100Z">
@@ -25604,6 +25636,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[72000] Một nhân viên từ nhóm họp nên trang bị và sẵn sàng với điện thoại di động hoặc email nếu bàn họp không có nhân viên</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065842Z" creationid="LanHK" creationdate="20210517T065842Z">
+        <seg>[72000] Một nhân viên thuộc team Meetings nên có mặt khi được yêu cầu thông qua điện thoại di động hoặc email nếu bàn họp không có nhân viên trực liên tục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[720072]      Vị trí điểm truy cập và / hoặc Bộ điều khiển không dây sẽ cho phép cân bằng tải của khách hàng trên các điểm truy cập.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -28673,6 +28713,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082241Z" creationid="LanHK" creationdate="20210514T082241Z">
         <seg>[97815] Tối thiểu một trong đó không từ thịt lợn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[97898] Không cho phép có một Executive Lounge</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065547Z" creationid="LanHK" creationdate="20210517T065547Z">
+        <seg>[97898] Không cho phép có Executive Lounge</seg>
       </tuv>
     </tu>
     <tu>
