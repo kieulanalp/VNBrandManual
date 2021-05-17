@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 173)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T063054Z" creationid="LanHK" creationdate="20210517T063054Z">
+        <seg>(Trang 171)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 18)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104233Z" creationid="LanHK" creationdate="20210406T104215Z">
@@ -17991,6 +17999,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T062958Z" creationid="LanHK" creationdate="20210517T062958Z">
         <seg>[133087]    Quán bar không được bố trí trực tiếp phía dưới hoặc trên phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[133088]    Khi quy hoạch vị trí và thiết kế của quán bar, âm thanh nên được xem xét để đảm bảo không có tác động đến các khu vực khác có khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T063052Z" creationid="LanHK" creationdate="20210517T063041Z">
+        <seg>[133088]    Khi quy hoạch vị trí và thiết kế của quán bar, cần tính đến cả thiết kế âm thanh để đảm bảo không có tác động đến các khu vực dành cho khách khác.</seg>
       </tuv>
     </tu>
     <tu>
