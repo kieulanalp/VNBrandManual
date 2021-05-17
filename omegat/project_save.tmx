@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>100+ a minimum of 167m² (1800ft²) [32573]      Trên 100 tối thiểu là 167m² (1800ft²)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070335Z" creationid="LanHK" creationdate="20210517T070335Z">
+        <seg>100+ a minimum of 167m² (1800ft²) [32573]      100+ tối thiểu 167m² (1800ft²)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>120-minute construction: A 90-minute rated door and frame is required [581065]       Thi công 120 phút: Cần có cửa và khung chống cháy 90 phút</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T034902Z" creationid="LanHK" creationdate="20210416T034902Z">
@@ -9851,6 +9859,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meeting facilities area program must be developed based on location, market demand and submitted to Phát triển chương trình khu vực cơ sở hội họp dựa trên địa điểm, nhu cầu thị trường và nộp cho</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070430Z" creationid="LanHK" creationdate="20210517T070410Z">
+        <seg>Meeting facilities area program must be developed based on location, market demand and submitted to IHG® for approval. [115640] Quy hoạch phân bổ không gian phòng họp/sự kiện phải dựa trên địa điểm, nhu cầu thị trường và nộp cho IHG phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T094135Z" creationid="LanHK" creationdate="20210405T094135Z">
@@ -9871,6 +9887,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Meetings &amp; Events -&gt; Collateral/Stationery phòng họp và sự kiện -&gt; Tài liệu quảng bá/ Văn phòng phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; General cuộc họp và sự kiện -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070148Z" creationid="LanHK" creationdate="20210517T070148Z">
+        <seg>Meetings &amp; Events -&gt; General Thông tin chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -14711,6 +14735,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>The speech transmission index/quality must be in compliance with IEC 60268.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The total meeting space provided must be as follows: [32571] Tổng không gian cuộc họp được cung cấp phải như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070322Z" creationid="LanHK" creationdate="20210517T070322Z">
+        <seg>The total meeting space provided must be as follows: [32571] Tổng không gian phòng họp được cung cấp phải như sau:</seg>
       </tuv>
     </tu>
     <tu>
