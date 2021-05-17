@@ -9963,6 +9963,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Ballrooms cuộc họp và sự kiện -&gt; Phòng ballroom</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091839Z" creationid="LanHK" creationdate="20210517T091839Z">
+        <seg>Meetings &amp; Events -&gt; Ballrooms Phòng ballroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Collateral / Stationery phòng họp và sự kiện -&gt; Tài liệu quảng bá/ Văn phòng phẩm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -14123,6 +14131,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Structural ceiling suspension system [114529]     Hệ thống treo trần cấu trúc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092206Z" creationid="LanHK" creationdate="20210517T092206Z">
+        <seg>Structural ceiling suspension system [114529]     Kết cấu trần giả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Structurally sound [56618]       Cấu trúc âm thanh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T082129Z" creationid="LanHK" creationdate="20210419T082129Z">
@@ -17809,6 +17825,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[114528] Kích thước phòng và số lượng các bộ phận phải được xác định theo nhu cầu địa phương và được IHG® phê duyệt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091859Z" creationid="LanHK" creationdate="20210517T091859Z">
+        <seg>[114528] Kích thước phòng và số lượng khoang chia nhỏ được xác định theo nhu cầu địa phương và được IHG® phê duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115626]    Tùy thuộc vào vùng khí hậu, nên cung cấp một tủ đựng / tủ nhỏ trong phòng họp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -19513,6 +19537,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[24114]       Một nền tảng sân khấu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091909Z" creationid="LanHK" creationdate="20210517T091909Z">
+        <seg>[24114]       Một sân khấu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[2412] Khi Người lập kế hoạch cuộc họp xác nhận đặt phòng, một nhân viên phải cung cấp cho họ tên và thông tin liên lạc của nhân viên khách sạn, người sẽ xử lý sự kiện này.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T075329Z" creationid="LanHK" creationdate="20210517T075329Z">
@@ -20830,6 +20862,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T091753Z" creationid="LanHK" creationdate="20210517T091753Z">
         <seg>[375208] Cổng kết nối điện thoại và AV được che kín và tích hợp vào thiết kế bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[375209]       ổ điện kéo lên điện thoại/ nguồn điện đặt ở tầng bên dưới bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091822Z" creationid="LanHK" creationdate="20210517T091822Z">
+        <seg>[375209]       ổ điện/cổng điện thoại pop-up bố trí âm sàn dưới bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[375210] Không cho phép cáp tiếp xúc qua sàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091835Z" creationid="LanHK" creationdate="20210517T091835Z">
+        <seg>[375210] Không cho phép cáp hở cắt ngang mặt sàn.</seg>
       </tuv>
     </tu>
     <tu>
