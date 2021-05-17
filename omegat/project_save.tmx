@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any alcoholic beverages order must be served with complimentary salted tidbits and replenished upon request [59723] Bất kỳ yêu cầu đồ uống có cồn phải được phục vụ với muối miễn phí và bổ sung theo yêu cầu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064008Z" creationid="LanHK" creationdate="20210517T064008Z">
+        <seg>Any alcoholic beverages order must be served with complimentary salted tidbits and replenished upon request [59723]  Đồ uống có cồn phải được phục vụ với món ăn kèm mặn miễn phí và bổ sung theo yêu cầu của khách </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any guest-impacting local law and restriction, e.g. smoking, service of alcohol, etc that impacts the guest's stay in the hotel [145] Bất kỳ luật pháp và hạn chế nào của địa phương có ảnh hưởng đến khách, ví dụ: hút thuốc, dịch vụ đồ uống có cồn, vv ảnh hưởng đến khách lưu trú trong khách sạn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T021412Z" creationid="LanHK" creationdate="20210424T021412Z">
@@ -14171,6 +14179,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bar must offer a bar menu for food and drinks [59722] Quầy bar phải cung cấp một thực đơn bar về đồ ăn và đồ uống</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T063255Z" creationid="LanHK" creationdate="20210517T063255Z">
+        <seg>The bar must offer a bar menu for food and drinks [59722] Quầy bar phải cung cấp một thực đơn bar bao gồm đồ ăn và đồ uống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The breakfast buffet must be stocked until the end of the advertised breakfast service time [59707] Buffet bữa sáng phải được dự trữ cho đến khi kết thúc thời gian phục vụ bữa sáng được báo trước</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T075100Z" creationid="Kieu Lan" creationdate="20210512T075100Z">
@@ -18007,6 +18023,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T063052Z" creationid="LanHK" creationdate="20210517T063041Z">
         <seg>[133088]    Khi quy hoạch vị trí và thiết kế của quán bar, cần tính đến cả thiết kế âm thanh để đảm bảo không có tác động đến các khu vực dành cho khách khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[133089]     Khuyến nghị một lối vào bên ngoài riêng biệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T063150Z" creationid="LanHK" creationdate="20210517T063150Z">
+        <seg>[133089]     Khuyến nghị có một lối vào riêng từ bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[133090]     Khuyến nghị một lối vào khu vực hút thuốc ngoài trời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T063205Z" creationid="LanHK" creationdate="20210517T063205Z">
+        <seg>[133090]     Khuyến nghị có lối đi tới khu vực hút thuốc ngoài trời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[133091] Tùy thuộc vào vị trí và nhu cầu thị trường, khuyến nghị một bar công cộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T063242Z" creationid="LanHK" creationdate="20210517T063242Z">
+        <seg>[133091] Tùy thuộc vào vị trí và nhu cầu thị trường, khuyến nghị liên kết với một quán bar điểm đến nổi tiếng.</seg>
       </tuv>
     </tu>
     <tu>
