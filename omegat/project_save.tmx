@@ -20288,12 +20288,19 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
-      <note>???????</note>
       <tuv lang="EN-US">
         <seg>[28867]       Đèn mờ dimmable trong mỗi phòng họp và khu vực chức năng.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T140848Z" creationid="LanHK" creationdate="20210517T103944Z">
         <seg>[28867]       Đèn có thể điều chỉnh độ sáng trong mỗi phòng họp và khu vực chức năng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[28868]       Một phòng kho cuộc họp có sẵn cho khách sử dụng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T141136Z" creationid="Kieu Lan" creationdate="20210517T141136Z">
+        <seg>[28868]       Một phòng kho cho phòng họp cho khách sử dụng</seg>
       </tuv>
     </tu>
     <tu>
