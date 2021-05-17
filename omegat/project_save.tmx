@@ -14706,6 +14706,12 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <note>skip translation from here</note>
+      <tuv lang="EN-US">
+        <seg>The lobby champion or staff to actively direct delegates during peak times.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The main elevator/lift lobby must meet the following: [12380] Sảnh thang máy chính / thiết bị nâng phải đáp ứng như sau:</seg>
       </tuv>
@@ -19323,10 +19329,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[23565] Tất cả các thiết bị nghe nhìn (AV) đã đặt trước phải ở trong phòng và được thiết lập trước khi người tổ chức cuộc họp đến.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T084303Z" creationid="LanHK" creationdate="20210517T084303Z">
+        <seg>[23565] Tất cả các thiết bị AV đã đặt trước phải ở trong phòng và được set up trước khi người tổ chức cuộc họp đến.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[23566] Phải đưa ra các biện pháp để cho phép khách dễ dàng tìm thấy phòng họp của họ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T084321Z" creationid="LanHK" creationdate="20210517T084321Z">
+        <seg>[23566] Phải có các biện pháp giúp khách dễ dàng tìm thấy phòng họp của họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[23567] nhân viên của Quầy lễ tân phải biết về mỗi sự kiện / cuộc họp đang diễn ra trong khách sạn và có thể hướng dẫn các đại biểu đến phòng được chỉ định, khi cần thiết.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[23567] nhân viên của Quầy lễ tân phải biết về mỗi sự kiện/cuộc họp đang diễn ra trong khách sạn và có thể hướng dẫn các đại biểu đến phòng được chỉ định, khi cần thiết.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T084355Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[23567] nhân viên lễ tân phải biết tất cả các sự kiện/cuộc họp đang diễn ra trong khách sạn và có thể hướng dẫn các khách đến phòng được chỉ định, khi cần thiết.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22032,6 +22054,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T075458Z" creationid="LanHK" creationdate="20210517T075458Z">
         <seg>[51614] Thư hoặc email chào mừng phải cảm ơn khách hàng về việc hợp tác này và giới thiệu thành viên nhóm Catering Sales là đầu mối duy nhất cho tất cả các câu hỏi hoặc thắc mắc trong tương lai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[51626] Một nhân viên từ nhóm họp phải có mặt để cho khách xem hoạt động của thiết bị AV trước khi bắt đầu cuộc họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T084419Z" creationid="LanHK" creationdate="20210517T084419Z">
+        <seg>[51626] Một nhân viên thuộc team Meetings phải có mặt để hướng dẫn khách vận hành thiết bị AV trước khi bắt đầu cuộc họp.</seg>
       </tuv>
     </tu>
     <tu>
