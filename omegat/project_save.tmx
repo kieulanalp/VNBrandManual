@@ -5353,6 +5353,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>English Breakfast [52113] Bữa sáng kiểu Anh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065057Z" creationid="LanHK" creationdate="20210517T065057Z">
+        <seg>English Breakfast [52113]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English Breakfast [67727] Bữa sáng kiểu Anh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T011214Z" creationid="LanHK" creationdate="20210517T011214Z">
@@ -7260,8 +7268,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Herbal, e.g Chamomile [60587] Thảo dược, ví dụ hoa cúc Chamomile</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083209Z" creationid="LanHK" creationdate="20210514T083209Z">
-        <seg>Herbal, e.g Chamomile [60587] Trà thảo dược, ví dụ trà hoa cúc</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065131Z" creationid="LanHK" creationdate="20210514T083209Z">
+        <seg>Herbal, e.g Chamomile [60587] Trà thảo mộc, ví dụ trà hoa cúc</seg>
       </tuv>
     </tu>
     <tu>
@@ -14683,6 +14691,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Three ice cream or sorbet options [51670] Ba lựa chọn kem hoặc kem sorbet</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065024Z" creationid="LanHK" creationdate="20210517T065024Z">
+        <seg>Three ice cream or sorbet options [51670] Ba món kem hoặc kem sorbet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumb-turn lock operation on the guest room side of the door [274132]       Thao tác khóa trao tay cái ở phía cạnh cửa phòng khách</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T042705Z" creationid="Kieu Lan" creationdate="20210417T042557Z">
@@ -14847,6 +14863,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T092911Z" creationid="LanHK" creationdate="20210415T092911Z">
         <seg>Toll free CRO numbers Số điện thoại CRO miễn phí https://www.ihg.com/content/gb/en/customer-care/contact-us.wwr_offices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tomato ketchup [589072] Tương cà chua</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065011Z" creationid="LanHK" creationdate="20210517T065011Z">
+        <seg>Tomato ketchup [589072] Tương cà</seg>
       </tuv>
     </tu>
     <tu>
@@ -21628,6 +21652,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[52114] Trái cây hoặc thảo dược, ví dụ: Hoa cúc chamomile</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065116Z" creationid="LanHK" creationdate="20210517T065116Z">
+        <seg>[52114] Trà trái cây hoặc thảo mộc, ví dụ: Hoa cúc chamomile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[52156] Một mứt cam.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T074836Z" creationid="LanHK" creationdate="20210514T074836Z">
@@ -22040,6 +22072,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T045808Z" creationid="LanHK" creationdate="20210517T045808Z">
         <seg>[53396] Phải có tối thiểu hai và tối đa ba loại rượu vang trắng phục vụ theo ly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[53404] Khuyến nghị một lựa chọn nước ép tươi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065225Z" creationid="LanHK" creationdate="20210517T065225Z">
+        <seg>[53404] Khuyến nghị có một loại nước ép tươi</seg>
       </tuv>
     </tu>
     <tu>
