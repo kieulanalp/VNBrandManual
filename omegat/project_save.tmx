@@ -17987,6 +17987,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[133087]    Quán bar không được đặt trực tiếp phía dưới hoặc trên chỗ ở của khách</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062958Z" creationid="LanHK" creationdate="20210517T062958Z">
+        <seg>[133087]    Quán bar không được bố trí trực tiếp phía dưới hoặc trên phòng khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[133093] Khuyến nghị phủ toàn bộ chiều rộng của cơ sở trang điểm.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T031700Z" creationid="LanHK" creationdate="20210428T031700Z">
