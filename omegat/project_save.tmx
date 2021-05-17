@@ -19537,6 +19537,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[246048]     Có dây để thuyết trình và trình chiếu video</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091650Z" creationid="LanHK" creationdate="20210517T091650Z">
+        <seg>[246048]     Có dây nối phục vụ hội nghị và trình chiếu video</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[24810] Tối thiểu có hai cuộn khăn giấy vệ sinh trong mỗi buồng vệ sinh.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T023412Z" creationid="LanHK" creationdate="20210428T023412Z">
@@ -20798,6 +20806,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[375205]      Hoàn thiện veneer gỗ với các cạnh tròn/vát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[375206]       Hỗ trợ nguồn điện và dữ liệu che kín và tích hợp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091722Z" creationid="LanHK" creationdate="20210517T091722Z">
+        <seg>[375206]       Hỗ trợ ổ điện và cổng dữ liệu tích hợp có nắp che kín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[375207]   Lắp ráp và lắp đặt vĩnh viễn như một bảng duy nhất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091735Z" creationid="LanHK" creationdate="20210517T091735Z">
+        <seg>[375207]   Lắp ráp và lắp đặt cố định như một bàn duy nhất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[375208] điểm kết nối điện thoại và AV được che giấu và tích hợp vào thiết kế bảng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T091753Z" creationid="LanHK" creationdate="20210517T091753Z">
+        <seg>[375208] Cổng kết nối điện thoại và AV được che kín và tích hợp vào thiết kế bàn.</seg>
       </tuv>
     </tu>
     <tu>
