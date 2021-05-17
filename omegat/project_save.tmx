@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 174)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064752Z" creationid="LanHK" creationdate="20210517T064752Z">
+        <seg>(Trang 172)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 18)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104233Z" creationid="LanHK" creationdate="20210406T104215Z">
@@ -2366,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, two burgers or sandwiches must be available and include: [51663] Tối thiểu, luôn có hai bánh mì burgers hoặc bánh sandwich và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064740Z" creationid="LanHK" creationdate="20210517T064736Z">
+        <seg>At a minimum, two burgers or sandwiches must be available and include: [51663] Tối thiểu, luôn có hai loại burgers hoặc sandwich và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, two burgers or sandwiches must be available and include: [52267] Tối thiểu, phải có hai burgers hoặc bánh sandwich và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082554Z" creationid="LanHK" creationdate="20210514T082554Z">
@@ -2394,6 +2410,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082444Z" creationid="LanHK" creationdate="20210514T082444Z">
         <seg>At a minimum, two types of light bites must be available and include: [587057] Tối thiểu, phải có hai loại đồ ăn nhẹ và bao gồm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, two types of light bites must be available and include: [589068] Tối thiểu, phải có hai loại đồ nhẹ và bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064747Z" creationid="LanHK" creationdate="20210517T064747Z">
+        <seg>At a minimum, two types of light bites must be available and include: [589068] Tối thiểu, phải có hai loại đồ ăn nhẹ và bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3155,6 +3179,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012715Z" creationid="LanHK" creationdate="20210406T012715Z">
         <seg>Brassware Đồ đồng thau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bread basket and spreads [589080] Giỏ bánh mì và thành phần phết bánh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064716Z" creationid="LanHK" creationdate="20210517T064716Z">
+        <seg>Bread basket and spreads [589080] Giỏ bánh mì và các loại phết bánh mì</seg>
       </tuv>
     </tu>
     <tu>
@@ -11049,6 +11081,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One breakfast set menu [589078] Một thực đơn bữa sáng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064701Z" creationid="LanHK" creationdate="20210517T064701Z">
+        <seg>One breakfast set menu [589078] Một thực đơn bữa sáng theo set</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One citrus [581067] Một quả cam</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T092136Z" creationid="LanHK" creationdate="20210513T092000Z">
@@ -11163,8 +11203,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One local or regional item [51383] Một loại địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210517T045550Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional item [51383] Một loại địa phương hoặc vùng miền</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064927Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional item [51383] Một món địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -11187,8 +11227,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One local or regional item [589070] Một loại địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210517T045436Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional item [589070] Một loại địa phương hoặc vùng miền</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064831Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional item [589070] Một món địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -11349,6 +11389,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082517Z" creationid="LanHK" creationdate="20210514T082517Z">
         <seg>One wrap [587058] Một món wrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One wrap [589069] Một gói</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064758Z" creationid="LanHK" creationdate="20210517T064758Z">
+        <seg>One wrap [589069] Một món wrap</seg>
       </tuv>
     </tu>
     <tu>
