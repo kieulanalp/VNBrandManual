@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A menu is required [612048] Yêu cầu một thực đơn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064127Z" creationid="LanHK" creationdate="20210517T064127Z">
+        <seg>A menu is required [612048] Yêu cầu có thực đơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A minimum clearance height of 2.2m (7ft 4in) must be provided at all car parking bays [22293] Chiều cao khoảng cách tối thiểu là 2,2m (7ft 4in) tại tất cả các bãi đậu xe ô tô</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T084157Z" creationid="LanHK" creationdate="20210422T084157Z">
@@ -2000,8 +2008,8 @@
       <tuv lang="EN-US">
         <seg>Any alcoholic beverages order must be served with complimentary salted tidbits and replenished upon request [59723] Bất kỳ yêu cầu đồ uống có cồn phải được phục vụ với muối miễn phí và bổ sung theo yêu cầu</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210517T064008Z" creationid="LanHK" creationdate="20210517T064008Z">
-        <seg>Any alcoholic beverages order must be served with complimentary salted tidbits and replenished upon request [59723]  Đồ uống có cồn phải được phục vụ với món ăn kèm mặn miễn phí và bổ sung theo yêu cầu của khách </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064011Z" creationid="LanHK" creationdate="20210517T064008Z">
+        <seg>Any alcoholic beverages order must be served with complimentary salted tidbits and replenished upon request [59723]  Đồ uống có cồn phải được phục vụ với món ăn kèm mặn miễn phí và bổ sung theo yêu cầu của khách</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T091122Z" creationid="LanHK" creationdate="20210514T091122Z">
         <seg>At a minimum, a limited late night menu must be available between 00:00hrs to 05:30hrs (overnight hours): [51688] Tối thiểu, luôn có một thực đơn đêm muộn trong khoảng từ 00:00 đến 05: 30 giờ (buổi đêm):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a minimum, an attendant is required to take food and beverage orders and clear tables [589061] Tối thiểu, một nhân viên phải nhận đơn đặt hàng và dọn dẹp bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064319Z" creationid="LanHK" creationdate="20210517T064319Z">
+        <seg>At a minimum, an attendant is required to take food and beverage orders and clear tables [589061] Tối thiểu phải có một nhân viên phục vụ đặt món và dọn dẹp bàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -3803,6 +3819,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T032102Z" creationid="LanHK" creationdate="20210406T032047Z">
         <seg>Dịch vụ Check-out muộn đến 14:00 phải được cấp cho tất cả các thành viên Gold Elite, Platinum Elite và Spire Elite theo yêu cầu, tùy vào tình trạng sẵn có và không tính thêm phí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Children's menu must be available [51600] Luôn có thực đơn cho trẻ em</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064259Z" creationid="LanHK" creationdate="20210517T064259Z">
+        <seg>Children's menu must be available [51600] Phải có thực đơn cho trẻ em</seg>
       </tuv>
     </tu>
     <tu>
@@ -6166,6 +6190,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T064404Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Food &amp; Beverage -&gt; In Room Dining/Room Service Ăn uống trong phòng/Dịch vụ phòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Poolside Thực phẩm và đồ uống (F&amp;B) -&gt; Bên hồ bơi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064032Z" creationid="LanHK" creationdate="20210517T064032Z">
+        <seg>Food &amp; Beverage -&gt; Poolside Bên hồ bơi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9727,6 +9759,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T073446Z" creationid="Kieu Lan" creationdate="20210331T073440Z">
         <seg>Meetings &amp; Events&lt;t0/&gt; &lt;t1/&gt;Phòng Họp &amp; Sự Kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu must be visible on dining tables or on the deck chair side tables during pool operation hours Thực đơn phải đặt dễ nhìn trên bàn hoặc trên các bàn phụ trong thời gian làm việc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064236Z" creationid="LanHK" creationdate="20210517T064230Z">
+        <seg>Menu must be visible on dining tables or on the deck chair side tables during pool operation hours [60659] Trong thời gian hoạt động, thực đơn phải đặt dễ nhìn trên bàn hoặc trên các bàn nhỏ bên ghế phơi nắng</seg>
       </tuv>
     </tu>
     <tu>
@@ -14411,6 +14451,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The menu must be weatherproof [60657] Thực đơn chống chịu thời tiết</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064144Z" creationid="LanHK" creationdate="20210517T064144Z">
+        <seg>The menu must be weatherproof [60657] Thực đơn phải chống chịu thời thiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum quarterly qualified enrolment quota for new IHG® Rewards Club Members, based on brand affiliation and hotel size, must be achieved and meet the following: Hạn ngạch đăng ký đủ điều kiện hàng quý tối thiểu cho các Thành viên mới Câu lạc bộ khách hàng thân thiết IHG®, dựa trên sáp nhập thương hiệu và quy mô khách sạn, phải đạt được và đáp ứng các điều sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T013204Z" creationid="LanHK" creationdate="20210406T013204Z">
@@ -18891,6 +18939,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2283] Phải cung cấp rượu mạnh, bia, rượu vang và đồ uống không cồn để lựa chọn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064024Z" creationid="LanHK" creationdate="20210517T064024Z">
+        <seg>[2283] Phải có nhiều loại rượu mạnh, bia, rượu vang và đồ uống không cồn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[22967]       Cung cấp tối thiểu một tay vịn treo tường.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T025324Z" creationid="Kieu Lan" creationdate="20210427T025324Z">
@@ -21504,6 +21560,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T012242Z" creationid="LanHK" creationdate="20210517T012242Z">
         <seg>[51535] Yêu cầu một khăn ăn, một đĩa phụ và dụng cụ ăn cho mỗi loại đồ ăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[51596] Cung cấp đồ ăn và đồ uống là bắt buộc tại bất kỳ bể bơi giải trí ngoài trời.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064121Z" creationid="LanHK" creationdate="20210517T064121Z">
+        <seg>[51596] Cung cấp đồ ăn và đồ uống là bắt buộc tại tất cả các bể bơi giải trí ngoài trời.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24232,6 +24296,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T092204Z" creationid="LanHK" creationdate="20210513T092204Z">
         <seg>[606053] Yêu cầu một quầy nước trái cây trong bữa sáng all day dining</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[60659]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T064240Z" creationid="LanHK" creationdate="20210517T064240Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
