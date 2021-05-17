@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All meeting rooms must be fully functional, clean and well-maintained [50367] Tất cả các phòng họp phải có đầy đủ chức năng, sạch sẽ và được bảo trì tốt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065934Z" creationid="LanHK" creationdate="20210517T065934Z">
+        <seg>All meeting rooms must be fully functional, clean and well-maintained [50367] Tất cả các phòng họp phải có thiết bị hoạt động đầy đủ, phòng sạch sẽ và được bảo trì tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All mounting / isolation systems and parts must be non-corrosive [327062] Tất cả các hệ thống lắp đặt / cách ly và các bộ phận phải không bị ăn mòn</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -9823,6 +9831,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T074812Z" creationid="Kieu Lan" creationdate="20210331T074812Z">
         <seg>Meeting Facilities&lt;t0/&gt; &lt;t1/&gt;Cơ Sở vật chất cho các Phòng Họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meeting enquiries must be taken via the following: [55442] Yêu cầu họp phải được thực hiện thông qua sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T065951Z" creationid="LanHK" creationdate="20210517T065951Z">
+        <seg>Meeting enquiries must be taken via the following: [55442] Yêu cầu tổ chức họp phải được thực hiện thông qua các kênh sau đây:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19875,6 +19891,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[29000] Gặp nhân viên, sau khi thông báo, phải xác nhận và trả lời bất kỳ yêu cầu nào trong vòng năm phút.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070105Z" creationid="LanHK" creationdate="20210517T070105Z">
+        <seg>[29000] Nhân viên trực phòng họp, khi nhận được thông tin, phải xác nhận và trả lời bất kỳ yêu cầu nào trong vòng năm phút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[29001] Nên sử dụng một câu kết thúc tương tự như "chúng tôi mong được chào đón bạn đến khách sạn của chúng tôi"</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T035632Z" creationid="Kieu Lan" creationdate="20210422T035632Z">
@@ -20884,6 +20908,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[38588] Hỗ trợ kỹ thuật phải sẵn sàng trong vòng 10 phút kể từ khi khách yêu cầu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070113Z" creationid="LanHK" creationdate="20210517T070113Z">
+        <seg>[38588] Hỗ trợ kỹ thuật phải có mặt trong vòng 10 phút kể từ khi khách yêu cầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38591] Phòng họp và các cơ sở phải được dọn dẹp sạch sẽ và luôn sẵn sàng cho thuyết trình, ngay cả khi khách không dùng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070143Z" creationid="LanHK" creationdate="20210517T070143Z">
+        <seg>[38591] Phòng họp và các cơ sở vật chất phải được dọn dẹp sạch sẽ và hình thức chỉn chu, ngay cả khi khách không dùng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[387086] Thông tin về dị ứng và không dung nạp thực phẩm có thể được tìm thấy trong phần An toàn thực phẩm của cổng thông tin Quản lý rủi ro trên Merlin.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T025642Z" creationid="LanHK" creationdate="20210513T025642Z">
@@ -21176,6 +21216,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T092439Z" creationid="LanHK" creationdate="20210415T092439Z">
         <seg>[44] Thông tin chi tiết về cách xây dựng quy trình xử lý khối lượng đánh giá trên mạng xã hội và phản hồi phù hợp có trên Trang Merlin Global HeartBeat Initiatives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[45001] Tất cả người tham gia họp phải có quyền truy cập vào internet không dây.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070024Z" creationid="LanHK" creationdate="20210517T070024Z">
+        <seg>[45001] Tất cả người tham gia họp phải có thể truy cập mạng không dây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[45008] Luôn có kết nối không dây 24 giờ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T070039Z" creationid="LanHK" creationdate="20210517T070039Z">
+        <seg>[45008] Luôn có mạng không dây (24h).</seg>
       </tuv>
     </tu>
     <tu>
