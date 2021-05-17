@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 172)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045313Z" creationid="LanHK" creationdate="20210517T045313Z">
+        <seg>(Trang 170)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 18)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104233Z" creationid="LanHK" creationdate="20210406T104215Z">
@@ -1550,10 +1558,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [51452] Hương vị bổ sung của nước ngọt có ga (ví dụ: rượu gừng, cam)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045157Z" creationid="LanHK" creationdate="20210517T045109Z">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [51452] Hai loại nước ngọt có ga khác (ví dụ: ginger ale, bia gừng, nước cam)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional flavours of carbonated soft drinks (e.g. ginger ale, orangina) [52226] Hương vị bổ sung của nước ngọt có ga (ví dụ: rượu gừng, cam)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083434Z" creationid="LanHK" creationdate="20210514T083412Z">
-        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Các loại nước ngọt có ga khác (ví dụ: ginger ale, nước cam)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045148Z" creationid="LanHK" creationdate="20210514T083412Z">
+        <seg>Two additional flavours of carbonated soft drinks (e.g. ginger ale, ginger beer, orangina) [57328] Các loại nước ngọt có ga khác (ví dụ: ginger ale, bia gừng,nước cam)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3923,6 +3939,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
         <seg>Cold Water Nước lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold alcoholic beverages must be served with complimentary salted tidbits [51523] Đồ uống có cồn lạnh phải được phục vụ với muối miễn phí</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045310Z" creationid="LanHK" creationdate="20210517T045310Z">
+        <seg>Cold alcoholic beverages must be served with complimentary salted tidbits [51523] Đồ uống có cồn lạnh phải được phục vụ với món ăn kèm mặn miễn phí</seg>
       </tuv>
     </tu>
     <tu>
@@ -13399,6 +13423,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075638Z" creationid="LanHK" creationdate="20210419T075638Z">
         <seg>Space to the sides and beneath the barrier must not exceed 10cm (4in) [285234] Khoảng cách sang hai bên và bên dưới lan can không được vượt quá 10cm (4in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sparkling mineral water [51453] Nước khoáng sparkling</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045208Z" creationid="LanHK" creationdate="20210517T045208Z">
+        <seg>Sparkling mineral water [51453] Nước khoáng có ga</seg>
       </tuv>
     </tu>
     <tu>
@@ -29231,8 +29263,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>•  Local or regional beer options are recommended [589049] Khuyến nghị các loại bia địa phương hoặc khu vực để lựa chọn</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>•  Local or regional beer options are recommended [589049] Khuyến nghị các loại bia  để lựa chọn</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045405Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>•  Local or regional beer options are recommended [589049] Khuyến nghị các loại bia địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
