@@ -4287,6 +4287,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cotton mix napkin is recommended [589054] Khuyến nghị khăn ăn hỗn hợp cotton</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045013Z" creationid="LanHK" creationdate="20210517T045013Z">
+        <seg>Cotton mix napkin is recommended [589054] Khuyến nghị khăn ăn cotton pha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creative can be accessed via Merlin: Brand Central &gt; AMEA &gt; IHG® Rewards Club &gt; Brand Warehouse &gt; Collateral &gt; Artwork &gt; IHG Rewards Club Key Card Wallet Artwork Bạn có thể truy cập quảng cáo qua Merlin: Trung tâm thương hiệu&gt; AMEA&gt; Câu lạc bộ khách hàng thân thiết của IHG®&gt; Kho hàng thương hiệu&gt; Vật phẩm phụ&gt; Tác phẩm nghệ thuật&gt; Câu lạc bộ thẻ khách hàng thân thiết IHG Ảnh minh họa</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T030001Z" creationid="LanHK" creationdate="20210406T025742Z">
@@ -9163,6 +9171,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low sugar or no sugar Coca Cola or Pepsi Cola in bottle or can [51451] Chai hoặc lon Coca Cola hoặc Pepsi Cola không đường hoặc ít đường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045035Z" creationid="LanHK" creationdate="20210517T045035Z">
+        <seg>Low sugar or no sugar Coca Cola or Pepsi Cola bottle or can [51451] Chai/lon Coca Cola/Pepsi Cola ít đường/không đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low sugar or no sugar Coca Cola or Pepsi Cola in bottle or can [52225] Chai hoặc lon Coca Cola hoặc Pepsi Cola không đường hoặc ít đường</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T083341Z" creationid="LanHK" creationdate="20210514T083341Z">
@@ -12222,6 +12238,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Registrations of existing violating Domain and/or Sub-Domain Names must be allowed to expire or be transferred to IHG®, at IHG’s option and at no cost to IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular Coca Cola or Pepsi Cola bottle or can [51450] Chai hoặc lon Coca Cola hoặc Pepsi Cola bình thường</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045042Z" creationid="LanHK" creationdate="20210517T045024Z">
+        <seg>Regular Coca Cola or Pepsi Cola bottle or can [51450] Chai/lon Coca Cola/Pepsi Cola thường</seg>
       </tuv>
     </tu>
     <tu>
@@ -21728,6 +21752,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T015219Z" creationid="Kieu Lan" creationdate="20210427T015208Z">
         <seg>[5377] Phải hoàn thiện một quy trình để báo cáo, ghi lại và giải quyết kịp thời các lỗi và sự cố vệ sinh và bảo trì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[53809] For every beverage order, a cocktail napkin and a coaster are required [51538] Đồ uống có nguồn gốc từ sữa nóng và không cồn phải được phục vụ với bánh quy hoặc sôcôla.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T044932Z" creationid="LanHK" creationdate="20210517T044820Z">
+        <seg>[53809] Đồ uống gốc sữa nóng và không cồn phải được phục vụ kèm bánh quy hoặc sôcôla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[53809] Đối với mỗi đơn hàng đồ uống, cần có khăn ăn cocktail và khay lót cốc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045004Z" creationid="LanHK" creationdate="20210517T044940Z">
+        <seg>For every beverage order, a cocktail napkin and a coaster are required [51538] Đối với mỗi đơn hàng đồ uống, cần có khăn ăn cocktail và lót cốc</seg>
       </tuv>
     </tu>
     <tu>
