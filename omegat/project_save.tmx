@@ -5601,6 +5601,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entrance and service doors into meeting rooms must meet the following: [13296] Lối vào và cửa dịch vụ vào phòng họp phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161955Z" creationid="Kieu Lan" creationdate="20210517T161955Z">
+        <seg>Entrance and service doors into meeting rooms must meet the following: [13296] Lối vào và cửa dịch vụ dẫn vào phòng họp phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entrances</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093016Z" creationid="LanHK" creationdate="20210405T093016Z">
@@ -10079,6 +10087,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T070148Z" creationid="LanHK" creationdate="20210517T070148Z">
         <seg>Meetings &amp; Events -&gt; General Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Meeting Facilities -&gt; Fixtures and Fittings cuộc họp và sự kiện -&gt; Thiết bị phòng họp-&gt; Đồ đạc và thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161655Z" creationid="Kieu Lan" creationdate="20210517T161655Z">
+        <seg>Meetings &amp; Events -&gt; Meeting Facilities -&gt; Fixtures and Fittings Chiếu sáng &amp; Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
@@ -26610,6 +26626,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[71997] Nên có hướng dẫn về cách sử dụng điện thoại và danh sách các số cần gọi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161630Z" creationid="Kieu Lan" creationdate="20210517T161630Z">
+        <seg>[71997] Nên có hướng dẫn sử dụng điện thoại và danh sách các số cần gọi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[72000] Một nhân viên từ nhóm họp nên trang bị và sẵn sàng với điện thoại di động hoặc email nếu bàn họp không có nhân viên</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T065842Z" creationid="LanHK" creationdate="20210517T065842Z">
@@ -30679,14 +30703,6 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T043604Z" creationid="LanHK" creationdate="20210406T043604Z">
         <seg>Ở những nơi sau đây, các nhãn hiệu của IHG (bao gồm logo hoặc các biểu tượng đồ họa, logo, thiết kế hoặc icon khác thuộc sở hữu của IHG ) không được sử dụng theo cách thể hiện mối liên quan đến các chủ đầu tư của IHG, các nhà cung cấp hoặc đơn vị cung cấp hàng hóa hoặc dịch vụ của bên thứ ba, hoặc liên quan đến bất kỳ nhãn hiệu nào không thuộc sở hữu của IHG, mà không có sự chấp thuận rõ ràng bằng văn bản từ trademarks@ihg.com.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>•  A guide on how to use the phone and a list of numbers to call should be available.</seg>
-      </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161551Z" creationid="Kieu Lan" creationdate="20210517T161551Z">
-        <seg>`•  A guide on how to use the phone and a list of numbers to call should be available.</seg>
       </tuv>
     </tu>
     <tu>
