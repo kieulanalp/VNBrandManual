@@ -5177,6 +5177,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>English Breakfast [67727] Bữa sáng kiểu Anh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T011214Z" creationid="LanHK" creationdate="20210517T011214Z">
+        <seg>English Breakfast [67727]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensuring all Front Desk and new colleagues complete IHG® Rewards Club training Đảm bảo tất cả Lễ tân và các nhân viên mới hoàn thành khóa đào tạo Câu lạc bộ Thưởng IHG®</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T014116Z" creationid="Kieu Lan" creationdate="20210420T014116Z">
@@ -9679,6 +9687,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Minimum of one cordless phone at reception/maitre d’ station or one of the Point of Sales System (POS) stations [92611]    Tối thiểu một điện thoại không dây tại quầy lễ tân/maitre d’ hoặc một trong các quầy của Hệ thống POS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum of tea bag and maximum of tea envelope served in individual pot to the table [67732] Tối thiểu túi trà và tối đa phong bì trà phục vụ trong bình cá nhân để bàn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T012117Z" creationid="LanHK" creationdate="20210517T012117Z">
+        <seg>Tối thiểu có trà túi lọc và tối đa trà túi lọc đựng trong bao bì lẻ phục vụ theo </seg>
       </tuv>
     </tu>
     <tu>
