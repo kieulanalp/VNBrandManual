@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 170)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045605Z" creationid="LanHK" creationdate="20210517T045605Z">
+        <seg>(Trang 168)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 171)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T012131Z" creationid="LanHK" creationdate="20210517T012131Z">
@@ -1208,8 +1216,8 @@
       <tuv lang="EN-US">
         <seg>A minimum of one local or regional newspaper [50892] Tối thiểu một tờ báo địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>A minimum of one local or regional newspaper [50892] Tối thiểu một tờ báo </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045454Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>A minimum of one local or regional newspaper [50892] Tối thiểu một tờ báo địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -9813,8 +9821,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum one local or regional [51906] Tối thiểu một kiểu địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T073244Z">
-        <seg>Minimum one local or regional [51906] Tối thiểu set một kiểu </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045516Z" creationid="LanHK" creationdate="20210514T073244Z">
+        <seg>Minimum one local or regional [51906] Tối thiểu set một kiểu địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,8 +9837,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum one local or regional dish [59857] Tối thiểu một món ăn địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>Minimum one local or regional dish [59857] Tối thiểu một món ăn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045503Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>Minimum one local or regional dish [59857] Tối thiểu một món ăn địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -9845,8 +9853,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum one local or regional salad [53336] Tối thiểu một món salad địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>Minimum one local or regional salad [53336] Tối thiểu một món salad </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045525Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>Minimum one local or regional salad [53336] Tối thiểu một món salad địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -9861,8 +9869,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum one tropical or local or regional fruit [59770] Tối thiểu một trái cây nhiệt đới hoặc địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>Minimum one tropical or local or regional fruit [59770] Tối thiểu một trái cây nhiệt đới hoặc </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045509Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>Minimum one tropical or local or regional fruit [59770] Tối thiểu một trái cây nhiệt đới hoặc địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -9917,8 +9925,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum two local or regional dish [60624] Tối thiểu hai món ăn địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>Minimum two local or regional dish [60624] Tối thiểu hai món ăn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045537Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>Minimum two local or regional dish [60624] Tối thiểu hai món ăn địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -10979,40 +10987,40 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One local or regional [52282] Một món địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional [52282] Một món </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045532Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional [52282] Một món địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional beer [61570] Một bia địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional beer [61570] Một bia </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045421Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional beer [61570] Một bia địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional beer option [57333] Một loại bia địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
-        <seg>One local or regional beer option [57333] Một loại bia tại </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045448Z" creationid="Kieu Lan" creationdate="20210510T061739Z">
+        <seg>One local or regional beer option [57333] Một loại bia tại địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional breakfast set [584052] Một bữa ăn sáng địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T072058Z">
-        <seg>One local or regional breakfast set [584052] Set bữa sáng </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045511Z" creationid="LanHK" creationdate="20210514T072058Z">
+        <seg>One local or regional breakfast set [584052] Set bữa sáng địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional dessert [52238] Một món tráng miệng địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional dessert [52238] Một món tráng miệng </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045539Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional dessert [52238] Một món tráng miệng địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -11035,32 +11043,32 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One local or regional item [51383] Một loại địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional item [51383] Một loại </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045550Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional item [51383] Một loại địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional item [51672] Một món địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional item [51672] Một món </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045429Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional item [51672] Một món địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional item [587059] Một vật phẩm địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T083006Z" creationid="LanHK" creationdate="20210514T082542Z">
-        <seg>One local or regional item [587059] Một món </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045535Z" creationid="LanHK" creationdate="20210514T082542Z">
+        <seg>One local or regional item [587059] Một món địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>One local or regional item [589070] Một loại địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One local or regional item [589070] Một loại </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045436Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One local or regional item [589070] Một loại địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -11163,8 +11171,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>One snack item must be local or regional [507050] Một món ăn vặt địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>One snack item must be local or regional [507050] Một món ăn vặt </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045451Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>One snack item must be local or regional [507050] Một món ăn vặt địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -29535,8 +29543,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>•Traditional ware is recommended for local or regional dishes [588070] Hàng hóa truyền thống được khuyến khích cho các món ăn địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>•Traditional ware is recommended for local or regional dishes [588070] Hàng hóa truyền thống được khuyến khích cho các món ăn </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045630Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>•Traditional ware is recommended for local or regional dishes [588070] Dụng cụ ăn truyền thống được khuyến khích cho các món ăn địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
