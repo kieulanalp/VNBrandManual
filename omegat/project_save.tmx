@@ -17881,6 +17881,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115513] Một màn hình chiếu thả xuống tự động và máy chiếu cho cấu hình toàn bộ phòng ballroom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092429Z" creationid="LanHK" creationdate="20210517T092429Z">
+        <seg>[115513] Một màn hình chiếu buông xuống tự động và máy chiếu cho phòng ballroom bố trí full (không chia khoang).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115514]    Kích thước của màn hình phải được xác định theo khuyến nghị của nhà sản xuất liên quan đến kích thước của phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T092442Z" creationid="LanHK" creationdate="20210517T092442Z">
+        <seg>[115514]    Kích thước của màn hình phải được xác định theo khuyến nghị của nhà sản xuất, tương ứng với kích thước của phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115626]    Tùy thuộc vào vùng khí hậu, nên cung cấp một tủ đựng / tủ nhỏ trong phòng họp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
