@@ -18025,6 +18025,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115526] Tủ đựng thức ăn phải được che khuất khỏi tầm nhìn đối diện của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T151036Z" creationid="Kieu Lan" creationdate="20210517T151036Z">
+        <seg>[115526] Tủ đựng thức ăn phải khuất khỏi không gian của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115537]    Diện tích thực phải tối thiểu 25% trên tổng diện tích net phòng họp, bao gồm phòng ballroom nếu được cung cấp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143303Z" creationid="Kieu Lan" creationdate="20210517T143303Z">
