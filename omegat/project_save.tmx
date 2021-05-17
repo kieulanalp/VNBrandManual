@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 180)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085206Z" creationid="LanHK" creationdate="20210517T085206Z">
+        <seg>(Trang 178)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -3106,6 +3114,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T091523Z" creationid="LanHK" creationdate="20210405T091523Z">
         <seg>Boardrooms&lt;t0/&gt; &lt;t1/&gt;Phòng họp hội đồng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boardrooms must provide the following facilities and equipment: [82048] phòng boardroom phải cung cấp các cơ sở và thiết bị sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085255Z" creationid="LanHK" creationdate="20210517T085255Z">
+        <seg>Boardrooms must provide the following facilities and equipment: [82048] phòng boardroom phải cung cấp các cơ sở vật chất và thiết bị sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9947,6 +9963,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Meeting Facilities cuộc họp và sự kiện -&gt; cơ sở cuộc họp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085051Z" creationid="LanHK" creationdate="20210517T085051Z">
+        <seg>Meetings &amp; Events -&gt; Meeting Facilities Cơ sở </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; Phòng Pre Function &amp; Khu vực thảo luận -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
@@ -15017,6 +15041,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tilting mechanism [114525]      Cơ chế nghiêng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085202Z" creationid="LanHK" creationdate="20210517T085202Z">
+        <seg>Tilting mechanism [114525]      Có cơ chế nghiêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tiêu Chuẩn bao gồm nội dung áp dụng cho toàn bộ chu kì của một khách sạn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T073754Z" creationid="LanHK" creationdate="20210406T012828Z">
@@ -16273,6 +16305,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where boardrooms are provided they must meet the following: [68807] Trường hợp cung cấp phòng họp, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085128Z" creationid="LanHK" creationdate="20210517T085128Z">
+        <seg>Where boardrooms are provided they must meet the following: [68807] Trường hợp cung cấp phòng boardrooms, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where central source cooling / heating generation is provided it must meet the following as a minimum: [285422]    Khi làm mát / sưởi ấm nguồn trung tâm, phải đáp ứng tối thiểu như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -16669,6 +16709,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210424T014906Z" creationid="LanHK" creationdate="20210424T014906Z">
         <seg>Wiring must not be visible at any speaker installation [76548]    Không được để nhìn thấy dây ở bất kỳ loa nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With armrest [114524]      Với tay vịn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085157Z" creationid="LanHK" creationdate="20210517T085157Z">
+        <seg>With armrest [114524]      Có tay vịn</seg>
       </tuv>
     </tu>
     <tu>
@@ -17717,6 +17765,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102711Z" creationid="LanHK" creationdate="20210428T102711Z">
         <seg>[113705] • phụ thuộc vào vị trí cửa, nên cung cấp cửa sổ có thể mở.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[114523] Phần lưng cao hoặc tầm trung với thiết kế công thái học.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085153Z" creationid="LanHK" creationdate="20210517T085153Z">
+        <seg>[114523] Phần lưng cao hoặc tầm trung với thiết kế thuận tiện, thoải mái cho người sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[114527] Khuyến nghị dùng ghế công thái học.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085243Z" creationid="LanHK" creationdate="20210517T085243Z">
+        <seg>[114527] Khuyến nghị dùng ghế có thiết kế dễ sử dụng và thuận tiện.</seg>
       </tuv>
     </tu>
     <tu>
