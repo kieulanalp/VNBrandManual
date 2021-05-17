@@ -10451,6 +10451,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modular [115540]      Mô đun</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152420Z" creationid="Kieu Lan" creationdate="20210517T152420Z">
+        <seg>Modular [115540]      Bàn mô đun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Molton Cover Lớp trải Molton</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T091718Z" creationid="LanHK" creationdate="20210514T091643Z">
@@ -18085,6 +18093,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143353Z" creationid="Kieu Lan" creationdate="20210517T143353Z">
         <seg>[115539]     Cửa ra vào phải là hai cánh với khoảng cách mở không cản trở tối thiểu là 1,1m (3ft 7in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115542] Phải cung cấp màn hình khi được sử dụng trong bố trí phong cách đào tạo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T153038Z" creationid="Kieu Lan" creationdate="20210517T153038Z">
+        <seg>[115542] Phải có màn hình khi bàn sử dụng trong bố trí phòng dành cho đào tạo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30293,8 +30309,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>phòng họp &amp; Sự kiện -&gt; Thiết bị phòng họp -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>phòng họp &amp; Sự kiện -&gt; Thiết bị phòng họp -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152403Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
