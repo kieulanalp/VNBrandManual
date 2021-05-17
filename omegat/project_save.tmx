@@ -17969,6 +17969,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115635]     Khu vực pre-function có thiết bị hội họp vượt quá 50 chỗ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T141746Z" creationid="Kieu Lan" creationdate="20210517T141746Z">
+        <seg>[115635]     Khu vực pre-function dành cho các khu phòng họp có sức chứa hơn 50 chỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115639] Khuyến nghị một trung tâm bán hàng dành riêng cho các cuộc họp / phục vụ catering / sự kiện.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -25750,6 +25758,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[65672] Bắt buộc có máy pha cà phê/trà tự phục vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65897]     Cho phép một phòng cầu nguyện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T141811Z" creationid="Kieu Lan" creationdate="20210517T141811Z">
+        <seg>[65897]     Cho phép có một phòng cầu nguyện.</seg>
       </tuv>
     </tu>
     <tu>
