@@ -4599,6 +4599,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Credenza or build in cabinet [114513]     Tủ Credenza hoặc gắn sẵn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T090004Z" creationid="LanHK" creationdate="20210517T090004Z">
+        <seg>Credenza or build in cabinet [114513]     Tủ Credenza hoặc liền tường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crib Cleaning Card Reference 1 Tham chiếu thẻ làm sạch cũi 1</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T103513Z" creationid="LanHK" creationdate="20210428T103513Z">
@@ -16653,6 +16661,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T023555Z" creationid="LanHK" creationdate="20210428T023555Z">
         <seg>White, biodegradable, two-ply toilet tissue [24811] Giấy vệ sinh hai lớp màu trắng, phân hủy sinh học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whiteboard (or colour backed glass) [114512]     Bảng trắng (hoặc kính màu)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T085959Z" creationid="LanHK" creationdate="20210517T085959Z">
+        <seg>Whiteboard (or colour backed glass) [114512]     Bảng trắng (hoặc bảng kính màu)</seg>
       </tuv>
     </tu>
     <tu>
