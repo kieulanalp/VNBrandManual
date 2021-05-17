@@ -18017,6 +18017,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115525]     Lối vào trực tiếp vào hành lang dịch vụ BOH.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143449Z" creationid="Kieu Lan" creationdate="20210517T143449Z">
+        <seg>[115525]     Cửa vào trực tiếp vào hành lang dịch vụ BOH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115537]    Diện tích thực phải tối thiểu 25% trên tổng diện tích net phòng họp, bao gồm phòng ballroom nếu được cung cấp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143303Z" creationid="Kieu Lan" creationdate="20210517T143303Z">
