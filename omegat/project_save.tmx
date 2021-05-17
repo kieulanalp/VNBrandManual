@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 184)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161958Z" creationid="Kieu Lan" creationdate="20210517T161958Z">
+        <seg>(Trang 182)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -10379,6 +10387,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum single, one-way door viewer per meeting room installed to view into the meeting room area Lỗ nhìn một chiều tối thiểu cho mỗi phòng họp để nhìn vào khu vực phòng họp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162115Z" creationid="Kieu Lan" creationdate="20210517T162115Z">
+        <seg>Minimum single, one-way door viewer per meeting room installed to view into the meeting room area [13300] Tối thiểu một mắt thần một chiều cho mỗi phòng họp để nhìn vào trong phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum size: 18cm (D) x 25cm (H) (7.2in x 10in) [8419]       Kích thước tối thiểu: 18cm (D) x 25cm (H) (7.2in x 10in)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T015223Z" creationid="LanHK" creationdate="20210508T015223Z">
@@ -10551,6 +10567,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092818Z" creationid="LanHK" creationdate="20210426T092818Z">
         <seg>Must be clearly visible from the front desk [6316] Phải dễ thấy từ quầy lễ tân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be curtains, roller shades, or blinds [82399]       Phải là rèm cửa, rèm cuộn, hoặc rèm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T163429Z" creationid="Kieu Lan" creationdate="20210517T163429Z">
+        <seg>Must be curtains, roller shades, or blinds [82399]       Phải là rèm vải, rèm cuộn, hoặc rèm lá lật</seg>
       </tuv>
     </tu>
     <tu>
@@ -13535,6 +13559,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T111600Z" creationid="LanHK" creationdate="20210406T111600Z">
         <seg>See also ID number [5518] Xem thêm số ID [5518] </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also ID number [56046] Xem thêm số ID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162203Z" creationid="Kieu Lan" creationdate="20210517T162203Z">
+        <seg>See also ID number [56046] Xem thêm số ID [56046]</seg>
       </tuv>
     </tu>
     <tu>
@@ -16537,6 +16569,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where curtains are provided they must meet the following: [13117] Trường hợp cung cấp rèm cửa, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162349Z" creationid="Kieu Lan" creationdate="20210517T162349Z">
+        <seg>Where curtains are provided they must meet the following: [13117] Trường hợp cung cấp rèm cửa, rèm phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where digital newspaper is provided, the host/hostess or delegated host/hostess must inform the guest of its availability and offer assistance [578066] Khi cung cấp báo kỹ thuật số, chủ nhà hoặc chủ nhà được ủy quyền phải thông báo cho khách về các hỗ trợ sẵn có này.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T015924Z" creationid="LanHK" creationdate="20210513T015924Z">
@@ -16901,6 +16941,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T025552Z" creationid="LanHK" creationdate="20210405T025536Z">
         <seg>Window Treatments&lt;t0/&gt; &lt;t1/&gt;Các loại rèm cửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window treatments must be provided and meet the following: [82398] Cung cấp đồ đạc trang trí cửa sổ và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162519Z" creationid="Kieu Lan" creationdate="20210517T162519Z">
+        <seg>Window treatments must be provided and meet the following: [82398] Cung cấp rèm cửa và đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18817,6 +18865,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[13119]       Hoa văn phải được kết hợp tại các đường nối với các đường nối ẩn đằng sau nếp gấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162450Z" creationid="Kieu Lan" creationdate="20210517T162450Z">
+        <seg>[13119]     Hoa văn phải khớp tại các đường may, viền ẩn sau nếp xếp ly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[13170] Phải cung cấp đèn bổ sung tại bàn làm việc.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T085954Z" creationid="LanHK" creationdate="20210510T085954Z">
@@ -18829,6 +18885,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110725Z" creationid="LanHK" creationdate="20210419T110725Z">
         <seg>[13187] Tổng Quản lý chỉ phải quản lý các khách sạn mang thương hiệu IHG®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[13299]      Có thể khóa từ cả hai phía với khắc phục thủ công thích hợp (xoay ngón tay cái hoặc tương tự) vào phía phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162155Z" creationid="Kieu Lan" creationdate="20210517T162155Z">
+        <seg>[13299]      Có thể khóa từ cả hai phía với cơ chế ghi đè phù hợp (núm khóa hoặc tương tự) ở phía phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[13300]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162014Z" creationid="Kieu Lan" creationdate="20210517T162014Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -19243,8 +19315,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[16091]      Chiều dài của các yếu tố vải không trang trí (vải lót / vải mỏng / vải tối) không được vượt quá chiều dài của các yếu tố trang trí.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[16091]      Chiều dài của các yếu tố vải không trang trí (vải lót/vải mỏng/vải tối) không được vượt quá chiều dài của các yếu tố trang trí.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162441Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[16091]     Chiều dài của các yếu tố vải không mang tính trang trí (lót/rèm sheer/ rèm cản sáng) không được vượt quá chiều dài của các yếu tố trang trí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27258,6 +27330,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78061]     Lỗ nhìn trên cửa phải được lắp đặt ở độ cao 1,5m (5ft) so với sàn nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162005Z" creationid="Kieu Lan" creationdate="20210517T162005Z">
+        <seg>[78061]     Mắt thần trên cửa phải được lắp đặt ở độ cao 1,5m (5ft) so với sàn nhà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78062] Trường hợp cung cấp ghế xếp, họ phải có cản hoặc tấm xếp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T161428Z" creationid="Kieu Lan" creationdate="20210517T161428Z">
@@ -27722,6 +27802,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[79149]       Dùi trong đó rèm cửa được vận hành bằng tay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162359Z" creationid="Kieu Lan" creationdate="20210517T162359Z">
+        <seg>[79149]       Thanh đẩy rèm để đóng mở rèm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79150] Thiết bị cứng (trừ dùi cui) hoặc vải không trang trí không được cho khách nhìn thấy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162414Z" creationid="Kieu Lan" creationdate="20210517T162414Z">
+        <seg>[79150] Phần cứng (trừ thanh đẩy rèm) hoặc vải không có tính trang trí không được để khách nhìn thấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79151]       Sự chồng chéo tối thiểu nơi vải đáp ứng 10cm (4in).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162425Z" creationid="Kieu Lan" creationdate="20210517T162425Z">
+        <seg>[79151]     Tại vị trí hai tấm rèm gặp nhau, hai tấm phải chồng lên nhau 10cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[79152]       Bao phủ toàn bộ cửa sổ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162430Z" creationid="Kieu Lan" creationdate="20210517T162430Z">
+        <seg>[79152]       Che toàn bộ cửa sổ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[79157]     Được lắp đặt trong các bức tường bên ngoài.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102652Z" creationid="LanHK" creationdate="20210428T102652Z">
@@ -27966,6 +28078,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T065007Z" creationid="Kieu Lan" creationdate="20210422T065007Z">
         <seg>[819] Nếu khách phải chờ để được phục vụ, nhân viên phải xin lỗi và cảm ơn vì họ đã dành thời gian đợi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[82402] Khuyến nghị rèm cửa tự động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162506Z" creationid="Kieu Lan" creationdate="20210517T162506Z">
+        <seg>[82402] Khuyến nghị dùng rèm tự động.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30237,8 +30357,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>cuộc họp và sự kiện -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>cuộc họp và sự kiện -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162221Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
