@@ -28763,6 +28763,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[91129]    Nằm ngoài sảnh thang máy chính hoặc liền kề với quầy lễ tân hoặc quầy concierge, khu vực phòng họp hoặc văn phòng hành chính.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T151717Z" creationid="Kieu Lan" creationdate="20210517T151717Z">
+        <seg>[91129]    Bố trí gần sảnh thang máy chính hoặc liền kề với quầy lễ tân hoặc quầy concierge, khu vực phòng họp hoặc văn phòng hành chính.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[91196] Lắp đặt các bức tường di động phải được chi tiết ở mặt dưới của cấu trúc trên cao theo cách ngăn chặn sự truyền âm giữa các khu vực trong phòng họp / phòng ballroom.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
