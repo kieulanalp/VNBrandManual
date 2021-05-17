@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a minimum, one sparkling wine must be available by the glass [53402] Tối thiểu, một loại rượu vang sparkling phải có sẵn theo ly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T050023Z" creationid="LanHK" creationdate="20210517T050023Z">
+        <seg>At a minimum, one sparkling wine must be available by the glass [53402] Tối thiểu, có một loại rượu vang sủi phục vụ theo ly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a minimum, six types of condiments must be available upon request from the following: [53335] Tối thiểu, phải có sáu loại gia vị theo yêu cầu từ như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T082853Z" creationid="LanHK" creationdate="20210514T082845Z">
@@ -29313,6 +29321,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090905Z" creationid="LanHK" creationdate="20210511T090859Z">
         <seg>•  Minimum recommended ironing surface: 110cm(44in) x 30cm(12in) [151048] Bề mặt sử dụng tối thiểu được khuyến nghị: 110cm (44in) x 30cm (12in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  One champagne is recommended to be available by the glass [589051] Nên có rượu sâm banh có sẵn theo ly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T060914Z" creationid="LanHK" creationdate="20210517T060914Z">
+        <seg>•  One champagne is recommended to be available by the glass [589051] Nên có một loại sâm banh phục vụ theo ly</seg>
       </tuv>
     </tu>
     <tu>
