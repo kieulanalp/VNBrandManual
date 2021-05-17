@@ -4743,6 +4743,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cấu hình của các phòng họp sẽ cung cấp sự linh hoạt tối đa thông qua việc sử dụng các vách ngăn di động.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142918Z" creationid="Kieu Lan" creationdate="20210517T142909Z">
+        <seg>[19607] Cấu hình của các phòng họp linh hoạt tối đa nhờ việc sử dụng các vách ngăn di động.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cần gia cố kết cấu và kết nối điện để xây dựng biển báo gắn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T064317Z" creationid="LanHK" creationdate="20210406T064317Z">
@@ -19233,6 +19241,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[19607]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142916Z" creationid="Kieu Lan" creationdate="20210517T142916Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[196102] Lắp sẵn hoặc có thể gấp lại.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090940Z" creationid="LanHK" creationdate="20210511T090937Z">
@@ -28671,6 +28687,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[91196] Lắp đặt các bức tường di động phải được chi tiết ở mặt dưới của cấu trúc trên cao theo cách ngăn chặn sự truyền âm giữa các khu vực trong phòng họp/phòng ballroom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91303] Có thể truy cập trực tiếp từ khu vực pre-function hoặc hành lang công cộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142847Z" creationid="Kieu Lan" creationdate="20210517T142847Z">
+        <seg>[91303] Có thể vào trực tiếp từ khu vực pre-function hoặc hành lang công cộng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91305]    Thiết kế cung cấp nghe nhìn nên xem xét việc cung cấp kiểm soát cho các phòng họp riêng lẻ cũng như kiểm soát kết hợp cho nhiều phòng mở thành một.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143211Z" creationid="Kieu Lan" creationdate="20210517T143211Z">
+        <seg>[91305]    Thiết kế bố trí thiết bị AV nên cân nhắc việc cung cấp bảng điều khiển cho các phòng họp riêng lẻ cũng như bảng điều khiển kết hợp khi nhiều phòng mở thành một.</seg>
       </tuv>
     </tu>
     <tu>
