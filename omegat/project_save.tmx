@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 183)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152313Z" creationid="Kieu Lan" creationdate="20210517T152313Z">
+        <seg>(Trang 181)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -11177,6 +11185,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notepad, bút thương hiệu và kính ở mỗi địa điểm, trừ khi yêu cầu thiết lập khác nhau.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152157Z" creationid="Kieu Lan" creationdate="20210517T152157Z">
+        <seg>Notepad, bút thương hiệu và cốc uống nước ở mỗi chỗ ngồi, trừ khi yêu cầu set up khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of Check In / Check Out terminals must meet the following requirements: [102714] Số lượng thiết bị đầu cuối nhận / trả phòng phải đáp ứng các yêu cầu sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T033607Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -16161,6 +16177,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Water must be provided [29019] Phải cung cấp nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152319Z" creationid="Kieu Lan" creationdate="20210517T152319Z">
+        <seg>Water must be provided [29019] Phải cung cấp nước uống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water-repellent [79102]       Không thấm nước</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T043220Z" creationid="Kieu Lan" creationdate="20210512T043220Z">
@@ -16909,6 +16933,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T091530Z" creationid="LanHK" creationdate="20210405T091530Z">
         <seg>Resilient Flooring&lt;t0/&gt; &lt;t1/&gt;Lớp lót thảm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrapped confectionery (hard candies or mints) [29020] Bánh kẹo gói (kẹo cứng hoặc bạc hà)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152331Z" creationid="Kieu Lan" creationdate="20210517T152331Z">
+        <seg>Wrapped confectionery (hard candies or mints) [29020] Kẹo trong gói(kẹo cứng hoặc bạc hà)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28773,8 +28805,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[91130]    Tối thiểu hai máy trạm cho khách sử dụng.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T151816Z" creationid="Kieu Lan" creationdate="20210517T151816Z">
-        <seg>[91130]    Tối thiểu hai khu làm cho khách sử dụng.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152132Z" creationid="Kieu Lan" creationdate="20210517T151816Z">
+        <seg>[91130]    Tối thiểu hai bàn máy tính cho khách sử dụng.</seg>
       </tuv>
     </tu>
     <tu>
