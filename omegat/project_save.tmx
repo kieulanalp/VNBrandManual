@@ -21252,6 +21252,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[41111] Giấy tái chế được ưa tiên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075640Z" creationid="LanHK" creationdate="20210517T075640Z">
+        <seg>[41111] Giấy tái chế được ưu tiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[412050]    Chủ sở hữu / Đại lý độc quyền / chuyên gia tư vấn được chỉ định của mình phải thông báo cho IHG về bất kỳ xung đột nào giữa các tiêu chuẩn IHG và các luật, quy tắc hoặc quy định quốc tế, quốc gia và địa phương.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -22608,6 +22616,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T103523Z" creationid="LanHK" creationdate="20210406T103523Z">
         <seg>[5504] Tuyên bố về Quyền riêng tư phải giải thích rằng Dữ liệu cá nhân đặt phòng và lưu trú tại khách sạn được khách sạn thu thập có thể được chia sẻ với IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[550] Nhân viên chịu trách nhiệm cho cuộc họp hoặc sự kiện phải chào đón Người tổ chức cuộc họp trước khi bắt đầu cuộc họp hoặc sự kiện và đảm bảo rằng tất cả các sắp xếp đã được thực hiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075805Z" creationid="LanHK" creationdate="20210517T075805Z">
+        <seg>[550] Nhân viên chịu trách nhiệm cho cuộc họp hoặc sự kiện phải chào đón Ban tổ chức trước khi bắt đầu cuộc họp hoặc sự kiện và đảm bảo rằng tất cả đã được bố trí thực hiện đúng yêu cầu.</seg>
       </tuv>
     </tu>
     <tu>
