@@ -5,3 +5,4 @@ bên giường	tab đầu giường
 trang điểm	vanity
 kích thước toàn phần	full size
 mong đợi	kỳ vọng về
+Local or regional	Địa phương hoặc vùng miền
