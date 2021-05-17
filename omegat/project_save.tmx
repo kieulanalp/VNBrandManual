@@ -28635,6 +28635,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90809]   Trường hợp bất kỳ phòng họp nào có thể chứa hơn 300 người, nên sử dụng lối vào riêng biệt cách xa sảnh khách sạn chính.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142723Z" creationid="Kieu Lan" creationdate="20210517T142713Z">
+        <seg>[90809]   Đối với bất kỳ phòng họp nào có thể chứa hơn 300 người, nên bố trí lối vào riêng cách xa sảnh khách sạn chính.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90899] Nhân viên cần đảm bảo rằng bàn là được đặt trong tủ quần áo với một thùng rỗng sau khi sử dụng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090402Z" creationid="LanHK" creationdate="20210511T090402Z">
