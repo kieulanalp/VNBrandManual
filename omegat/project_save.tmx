@@ -19395,6 +19395,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2412] Khi Người lập kế hoạch cuộc họp xác nhận đặt phòng, một nhân viên phải cung cấp cho họ tên và thông tin liên lạc của nhân viên khách sạn, người sẽ xử lý sự kiện này.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075329Z" creationid="LanHK" creationdate="20210517T075329Z">
+        <seg>[2412] Khi người tổ chức sự kiện xác nhận booking, một nhân viên phải cung cấp cho họ tên và thông tin liên lạc của nhân viên khách sạn sẽ chịu trách nhiệm tổ chức sự kiện này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[24558] Imagesound PLC, Music Styling (Tel: +44 (0)1246 572 990, Fax: +44 (0)1246 572 991, Email: HolidayInn@Imagesound.com), or PlayNetwork, Inc (Tel: +1 (508) 381 6915, Fax: +1 (508) 618 1334, Email: JBradley@playnetwork.com) phải được dùng như nhà cung cấp được phê duyệt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T125936Z" creationid="Kieu Lan" creationdate="20210423T125936Z">
@@ -24464,6 +24472,46 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T074732Z" creationid="LanHK" creationdate="20210517T074732Z">
         <seg>[59003] Việc kiểm tra địa điểm cùng khách phải được lên lịch sớm nhất có thể mà vẫn thuận tiện cho khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59004] Trong vòng hai ngày làm việc kể từ khi cung cấp cho khách hàng một hợp đồng bằng văn bản, nhân viên Bán hàng phải liên hệ với khách hàng về hợp đồng được đề xuất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075158Z" creationid="LanHK" creationdate="20210517T075158Z">
+        <seg>[59004] Trong vòng hai ngày làm việc kể từ khi cung cấp cho khách hàng một hợp đồng bằng văn bản, nhân viên Sales phải liên hệ với khách hàng về hợp đồng được đề xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59005] Hợp đồng phải được xem xét bởi nhân viên Bán hàng với khách hàng để đảm bảo tất cả các điều khoản và điều kiện được hiểu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075210Z" creationid="LanHK" creationdate="20210517T075210Z">
+        <seg>[59005] Hợp đồng phải được xem xét bởi nhân viên Sales với khách hàng để đảm bảo tất cả các điều khoản và điều kiện được hiểu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59006] Nhân viên bán hàng và khách hàng nên sắp xếp một ngày để ký kết và trả lại hợp đồng cho nhân viên Bán hàng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075227Z" creationid="LanHK" creationdate="20210517T075227Z">
+        <seg>[59006] Nhân viên Sales và khách hàng nên sắp xếp một ngày để ký kết và trả lại hợp đồng cho nhân viên Sales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59007] Hợp đồng phải bao gồm đặt cọc, chi tiết thanh toán trước và hạn chót.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075242Z" creationid="LanHK" creationdate="20210517T075242Z">
+        <seg>[59007] Hợp đồng phải bao gồm thông tin đặt cọc, thông tin thanh toán trước và hạn chót.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59009] Phải điều chỉnh mỗi hợp đồng theo sự kiện của khách hàng cá nhân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T075134Z" creationid="LanHK" creationdate="20210517T075134Z">
+        <seg>[59009] Mỗi hợp đồng đều được tùy chỉnh sao cho phù hợp từng sự kiện cụ thể của khách.</seg>
       </tuv>
     </tu>
     <tu>
