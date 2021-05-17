@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Day Menu is required from 11:00 to the time of closing [592058] Thực đơn ALL Day được yêu cầu từ 11:00 đến thời điểm đóng cửa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062215Z" creationid="LanHK" creationdate="20210517T062215Z">
+        <seg>All Day Menu is required from 11:00 to the time of closing [592058] Thực đơn All Day phục vụ từ 11:00 đến thời điểm đóng cửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Fire Rated Doors except for service riser and/or connecting guest room doors must be equipped with automatic door closers to ensure latching.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T070233Z" creationid="LanHK" creationdate="20210505T070226Z">
@@ -3139,6 +3147,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T073329Z" creationid="Kieu Lan" creationdate="20210331T073329Z">
         <seg>Breakfast Buffet&lt;t0/&gt; &lt;t1/&gt;Buffet sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakfast items are required from 08:00 to 12:00 [592057] Đồ ăn sáng được yêu cầu từ 08:00 đến 12:00</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062142Z" creationid="LanHK" creationdate="20210517T062142Z">
+        <seg>Breakfast items are required from 08:00 to 12:00 [592057] yêu cầu có đồ ăn sáng từ 08:00 đến 12:00</seg>
       </tuv>
     </tu>
     <tu>
@@ -10213,6 +10229,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T030748Z" creationid="LanHK" creationdate="20210407T030748Z">
         <seg>Must not use paid search to divert branded broad match keywords away from other hotels licensed under any IHG® brand in the same geographic area [675096] Không được sử dụng tìm kiếm có trả tiền để chuyển hướng các từ khóa thương hiệu đối sánh rộng khỏi các khách sạn khác thuộc bất kỳ thương hiệu IHG® nào trong cùng khu vực địa lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must operate between 08:00 to 00:00 for a minimum of 12 consecutive hours [592056] Phải hoạt động từ 08:00 đến 00:00 trong tối thiểu 12 giờ liên tục</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062130Z" creationid="LanHK" creationdate="20210517T062130Z">
+        <seg>Must operate between 08:00 to 00:00 for a minimum of 12 consecutive hours [592056] Phải hoạt động trong khoảng 08:00 đến 00:00, tối thiểu 12 tiếng liên tục</seg>
       </tuv>
     </tu>
     <tu>
