@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 182)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142342Z" creationid="Kieu Lan" creationdate="20210517T142342Z">
+        <seg>(Trang 180)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -9995,6 +10003,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meeting facilities must meet the following: [90806] cơ sở hội họp phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142412Z" creationid="Kieu Lan" creationdate="20210517T142412Z">
+        <seg>Meeting facilities must meet the following: [90806] Các cơ sở phòng họp phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T094135Z" creationid="LanHK" creationdate="20210405T094135Z">
@@ -17977,10 +17993,18 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115638]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142322Z" creationid="Kieu Lan" creationdate="20210517T142322Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115639] Khuyến nghị một trung tâm bán hàng dành riêng cho các cuộc họp / phục vụ catering / sự kiện.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[115639] Khuyến nghị một trung tâm bán hàng dành riêng cho các cuộc họp/phục vụ catering/sự kiện.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142404Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[115639] Khuyến nghị có trung tâm bán hàng chuyên cho các cuộc họp/phục vụ catering/sự kiện.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28603,6 +28627,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90807]    Tất cả các phòng họp có thể đến thông qua một lối đi kín hoặc có mái che từ các khu vực công cộng của khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142546Z" creationid="Kieu Lan" creationdate="20210517T142500Z">
+        <seg>[90807]    Tất cả các phòng họp có lối vào kín hoặc có mái che từ các khu vực công cộng của khách sạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90899] Nhân viên cần đảm bảo rằng bàn là được đặt trong tủ quần áo với một thùng rỗng sau khi sử dụng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090402Z" creationid="LanHK" creationdate="20210511T090402Z">
@@ -30317,8 +30349,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Đối với các khách sạn có dịch vụ đám cưới lớn, nên có lounge tổ chức tiệc cưới / tổ chức sự kiện.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Đối với các khách sạn có dịch vụ đám cưới lớn, nên có lounge tổ chức tiệc cưới/tổ chức sự kiện.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T142324Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[115638] Đối với các khách sạn thường có dịch vụ đám cưới, nên có lounge tổ chức tiệc cưới.</seg>
       </tuv>
     </tu>
     <tu>
