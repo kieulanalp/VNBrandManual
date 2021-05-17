@@ -5481,6 +5481,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enquiry about the Meeting Planner's preferred method of communication (for example, phone, text, email, letter) [29023] Thắc mắc về phương thức liên lạc ưa thích của Người lập kế hoạch (ví dụ: điện thoại, văn bản, email, thư)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074615Z" creationid="LanHK" creationdate="20210517T074615Z">
+        <seg>Enquiry about the Meeting Planner's preferred method of communication (for example, phone, text, email, letter) [29023] Hỏi phương thức liên lạc ưu tiên của đầu mối tổ chức sự kiện (ví dụ: thông qua điện thoại, tin nhắn, email, thư giấy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensuring all Front Desk and new colleagues complete IHG® Rewards Club training Đảm bảo tất cả Lễ tân và các nhân viên mới hoàn thành khóa đào tạo Câu lạc bộ Thưởng IHG®</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T014116Z" creationid="Kieu Lan" creationdate="20210420T014116Z">
@@ -10841,6 +10849,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next steps, including but not limited to, options for holding space, rates valid for a period of time, etc. bước tiếp theo, bao gồm nhưng không giới hạn, các tùy chọn để giữ không gian, giá phòng hợp lệ trong một khoảng thời gian, v.v.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074518Z" creationid="LanHK" creationdate="20210517T074509Z">
+        <seg>Next steps, including but not limited to, options for holding space, rates valid for a period of time, etc. [29021] Bước tiếp theo bao gồm nhưng không giới hạn ở các cách để giữ phòng, giá phòng áp dụng trong một khoảng thời gian, v.v.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ngoài các tiêu chuẩn được trình bày dưới đây, IHG® khuyến nghị các khách sạn thực hiện đánh giá rủi ro an toàn thực phẩm thường xuyên để thông báo cho việc phát triển và duy trì các quy trình HACCP phù hợp với các rủi ro được xác định tại địa phương.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T061408Z" creationid="LanHK" creationdate="20210419T044134Z">
@@ -11137,10 +11153,18 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offer of a show round tour [29022] Cung cấp một tour du lịch vòng quanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074531Z" creationid="LanHK" creationdate="20210517T074531Z">
+        <seg>Offer of a showround tour [29022] Đề xuất cung cấp một tour tham quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offer of a showround tour [58984] Cung cấp một tour du lịch thăm thú</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210517T070820Z" creationid="LanHK" creationdate="20210517T070820Z">
-        <seg>Offer of a showround tour [58984] Cung cấp một tour tham quan</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074537Z" creationid="LanHK" creationdate="20210517T070820Z">
+        <seg>Offer of a showround tour [58984] Đề xuất cung cấp một tour tham quan</seg>
       </tuv>
     </tu>
     <tu>
@@ -21940,6 +21964,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[51612] Liên hệ chính của khách sạn phải là cấp quản lý trở lên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074626Z" creationid="LanHK" creationdate="20210517T074626Z">
+        <seg>[51612] Đầu mối liên hệ chính của khách sạn phải là cấp quản lý trở lên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[51687] Luôn có các lựa chọn Takeaway cho đồ uống không cồn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T065408Z" creationid="LanHK" creationdate="20210517T065408Z">
@@ -24424,6 +24456,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[59002] Phải bao gồm một đề xuất/hợp đồng cập nhật nếu khách hàng yêu cầu trong quá trình kiểm tra/tham quan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59003] Việc kiểm tra vị trí với khách hàng phải được lên lịch sao cho thuận tiện nhất cho khách tại giờ thỏa thuận</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074732Z" creationid="LanHK" creationdate="20210517T074732Z">
+        <seg>[59003] Việc kiểm tra địa điểm cùng khách phải được lên lịch sớm nhất có thể mà vẫn thuận tiện cho khách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59012] Tất cả các đề xuất phải được theo dõi với khách hàng trong vòng hai ngày làm việc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074637Z" creationid="LanHK" creationdate="20210517T074637Z">
+        <seg>[59012] Tất cả các đề xuất phải được follow up với khách hàng trong vòng hai ngày làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[59013] Đề xuất phải được xem xét với khách hàng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074641Z" creationid="LanHK" creationdate="20210517T074641Z">
+        <seg>[59013] Đề xuất phải được xem xét cùng với khách hàng.</seg>
       </tuv>
     </tu>
     <tu>
