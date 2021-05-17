@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A detailed proposal must be provided within one working day of the initial response and include the following: [2401] Một đề xuất chi tiết phải được cung cấp trong vòng một ngày làm việc kể từ phản hồi ban đầu và bao gồm như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T073945Z" creationid="LanHK" creationdate="20210517T073945Z">
+        <seg>A detailed proposal must be provided within one working day of the initial response and include the following: [2401] Một đề xuất chi tiết phải được cung cấp trong vòng một ngày làm việc tính từ phản hồi đầu tiên và bao gồm như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A distress alarm with direct connection to an on-site location that is permanently staffed Một báo động sự cố với kết nối trực tiếp đến một vị trí trên hiện trường có bố trí nhân viên cố định</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T043041Z" creationid="LanHK" creationdate="20210419T043041Z">
@@ -2664,8 +2672,16 @@
       <tuv lang="EN-US">
         <seg>Available space, rates and dates [58982] Luôn có không gian, giá phòng và ngày</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210517T070810Z" creationid="LanHK" creationdate="20210517T070810Z">
-        <seg>Available space, rates and dates [58982] không gian, giá phòng và ngày có thể cung cấp</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074024Z" creationid="LanHK" creationdate="20210517T070810Z">
+        <seg>Available space, rates and dates [58982] Phòng, giá phòng và ngày có thể cung cấp dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available space, rates and dates confirmation [2404] Luôn có xác nhận không gian, giá phòng và ngày</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074013Z" creationid="LanHK" creationdate="20210517T074013Z">
+        <seg>Available space, rates and dates [2404] Xác nhận phòng, giá phòng và ngày cung cấp dịch vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19331,6 +19347,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2410] nhân viên phải cung cấp cho khách hàng chi tiết về các khách sạn mang nhãn hiệu Holiday Inn® thay thế (nếu có thể) hoặc các khách sạn mang nhãn hiệu IHG® khác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T073924Z" creationid="LanHK" creationdate="20210517T073924Z">
+        <seg>[2410] nhân viên phải cung cấp cho khách hàng thông tin về các khách sạn Holiday Inn® khác (nếu có) hoặc các khách sạn thuộc thương hiệu IHG® khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[241103]     Không cho phép tủ mở và / hoặc kệ mở.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -20007,6 +20031,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T024450Z" creationid="LanHK" creationdate="20210513T024450Z">
         <seg>[29010] Nên có món ăn phù hợp cho khách bị dị ứng, nhạy cảm hoặc tuân theo yêu cầu ưu tiên của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[29021]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T074035Z" creationid="LanHK" creationdate="20210517T074035Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
