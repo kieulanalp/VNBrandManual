@@ -1152,8 +1152,8 @@
       <tuv lang="EN-US">
         <seg>A local or regional spread is recommended (e.g. kaya, vegemite) [581103] Khuyến nghị loại phết bánh hương vị khu vực hoặc địa phương (ví dụ kaya, vegemite)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210513T070141Z" creationid="LanHK" creationdate="20210513T070141Z">
-        <seg>A local or regional spread is recommended (e.g. kaya, vegemite) [581103] Khuyến nghị loại phết bánh của khu vực hoặc địa phương (ví dụ kaya, vegemite)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045737Z" creationid="LanHK" creationdate="20210513T070141Z">
+        <seg>A local or regional spread is recommended (e.g. kaya, vegemite) [581103] Khuyến nghị loại phết bánh của địa phương hoặc vùng miền (ví dụ kaya, vegemite)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,6 +3411,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210423T131932Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>CE Fire/Slip: EN14041:2004 EN1307 [41244]       tiêu chuẩn chống cháy / chống trơn CE: EN14041:2004 EN1307</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cabernet Sauvignon or a blend where it is the main grape variety OR Pinot Noir or a blend where it is the main grape variety [60654] Cabernet Sauvignon hoặc một pha trộn trong đó nó là giống nho chính HOẶC Pinot Noir hoặc một pha trộn trong đó nó là giống nho chính</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T050005Z" creationid="LanHK" creationdate="20210517T050005Z">
+        <seg>Cabernet Sauvignon or a blend where it is the main grape variety OR Pinot Noir or a blend where it is the maingrape variety [53397] Cabernet Sauvignon hoặc một hỗn hợp nho trong đó nó là giống nho chính HOẶC Pinot Noir hoặc một hỗn hợp nho trong đó nó là giống nho chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -9845,8 +9853,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum one local or regional item [51561] Tối thiểu một món địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>Minimum one local or regional item [51561] Tối thiểu một món </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045659Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>Minimum one local or regional item [51561] Tối thiểu một món địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -12831,6 +12839,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Saunas and/or steam rooms must meet the following minimum safety requirements: [56264] Phòng sauna và/hoặc phòng xông hơi phải đáp ứng các yêu cầu an toàn tối thiểu sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sauvignon Blanc or a blend where it is the main grape variety OR Chardonnay or a blend where it is the maingrape variety [53397] Sauvignon Blanc hoặc một pha trộn trong đó nó là giống nho chính HOẶC Chardonnay hoặc một hỗn hợp trong đó nó là giống nho chính</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045848Z" creationid="LanHK" creationdate="20210517T045848Z">
+        <seg>Sauvignon Blanc or a blend where it is the main grape variety OR Chardonnay or a blend where it is the maingrape variety [53397] Sauvignon Blanc hoặc một hỗn hợp nho trong đó nó là giống nho chính HOẶC Chardonnay hoặc một hỗn hợp nho trong đó nó là giống nho chính</seg>
       </tuv>
     </tu>
     <tu>
@@ -21764,6 +21780,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[53396] Phải có tối thiểu hai và tối đa ba loại rượu vang trắng theo ly</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045808Z" creationid="LanHK" creationdate="20210517T045808Z">
+        <seg>[53396] Phải có tối thiểu hai và tối đa ba loại rượu vang trắng phục vụ theo ly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[53605] Cho phép cà phê đen và trà cung cấp bổ sung tại bàn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T040424Z" creationid="LanHK" creationdate="20210513T040424Z">
@@ -29143,8 +29167,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>•  A local or regional dessert is recommended [588084] Khuyến nghị một món tráng miệng địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>•  A local or regional dessert is recommended [588084] Khuyến nghị một món tráng miệng </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T045655Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>•  A local or regional dessert is recommended [588084] Khuyến nghị một món tráng miệng địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
