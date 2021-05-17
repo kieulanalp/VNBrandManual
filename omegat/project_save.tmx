@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Afternoon tea must be for a minimum of two and a maximum of four hours [592059] Trà chiều phải tối thiểu hai và tối đa bốn giờ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062222Z" creationid="LanHK" creationdate="20210517T062222Z">
+        <seg>Afternoon tea must be for a minimum of two and a maximum of four hours [592059] Trà chiều phải phục vụ tối thiểu hai và tối đa bốn giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Airflow rates between 0.47 to 4.7 m3/s: maximum 6m/s Velocity [327065] Tốc độ dòng khí từ 0,47 đến 4,7 m3 / giây: Vận tốc tối đa 6m / giây</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -5966,6 +5974,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093703Z" creationid="LanHK" creationdate="20210405T093703Z">
         <seg>Food &amp; Beverage Dịch vụ F&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food &amp; Beverage -&gt; Bars &amp; Pubs Thực phẩm và đồ uống (F&amp;B) -&gt; Bars &amp; Pubs</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062239Z" creationid="LanHK" creationdate="20210517T062231Z">
+        <seg>Food &amp; Beverage -&gt; Bars &amp; Pubs</seg>
       </tuv>
     </tu>
     <tu>
@@ -17951,6 +17967,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T025900Z" creationid="LanHK" creationdate="20210428T025900Z">
         <seg>[133060] Không trơn trượt, độ chống trơn trượt tối thiểu tương đương với R10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[133084]     Nhà vệ sinh công cộng chuyên dụng ở gần.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062259Z" creationid="LanHK" creationdate="20210517T062259Z">
+        <seg>[133084]     Nhà vệ sinh công cộng dành riêng ở gần.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[133086]     Một loạt các chỗ ngồi bao gồm chỗ ngồi cao tại quầy bar và chỗ ngồi lounge.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T062732Z" creationid="LanHK" creationdate="20210517T062732Z">
+        <seg>[133086]     Một loạt các loại ghế ngồi bao gồm chỗ ngồi cao tại quầy bar và chỗ ngồi lounge.</seg>
       </tuv>
     </tu>
     <tu>
