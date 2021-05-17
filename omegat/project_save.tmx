@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ballroom chairs must meet the following: [82044] Phòng ballroom phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T094310Z" creationid="LanHK" creationdate="20210517T094310Z">
+        <seg>Ballroom chairs must meet the following: [82044] Ghế phòng ballroom phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ballroom must provide the following facilities and equipments: [82047] Phòng ballroom phải cung cấp các cơ sở và thiết bị sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T092305Z" creationid="LanHK" creationdate="20210517T092305Z">
@@ -6198,6 +6206,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043910Z" creationid="Kieu Lan" creationdate="20210510T043910Z">
         <seg>Flat base plate to prevent water collection [13756] Tấm đế phẳng để ngăn đọng nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flexible back [115521]      Phía lưng linh hoạt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T094330Z" creationid="LanHK" creationdate="20210517T094323Z">
+        <seg>Flexible back [115521]      Lưng ghế không cứng</seg>
       </tuv>
     </tu>
     <tu>
@@ -17901,6 +17917,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T092442Z" creationid="LanHK" creationdate="20210517T092442Z">
         <seg>[115514]    Kích thước của màn hình phải được xác định theo khuyến nghị của nhà sản xuất, tương ứng với kích thước của phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115518] Nên cung cấp một xe đẩy chuyên dụng để xử lý và lưu trữ dễ dàng các bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T094258Z" creationid="LanHK" creationdate="20210517T094258Z">
+        <seg>[115518] Nên cung cấp một xe đẩy chuyên dụng để vận chuyển và cất bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115522] Chất liệu ghế phải thoáng khí và phân bổ trọng lượng người dùng đồng đều.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T094346Z" creationid="LanHK" creationdate="20210517T094346Z">
+        <seg>[115522] Chất liệu ghế phải thoáng khí và phân bổ đều trọng lượng người dùng.</seg>
       </tuv>
     </tu>
     <tu>
