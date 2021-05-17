@@ -9077,8 +9077,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Local or regional tea is recommended [51485] Khuyến nghị trà địa phương hoặc khu vực</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T085309Z" creationid="LanHK" creationdate="20210514T085309Z">
-        <seg>Local or regional tea is recommended [51485] Khuyến nghị trà </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T044701Z" creationid="LanHK" creationdate="20210514T085309Z">
+        <seg>Local or regional tea is recommended [51485] Khuyến nghị trà địa phương hoặc vùng miền</seg>
       </tuv>
     </tu>
     <tu>
@@ -9709,8 +9709,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum of tea bag and maximum of tea envelope served in individual pot to the table [67732] Tối thiểu túi trà và tối đa phong bì trà phục vụ trong bình cá nhân để bàn</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210517T012117Z" creationid="LanHK" creationdate="20210517T012117Z">
-        <seg>Tối thiểu có trà túi lọc và tối đa trà túi lọc đựng trong bao bì lẻ phục vụ theo </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T044636Z" creationid="LanHK" creationdate="20210517T012117Z">
+        <seg>Tối thiểu có trà túi lọc và tối đa trà túi lọc đựng trong bao bì lẻ phục vụ theo bình tại bàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -24736,6 +24736,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092614Z" creationid="LanHK" creationdate="20210426T092614Z">
         <seg>[677051] Không được trưng bày ấn phẩm quảng cáo của khách sạn không thuộc IHG®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[67706] Khuyến nghị trà Dilmah</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T044721Z" creationid="LanHK" creationdate="20210517T044721Z">
+        <seg>[67706] Khuyến nghị dùng trà Dilmah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[67708] Nên cho thực đơn trà vào thực đơn đồ uống.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210517T044740Z" creationid="LanHK" creationdate="20210517T044740Z">
+        <seg>[67708] Nên bao gồm thực đơn trà trong thực đơn đồ uống.</seg>
       </tuv>
     </tu>
     <tu>
