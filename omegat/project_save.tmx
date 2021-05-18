@@ -9523,6 +9523,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighting in the meetings and events spaces must meet the following: [102708] Chiếu sáng trong không gian hội nghị và sự kiện phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044029Z" creationid="Kieu Lan" creationdate="20210518T044029Z">
+        <seg>Lighting in the meetings and events spaces must meet the following: [102708] Chiếu sáng trong không gian hội nghị và sự kiện  phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting in the pantry/kitchen must meet the following: [80171] Chiếu sáng trong pantry / bếp phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10213,8 +10221,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Building Services cuộc họp và sự kiện -&gt; Dịch vụ xây dựng</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043950Z" creationid="Kieu Lan" creationdate="20210518T043950Z">
-        <seg>Meetings &amp; Events -&gt; Building Services Dịch vụ xây dựng</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044002Z" creationid="Kieu Lan" creationdate="20210518T043950Z">
+        <seg>Meetings &amp; Events -&gt; Building Services Dịch vụ trong tòa nhà</seg>
       </tuv>
     </tu>
     <tu>
