@@ -10163,6 +10163,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Fixtures and Fittings phòng họp và sự kiện -&gt; Đồ đạc và thiết bị</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032541Z" creationid="Kieu Lan" creationdate="20210518T032541Z">
+        <seg>Meetings &amp; Events -&gt; Fixtures and Fittings Chiếu sáng &amp; Linh kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; General cuộc họp và sự kiện -&gt; Chung</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T070148Z" creationid="LanHK" creationdate="20210517T070148Z">
@@ -15793,6 +15801,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two hours turnaround time is permitted [407069] Cho phép thời gian quay vòng hai giờ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032402Z" creationid="Kieu Lan" creationdate="20210518T032402Z">
+        <seg>Two hours turnaround time is permitted [407069] Cho phép thời gian hai giờ để hoàn thành yêu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two matching mugs with a minimum capacity of 250ml (8.4fl oz) [8084] Hai cốc phù hợp với dung tích tối thiểu 250ml (8.4fl oz)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T045639Z" creationid="Kieu Lan" creationdate="20210510T045639Z">
@@ -17373,6 +17389,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T064250Z" creationid="LanHK" creationdate="20210514T064250Z">
         <seg>[102720] Phải cung cấp tranh ảnh nghệ thuật trong tất cả các outletF&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[102745] Phải cung cấp biển báo để xác định các cuộc họp và sự kiện nằm bên ngoài lối vào phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032603Z" creationid="Kieu Lan" creationdate="20210518T032603Z">
+        <seg>[102745] Phải cung cấp biển báo để thông báo tên các cuộc họp và sự kiện bên ngoài lối vào phòng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22126,6 +22150,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T062847Z" creationid="LanHK" creationdate="20210514T062847Z">
         <seg>[40141] Sàn xung quanh khu vực buffet và quầy đồ ăn phải là gạch hoặc đá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[407071] Khuyến cáo rằng trong các khu vực giao thông, dây nối dài phải được bọc trong các vỏ nhựa cố định.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032442Z" creationid="Kieu Lan" creationdate="20210518T032442Z">
+        <seg>[407071] Khuyến cáo rằng trong các khu vực giao thông, dây nối dài phải được cố định và bọc trong các vỏ nhựa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29415,6 +29447,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024709Z" creationid="Kieu Lan" creationdate="20210518T024709Z">
         <seg>[91182] Tất cả các tủ AV phải cách âm để tránh âm thanh truyền đến các phòng họp liền kề hoặc đến các khu vực riêng tư cho khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91185]     Nhận diện các phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032621Z" creationid="Kieu Lan" creationdate="20210518T032621Z">
+        <seg>[91185]     Xác định phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91188]     Thông báo bên ngoài mỗi phòng họp riêng biệt khi cuộc họp đang diễn ra.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032641Z" creationid="Kieu Lan" creationdate="20210518T032635Z">
+        <seg>[91188]     Thông báo đặt bên ngoài mỗi phòng họp khi cuộc họp đang diễn ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91189] Phải được cung cấp thông qua một thiết bị cố định vĩnh viễn và tích hợp vào hoàn thiện của khu vực pre-function.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032939Z" creationid="Kieu Lan" creationdate="20210518T032939Z">
+        <seg>[91189] Bảng thông báo phải được gắn vào một và tích hợp vào hoàn thiện của khu vực pre-function.</seg>
       </tuv>
     </tu>
     <tu>
