@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 187)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T033244Z" creationid="Kieu Lan" creationdate="20210518T033244Z">
+        <seg>(Trang 185)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -29469,6 +29477,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <note>Ý e hiểu là vd như nó có một cái khugn cố định ntn đó, rồi người ta nhét cái thông báo vào đó làm cái lõi. Cơ mà kb nói ntn nhỉ :v</note>
       <tuv lang="EN-US">
         <seg>[91189] Phải được cung cấp thông qua một thiết bị cố định vĩnh viễn và tích hợp vào hoàn thiện của khu vực pre-function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91190] Khuyến nghị biển báo kỹ thuật số và màn hình.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T033259Z" creationid="Kieu Lan" creationdate="20210518T033259Z">
+        <seg>[91190] Khuyến nghị biển báo và màn hình kỹ thuật số.</seg>
       </tuv>
     </tu>
     <tu>
