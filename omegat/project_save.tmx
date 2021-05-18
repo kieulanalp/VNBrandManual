@@ -10611,6 +10611,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be manufactured with blackout fabrics or materials [82400]       Phải được sản xuất với vải hoặc chất liệu tối</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T163450Z" creationid="Kieu Lan" creationdate="20210517T163450Z">
+        <seg>Must be manufactured with blackout fabrics or materials [82400]       Phải được sản xuất với vải hoặc chất liệu cản sáng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be placed either in the refreshment zone or on the bathroom vanity [64919] Phải được đặt trong khu vực giải khát hoặc trên bàn trang điểm phòng tắm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T061150Z" creationid="Kieu Lan" creationdate="20210510T061128Z">
@@ -12654,6 +12662,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T095208Z" creationid="LanHK" creationdate="20210511T095208Z">
         <seg>Provide complete blackout [2539]       Có thể cản sáng hoàn toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide complete blackout [82401]       Cung cấp rèm tối toàn bộ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T163504Z" creationid="Kieu Lan" creationdate="20210517T163504Z">
+        <seg>Provide complete blackout [82401]       Cản sáng hoàn toàn</seg>
       </tuv>
     </tu>
     <tu>
@@ -22062,6 +22078,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T025317Z" creationid="Kieu Lan" creationdate="20210422T025317Z">
         <seg>[44286] Khi phải giữ máy một cuộc gọi, nhân viên phải thông báo cho người gọi và cho họ biết thời gian chờ dự kiến.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[44338] Yêu cầu một tủ đựng đồ ăn uống trong mỗi phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T163528Z" creationid="Kieu Lan" creationdate="20210517T163528Z">
+        <seg>[44338] Yêu cầu một tủ credenza trong mỗi phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[44347] Trường hợp cung cấp một tủ lạnh mini, nó phải được xây dựng bên dưới quầy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T015821Z" creationid="Kieu Lan" creationdate="20210518T015821Z">
+        <seg>[44347] Trường hợp cung cấp một tủ lạnh mini, nó phải được tích hợp bên dưới quầy.</seg>
       </tuv>
     </tu>
     <tu>
