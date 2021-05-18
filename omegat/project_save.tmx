@@ -4791,6 +4791,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curtain partitions and portable partitions are not permitted [82913]      Không cho phép các vách ngăn di động và rèm ngăn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040237Z" creationid="Kieu Lan" creationdate="20210518T040237Z">
+        <seg>Curtain partitions and portable partitions are not permitted [82913]      Không cho phép các vách ngăn portable (có thể di chuyển sang vị trí khác) và rèm ngăn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curtains &lt;t0/&gt;and Sheers&lt;t1/&gt; &lt;t2/&gt;Màn Cửa và Rèm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T025623Z" creationid="LanHK" creationdate="20210405T025623Z">
@@ -29544,6 +29552,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T033259Z" creationid="Kieu Lan" creationdate="20210518T033259Z">
         <seg>[91190] Khuyến nghị biển báo và màn hình kỹ thuật số.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91195]      hoàn thiện phải phối hợp với ý tưởng thiết kế nội thất của căn phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040243Z" creationid="Kieu Lan" creationdate="20210518T040243Z">
+        <seg>[91195]      hoàn thiện phải phối hợp với concept thiết kế nội thất của căn phòng.</seg>
       </tuv>
     </tu>
     <tu>
