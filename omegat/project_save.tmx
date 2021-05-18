@@ -5802,6 +5802,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension cords or power strips [407064] Dây nối dài hoặc ổ cắm power strips</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T031743Z" creationid="Kieu Lan" creationdate="20210518T031743Z">
+        <seg>Extension cords or power strips [407064] Dây nối dài hoặc ổ điện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exterior</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092333Z" creationid="LanHK" creationdate="20210405T092333Z">
@@ -9367,6 +9375,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Ladders, steps and/or ramps with handrails must be provided at opposite ends of the Swimming Pool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laser pointer and clicker [407065] Máy chỉ và máy ấn laze</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T031809Z" creationid="Kieu Lan" creationdate="20210518T031809Z">
+        <seg>Laser pointer and clicker [407065] Bút chỉ laser tích hợp nút bấm chuyển</seg>
       </tuv>
     </tu>
     <tu>
