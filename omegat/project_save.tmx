@@ -4007,6 +4007,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Central switching [240050]     Chuyển mạch trung tâm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044137Z" creationid="Kieu Lan" creationdate="20210518T044137Z">
+        <seg>Central switching [240050]     Công tắc tổng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Centralized cooling / heating plant redundancy must be provided as per the attached Annexure-23.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -20437,6 +20445,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T070756Z" creationid="LanHK" creationdate="20210517T070756Z">
         <seg>[2392] nhân viên phải xác nhận đã nhận được yêu cầu làm việc hoặc Đề nghị mời thầu trong vòng hai giờ làm việc, cung cấp phản hồi bằng lời nói hoặc bằng văn bản khi có thông tin liên hệ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[240048]     Điều khiển mờ hoặc với một loạt các mức ánh sáng được thiết lập có thể lựa chọn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044119Z" creationid="Kieu Lan" creationdate="20210518T044119Z">
+        <seg>[240048]     Điều khiển dimmer hoặc với một loạt các chế độ ánh sáng được thiết lập có thể lựa chọn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[240049]     Mỗi phòng họp hoặc phòng nhỏ phải có điều khiển ánh sáng riêng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044128Z" creationid="Kieu Lan" creationdate="20210518T044128Z">
+        <seg>[240049]     Mỗi phòng họp hoặc khoang chia nhỏ phải có điều khiển ánh sáng riêng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[240051] Khuyến nghị chiếu sáng quảng cáo cho tường và tác phẩm nghệ thuật trong các phòng lớn hơn và khu vực pre-function</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044347Z" creationid="Kieu Lan" creationdate="20210518T044347Z">
+        <seg>[240051] Khuyến nghị chiếu sáng trưng bày cho tường và tác phẩm nghệ thuật trong các phòng lớn hơn và khu vực pre-function</seg>
       </tuv>
     </tu>
     <tu>
