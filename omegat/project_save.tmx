@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A coffee and tea station must be provided throughout the meeting duration upon guest request; either set inside or outside the room [50359] Phải cung cấp một quầy cà phê và trà trong suốt thời gian họp theo yêu cầu của khách; hoặc đặt bên trong hoặc bên ngoài phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043734Z" creationid="Kieu Lan" creationdate="20210518T043734Z">
+        <seg>A coffee and tea station must be provided throughout the meeting duration upon guest request; either set inside or outside the room [50359] Phải cung cấp một quầy cà phê và trà phục vụ trong suốt thời gian họp theo yêu cầu của khách; đặt bên trong hoặc bên ngoài phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A colleague must explain the process of the card usage to the guest [60829] Một nhân viên phải giải thích quá trình sử dụng thẻ cho khách</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T062950Z" creationid="LanHK" creationdate="20210513T062950Z">
@@ -4283,6 +4291,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093805Z" creationid="LanHK" creationdate="20210405T093805Z">
         <seg>Coffee Station Quầy cà phê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coffee breaks must be manned [591050] Nghỉ giải lao uống cà phê được phục vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043743Z" creationid="Kieu Lan" creationdate="20210518T043743Z">
+        <seg>Coffee breaks must be manned [591050] Nghỉ giải lao uống cà phê có người phục vụ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10191,6 +10207,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T091839Z" creationid="LanHK" creationdate="20210517T091839Z">
         <seg>Meetings &amp; Events -&gt; Ballrooms Phòng ballroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Building Services cuộc họp và sự kiện -&gt; Dịch vụ xây dựng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043950Z" creationid="Kieu Lan" creationdate="20210518T043950Z">
+        <seg>Meetings &amp; Events -&gt; Building Services Dịch vụ xây dựng</seg>
       </tuv>
     </tu>
     <tu>
@@ -16697,6 +16721,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a banqueting kitchen is provided it must meet the following: [115575] Trường hợp cung cấp một nhà bếp tiệc, nó phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043757Z" creationid="Kieu Lan" creationdate="20210518T043757Z">
+        <seg>Where a banqueting kitchen is provided it must meet the following: [115575] Nếu có bếp tiệc, nó phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a built-in luggage rack is provided it must meet the following: [89766] Khi cung cấp giá hành lý tích hợp, phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T091005Z" creationid="LanHK" creationdate="20210511T091005Z">
@@ -18605,6 +18637,54 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143411Z" creationid="Kieu Lan" creationdate="20210517T143411Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115576] Kết nối trực tiếp đến hành lang BOH để phục vụ phòng ballroom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043808Z" creationid="Kieu Lan" creationdate="20210518T043808Z">
+        <seg>[115576] Kết nối trực tiếp đến hành lang BOH để phục vụ ballroom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115578]     Bố trí để phục vụ các phòng họp và khu vực giải lao.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043821Z" creationid="Kieu Lan" creationdate="20210518T043821Z">
+        <seg>[115578]     Bố trí để phục vụ các phòng họp và khu vực breakout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115579]     Khu vực lưu trữ cho các quầy nấu ăn trực tiếp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043839Z" creationid="Kieu Lan" creationdate="20210518T043839Z">
+        <seg>[115579]     Kho đồ cho các quầy nấu ăn trực tiếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115580] Khuyên nghị khu vực rửa chén tùy thuộc vào khoảng cách đến bếp chính</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043908Z" creationid="Kieu Lan" creationdate="20210518T043900Z">
+        <seg>[115580] Khuyến nghị có khu rửa bát, tùy vào khoảng cách đến bếp chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115581]     Khuyến nghị có không gian để nhận, mở và lưu trữ các sản phẩm thực phẩm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043926Z" creationid="Kieu Lan" creationdate="20210518T043926Z">
+        <seg>[115581]     Khuyến nghị có không gian để nhận, mở bao bì và bảo quản thực phẩm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115582]     Khuyến nghị bảo quản thực phẩm riêng biệt và chuyên dụng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043938Z" creationid="Kieu Lan" creationdate="20210518T043938Z">
+        <seg>[115582]     Khuyến nghị có kho bảo quản thực phẩm riêng biệt và chuyên dụng</seg>
       </tuv>
     </tu>
     <tu>
