@@ -29566,8 +29566,16 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[91196] Lắp đặt các bức tường di động phải được chi tiết ở mặt dưới của cấu trúc trên cao theo cách ngăn chặn sự truyền âm giữa các khu vực trong phòng họp / phòng ballroom.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[91196] Lắp đặt các bức tường di động phải được chi tiết ở mặt dưới của cấu trúc trên cao theo cách ngăn chặn sự truyền âm giữa các khu vực trong phòng họp/phòng ballroom.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040600Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[91196] Lắp đặt các bức tường di động phải được trình bày chi tiết ở mặt dưới của cấu trúc trên cao sao cho có thể ngăn truyền âm giữa các khoang phòng họp/ballroom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91197]     Cấu hình phải cho phép di chuyển bất kỳ vách ngăn riêng lẻ mà không loại bỏ hoặc di chuyển vách ngăn khác.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040628Z" creationid="Kieu Lan" creationdate="20210518T040628Z">
+        <seg>[91197]     Việc lắp đặt phải cho phép di chuyển bất kỳ vách ngăn riêng lẻ nào mà không cần gỡ hoặc di chuyển vách ngăn khác.</seg>
       </tuv>
     </tu>
     <tu>
