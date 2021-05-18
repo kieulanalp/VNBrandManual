@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accordion style folding walls are not permitted [13337]       Không cho phép tường gấp phong cách Accordion.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040026Z" creationid="Kieu Lan" creationdate="20210518T040026Z">
+        <seg>Accordion style folding walls are not permitted [13337]       Không cho phép vách xếp như accordion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acoustics</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T153451Z" creationid="Kieu Lan" creationdate="20210405T153451Z">
@@ -4595,6 +4603,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T072051Z" creationid="LanHK" creationdate="20210514T072051Z">
         <seg>Continental and American breakfast sets [584051] Set bữa sáng kiểu Âu và Mỹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuous acoustic separation to be provided between adjacent spaces [13334]   Cung cấp tách âm liên tục giữa các không gian liền kề</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T035741Z" creationid="Kieu Lan" creationdate="20210518T035741Z">
+        <seg>Continuous acoustic separation to be provided between adjacent spaces [13334]   Cung cấp cách âm liên tục giữa các không gian liền kề</seg>
       </tuv>
     </tu>
     <tu>
@@ -16377,6 +16393,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Walls at the termination of operable partitions to be constructed to absorb the impact of the partitions bức tường khi kết thúc các vách ngăn di động phải được thi công để hấp thụ tác động của các vách ngăn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T035940Z" creationid="Kieu Lan" creationdate="20210518T035759Z">
+        <seg>Walls at the termination of operable partitions to be constructed to absorb the impact of the partitions [13336] Các tường ở cạnh các vách ngăn di động phải được thiết kế sao cho chịu được lực tác động của các vách ngăn khi mở ra đóng vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Walls behind the front desk must meet the following: [102716] Tường phía sau bàn trước phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T020509Z" creationid="Kieu Lan" creationdate="20210426T020509Z">
@@ -19285,6 +19309,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[133117]   Trường hợp được cung cấp trong hành lang phòng khách phải có trọng lượng sản phẩm tối thiểu là 460g/m2 (20oz mỗi yard chiều dài).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[13336]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T035803Z" creationid="Kieu Lan" creationdate="20210518T035803Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
