@@ -22242,6 +22242,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[38506] Tất cả các công tắc đèn phải có đầy đủ chức năng, sạch sẽ và dễ sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044647Z" creationid="Kieu Lan" creationdate="20210518T044647Z">
+        <seg>[38506] Tất cả các công tắc đèn phải hoạt động tốt, sạch sẽ và dễ sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[385071] Không cho phép tài liệu quảng cáo của bên thứ ba.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064552Z" creationid="Kieu Lan" creationdate="20210422T064552Z">
@@ -27970,6 +27978,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78057] Hoàn thiện của tất cả các ổ điện và điểm chuyển đổi phải phối hợp với thiết kế nội thất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044640Z" creationid="Kieu Lan" creationdate="20210518T044640Z">
+        <seg>[78057] Hoàn thiện của tất cả các ổ điện và điểm công tắc phải phối hợp với thiết kế nội thất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78061]     Lỗ nhìn trên cửa phải được lắp đặt ở độ cao 1,5m (5ft) so với sàn nhà.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162005Z" creationid="Kieu Lan" creationdate="20210517T162005Z">
@@ -29038,6 +29054,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T100430Z" creationid="LanHK" creationdate="20210511T100430Z">
         <seg>[88232]     Hoa văn phải khớp tại các đường may, viền ẩn sau nếp xếp ly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88235] Ánh sáng ban ngày và hướng nhìn bên ngoài phải được kiểm soát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044410Z" creationid="Kieu Lan" creationdate="20210518T044410Z">
+        <seg>[88235] Có thể kiểm soát ánh sáng ban ngày và tầm nhìn ra ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[88236] Phải cung cấp bảo mật trực quan.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044420Z" creationid="Kieu Lan" creationdate="20210518T044420Z">
+        <seg>[88236] Phải cung cấp sự riêng tư.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31808,6 +31840,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>•  The use of Building Information Modelling (BIM)/3D model is recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  This can be achieved with sheers, sun shades, horizontal blinds etc. [88237] Điều này có thể đạt được với vải sheer, vải che nắng, rèm ngang, vv</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044445Z" creationid="Kieu Lan" creationdate="20210518T044445Z">
+        <seg>•  This can be achieved with sheers, sun shades, horizontal blinds etc. [88237] Điều này có thể đạt được với rèm vải sheer, rèm che nắng, rèm lá ngang, vv</seg>
       </tuv>
     </tu>
     <tu>
