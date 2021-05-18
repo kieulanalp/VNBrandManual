@@ -12041,6 +12041,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pencils and sharpener [2334] Bút chì và gọt</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025236Z" creationid="Kieu Lan" creationdate="20210518T025236Z">
+        <seg>Pencils and sharpener [2334] Bút chì và gọt bút chì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pens [51] Bút Viết</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T092954Z" creationid="LanHK" creationdate="20210415T092933Z">
@@ -15653,6 +15661,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210423T081331Z" creationid="LanHK" creationdate="20210423T081331Z">
         <seg>Two chrome plated, bronze swivel snap hooks [79912] Hai móc xoay bronze mạ chrome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two highlighter pens [2333] Hai bút dạ quang</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025234Z" creationid="Kieu Lan" creationdate="20210518T025234Z">
+        <seg>Two highlighter pens [2333] Hai bút đánh dấu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19969,6 +19985,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[2332] Hộp công cụ họp kế hoạch phải được cung cấp trong tất cả các phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025227Z" creationid="Kieu Lan" creationdate="20210518T025227Z">
+        <seg>[2332] Hộp vật dụng cho các cuộc họp phải được cung cấp trong tất cả các phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[23564] Bàn có người ăn phải được phục vụ / kiểm tra thường xuyên trong khi ăn uống.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T023415Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -22006,6 +22030,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T075640Z" creationid="LanHK" creationdate="20210517T075640Z">
         <seg>[41111] Giấy tái chế được ưu tiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[41131] Thiết bị có thể, ví dụ, một hoặc nhiều: thiết bị máy tính bảng, ứng dụng phần mềm, radio hai chiều, điện thoại di động, điện thoại cố định, hệ thống liên lạc nội bộ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025203Z" creationid="Kieu Lan" creationdate="20210518T025203Z">
+        <seg>[41131] Ví dụ, thiết bị có thể là một hoặc nhiều máy tính bảng, ứng dụng phần mềm, bộ đàm hai chiều, điện thoại di động, điện thoại cố định, hệ thống intercom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25318,6 +25350,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024737Z" creationid="Kieu Lan" creationdate="20210518T024737Z">
         <seg>[58923] Tối thiểu một màn hình âm tường hoặc TV màn hình phẳng lớn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58941] Nội thất phòng họp nên cho phép các cuộc họp nhóm thoải mái.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025107Z" creationid="Kieu Lan" creationdate="20210518T025107Z">
+        <seg>[58941] Nội thất phòng họp nên cho phép nghỉ giữa giờ thoải mái.</seg>
       </tuv>
     </tu>
     <tu>
