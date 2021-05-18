@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 185)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024725Z" creationid="Kieu Lan" creationdate="20210518T024725Z">
+        <seg>(Trang 183)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -3579,6 +3587,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T022447Z" creationid="LanHK" creationdate="20210428T022447Z">
         <seg>Built in [216050]     Gắn tường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Built-in projectors [58924] máy chiếu gắn sẵn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024741Z" creationid="Kieu Lan" creationdate="20210518T024741Z">
+        <seg>Built-in projectors [58924] máy chiếu tích hợp</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,6 +6958,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T012013Z" creationid="Kieu Lan" creationdate="20210420T095819Z">
         <seg>Information Security  - An ninh thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glass front door [91176]      Cửa kính phía trước</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024831Z" creationid="Kieu Lan" creationdate="20210518T024831Z">
+        <seg>Glass front door [91176]      Cửa trước bằng kính</seg>
       </tuv>
     </tu>
     <tu>
@@ -16441,6 +16465,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a clock is provided it must meet the following: [91179] Trường hợp cung cấp đồng hồ, nó phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024852Z" creationid="Kieu Lan" creationdate="20210518T024852Z">
+        <seg>Where a clock is provided it must meet the following: [91179] Trường hợp cung cấp đồng hồ, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a designated loading/unloading area is provided it must meet the following: [136116] Khi cung cấp một khu vực bốc / dỡ hàng được chỉ định, nó phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -18165,6 +18197,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T151036Z" creationid="Kieu Lan" creationdate="20210517T151036Z">
         <seg>[115526] Tủ đựng thức ăn phải khuất khỏi không gian của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115530]    Vị trí không được hạn chế lưu thông chính hoặc giảm chiều rộng hành lang.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024810Z" creationid="Kieu Lan" creationdate="20210518T024810Z">
+        <seg>[115530]    Vị trí không được hạn chế luồng lưu thông chính hoặc giảm chiều rộng hành lang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115531]     Bất kỳ tủ gắn sẵn phải có khóa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024821Z" creationid="Kieu Lan" creationdate="20210518T024821Z">
+        <seg>[115531]     Bất kỳ tủ gắn liền nào cũng phải có khóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115532]   Tối thiểu 1,5m (5ft) không gian lưu thông rõ ràng ở phía đối diện khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024757Z" creationid="Kieu Lan" creationdate="20210518T024757Z">
+        <seg>[115532]   Tối thiểu 1,5m (5ft) không gian lưu thông không vật cản ở phía khách.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23282,6 +23338,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[544] Bàn và ghế, kiểu đồng phục, phải được cung cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024931Z" creationid="Kieu Lan" creationdate="20210518T024931Z">
+        <seg>[544] Phải cung cấp bàn và ghế với thiết kế đồng bộ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[54544] Ví dụ về các tính năng / đánh dấu bao gồm các dòng màu, đề can hoặc các mẫu.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -25238,6 +25302,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T065512Z" creationid="LanHK" creationdate="20210517T065512Z">
         <seg>[589082] Cabernet Sauvignon hoặc một hỗn hợp nho trong đó nó là giống nho chính HOẶC Pinot Noir hoặc một hỗn hợp nho trong đó nó là giống nho chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58922] Phải có bộ hiển thị AV trong phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024722Z" creationid="Kieu Lan" creationdate="20210518T024722Z">
+        <seg>[58922] Phải có thiết bị hiển thị AV trong phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[58923] Tối thiểu một màn hình lõm hoặc TV màn hình phẳng lớn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024737Z" creationid="Kieu Lan" creationdate="20210518T024737Z">
+        <seg>[58923] Tối thiểu một màn hình âm tường hoặc TV màn hình phẳng lớn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29119,6 +29199,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152132Z" creationid="Kieu Lan" creationdate="20210517T151816Z">
         <seg>[91130]    Tối thiểu hai bàn máy tính cho khách sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91177]      Gắn vào tủ credenza</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024842Z" creationid="Kieu Lan" creationdate="20210518T024837Z">
+        <seg>[91177]      Liền tủ credenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91180] Nằm trên một bức tường đối diện với người tổ chức hoặc người thuyết trình, không phải khán giả.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024908Z" creationid="Kieu Lan" creationdate="20210518T024908Z">
+        <seg>[91180] Nằm trên một bức tường đối diện với người tổ chức hoặc người thuyết trình, không đối diện khán giả.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91182] Tất cả các tủ AV phải chống âm để ngăn âm thanh chuyển đến các phòng họp liền kề hoặc đến các khu vực khách riêng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T024709Z" creationid="Kieu Lan" creationdate="20210518T024709Z">
+        <seg>[91182] Tất cả các tủ AV phải cách âm để tránh âm thanh truyền đến các phòng họp liền kề hoặc đến các khu vực riêng tư cho khách.</seg>
       </tuv>
     </tu>
     <tu>
