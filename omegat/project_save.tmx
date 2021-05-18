@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 186)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025543Z" creationid="Kieu Lan" creationdate="20210518T025543Z">
+        <seg>(Trang 184)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -4411,6 +4419,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T074854Z" creationid="LanHK" creationdate="20210514T074854Z">
         <seg>Commercially packaged into individual portions [53341] Đóng gói trong bao bì thương mại thành các khẩu phần lẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer and laptop and printer [407054] Máy tính và máy tính xách tay và máy in</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025821Z" creationid="Kieu Lan" creationdate="20210518T025821Z">
+        <seg>Computer and laptop and printer [407054] Máy tính và laptop và máy in</seg>
       </tuv>
     </tu>
     <tu>
@@ -12497,6 +12513,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Post-it notes are recommended [50346] Khuyến nghị các miếng giấy vuông nhỏ ghi chú có thể dính</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025601Z" creationid="Kieu Lan" creationdate="20210518T025601Z">
+        <seg>Post-it notes are recommended [50346] Khuyến nghị cung cấp giấy note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powder coated white [79902]      Phủ bột màu trắng</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T103309Z" creationid="LanHK" creationdate="20210422T103309Z">
@@ -14211,6 +14235,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Staging and platforms [407056] Dàn dựng và nền tảng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025831Z" creationid="Kieu Lan" creationdate="20210518T025831Z">
+        <seg>Staging and platforms [407056] Sân khấu, bục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stainless steel strainer [394066] Lưới lọc không gỉ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T043556Z" creationid="LanHK" creationdate="20210428T043556Z">
@@ -14919,6 +14951,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T062407Z" creationid="LanHK" creationdate="20210419T062407Z">
         <seg>The following installations must be tested and maintained in accordance with manufacturers’ instructions: [55909]   Các thiết bị sau phải được kiểm tra và bảo trì theo hướng dẫn của nhà sản xuất:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following items must be available immediately upon request: [407061] mục sau đây phải có sẵn ngay khi có yêu cầu:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025849Z" creationid="Kieu Lan" creationdate="20210518T025849Z">
+        <seg>The following items must be available immediately upon request: [407061] Phải cung cấp các mục sau đây ngay khi có yêu cầu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following items must be available with 24 hours notice: [407050] Luôn có các mục sau đây với thông báo 24 giờ:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025805Z" creationid="Kieu Lan" creationdate="20210518T025805Z">
+        <seg>The following items must be available with 24 hours notice: [407050] Phải cung cấp các mục sau đây trong vòng 24 giờ từ khi nhận được yêu cầu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26758,6 +26806,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T070128Z" creationid="LanHK" creationdate="20210513T070128Z">
         <seg>[70304] Các loại phết bánh mì phải được phục vụ theo khẩu phần có kiểm soát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70402] Khuyến nghị một đồng hồ hoặc máy hẹn giờ cho người hướng dẫn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025728Z" creationid="Kieu Lan" creationdate="20210518T025728Z">
+        <seg>[70402] Khuyến nghị có đồng hồ hoặc máy bấm giờ cho người thuyết trình.</seg>
       </tuv>
     </tu>
     <tu>
