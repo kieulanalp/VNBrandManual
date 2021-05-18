@@ -14163,6 +14163,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speakerphone [407063] Loa ngoài</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T030818Z" creationid="Kieu Lan" creationdate="20210518T030818Z">
+        <seg>Speakerphone [407063] Loa hội nghị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speciality Restaurants</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093816Z" creationid="LanHK" creationdate="20210405T093816Z">
