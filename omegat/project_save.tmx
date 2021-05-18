@@ -12658,6 +12658,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Projection screen or flat screen monitor [407062] Màn hình chiếu hoặc màn hình phẳng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T030456Z" creationid="Kieu Lan" creationdate="20210518T030456Z">
+        <seg>Projection screen or flat screen monitor [407062] Màn chiếu hoặc TV màn hình phẳng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Promotional Material Tài liệu quảng bá</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T043624Z" creationid="LanHK" creationdate="20210406T043624Z">
