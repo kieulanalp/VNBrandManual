@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 188)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043705Z" creationid="Kieu Lan" creationdate="20210518T043705Z">
+        <seg>(Trang 186)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 19)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T104222Z" creationid="LanHK" creationdate="20210406T104205Z">
@@ -10189,8 +10197,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Collateral / Stationery phòng họp và sự kiện -&gt; Tài liệu quảng bá/ Văn phòng phẩm</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Meetings &amp; Events -&gt; Collateral/Stationery phòng họp và sự kiện -&gt; Tài liệu quảng bá/ Văn phòng phẩm</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040742Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Meetings &amp; Events -&gt; Collateral/Stationery Tài liệu quảng bá/ Văn phòng phẩm</seg>
       </tuv>
     </tu>
     <tu>
@@ -10199,6 +10207,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T032541Z" creationid="Kieu Lan" creationdate="20210518T032541Z">
         <seg>Meetings &amp; Events -&gt; Fixtures and Fittings Chiếu sáng &amp; Linh kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Food &amp; Beverage cuộc họp và sự kiện -&gt; Thực phẩm và đồ uống (F&amp;B)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040907Z" creationid="Kieu Lan" creationdate="20210518T040907Z">
+        <seg>Meetings &amp; Events -&gt; Food &amp; Beverage F&amp;B</seg>
       </tuv>
     </tu>
     <tu>
@@ -12245,6 +12261,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110436Z" creationid="LanHK" creationdate="20210419T110436Z">
         <seg>Pictograms are permitted [581071]  Cho phép dùng biểu tượng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pictorial fire evacuation notice [38520] Thông báo hình ảnh sơ tán hỏa hoạn</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040849Z" creationid="Kieu Lan" creationdate="20210518T040849Z">
+        <seg>Pictorial fire evacuation notice [38520] Thông báo về sơ tán hỏa hoạn bằng hình ảnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -16345,6 +16369,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vị trí của các tác phẩm điêu khắc, nếu được cung cấp, không được hạn chế bất kỳ luồng khách hoặc dịch vụ nào</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040730Z" creationid="Kieu Lan" creationdate="20210518T040730Z">
+        <seg>Vị trí của các tác phẩm điêu khắc, nếu có, không được hạn chế bất kỳ luồng lưu thông khách hoặc dịch vụ nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wall Coverings</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T012438Z" creationid="LanHK" creationdate="20210406T012438Z">
@@ -16561,6 +16593,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome pack for organiser [38517] Gói chào mừng cho nhà tổ chức</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040834Z" creationid="Kieu Lan" creationdate="20210518T040834Z">
+        <seg>Welcome pack for organiser [38517] Gói chào mừng cho đơn vị tổ chức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well fitted and stain free ironing board cover [90535]       Lớp bọc bàn ủi không ố bẩn và lắp đặt tốt</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090747Z" creationid="LanHK" creationdate="20210511T090747Z">
@@ -16581,6 +16621,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T070614Z" creationid="LanHK" creationdate="20210331T052657Z">
         <seg>Well., Cork &amp; Kale, HUALUXE, HUALUXE &amp; Design, Fu Lin, Aspire Rewards, IHG, IHG Rewards Club, Great Hotels Guests Love, Green Engage, Holidex là những thương hiệu hoặc chi nhánh của IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When folded away be stored within a concealed stacking alcove [105002]   Khi gấp lại được lưu trữ trong một hốc xếp kín</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040700Z" creationid="Kieu Lan" creationdate="20210518T040700Z">
+        <seg>When folded away be stored within a concealed stacking alcove [105002]   Khi gấp lại sẽ ẩn trong một hốc tường kín đáo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18537,6 +18585,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115571]     Phải có ánh sáng nhấn được chỉ định.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040711Z" creationid="Kieu Lan" creationdate="20210518T040711Z">
+        <seg>[115571]     Phải có ánh sáng điểm nhấn dành riêng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115573]       Chất lượng cao và được trưng bàychuyên nghiệp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040736Z" creationid="Kieu Lan" creationdate="20210518T040736Z">
+        <seg>[115573]       Chất lượng cao và được trưng bày chuyên nghiệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115574]</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143411Z" creationid="Kieu Lan" creationdate="20210517T143411Z">
@@ -20213,6 +20277,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025227Z" creationid="Kieu Lan" creationdate="20210518T025227Z">
         <seg>[2332] Hộp vật dụng cho các cuộc họp phải được cung cấp trong tất cả các phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[2354] Luôn có các lựa chọn F&amp;B cho tất cả phòng họp và sự kiện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040921Z" creationid="Kieu Lan" creationdate="20210518T040921Z">
+        <seg>[2354] Luôn có dịch vụ F&amp;B cho tất cả phòng họp và sự kiện.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22070,6 +22142,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064637Z" creationid="Kieu Lan" creationdate="20210422T064637Z">
         <seg>[385074] Vào cuối mỗi chuyến đi, tài xế phải kiểm tra liệu khách có quên hành lý và đồ dùng cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38523] Thông báo chi phí điện thoại và internet theo yêu cầu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040856Z" creationid="Kieu Lan" creationdate="20210518T040856Z">
+        <seg>[38523] Thông báo về chi phí điện thoại và internet theo yêu cầu</seg>
       </tuv>
     </tu>
     <tu>
