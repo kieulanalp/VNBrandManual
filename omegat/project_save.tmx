@@ -3022,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be adjacent to pre-function meeting areas [109010] Liền kề khu vực họp pre-function</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022025Z" creationid="Kieu Lan" creationdate="20210520T022025Z">
+        <seg>Be adjacent to pre-function meeting areas [109010] Liền kề khu pre-function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be an alternative decorative surface material to distinguish it from the main driveway [15365] Một vật liệu bề mặt trang trí thay thế để phân biệt nó với đường lái xe chính</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T075028Z" creationid="Kieu Lan" creationdate="20210422T075028Z">
@@ -10251,6 +10259,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Ancillary Facilities cuộc họp và sự kiện -&gt; Cơ sở bổ sung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022010Z" creationid="Kieu Lan" creationdate="20210520T022010Z">
+        <seg>Meetings &amp; Events -&gt; Ancillary Facilities Các cơ sở vật chất bổ sung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Ballrooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; phòng ballroom -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T092253Z" creationid="LanHK" creationdate="20210514T033110Z">
@@ -16945,6 +16961,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where cloakrooms are provided they must meet the following: [82036] Trường hợp cung cấp phòng vệ sinh, chúng phải đáp ứng như sau</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022036Z" creationid="Kieu Lan" creationdate="20210520T022036Z">
+        <seg>Where cloakrooms are provided they must meet the following: [82036] Trường hợp cung cấp phòng gửi đồ, chúng phải đáp ứng như sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where coasters are used, the tumblers must be placed upside down [58639] Khi sử dụng đế lót, các cốc phải được úp ngược</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064936Z" creationid="Kieu Lan" creationdate="20210510T064936Z">
@@ -17373,6 +17397,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T085157Z" creationid="LanHK" creationdate="20210517T085157Z">
         <seg>With armrest [114524]      Có tay vịn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With hinged cover [115615]     Với nắp lật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T021911Z" creationid="Kieu Lan" creationdate="20210520T021911Z">
+        <seg>With hinged cover [115615]     Với nắp bản lề</seg>
       </tuv>
     </tu>
     <tu>
@@ -18749,6 +18781,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T043938Z" creationid="Kieu Lan" creationdate="20210518T043938Z">
         <seg>[115582]     Khuyến nghị có kho bảo quản thực phẩm riêng biệt và chuyên dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115614] Phải cung cấp các ổ cắm điện để bảo trì</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T021906Z" creationid="Kieu Lan" creationdate="20210520T021906Z">
+        <seg>[115614] Phải cung cấp các ổ cắm phục vụ bảo trì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115617] Trong toàn bộ cơ sở phòng họp bao gồm phòng ballroom và khu vực prefunction.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T021955Z" creationid="Kieu Lan" creationdate="20210520T021952Z">
+        <seg>[115617] Bố trí trong toàn bộ cơ sở phòng họp bao gồm phòng ballroom và khu prefunction.</seg>
       </tuv>
     </tu>
     <tu>
