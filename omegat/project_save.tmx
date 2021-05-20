@@ -7690,6 +7690,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hinged cover [91193]     Nắp lật</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T021801Z" creationid="Kieu Lan" creationdate="20210520T021801Z">
+        <seg>Hinged cover [91193]     Nắp bản lề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holiday Inn Brand_Recommended Beverage Dispensers (as of Nov 2016) Holiday Inn Brand_Máy Pha Đồ Uống Được Đề Xuất (tính đến tháng 11/2016)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T072243Z" creationid="LanHK" creationdate="20210513T072233Z">
@@ -7902,6 +7910,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T090931Z" creationid="LanHK" creationdate="20210426T090931Z">
         <seg>Hoàn thiện cửa vào phải phối hợp với các hoàn thiện lobby liền kề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hoàn toàn chìm trên sàn với lắp phẳng với các hoàn thiện sàn liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T021829Z" creationid="Kieu Lan" creationdate="20210520T021829Z">
+        <seg>Âm sàn với nắp phẳng so với hoàn thiện sàn liền kề.</seg>
       </tuv>
     </tu>
     <tu>
