@@ -18801,10 +18801,18 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[115625]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022539Z" creationid="Kieu Lan" creationdate="20210520T022539Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[115626]    Tùy thuộc vào vùng khí hậu, nên cung cấp một tủ đựng / tủ nhỏ trong phòng họp.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[115626]    Tùy thuộc vào vùng khí hậu, nên cung cấp một tủ đựng/tủ nhỏ trong phòng họp.</seg>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022556Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[115626]    Tùy thuộc vào vùng khí hậu, nên cung cấp một tủ áo nhỏ trong phòng họp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28074,6 +28082,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78045]       Có dấu rõ ràng như một phòng cầu nguyện.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022621Z" creationid="Kieu Lan" creationdate="20210520T022621Z">
+        <seg>[78045]       Có thông báo rõ ràng rằng đây là phòng cầu nguyện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78046]     Hoàn thiện phải phối hợp với các khu vực công cộng liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022634Z" creationid="Kieu Lan" creationdate="20210520T022634Z">
+        <seg>[78046]     Hoàn thiện phải đồng bộ với các khu vực công cộng liền kề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[78057] Hoàn thiện của tất cả các ổ điện và điểm chuyển đổi phải phối hợp với thiết kế nội thất.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044640Z" creationid="Kieu Lan" creationdate="20210518T044640Z">
@@ -31232,6 +31256,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044511Z" creationid="Kieu Lan" creationdate="20210508T044149Z">
         <seg>chữ "soft" và "firm" (“Mềm” và “Cứng ”) phải được thêu ở góc trên bên phải của đầu không có lỗ mở của vỏ gối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hoàn thiện trong phòng vệ sinh cho khách dễ nhìn phải tiếp tục hoàn thiện trong pre-function.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022541Z" creationid="Kieu Lan" creationdate="20210520T022534Z">
+        <seg>[115625] hoàn thiện trong phòng gửi đồ mà khách nhìn thấy phải đồng bộ với hoàn thiện khu pre-function.</seg>
       </tuv>
     </tu>
     <tu>
