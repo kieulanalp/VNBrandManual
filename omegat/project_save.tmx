@@ -7771,6 +7771,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heart rate monitoring capability with a built in telemetry receiver [91378]     Khả năng theo dõi nhịp tim với một máy thu từ xa tích hợp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T034221Z" creationid="LanHK" creationdate="20210522T034221Z">
+        <seg>Heart rate monitoring capability with a built in telemetry receiver [91378]     Tính năng theo dõi nhịp tim với một đầu thu không dây tích hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HeartBeat Medallia Reporting Portal Cổng thông tin báo cáo HeartBeat Medallia</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T091712Z" creationid="LanHK" creationdate="20210415T091712Z">
@@ -10678,6 +10686,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T093941Z" creationid="LanHK" creationdate="20210510T093941Z">
         <seg>Minimum diagonal screen size of 80cm (32in) [40510]       Kích thước chéo màn hình tối thiểu 80cm (32in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum eight workout programme options plus a quick start feature [91377]      Tối thiểu tám lựa chọn chương trình workout cộng với tính năng bắt đầu nhanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033937Z" creationid="LanHK" creationdate="20210522T033937Z">
+        <seg>Minimum eight workout programme options plus a quick start feature [91369]       Tối thiểu tám chương trình workout và tính năng bắt đầu nhanh</seg>
       </tuv>
     </tu>
     <tu>
@@ -14782,6 +14798,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T044005Z" creationid="Kieu Lan" creationdate="20210510T044005Z">
         <seg>Stainless-steel anti-scale concealed heating element [13758] Linh kiện làm nóng kín chống cặn bằng thép không gỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stair climbers must have the following features as a minimum: [91375] Thiết bị stair climber phải có các tính năng tối thiểu như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033917Z" creationid="LanHK" creationdate="20210522T033917Z">
+        <seg>Stair climbers must have the following features as a minimum: [91375] Máy leo cầu thang phải có các tính năng tối thiểu như sau:</seg>
       </tuv>
     </tu>
     <tu>
