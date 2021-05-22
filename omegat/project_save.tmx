@@ -17001,6 +17001,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where break out areas are provided they must meet the following: [82031] Trường hợp cung cấp các khu vực thảo luận, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T014600Z" creationid="LanHK" creationdate="20210522T014600Z">
+        <seg>Where break out areas are provided they must meet the following: [82031] Trường hợp cung cấp các khu breakout, chúng phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where central source cooling / heating generation is provided it must meet the following as a minimum: [285422]    Khi làm mát / sưởi ấm nguồn trung tâm, phải đáp ứng tối thiểu như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -19301,6 +19309,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T063648Z" creationid="Kieu Lan" creationdate="20210422T063648Z">
         <seg>[11624] Trường hợp sử dụng biển hiệu tại sân bay, biển phải được chuẩn bị chuyên nghiệp, có logo khách sạn và tên khách cần đón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116877] Nằm ở trung tâm và chung giữa các phòng họp cá nhân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T015327Z" creationid="LanHK" creationdate="20210522T015327Z">
+        <seg>[116877] Nằm ở trung tâm và sử dụng chung giữa các phòng họp riêng.</seg>
       </tuv>
     </tu>
     <tu>
