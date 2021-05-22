@@ -6483,6 +6483,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Five programme options with quick start feature [91388]     Năm lựa chọn chương trình với tính năng bắt đầu nhanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035819Z" creationid="LanHK" creationdate="20210522T035819Z">
+        <seg>Five programme options with quick start feature [91388]     Năm chương trình với tính năng bắt đầu nhanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed knob or lever on the guest room side [274133]     Đầu chốt cố định hoặc đòn bẩy ở phía cạnh phòng khách</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T042719Z" creationid="Kieu Lan" creationdate="20210417T042719Z">
@@ -9636,8 +9644,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph / mph, khoảng cách, mức độ, pedal RPM, hồ sơ chương trình, Watts</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T035432Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo đốt cháy, lượng calo đốt cháy mỗi giờ, kph/mph, khoảng cách, mức độ, pedal RPM, hồ sơ chương trình, Watts</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035911Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo đốt cháy, lượng calo đốt cháy mỗi giờ, kph/mph, khoảng cách, mức độ, số vòng đạp/phút, chương trình, Watts</seg>
       </tuv>
     </tu>
     <tu>
@@ -14254,6 +14262,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T034901Z" creationid="LanHK" creationdate="20210522T034901Z">
         <seg>Self-powered (no external power source required) [91382]       Tự cấp điện (không cần nguồn điện bên ngoài)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Self-powered (no external power source required) [91387]       Tự cấp nguồn (không cần nguồn điện bên ngoài)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035810Z" creationid="LanHK" creationdate="20210522T035810Z">
+        <seg>Self-powered (no external power source required) [91387]       Tự cấp điện (không cần nguồn điện bên ngoài)</seg>
       </tuv>
     </tu>
     <tu>
