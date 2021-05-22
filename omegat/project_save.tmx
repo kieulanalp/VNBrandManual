@@ -4175,6 +4175,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chiều rộng thực tối thiểu: 75cm (30in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020945Z" creationid="LanHK" creationdate="20210522T020945Z">
+        <seg>Chiều rộng thông thủy tối thiểu: 75cm (30in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chiều rộng viền xấp xỉ 10 mm, khâu đôi.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064012Z" creationid="Kieu Lan" creationdate="20210510T064012Z">
@@ -10451,6 +10459,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum 4.5m (15ft) clear width at ball rooms [90876]     Chiều rộng tối thiểu 4,5m (15ft) tại phòng ballrooms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020857Z" creationid="LanHK" creationdate="20210522T020857Z">
+        <seg>Minimum 4.5m (15ft) clear width at ball rooms [90876]     Chiều rộng thông thủy tối thiểu 4,5m (15ft) tại phòng ballrooms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum casing thread count per square inch: 233 Số lượng ren ống tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051458Z" creationid="Kieu Lan" creationdate="20210508T051222Z">
@@ -10487,6 +10503,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T031108Z" creationid="Kieu Lan" creationdate="20210510T031108Z">
         <seg>Minimum casing threadcount per square inch: 233 [8548]       Mật độ vải tối thiểu trên mỗi inch vuông: 233</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum clear height: 2.1m (7ft) [136077]     Chiều cao thực tối thiểu: 2.1m (7ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020934Z" creationid="LanHK" creationdate="20210522T020934Z">
+        <seg>Minimum clear height: 2.1m (7ft) [136077]     Chiều cao thông thủy tối thiểu: 2.1m (7ft)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum clear width of 1.5m (5ft) [133098]     Chiều rộng tối thiểu 1,5m (5ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020826Z" creationid="LanHK" creationdate="20210522T020826Z">
+        <seg>Minimum clear width of 1.5m (5ft) [133098]     Chiều rộng thông thủy tối thiểu 1,5m (5ft)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum clear width of 900mm (3ft) [335185]    Chiều rộng tối thiểu 900mm (3ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020839Z" creationid="LanHK" creationdate="20210522T020839Z">
+        <seg>Minimum clear width of 900mm (3ft) [335185]    Chiều rộng thông thủy tối thiểu 900mm (3ft)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum clear width: 90cm (36in) [136076]     Chiều rộng thực tối thiểu: 90cm (36in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020930Z" creationid="LanHK" creationdate="20210522T020930Z">
+        <seg>Minimum clear width: 90cm (36in) [136076]     Chiều rộng thông thủy tối thiểu: 90cm (36in)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19681,6 +19729,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[133094]    Chiều rộng tối thiểu 1,5m (5ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020813Z" creationid="LanHK" creationdate="20210522T020813Z">
+        <seg>[133094]    Chiều rộng thông thủy tối thiểu 1,5m (5ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[133095] Hoàn thiện và vật liệu phải được phối hợp với thiết kế nội thất trong khu vực công cộng của khách sạn.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210427T014230Z" creationid="LanHK" creationdate="20210427T014230Z">
@@ -19809,6 +19865,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[136130]    Chiều rộng tối thiểu là 1,8m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020916Z" creationid="LanHK" creationdate="20210522T020916Z">
+        <seg>[136130]    Chiều rộng thông thủy tối thiểu là 1,8m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[136209] Hai mô đun tiêu chuẩn theo kích thước.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T030050Z" creationid="LanHK" creationdate="20210508T030050Z">
@@ -19853,6 +19917,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044211Z" creationid="Kieu Lan" creationdate="20210508T044211Z">
         <seg>[13796] Phải dùng phông chữ Myriad Pro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[138052]     Đề xuất chiều rộng là 1,8m (6ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020834Z" creationid="LanHK" creationdate="20210522T020834Z">
+        <seg>[138052]     Đề xuất chiều rộng thông thủy là 1,8m (6ft)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20469,6 +20541,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T094142Z" creationid="LanHK" creationdate="20210422T094142Z">
         <seg>[22292]       Khu đỗ xe nên được chia nhỏ và che chắn bằng cảnh quan hoặc cây cối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[223051]     Nên sử dụng chiều rộng tối thiểu 2.0m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020922Z" creationid="LanHK" creationdate="20210522T020922Z">
+        <seg>[223051]     Nên sử dụng chiều rộng thông thủy tối thiểu 2.0m.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21772,8 +21852,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[32265] Chiều rộng tối thiểu được đề xuất giữa các bờ đối diện của hai cửa khoang thang máy là 3 m (10ft).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T022554Z" creationid="Kieu Lan" creationdate="20210427T022554Z">
-        <seg>[32265] Chiều rộng tối thiểu cho sảnh thang máy được đề xuất là 3 m (10ft).</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020818Z" creationid="Kieu Lan" creationdate="20210427T022554Z">
+        <seg>[32265] Chiều rộng thông thủy tối thiểu cho sảnh thang máy được đề xuất là 3 m (10ft).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28042,6 +28122,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[77649]Chiều rộng mở thực tối thiểu 90cm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T021747Z" creationid="LanHK" creationdate="20210522T021747Z">
+        <seg>[77649] Chiều rộng mở thông thủy tối thiểu 90cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[77671]       Phải cung cấp các cơ sở tiện ích cho nam và nữ riêng biệt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T095719Z" creationid="Kieu Lan" creationdate="20210427T095719Z">
@@ -30172,6 +30260,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[92544] Khuyến nghị chiều rộng tối thiểu 1m.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020907Z" creationid="LanHK" creationdate="20210522T020907Z">
+        <seg>[92544] Khuyến nghị chiều rộng thông thủy tối thiểu 1m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[92599] Nên có một lối vào bên ngoài riêng biệt cho tất cả các cửa hàng F&amp;B.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080521Z" creationid="Kieu Lan" creationdate="20210512T080521Z">
@@ -31240,6 +31336,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T082511Z" creationid="LanHK" creationdate="20210426T082511Z">
         <seg>[99229] chức năng điều khiển ánh sáng, nếu được lắp đặt ở khu FOH, phải được che khỏi tầm nhìn của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[99300]     Chiều rộng tối thiểu là 61 cm (25in)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020848Z" creationid="LanHK" creationdate="20210522T020848Z">
+        <seg>[99300]     Chiều rộng thông thủy tối thiểu là 61 cm (25in)</seg>
       </tuv>
     </tu>
     <tu>
