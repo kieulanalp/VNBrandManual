@@ -6322,6 +6322,23 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Fitness Facilities -&gt; General Fitness &amp; Giải trí -&gt; cơ sở fitness -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023534Z" creationid="LanHK" creationdate="20210522T023534Z">
+        <seg>Fitness &amp; Recreation -&gt; Fitness Facilities -&gt; General Cơ sở vật chất phòng tập -&gt; Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>skip phần dịch vụ</note>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Fitness Facilities -&gt; Service Expectations Fitness &amp; Giải trí -&gt; cơ sở fitness -&gt; Mong đợi dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023520Z" creationid="LanHK" creationdate="20210522T023520Z">
+        <seg>Fitness &amp; Recreation -&gt; Fitness Facilities -&gt; Service Expectations Kỳ vọng về dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation -&gt; Fitness Facilities Fitness &amp; Giải trí -&gt; cơ sở fitness</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T023254Z" creationid="LanHK" creationdate="20210522T023254Z">
@@ -29158,6 +29175,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T065007Z" creationid="Kieu Lan" creationdate="20210422T065007Z">
         <seg>[819] Nếu khách phải chờ để được phục vụ, nhân viên phải xin lỗi và cảm ơn vì họ đã dành thời gian đợi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[82000] Ba mô-đun phòng cho một khách sạn lớn hơn 250 phòng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023613Z" creationid="LanHK" creationdate="20210522T023613Z">
+        <seg>[82000] Ba mô-đun phòng cho khách sạn lớn hơn 250 phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[82001]    Nên thiết lập các yêu cầu và số lượng thiết bị khu vực cuối cùng với sự tư vấn với nhóm cố vấn kỹ thuật của nhà cung cấp thiết bị.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023836Z" creationid="LanHK" creationdate="20210522T023836Z">
+        <seg>[82001]    Các yêu cầu cuối cùng về diện tích và số lượng thiết bị nên được xác định trong quá trình tư vấn với đội ngũ tư vấn kỹ thuật của nhà cung cấp</seg>
       </tuv>
     </tu>
     <tu>
