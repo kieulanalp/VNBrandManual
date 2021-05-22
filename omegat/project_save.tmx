@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A pre-function area must provide the following facilities: [82403] Một khu vực pre-function phải cung cấp các cơ sở sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013843Z" creationid="LanHK" creationdate="20210522T013843Z">
+        <seg>A pre-function area must provide the following facilities: [82403] Một khu vực pre-function phải cung cấp các cơ sở vật chất sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A process must be in place to satisfy pillow requests within 15 minutes of request being received Phải có một quy trình để đáp ứng yêu cầu về gối trong vòng 15 phút kể từ khi nhận được yêu cầu</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T100600Z" creationid="LanHK" creationdate="20210428T100600Z">
@@ -17649,6 +17657,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[103096] Chúng tôi đề nghị cung cấp phòng pantry hoặc quầy cố định cho dịch vụ F&amp;B.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013833Z" creationid="LanHK" creationdate="20210522T013833Z">
+        <seg>[103096] Khuyến nghị cung cấp pantry hoặc quầy cố định cho dịch vụ F&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[103215] Khuyến nghị tiền sảnh hoặc tường ô gạch ở lối vào nhà vệ sinh</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T094147Z" creationid="LanHK" creationdate="20210428T020534Z">
@@ -18533,6 +18549,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T102711Z" creationid="LanHK" creationdate="20210428T102711Z">
         <seg>[113705] • phụ thuộc vào vị trí cửa, nên cung cấp cửa sổ có thể mở.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[114311] Khu vực pre-function dành riêng cho phòng ballroom phải bằng 30% diện tích thực dụng bên trong phòng ballroom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013815Z" creationid="LanHK" creationdate="20210522T013815Z">
+        <seg>[114311] Khu vực pre-function dành riêng cho phòng ballroom phải bằng 30% diện tích net bên trong phòng ballroom.</seg>
       </tuv>
     </tu>
     <tu>
