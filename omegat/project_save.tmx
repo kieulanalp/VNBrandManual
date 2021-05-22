@@ -8059,6 +8059,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hoặc, theo sự chấp thuận của IHG®, từ các nhà cung cấp thay thế thiết bị chất lượng tương đương.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032209Z" creationid="LanHK" creationdate="20210522T032209Z">
+        <seg>Hoặc, phụ thuộc phê duyệt của IHG®, từ các nhà cung cấp thay thế với thiết bị có chất lượng tương đương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Human Resources</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T092201Z" creationid="LanHK" creationdate="20210405T092201Z">
@@ -10980,6 +10988,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Motorized [91359]       Gắn động cơ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032258Z" creationid="LanHK" creationdate="20210522T032258Z">
+        <seg>Motorized [91359]       Có động cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi grain bread [583093] Bánh mì nhiều lớp</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T090939Z" creationid="LanHK" creationdate="20210513T090939Z">
@@ -11734,6 +11750,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T032002Z" creationid="LanHK" creationdate="20210406T032002Z">
         <seg>Nâng cấp có thể bao gồm các phòng ở tầng cao hơn, phòng góc, phòng mới được cải tạo, phòng suites hoặc phòng có view đẹp hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nên cung cấp thiết bị fitness bởi một trong những nhà cung cấp ưu tiên sau: Technogym, Life Fitness, Precor, Nautilus.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032148Z" creationid="LanHK" creationdate="20210522T032148Z">
+        <seg>Ưu tiên các nhà cung cấp thiết bị tập sau: Technogym, Life Fitness, Precor, Nautilus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,6 +16090,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Treadmill Example 2 Ví dụ máy chạy bộ 2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032251Z" creationid="LanHK" creationdate="20210522T032251Z">
+        <seg>Treadmill Example 2 Ví dụ máy chạy bộ 2 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Treatment to mitigate the effect of staining from vehicle oils is recommended [12223]       Nên xử lý để giảm thiểu ảnh hưởng của vết nhơ từ dầu xe</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T074929Z" creationid="Kieu Lan" creationdate="20210422T074929Z">
@@ -19602,6 +19634,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116891] Nếu trung tâm fitness khôngd dược quản lý, khuyến nghị rằng free weight không vượt quá 9 kg (20lbs).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032119Z" creationid="LanHK" creationdate="20210522T032119Z">
+        <seg>[116891] Nếu phòng tập không có người trực, khuyến nghị tạ rời không vượt quá 9 kg (20lbs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[117039]     Tách biệt bếp.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T032710Z" creationid="LanHK" creationdate="20210514T032710Z">
@@ -21070,6 +21110,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T023411Z" creationid="LanHK" creationdate="20210522T023411Z">
         <seg>[2420] Phải cung cấp một phòng tập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[2430] Thiết bị fitness phải là loại thương mại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032126Z" creationid="LanHK" creationdate="20210522T032126Z">
+        <seg>[2430] Thiết bị tập phải là loại thương mại.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30561,6 +30609,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T024230Z" creationid="LanHK" creationdate="20210522T024230Z">
         <seg>[91333] Phải cung cấp phòng thay đồ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91360]       Mức độ nghiêng từ 0 đến 12% với gia số 10%.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T032320Z" creationid="LanHK" creationdate="20210522T032320Z">
+        <seg>[91360]       Độ dốc từ 0 đến 12% với gia số 10%.</seg>
       </tuv>
     </tu>
     <tu>
