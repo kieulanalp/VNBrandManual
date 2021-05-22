@@ -10381,8 +10381,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; Phòng Pre Function &amp; Khu vực thảo luận -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment cuộc họp và sự kiện -&gt; Phòng Pre Function &amp; Khu vực thảo luận -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T021950Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -17253,6 +17253,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T030737Z" creationid="LanHK" creationdate="20210419T030737Z">
         <seg>Where provided Safe Deposit Boxes must meet the following requirements: [56184] Trường hợp có Két An Toàn, két phải đáp ứng các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where provided registration desks must meet the following: [90857] Khi được cung cấp các bàn đăng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T022014Z" creationid="LanHK" creationdate="20210522T022001Z">
+        <seg>Where provided registration desks must meet the following: [90857] Khi được cung cấp các bàn/quầy đăng ký phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
