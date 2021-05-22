@@ -2824,8 +2824,8 @@
       <tuv lang="EN-US">
         <seg>Automatic belt/deck waxing system [91362]     Hệ thống waxing đai / sàn tự động</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T033050Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Automatic belt/deck waxing system [91362]     Hệ thống wax đai chạy/sàn tự động</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033234Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Automatic belt/deck waxing system [91362]     Hệ thống wax thảm chạy/ván máy tự động</seg>
       </tuv>
     </tu>
     <tu>
@@ -13701,6 +13701,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T080452Z" creationid="Kieu Lan" creationdate="20210512T080452Z">
         <seg>Restrooms availability [92596] Có nhà vệ sinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reversible deck [91363]       Sàn ngược</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033214Z" creationid="LanHK" creationdate="20210522T033214Z">
+        <seg>Reversible deck [91363]       Sàn có thể lật </seg>
       </tuv>
     </tu>
     <tu>
