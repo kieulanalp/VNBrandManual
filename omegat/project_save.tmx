@@ -29939,6 +29939,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[90872]     Chiều rộng tối thiểu 3m (10ft) tại các phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T020638Z" creationid="LanHK" creationdate="20210522T020638Z">
+        <seg>[90872]     Chiều rộng thông thủy tối thiểu 3m (10ft) tại các phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[90899] Nhân viên cần đảm bảo rằng bàn là được đặt trong tủ quần áo với một thùng rỗng sau khi sử dụng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T090402Z" creationid="LanHK" creationdate="20210511T090402Z">
