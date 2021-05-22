@@ -3767,6 +3767,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bộ cửa hai cánh có chiều rộng thực tối thiểu 1.80m (6ft).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T021808Z" creationid="LanHK" creationdate="20210522T021808Z">
+        <seg>Bộ cửa hai cánh có chiều rộng lối đi tối thiểu 1.80m (6ft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bộ dụng cụ sơ cứu phải được cung cấp.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110542Z" creationid="LanHK" creationdate="20210419T110542Z">
@@ -4177,8 +4185,8 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       <tuv lang="EN-US">
         <seg>Chiều rộng thực tối thiểu: 75cm (30in)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T020945Z" creationid="LanHK" creationdate="20210522T020945Z">
-        <seg>Chiều rộng thông thủy tối thiểu: 75cm (30in)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T021818Z" creationid="LanHK" creationdate="20210522T020945Z">
+        <seg>Chiều rộng lối đi tối thiểu: 75cm (30in)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,8 +10469,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Minimum 4.5m (15ft) clear width at ball rooms [90876]     Chiều rộng tối thiểu 4,5m (15ft) tại phòng ballrooms.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T020857Z" creationid="LanHK" creationdate="20210522T020857Z">
-        <seg>Minimum 4.5m (15ft) clear width at ball rooms [90876]     Chiều rộng thông thủy tối thiểu 4,5m (15ft) tại phòng ballrooms.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T021937Z" creationid="LanHK" creationdate="20210522T020857Z">
+        <seg>Minimum 4.5m (15ft) clear width at ball rooms [90876]     Chiều rộng thông thủy tối thiểu 4,5m (15ft) tại phòng ballroom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28124,8 +28132,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[77649]Chiều rộng mở thực tối thiểu 90cm.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T021747Z" creationid="LanHK" creationdate="20210522T021747Z">
-        <seg>[77649] Chiều rộng mở thông thủy tối thiểu 90cm.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T021827Z" creationid="LanHK" creationdate="20210522T021747Z">
+        <seg>[77649] Chiều rộng lối đi tối thiểu 90cm.</seg>
       </tuv>
     </tu>
     <tu>
