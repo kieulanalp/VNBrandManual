@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 190)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013531Z" creationid="LanHK" creationdate="20210522T013531Z">
+        <seg>(Trang 188)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 20)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T110805Z" creationid="LanHK" creationdate="20210406T110759Z">
@@ -17809,6 +17817,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[110498]   Có một điện thoại trong nhà.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013444Z" creationid="LanHK" creationdate="20210522T013444Z">
+        <seg>[110498]   Có một điện thoại bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[111024]      Phải kết hợp phòng khách tiêu chuẩn với phòng suite hai hoặc ba phòng với bếp nhỏ trong một tòa nhà.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T020656Z" creationid="LanHK" creationdate="20210508T020656Z">
@@ -17845,6 +17861,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T023936Z" creationid="LanHK" creationdate="20210508T023936Z">
         <seg>[111031] Phải được gắn 1,2m (4ft) trên các mức sàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111296] Cung cấp liền kề với các cơ sở cuộc họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013526Z" creationid="LanHK" creationdate="20210522T013526Z">
+        <seg>[111296] Bố trí liền kề với các cơ sở cuộc họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[111297]     Diện tích thực tối thiểu: 30% diện tích hiệu dụng phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T013624Z" creationid="LanHK" creationdate="20210522T013624Z">
+        <seg>[111297]     Diện tích thực tối thiểu: 30% diện tích net phòng họp.</seg>
       </tuv>
     </tu>
     <tu>
