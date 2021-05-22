@@ -10524,6 +10524,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum 90cm (3ft) wide [134055]    Tối thiểu 90cm (3ft) rộng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023928Z" creationid="LanHK" creationdate="20210522T023928Z">
+        <seg>Minimum 90cm (3ft) wide [134055]    Tối thiểu rộng 90cm (3ft) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum casing thread count per square inch: 233 Số lượng ren ống tối thiểu trên mỗi inch vuông: 233</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T051458Z" creationid="Kieu Lan" creationdate="20210508T051222Z">
@@ -19858,6 +19866,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[134053]     Phải được tráng men toàn bộ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023923Z" creationid="LanHK" creationdate="20210522T023923Z">
+        <seg>[134053]     Phải là cửa kính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[134] Biển báo bên ngoài phải sạch và bảo trì tốt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T073541Z" creationid="Kieu Lan" creationdate="20210422T073541Z">
@@ -24253,8 +24269,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[54544] Ví dụ về các tính năng / đánh dấu bao gồm các dòng màu, đề can hoặc các mẫu.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[54544] Ví dụ về các tính năng/đánh dấu bao gồm các dòng màu, đề can hoặc các mẫu.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024222Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[54544] Các họa tiết trang trí/đánh dấu gồm các dải màu, đề can hoặc các hình hoa văn, họa tiết.</seg>
       </tuv>
     </tu>
     <tu>
