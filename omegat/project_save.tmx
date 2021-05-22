@@ -16450,6 +16450,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Up to 99 guest rooms: The required three pieces of equipment [32576]       Lên đến 99 phòng khách: Ba thiết bị cần thiết</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031046Z" creationid="LanHK" creationdate="20210522T031046Z">
+        <seg>Up to 99 guest rooms: The required three pieces of equipment [32576]       Lên đến 99 phòng khách: 3 thiết bị như yêu cầu trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210407T025205Z" creationid="LanHK" creationdate="20210407T025205Z">
@@ -22055,6 +22063,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T024518Z" creationid="LanHK" creationdate="20210513T024518Z">
         <seg>[32570] Thực đơn Kids Eat Free nên có các món được chế biến tươi bao gồm thịt nạc và cá nướng, rau hấp, gạo lứt và trái cây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[32575] 100-249 phòng khách: Ba phần thiết bị cần thiết cộng với một phần thiết bị bổ sung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031108Z" creationid="LanHK" creationdate="20210522T031108Z">
+        <seg>[32575] 100-249 phòng khách: 3 thiết bị như yêu cầu trên và một thiết bị bổ sung</seg>
       </tuv>
     </tu>
     <tu>
