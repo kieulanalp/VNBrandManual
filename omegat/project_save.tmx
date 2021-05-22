@@ -4975,6 +4975,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dedicated public restrooms [114499]     Nhà vệ sinh công cộng chuyên dụng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T014123Z" creationid="LanHK" creationdate="20210522T014123Z">
+        <seg>Dedicated public restrooms [114499]     Nhà vệ sinh công cộng dành riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dedicated secured room(s) [115535]     (Các) phòng bảo mật chuyên dụng</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T143313Z" creationid="Kieu Lan" creationdate="20210517T143313Z">
@@ -18565,6 +18573,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T092243Z" creationid="LanHK" creationdate="20210517T092243Z">
         <seg>[114399] Thiết kế nên cân nhắc đến lối vào cho phương tiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[114503] Không gian pre-function phải có khả năng chứa một số nhóm thảo luận trong khu vực bán riêng tư.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T014552Z" creationid="LanHK" creationdate="20210522T014552Z">
+        <seg>[114503] Không gian pre-function phải có khả năng chứa một số nhóm breakout trong khu vực tương đối riêng tư.</seg>
       </tuv>
     </tu>
     <tu>
