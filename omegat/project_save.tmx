@@ -10347,6 +10347,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; General cuộc họp và sự kiện -&gt; Pre Function &amp; Khu vực thảo luận -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T012725Z" creationid="LanHK" creationdate="20210522T012524Z">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas -&gt; General Khu Pre Function &amp; Breakout -&gt; Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas cuộc họp và sự kiện -&gt; Pre Function &amp; Khu vực thảo luận</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T012527Z" creationid="LanHK" creationdate="20210522T012503Z">
+        <seg>Meetings &amp; Events -&gt; Pre Function &amp; Breakout Areas Khu Pre Function &amp; Breakout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meetings &amp; Events -&gt; Pre event cuộc họp và sự kiện -&gt; Trước sự kiện</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T070634Z" creationid="LanHK" creationdate="20210517T070634Z">
@@ -12749,6 +12765,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T094142Z" creationid="LanHK" creationdate="20210405T094142Z">
         <seg>Pre event Trước sự kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-function areas must meet the following: [19580] khu vực pre-function phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T012729Z" creationid="LanHK" creationdate="20210522T012729Z">
+        <seg>Pre-function areas must meet the following: [19580] Khu vực pre-function phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
