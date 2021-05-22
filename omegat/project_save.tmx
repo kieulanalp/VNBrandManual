@@ -2726,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At minimum, the following fitness equipment must be provided: [2914] Tối thiểu, phải cung cấp các thiết bị thể dục sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024909Z" creationid="LanHK" creationdate="20210522T024909Z">
+        <seg>At minimum, the following fitness equipment must be provided: [2914] Tối thiểu, phải cung cấp các thiết bị tập sau đây:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attached and assisted lid [13754] Nắp đính kèm và hỗ trợ</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T043344Z" creationid="Kieu Lan" creationdate="20210510T043344Z">
@@ -2826,6 +2834,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T031637Z" creationid="Kieu Lan" creationdate="20210417T031637Z">
         <seg>Automatically turn off fuel supply to cooking equipment when system is activated [56564] Tự động ngfắt nguồn cung cấp nhiên liệu cho thiết bị nấu khi hệ thống được kích hoạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available during all hours of operation [350407] Luôn sẵn có trong giờ vận hành hoạt động</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024706Z" creationid="LanHK" creationdate="20210522T024706Z">
+        <seg>Available during all hours of operation [350407] Luôn sẵn có trong giờ mở cửa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,8 +6324,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Fitness &amp; Giải trí -&gt; Cơ sở Fitness -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>Fitness &amp; Giải trí -&gt; Cơ sở Fitness -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024814Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -10940,6 +10956,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Motorised treadmill [2915]       Máy chạy bộ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024928Z" creationid="LanHK" creationdate="20210522T024928Z">
+        <seg>Motorised treadmill [2915]       Máy chạy bộ có động cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi grain bread [583093] Bánh mì nhiều lớp</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T090939Z" creationid="LanHK" creationdate="20210513T090939Z">
@@ -14804,6 +14828,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stretching mats [123058]       Thảm trải dài</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024921Z" creationid="LanHK" creationdate="20210522T024921Z">
+        <seg>Stretching mats [123058]       Thảm tập kéo cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Structural ceiling suspension system [114529]     Hệ thống treo trần cấu trúc</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T092206Z" creationid="LanHK" creationdate="20210517T092206Z">
@@ -16454,6 +16486,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T025638Z" creationid="LanHK" creationdate="20210405T025638Z">
         <seg>Upholstered Items&lt;t0/&gt; &lt;t1/&gt;Đồ nội thất có nệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upright or recumbent bike with computerised ergometer [2916] Xe đạp thẳng đứng hoặc ngả với máy đo điện áp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031014Z" creationid="LanHK" creationdate="20210522T031014Z">
+        <seg>Upright or recumbent bike with computerised ergometer [2916] Máy đạp xe đứng hoặc có ghế tựa lưng tích hợp máy đo chỉ số điện tử</seg>
       </tuv>
     </tu>
     <tu>
@@ -22131,6 +22171,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[350409] Thiết kế: Phải được hoàn thiện đơn giản không có tiêu đề hoặc viền màu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024743Z" creationid="LanHK" creationdate="20210522T024743Z">
+        <seg>[350409] hiết kế: Phải là hoàn thiện đơn giản, viền khăn không có chữ hoặc màu trang trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[356100]    Nên xem xét và cung cấp khu vực thích hợp cho phép người sử dụng xe lăn có thể di chuyển vào vị trí lánh nạn.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T045703Z" creationid="Kieu Lan" creationdate="20210427T045703Z">
@@ -22775,6 +22823,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T070629Z" creationid="LanHK" creationdate="20210517T070629Z">
         <seg>[38598] Phải có kế hoạch làm sạch sâu thường xuyên cho tất cả các phòng họp và không gian công cộng, và phải được ghi lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38618] Không cho phép hoa và cấy cối trong phòng fitness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024807Z" creationid="LanHK" creationdate="20210522T024807Z">
+        <seg>[38618] Không cho phép bày hoa và cây trong phòng fitness.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29323,6 +29379,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[8368] Khăn không sử dụng phải được xếp gọn gàng và bày trên kệ hoặc mặt quầy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024751Z" creationid="LanHK" creationdate="20210522T024751Z">
+        <seg>[8368] Khăn chưa sử dụng phải được xếp gọn gàng và bày trên kệ hoặc mặt quầy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[8394]       Máy sấy tóc không được có công tắc bật / tắt</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T041938Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -30401,6 +30465,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044753Z" creationid="Kieu Lan" creationdate="20210518T044753Z">
         <seg>[91313]    Bố trí tại các vị trí được định sẵn trên mặt sàn, cho phép thay đổi cấu hình chỗ ngồi, các bố trí hội họp khác nhau, set up tạm thời (bàn đăng ký hoặc quầy đồ ăn đồ uống) và các mục đích sử dụng khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91329] Trường hợp trung tâm fitness có người quản lý, cần có bàn tiếp tân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024822Z" creationid="LanHK" creationdate="20210522T024822Z">
+        <seg>[91329] Trường hợp trung tâm fitness có nhân viên trực, cần có bàn tiếp tân.</seg>
       </tuv>
     </tu>
     <tu>
