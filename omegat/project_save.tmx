@@ -9620,8 +9620,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>LED high visibility console readout to include elapsed time, floors, floors per minute, total calories burned, calories burned/hour, heart rate, program profile, Watts [91380]      Bảng điều khiển hiển thị đèn LED bao gồm thời gian chạy máy, sàn, sàn trên phút, tổng lượng calo bị đốt cháy, lượng calo bị đốt cháy / giờ, nhịp tim, độ nghiêng, tốc độ, kph / mph, hồ sơ chương trình, Watts .</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T034725Z" creationid="LanHK" creationdate="20210522T034725Z">
-        <seg>LED high visibility console readout to include elapsed time, floors, floors per minute, total calories burned, calories burned/hour, heart rate, program profile, Watts [91380]      Bảng điều khiển hiển thị đèn LED bao gồm thời gian sử dụng máy, số tầng, số tầng leo/phút, tổng lượng calo đốt cháy, lượng calo đốt cháy/giờ, nhịp tim, độ dốc, tốc độ, kph / mph, hồ sơ chương trình, Watts .</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T034841Z" creationid="LanHK" creationdate="20210522T034725Z">
+        <seg>LED high visibility console readout to include elapsed time, floors, floors per minute, total calories burned, calories burned/hour, heart rate, program profile, Watts [91380]      Bảng điều khiển hiển thị đèn LED bao gồm thời gian sử dụng máy, số tầng, số tầng leo/phút, tổng lượng calo đốt cháy, lượng calo đốt cháy/giờ, nhịp tim, độ dốc, tốc độ, kph/mph, chương trình leo, Watts .</seg>
       </tuv>
     </tu>
     <tu>
@@ -14234,6 +14234,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self-powered (no external power source required) [91382]       Tự cấp nguồn (không cần nguồn điện bên ngoài)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T034901Z" creationid="LanHK" creationdate="20210522T034901Z">
+        <seg>Self-powered (no external power source required) [91382]       Tự cấp điện (không cần nguồn điện bên ngoài)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Self-serve commercial juicer is permitted [606054] Cho phép máy ép trái cây thương mại tự phục vụ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T092226Z" creationid="LanHK" creationdate="20210513T092226Z">
@@ -16636,6 +16644,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T025638Z" creationid="LanHK" creationdate="20210405T025638Z">
         <seg>Upholstered Items&lt;t0/&gt; &lt;t1/&gt;Đồ nội thất có nệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upright bikes must have the following features as a minimum: [91381] Xe đạp thẳng upright bike phải có các tính năng tối thiểu như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T034851Z" creationid="LanHK" creationdate="20210522T034851Z">
+        <seg>Upright bikes must have the following features as a minimum: [91381] Máy đạp xe đứng phải có các tính năng tối thiểu như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30695,6 +30711,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[91361]       Máy chạy bộ phải tự động đặt lại tốc độ về 0kph/mph khi khởi động lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91383]      Đặc trưng năng lượng không đổi trong đó tốc độ khối lượng công việc (công suất) luôn giống nhau; khi RPM giảm sức chịu đựng tăng, và RPM tăng sức chịu đựng giảm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035021Z" creationid="LanHK" creationdate="20210522T035021Z">
+        <seg>[91383]      tính năng công suất không đổi trong đó tỷ lệ khối lượng công việc (công suất) luôn bằng nhau; khi RPM giảm điện trở tăng, khi RPM tăng điện trở giảm.</seg>
       </tuv>
     </tu>
     <tu>
