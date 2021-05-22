@@ -23577,6 +23577,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[45435] Hướng dẫn sử dụng riêng lẻ phải được hiển thị trên hoặc theo từng thiết bị.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T042016Z" creationid="LanHK" creationdate="20210522T042009Z">
+        <seg>[45435] Phải có hướng dẫn sử dụng cụ thể gắn trên hoặc cạnh mỗi thiết bị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[45571] khách sạn được nhượng quyền có thể tham khảo Chính sách dữ liệu cá nhân xử lý của IHG khi xây dựng Chính sách riêng của họ.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T102315Z" creationid="LanHK" creationdate="20210406T102115Z">
