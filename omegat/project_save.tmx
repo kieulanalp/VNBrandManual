@@ -17777,6 +17777,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[104905]       Nên có một phòng pantry hoặc cung cấp một quầy cố định cho dịch vụ F&amp;B.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T015339Z" creationid="LanHK" creationdate="20210522T015339Z">
+        <seg>[104905]       Nên cung cấp pantry hoặc quầy cố định cho dịch vụ F&amp;B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[104] Giao thông vận tải phải được cung cấp tối thiểu chín giờ mỗi ngày, trong đó phải bao gồm giờ cao điểm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T045517Z" creationid="Kieu Lan" creationdate="20210422T045517Z">
@@ -18917,6 +18925,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210520T022556Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[115626]    Tùy thuộc vào vùng khí hậu, nên cung cấp một tủ áo nhỏ trong phòng họp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[115628]     Khuyến nghị chiếu sáng tự nhiên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T015345Z" creationid="LanHK" creationdate="20210522T015345Z">
+        <seg>[115628] Khuyến nghị dùng ánh sáng tự nhiên.</seg>
       </tuv>
     </tu>
     <tu>
