@@ -6475,6 +6475,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Five programme options with quick start feature [91384]      Năm lựa chọn chương trình với tính năng bắt đầu nhanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035249Z" creationid="LanHK" creationdate="20210522T035249Z">
+        <seg>Five programme options with quick start feature [91384]      Năm chương trình workout và tính năng bắt đầu nhanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed knob or lever on the guest room side [274133]     Đầu chốt cố định hoặc đòn bẩy ở phía cạnh phòng khách</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210417T042719Z" creationid="Kieu Lan" creationdate="20210417T042719Z">
@@ -9590,14 +9598,6 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T013016Z" creationid="LanHK" creationdate="20210406T013016Z">
         <seg>Kế hoạch hành động nên được triển khai trong vòng 90 ngày.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LED console readout to include elapsed time, distance, total calories burned, calories per hour, kph/mph, pedal RPM, programme profile, Watts [91385]      Bảng điều khiển LED bao gồm thời gian chạy máy, khoảng cách, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph / mph, pedal RPM, hồ sơ chương trình, Watts</seg>
-      </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>LED console readout to include elapsed time, distance, total calories burned, calories per hour, kph/mph, pedal RPM, programme profile, Watts [91385]      Bảng điều khiển LED bao gồm thời gian chạy máy, khoảng cách, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph/mph, pedal RPM, hồ sơ chương trình, Watts</seg>
       </tuv>
     </tu>
     <tu>
@@ -30717,8 +30717,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[91383]      Đặc trưng năng lượng không đổi trong đó tốc độ khối lượng công việc (công suất) luôn giống nhau; khi RPM giảm sức chịu đựng tăng, và RPM tăng sức chịu đựng giảm.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T035021Z" creationid="LanHK" creationdate="20210522T035021Z">
-        <seg>[91383]      tính năng công suất không đổi trong đó tỷ lệ khối lượng công việc (công suất) luôn bằng nhau; khi RPM giảm điện trở tăng, khi RPM tăng điện trở giảm.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035235Z" creationid="LanHK" creationdate="20210522T035021Z">
+        <seg>[91383]      tính năng công suất không đổi trong đó công suất luôn giữ nguyên; khi RPM (số vòng đạp/phút) giảm thì cản trở tăng, khi RPM tăng thì cản trở giảm.</seg>
       </tuv>
     </tu>
     <tu>
