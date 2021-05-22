@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trag 191)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023135Z" creationid="LanHK" creationdate="20210522T023135Z">
+        <seg>(Trag 189)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 100)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T082354Z" creationid="LanHK" creationdate="20210510T082354Z">
@@ -6300,8 +6308,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210405T095449Z" creationid="LanHK" creationdate="20210405T095449Z">
-        <seg>Fitness &amp; RecreationFitness &amp; Recreation&lt;t0/&gt; &lt;t1/&gt;Fitness &amp; Giải Trí</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023341Z" creationid="LanHK" creationdate="20210405T095449Z">
+        <seg>Fitness &amp; Recreation&lt;t0/&gt; &lt;t1/&gt;Phòng tập &amp; Không gian Giải Trí</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,6 +6318,22 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
         <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Fitness Facilities Fitness &amp; Giải trí -&gt; cơ sở fitness</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023254Z" creationid="LanHK" creationdate="20210522T023254Z">
+        <seg>Fitness &amp; Recreation -&gt; Fitness Facilities Cơ sở vật chất phòng tập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation Fitness &amp; Giải trí</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023404Z" creationid="LanHK" creationdate="20210522T023314Z">
+        <seg>Fitness &amp; Recreation Phòng tập &amp; Không gian giải trí</seg>
       </tuv>
     </tu>
     <tu>
@@ -20833,6 +20857,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[241050] Khuyến nghị ánh sáng tự nhiên ban ngày và cảnh quan bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023448Z" creationid="LanHK" creationdate="20210522T023448Z">
+        <seg>[241050] Khuyến nghị sử dụng ánh sáng tự nhiên và có view ra bên ngoài.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[241058] Giày và tất / vớ phải phù hợp với tiêu chuẩn đồng phục.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -20877,6 +20909,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T075329Z" creationid="LanHK" creationdate="20210517T075329Z">
         <seg>[2412] Khi người tổ chức sự kiện xác nhận booking, một nhân viên phải cung cấp cho họ tên và thông tin liên lạc của nhân viên khách sạn sẽ chịu trách nhiệm tổ chức sự kiện này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[2420] Phải cung cấp một phòng fitness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023411Z" creationid="LanHK" creationdate="20210522T023411Z">
+        <seg>[2420] Phải cung cấp một phòng tập.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22862,6 +22902,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T084954Z" creationid="LanHK" creationdate="20210511T084954Z">
         <seg>[413048]      Điện thoại bàn được khuyến nghị là loại hand-free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[41320] Có thể truy cập trực tiếp từ các khu vực công cộng từ các phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023425Z" creationid="LanHK" creationdate="20210522T023425Z">
+        <seg>[41320] Có lối vào trực tiếp từ các khu vực công cộng từ các phòng khách.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30047,6 +30095,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T091157Z" creationid="LanHK" creationdate="20210510T091157Z">
         <seg>[90576]      Có đệm và được bọc toàn bộ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[90796]      Vị trí của họ không được hạn chế bất kỳ luồng khách hoặc dịch vụ nào và không được giảm tính linh hoạt của các cơ sở phòng họp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T023229Z" creationid="LanHK" creationdate="20210522T023229Z">
+        <seg>[90796]      Vị trí không được hạn chế bất kỳ luồng khách hoặc dịch vụ nào và không làm giảm tính linh hoạt của các cơ sở phòng họp.</seg>
       </tuv>
     </tu>
     <tu>
