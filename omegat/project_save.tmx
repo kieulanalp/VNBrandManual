@@ -9602,10 +9602,18 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LED console readout to include elapsed time, distance, total calories burned, calories per hour, kph/mph, pedal RPM, programme profile, Watts [91385]      Bảng điều khiển LED bao gồm thời gian chạy máy, khoảng cách, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph / mph, pedal RPM, hồ sơ chương trình, Watts</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035653Z" creationid="LanHK" creationdate="20210522T035653Z">
+        <seg>LED console readout to include elapsed time, distance, total calories burned, calories per hour, kph/mph, pedal RPM, programme profile, Watts [91385]      Bảng điều khiển LED bao gồm thời gian chạy máy, khoảng cách, tổng lượng calo đốt cháy, lượng calo đốt cháy mỗi giờ, kph/mph, số vòng đạp/phút, chương trình, Watts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LED high visibility console readout to include elapsed time, distance in kilometres, total calories burned, calories burned/hour, heart rate, incline, speed, kph/mph, program profile, Watts [9137 Bảng điều khiển hiển thị đền LED bao gồm thời gian trôi qua, khoảng cách tính bằng km, tổng lượng calo bị đốt cháy, lượng calo bị đốt cháy / giờ, nhịp tim, độ nghiêng, tốc độ, kph / mph, hồ sơ chương trình, Watts .</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T034640Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>LED high visibility console readout to include elapsed time, distance in kilometres, total calories burned, calories burned/hour, heart rate, incline, speed, kph/mph, program profile, Watts [91370] Bảng hiển thị LED bao gồm thời gian sử dụng máy, khoảng cách tính bằng km, tổng lượng calo đốt cháy, lượng calo đốt cháy/giờ, nhịp tim, độ dốc, vận tốc, kph/mph, chương trình chạy, Watts .</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035525Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>LED high visibility console readout to include elapsed time, distance in kilometres, total calories burned, calories burned/hour, heart rate, incline, speed, kph/mph, program profile, Watts [91370] Bảng hiển thị LED bao gồm thời gian sử dụng máy, khoảng cách tính bằng km, tổng lượng calo đốt cháy, lượng calo đốt cháy/giờ, nhịp tim, độ dốc, vận tốc, kph/mph, chương trình chạy, Watts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9628,8 +9636,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph / mph, khoảng cách, mức độ, pedal RPM, hồ sơ chương trình, Watts</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph/mph, khoảng cách, mức độ, pedal RPM, hồ sơ chương trình, Watts</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035432Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo đốt cháy, lượng calo đốt cháy mỗi giờ, kph/mph, khoảng cách, mức độ, pedal RPM, hồ sơ chương trình, Watts</seg>
       </tuv>
     </tu>
     <tu>
@@ -13421,6 +13429,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T091526Z" creationid="LanHK" creationdate="20210405T091526Z">
         <seg>Building Management System Training &lt;t0/&gt;Đào Tạo sử dụng Hệ thống Quản Lý Tòa Nhà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recumbent bikes must have the following features as a minimum: [91386] Xe đạp nằm recumbent bike phải có các tính năng tối thiểu:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T035710Z" creationid="LanHK" creationdate="20210522T035710Z">
+        <seg>Recumbent bikes must have the following features as a minimum: [91386] Máy đạp xe có tựa lưng có các tính năng tối thiểu sau:</seg>
       </tuv>
     </tu>
     <tu>
