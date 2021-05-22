@@ -8779,6 +8779,12 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <note>chỗ này không biết có phải typo của bản gốc k	</note>
+      <tuv lang="EN-US">
+        <seg>Incline range of 0 to 12% in 10% increments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Include a pre-recorded evacuation message in the local language(s) and English [263150] Bao gồm một thông báo sơ tán được ghi lại bằng (các) ngôn ngữ địa phương và tiếng Anh</seg>
       </tuv>
