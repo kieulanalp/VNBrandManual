@@ -9588,8 +9588,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>LED high visibility console readout to include elapsed time, distance in kilometres, total calories burned, calories burned/hour, heart rate, incline, speed, kph/mph, program profile, Watts [9137 Bảng điều khiển hiển thị đền LED bao gồm thời gian trôi qua, khoảng cách tính bằng km, tổng lượng calo bị đốt cháy, lượng calo bị đốt cháy / giờ, nhịp tim, độ nghiêng, tốc độ, kph / mph, hồ sơ chương trình, Watts .</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>LED high visibility console readout to include elapsed time, distance in kilometres, total calories burned, calories burned/hour, heart rate, incline, speed, kph/mph, program profile, Watts [9137 Bảng điều khiển hiển thị đền LED bao gồm thời gian trôi qua, khoảng cách tính bằng km, tổng lượng calo bị đốt cháy, lượng calo bị đốt cháy/giờ, nhịp tim, độ nghiêng, tốc độ, kph/mph, hồ sơ chương trình, Watts .</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033527Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>LED high visibility console readout to include elapsed time, distance in kilometres, total calories burned, calories burned/hour, heart rate, incline, speed, kph/mph, program profile, Watts [9137 Bảng hiển thị LED bao gồm thời gian chạy, khoảng cách tính bằng km, tổng lượng calo đốt cháy, lượng calo đốt cháy/giờ, nhịp tim, độ dốc, vận tốc, kph/mph, chương trình chạy, Watts .</seg>
       </tuv>
     </tu>
     <tu>
@@ -10578,6 +10578,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum 2HP motor system [91364]       Hệ thống động cơ tối thiểu 2HP</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033255Z" creationid="LanHK" creationdate="20210522T033255Z">
+        <seg>Minimum 2HP motor system [91364]       tối thiểu hệ thống động cơ 2HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum 4.5m (15ft) clear width at ball rooms [90876]     Chiều rộng tối thiểu 4,5m (15ft) tại phòng ballrooms.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T021937Z" creationid="LanHK" creationdate="20210522T020857Z">
@@ -10830,6 +10838,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T162115Z" creationid="Kieu Lan" creationdate="20210517T162115Z">
         <seg>Minimum single, one-way door viewer per meeting room installed to view into the meeting room area [13300] Tối thiểu một mắt thần một chiều cho mỗi phòng họp để nhìn vào trong phòng họp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum six workout programme options plus a quick start feature [91369]       Tối thiểu sáu lựa chọn chương trình workout cộng với tính năng bắt đầu nhanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033319Z" creationid="LanHK" creationdate="20210522T033319Z">
+        <seg>Minimum six workout programme options plus a quick start feature [91369]       Tối thiểu sáu chương trình workout và tính năng bắt đầu nhanh</seg>
       </tuv>
     </tu>
     <tu>
@@ -13707,8 +13723,8 @@ See also ID number 212 Xem thêm số ID 212</seg>
       <tuv lang="EN-US">
         <seg>Reversible deck [91363]       Sàn ngược</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210522T033214Z" creationid="LanHK" creationdate="20210522T033214Z">
-        <seg>Reversible deck [91363]       Sàn có thể lật </seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T033241Z" creationid="LanHK" creationdate="20210522T033214Z">
+        <seg>Reversible deck [91363]       Ván máy có thể lật ngược</seg>
       </tuv>
     </tu>
     <tu>
