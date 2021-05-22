@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 194)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031237Z" creationid="LanHK" creationdate="20210522T031237Z">
+        <seg>(Trang 192)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 20)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T110805Z" creationid="LanHK" creationdate="20210406T110759Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T034223Z" creationid="LanHK" creationdate="20210416T034223Z">
         <seg>120-minute fire resistance and a Fixed Fire Suppression System for the structure of High-rise buildings [581059] Chống cháy 120 phút và Hệ thống chữa cháy cố định cho kết cấu tòa nhà cao tầng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>250+ phòng khách: Ba phần thiết bị cần thiết cộng với hai phần thiết bị bổ sung.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031124Z" creationid="LanHK" creationdate="20210522T031121Z">
+        <seg>[32574] 250+ phòng khách: 3 thiết bị như yêu cầu trên và 2 thiết bị bổ sung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14660,6 +14676,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stability Ball 2 Bóng stability ball 2</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031227Z" creationid="LanHK" creationdate="20210522T031227Z">
+        <seg>Stability Ball 2 Ví dụ về bóng tập cao su 2 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stability Ball Example Ví dụ về bóng stability ball</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031235Z" creationid="LanHK" creationdate="20210522T031219Z">
+        <seg>Stability Ball Example Ví dụ về bóng tập cao su (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stability balls [116886] Bóng stability ball</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031208Z" creationid="LanHK" creationdate="20210522T031133Z">
+        <seg>Stability balls [116886] Bóng tập cao su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Staging and platforms [407056] Dàn dựng và nền tảng</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025831Z" creationid="Kieu Lan" creationdate="20210518T025831Z">
@@ -19546,6 +19586,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116889] Nên cung cấp các bộ tai nghe dùng một lần trong bao bì nhựa kín để tránh sử dụng lại.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031304Z" creationid="LanHK" creationdate="20210522T031304Z">
+        <seg>[116889] Tai nghe dùng một lần nên đựng trong bao bì nhựa kín để tránh sử dụng lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116890]       Nên cung cấp các thùng đựng riêng cho tai nghe không sử dụng và đã qua sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031315Z" creationid="LanHK" creationdate="20210522T031315Z">
+        <seg>[116890]       Nên cung cấp các thùng đựng riêng cho tai nghe chưa và đã qua sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[117039]     Tách biệt bếp.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T032710Z" creationid="LanHK" creationdate="20210514T032710Z">
@@ -22063,6 +22119,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T024518Z" creationid="LanHK" creationdate="20210513T024518Z">
         <seg>[32570] Thực đơn Kids Eat Free nên có các món được chế biến tươi bao gồm thịt nạc và cá nướng, rau hấp, gạo lứt và trái cây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[32574]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T031127Z" creationid="LanHK" creationdate="20210522T031127Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
