@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 193)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024314Z" creationid="LanHK" creationdate="20210522T024314Z">
+        <seg>(Trang 191)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 20)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T110805Z" creationid="LanHK" creationdate="20210406T110759Z">
@@ -2154,6 +2162,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T080214Z" creationid="LanHK" creationdate="20210416T080214Z">
         <seg>An alternative means of power if the main power fails [56560] Nguồn điện dự phòng trong trường hợp mất nguồn điện chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An area without any equipment must be provided for stretching: [91335] Phải cung cấp một khu vực không có bất kỳ thiết bị phải để mở rộng:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024300Z" creationid="LanHK" creationdate="20210522T024300Z">
+        <seg>An area without any equipment must be provided for stretching: [91335] Phải cung cấp một khu vực không có bất kỳ thiết bị nào phải để tập giãn cơ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23219,6 +23235,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[45429] Phải luôn có sản phẩm vệ sinh cho thiết bị cho khách sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024312Z" creationid="LanHK" creationdate="20210522T024312Z">
+        <seg>[45429] Phải luôn có sản phẩm vệ sinh thiết bị cho khách sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[45571] khách sạn được nhượng quyền có thể tham khảo Chính sách dữ liệu cá nhân xử lý của IHG khi xây dựng Chính sách riêng của họ.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T102315Z" creationid="LanHK" creationdate="20210406T102115Z">
@@ -30337,6 +30361,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044753Z" creationid="Kieu Lan" creationdate="20210518T044753Z">
         <seg>[91313]    Bố trí tại các vị trí được định sẵn trên mặt sàn, cho phép thay đổi cấu hình chỗ ngồi, các bố trí hội họp khác nhau, set up tạm thời (bàn đăng ký hoặc quầy đồ ăn đồ uống) và các mục đích sử dụng khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91333] Phải cung cấp các cơ sở thay đồ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210522T024230Z" creationid="LanHK" creationdate="20210522T024230Z">
+        <seg>[91333] Phải cung cấp phòng thay đồ.</seg>
       </tuv>
     </tu>
     <tu>
