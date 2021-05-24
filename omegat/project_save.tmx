@@ -5769,6 +5769,14 @@ See also ID number Xem thêm số ID 26944</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty water dispensers should be stored at the back of house [91435] bình nước lọc rỗng nên được để tại khu vực BOH.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015121Z" creationid="LanHK" creationdate="20210524T015121Z">
+        <seg>Empty water dispensers should be stored at the back of house [91435] Bình nước rỗng nên được để tại khu vực BOH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy / fuel service data [322317]     Dữ liệu dịch vụ nhiên liệu/ năng lượng</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -11680,6 +11688,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nhãn dán an toàn chai nước mẫu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014742Z" creationid="LanHK" creationdate="20210524T014742Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nhẫn hiệu dịch vụ IHG sử dụng loại 8pt tối thiểu phải được hiển thị trên trang chủ hoặc qua liên kết.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T111916Z" creationid="LanHK" creationdate="20210406T111916Z">
@@ -17040,6 +17056,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Water dispensers are recommended [78425] Khuyến nghị dùng bình nước lọc</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014749Z" creationid="LanHK" creationdate="20210524T014749Z">
+        <seg>Water dispensers are recommended [78425] Khuyến nghị dùng cây nước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water must be provided [29019] Phải cung cấp nước.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152319Z" creationid="Kieu Lan" creationdate="20210517T152319Z">
@@ -20504,6 +20528,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[163106] Khi cung cấp nước đóng chai, nó phải có nhãn hiệu Holiday Inn Resort®, theo nhãn hoặc thẻ chai nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014722Z" creationid="LanHK" creationdate="20210524T014722Z">
+        <seg>[163106] Khi cung cấp nước đóng chai, nó phải có nhãn hiệu Holiday Inn Resort® trên nhãn hoặc tag chai nước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[17147] Trường hợp giường đôi hollywood được liên kết bằng zip, một lớp phủ nệm phải phủ đầy đủ cho cả hai giường.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T083902Z" creationid="LanHK" creationdate="20210510T083902Z">
@@ -23085,6 +23117,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T014654Z" creationid="LanHK" creationdate="20210524T014427Z">
         <seg>[38620] Luôn có nước từ một cây nước hoặc cung cấp chai còn seal nhà máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38625] Khi cung cấp nước đóng chai, phải được đặt gọn gàng trên kệ, mặt quầy hoặc trên tủ lạnh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014707Z" creationid="LanHK" creationdate="20210524T014707Z">
+        <seg>[38625] Khi cung cấp nước đóng chai, chai nước phải được đặt gọn gàng trên kệ, mặt quầy hoặc trong tủ lạnh</seg>
       </tuv>
     </tu>
     <tu>
@@ -32399,6 +32439,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210417T022951Z" creationid="LanHK" creationdate="20210417T022951Z">
         <seg>Đèn chớp nháy và gối rung được khuyến nghị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Đường Trung Tâm Thương Hiệu cho các hồ sơ tác phẩm nghệ thuật_ Nhãn dán an toàn chai nước mẫu</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014738Z" creationid="LanHK" creationdate="20210524T014738Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
