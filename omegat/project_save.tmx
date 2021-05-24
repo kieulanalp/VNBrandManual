@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 198)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T031041Z" creationid="LanHK" creationdate="20210524T031041Z">
+        <seg>(Trang 196)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 20)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T110805Z" creationid="LanHK" creationdate="20210406T110759Z">
@@ -4283,6 +4291,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T021818Z" creationid="LanHK" creationdate="20210522T020945Z">
         <seg>Chiều rộng lối đi tối thiểu: 75cm (30in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chiều rộng viền xấp xỉ 10 mm (0,4in), khâu đôi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T030914Z" creationid="LanHK" creationdate="20210524T030909Z">
+        <seg>Chiều rộng viền xấp xỉ 10 mm (0,4in), khâu mũi đôi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15988,6 +16004,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T030241Z" creationid="LanHK" creationdate="20210405T030018Z">
         <seg>These standards include the hotel lifecycle icon as detailed below.&lt;t0/&gt; &lt;t1/&gt;Một số tiêu chuẩn chỉ được áp dụng tại các thời điểm chính trong vòng đời khách sạn, ví dụ&lt;t2/&gt;: khách sạn xây&lt;t3/&gt;dựng mới hoặc khách sạn được cải tạo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thi công: 2/20s x Ne 10/1 x Ne 16/1</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T030842Z" creationid="LanHK" creationdate="20210524T030842Z">
+        <seg>Kết cấu: 2/20s x Ne 10/1 x Ne 16/1</seg>
       </tuv>
     </tu>
     <tu>
@@ -32763,6 +32787,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Đường viền: Khăn nên được viền ở bốn phía.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T030904Z" creationid="LanHK" creationdate="20210524T030904Z">
+        <seg>Viền khăn: Khăn nên được viền ở bốn phía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Được định vị để có thể nhìn thấy rõ khi cửa hạ xuống / cầu thang ở vị trí mở hoặc đóng.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="LanHK" creationdate="20210416T095041Z">
@@ -32846,6 +32878,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
         <seg>đường chéo phải được khâu khóa, tối thiểu 3 mũi trên 10 mm bằng cách sử dụng sợi polyester hoặc polycotton không được co lại quá mức của vải.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T064532Z" creationid="Kieu Lan" creationdate="20210510T064532Z">
+        <seg>Viền chéo phải được may bằng mũi lock-stitch (mũi may cơ bản trên máy may), tối thiểu 3 mũi/10 mm bằng sợi polyester hoặc polycotton không được co lại quá mức của vải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>đường viền chéo phải được khâu chằng, tối thiểu ba mũi trên 10 mm (0,4in) bằng cách sử dụng sợi polyester hoặc polyc Bông không được co lại quá mức của vải.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T030957Z" creationid="LanHK" creationdate="20210524T030957Z">
         <seg>Viền chéo phải được may bằng mũi lock-stitch (mũi may cơ bản trên máy may), tối thiểu 3 mũi/10 mm bằng sợi polyester hoặc polycotton không được co lại quá mức của vải.</seg>
       </tuv>
     </tu>
