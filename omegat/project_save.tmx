@@ -15194,6 +15194,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suggested suppliers: nhà cung cấp được gợi ý:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T031056Z" creationid="LanHK" creationdate="20210524T031056Z">
+        <seg>Suggested suppliers: Đề xuất nhà cung cấp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suites&lt;t0/&gt; &lt;t1/&gt;Phòng Suites</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T073109Z" creationid="Kieu Lan" creationdate="20210331T073109Z">
@@ -21368,6 +21376,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[240053] Tất cả các hồ bơi phải được xây dựng như hồ bơi trên mặt đất.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T031138Z" creationid="LanHK" creationdate="20210524T031138Z">
+        <seg>[240053] Tất cả các hồ bơi phải âm đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[2408] Nếu cung cấp một cuộc họp hoặc sự kiện, một nhân viên phải liên hệ với khách hàng trước thời hạn đề xuất để thảo luận về các giải pháp thay thế.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T073853Z" creationid="LanHK" creationdate="20210517T073853Z">
@@ -22044,6 +22060,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T033450Z" creationid="Kieu Lan" creationdate="20210510T033310Z">
         <seg>[28565] Đồ vải phải được loại bỏ nếu xuất hiện vết bẩn vĩnh viễn hoặc bị sờn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[28572] Phải cung cấp một thùng đựng các khăn tắm đã qua sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T031107Z" creationid="LanHK" creationdate="20210524T031107Z">
+        <seg>[28572]      Phải cung cấp thùng đựng cho khăn đã sử dụng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23429,6 +23453,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T062847Z" creationid="LanHK" creationdate="20210514T062847Z">
         <seg>[40141] Sàn xung quanh khu vực buffet và quầy đồ ăn phải là gạch hoặc đá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[40197] Đối với hồ bơi ngoài trời, yêu cầu cảnh quan xung quanh phạm vi bên ngoài của hàng rào bao quanh hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T031947Z" creationid="LanHK" creationdate="20210524T031947Z">
+        <seg>[40197] Đối với hồ bơi ngoài trời, yêu cầu có cảnh quan bên ngoài hàng rào bao quanh hồ bơi.</seg>
       </tuv>
     </tu>
     <tu>
