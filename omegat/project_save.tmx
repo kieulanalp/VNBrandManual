@@ -15154,6 +15154,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sun deck (outdoor pools only), seating or lounge area [78409]     Sân thượng tắm nắng (chỉ bể bơi ngoài trời), khu vực tiếp khách hoặc phòng lounge</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025234Z" creationid="LanHK" creationdate="20210524T025234Z">
+        <seg>Sun deck (outdoor pools only), seating or lounge area [78409]     Khu tắm nắng (với bể bơi ngoài trời), khu vực tiếp khách hoặc phòng lounge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sundry/Retail Shop</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T093436Z" creationid="LanHK" creationdate="20210405T093436Z">
@@ -29189,6 +29197,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T023817Z" creationid="LanHK" creationdate="20210524T023817Z">
         <seg>[78399]     Với các rìa gương hoặc khung được đánh bóng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78407]     Một sàn hồ bơi phạm vi tối thiểu 1,5m (5ft) bề mặt cứng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025119Z" creationid="LanHK" creationdate="20210524T025119Z">
+        <seg>[78407]     Sàn bể bơi bán kính tối thiểu 1,5m (5ft), vật liệu bề mặt cứng.</seg>
       </tuv>
     </tu>
     <tu>
