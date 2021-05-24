@@ -9641,7 +9641,6 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
-      <note>x</note>
       <tuv lang="EN-US">
         <seg>LED high visibility console readout to include elapsed time, total calories burned, calories per hour, kph/mph, distance, level, pedal RPM, programme profile, Watts [91389]     Bảng điều khiển LED bao gồm thời gian chạy máy, tổng lượng calo bị đốt cháy, lượng calo mỗi giờ, kph / mph, khoảng cách, mức độ, pedal RPM, hồ sơ chương trình, Watts</seg>
       </tuv>
@@ -23082,6 +23081,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[38620] Luôn có nước từ một bộ phân phối hoặc cung cấp chai dán kín công nghiệp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014654Z" creationid="LanHK" creationdate="20210524T014427Z">
+        <seg>[38620] Luôn có nước từ một cây nước hoặc cung cấp chai còn seal nhà máy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[38639] Một thùng rác không cho phép như vật thay thế.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014401Z" creationid="LanHK" creationdate="20210524T014401Z">
+        <seg>[38639] Không được phép thay thế bằng thùng rác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[387086] Thông tin về dị ứng và không dung nạp thực phẩm có thể được tìm thấy trong phần An toàn thực phẩm của cổng thông tin Quản lý rủi ro trên Merlin.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T025642Z" creationid="LanHK" creationdate="20210513T025642Z">
@@ -26850,6 +26865,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[599]      Phải cung cấp một hộp đựng cho khăn đã sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014346Z" creationid="LanHK" creationdate="20210524T014346Z">
+        <seg>[599]      Phải cung cấp thùng đựng cho khăn đã sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[59] Ở các quốc gia không có số điện thoại miễn phí, chỉ được phép có các chi tiết URL của thương hiệu.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T093133Z" creationid="LanHK" creationdate="20210415T093133Z">
@@ -27654,6 +27677,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030919Z" creationid="Kieu Lan" creationdate="20210510T030919Z">
         <seg>[66828] Kích thước: Phải che kín mặt trên của nệm sau khi vải co rút bình thường do giặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[66895] Trường hợp thùng chứa đứng độc lập, nên có nắp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T014411Z" creationid="LanHK" creationdate="20210524T014411Z">
+        <seg>[66895] Trường hợp thùng chứa khăn bẩn đứng độc lập, nên có nắp</seg>
       </tuv>
     </tu>
     <tu>
