@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 199)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034606Z" creationid="LanHK" creationdate="20210524T034606Z">
+        <seg>(Trang 197)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 20)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T110805Z" creationid="LanHK" creationdate="20210406T110759Z">
@@ -17528,6 +17536,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a pool bar is provided it must meet the following: [91444] Trường hợp cung cấp một bar bể bơi, nó phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034604Z" creationid="LanHK" creationdate="20210524T034604Z">
+        <seg>Where a pool bar is provided it must meet the following: [91444] Trường hợp cung cấp pool bar, phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a shower rail is installed, it must be the brand approved curved shower rail and meet the following: [79106]    Nếu lắp đặt thanh treo nhà tắm, nó phải là thanh cong nhà tắm được phê duyệt và đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T031426Z" creationid="Kieu Lan" creationdate="20210512T031426Z">
@@ -20000,6 +20016,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116948] Một loạt các chỗ ngồi bao gồm chỗ ngồi cao tại quầy bar và chỗ ngồi thấp liền kề.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034654Z" creationid="LanHK" creationdate="20210524T034654Z">
+        <seg>[116948] Nhiều loại ghế ngồi. bao gồm ghế cao tại quầy bar và ghế thấp gần đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[117039]     Tách biệt bếp.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T032710Z" creationid="LanHK" creationdate="20210514T032710Z">
@@ -21492,6 +21516,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T032045Z" creationid="LanHK" creationdate="20210524T032045Z">
         <seg>[243049]     Phải có chất lượng thương mại và được chứng nhận phù hợp sử dụng ngoài trời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[243051] Không được xâm nhập vào không gian boong rõ ràng được yêu cầu xung quanh phạm vi của hồ bơi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034437Z" creationid="LanHK" creationdate="20210524T034437Z">
+        <seg>[243051] Không được lấn vào không gian pool deck không có vật cản được yêu cầu xung quanh rìa hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[243052] Khuyến nghị ghế dài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034531Z" creationid="LanHK" creationdate="20210524T034531Z">
+        <seg>[243052] Khuyến nghị Chaise lounge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23501,6 +23541,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T031947Z" creationid="LanHK" creationdate="20210524T031947Z">
         <seg>[40197] Đối với hồ bơi ngoài trời, yêu cầu có cảnh quan bên ngoài hàng rào bao quanh hồ bơi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[40214] Phải cung cấp các bàn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034537Z" creationid="LanHK" creationdate="20210524T034537Z">
+        <seg>[40214] Phải cung cấp bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[40218] Phải có chất lượng thương mại và tính toán để sử dụng bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034545Z" creationid="LanHK" creationdate="20210524T034545Z">
+        <seg>[40218]     Phải có chất lượng thương mại và được chứng nhận phù hợp sử dụng ngoài trời.</seg>
       </tuv>
     </tu>
     <tu>
