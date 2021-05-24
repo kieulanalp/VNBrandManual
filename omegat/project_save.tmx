@@ -5176,6 +5176,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design: Must be distinguished from bathroom towels by coloured stripes or other markings [67104] Thiết kế: Phải được phân biệt với khăn tắm bằng sọc màu hoặc các nhãn khác</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025428Z" creationid="LanHK" creationdate="20210524T025428Z">
+        <seg>Design: Must be distinguished from bathroom towels by coloured stripes or other markings [67104] Thiết kế: Phải  phân biệt với khăn tắm trong phòng bằng sọc màu hoặc các hình thức đánh dấu khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design: Must be plain finish with no header or coloured borders [67081] Thiết kế: Phải là hoàn thiện đơn giản không có tiêu đề hoặc viền màu</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T071435Z" creationid="Kieu Lan" creationdate="20210510T071435Z">
@@ -11480,6 +11488,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Màu sắc: Màu xanh lá cây và màu trắng (khách sạn thành phố) hoặc màu tím và trắng (khu nghỉ dưỡng).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025508Z" creationid="LanHK" creationdate="20210524T025508Z">
+        <seg>Màu sắc: xanh lá cây và trắng (khách sạn thành phố) hoặc tím và trắng (resort).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Máy chấm công / đồng hồ</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -12832,6 +12848,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pile: Twofold [67107] Đầu lông nhung: gấp đôi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025440Z" creationid="LanHK" creationdate="20210524T025440Z">
+        <seg>Pile: Twofold [67107] Sợi khăn: gấp đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pillow placement and embroidery example Ví dụ về ị trí đặt gối và thêu</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210508T044235Z" creationid="Kieu Lan" creationdate="20210508T044206Z">
@@ -13100,6 +13124,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095459Z" creationid="LanHK" creationdate="20210405T095459Z">
         <seg>Pool Bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool towels must be provided and meet the following: [67102] Phải cung cấp khăn tắm bể bơi và đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025350Z" creationid="LanHK" creationdate="20210524T025350Z">
+        <seg>Pool towels must be provided and meet the following: [67102] Phải cung cấp khăn tắm cho bể bơi và đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15812,6 +15844,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T064706Z" creationid="Kieu Lan" creationdate="20210422T064706Z">
         <seg>The main entrance must be manned at a minimum from 07:00 to 23:00 [50309] Lối vào chính phải có người trực tối thiểu từ 07:00 đến 23:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main poolmust have a towel station.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025333Z" creationid="LanHK" creationdate="20210524T025333Z">
+        <seg>The main pool must have a towel station.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19884,6 +19924,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T032119Z" creationid="LanHK" creationdate="20210522T032119Z">
         <seg>[116891] Nếu phòng tập không có người trực, khuyến nghị tạ rời không vượt quá 9 kg (20lbs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116944] Khuyến nghị phạm vi độ sâu từ 1,2m (4ft) đến 1,5m (5ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025328Z" creationid="LanHK" creationdate="20210524T025328Z">
+        <seg>[116944] Khuyến nghị độ sâu bể từ 1,2m (4ft) đến 1,5m (5ft)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27881,6 +27929,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[66950] Khăn phải được xếp gọn gàng trong một thiết bị được xây dựng cho một mục đích nhất định.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025403Z" creationid="LanHK" creationdate="20210524T025403Z">
+        <seg>[66950] Khăn phải được xếp gọn gàng trong tủ dành riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[66] Tiền đặt cọc trước không được vượt quá giá phòng, bao gồm thuế và chỉ có thể được thực hiện trong tối đa 99 đêm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T033323Z" creationid="Kieu Lan" creationdate="20210422T033323Z">
@@ -31039,6 +31095,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T023826Z" creationid="LanHK" creationdate="20210524T023826Z">
         <seg>[91393] Tối thiểu một tường với gương toàn thân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91600] Độ sâu bể bơi phải được hiển thị rõ ràng ở cả hai feet và mét.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025318Z" creationid="LanHK" creationdate="20210524T025318Z">
+        <seg>[91600] Độ sâu bể bơi phải được ghi bằng cả đơn vị feet và mét.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91608] hồ bơi chính có một quầy khăn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T025342Z" creationid="LanHK" creationdate="20210524T025342Z">
+        <seg>[91608] Bể bơi chính phải có một quầy khăn.</seg>
       </tuv>
     </tu>
     <tu>
