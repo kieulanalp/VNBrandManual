@@ -8811,7 +8811,7 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
-      <note>chỗ này không biết có phải typo của bản gốc k	</note>
+      <note>chỗ này không biết có phải typo của bản gốc k, 10% increment thì có mà tăng 2 nhát là lên mức dốc 12% luôn??</note>
       <tuv lang="EN-US">
         <seg>Incline range of 0 to 12% in 10% increments.</seg>
       </tuv>
@@ -30444,7 +30444,7 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>[90509]    Kiểm soát phải bao gồm các thiết bị đèn và ổ cắm cho các thiết bị này.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210511T104006Z">
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T013617Z">
         <seg>[90509]    Bảng điều khiển phải kiểm soát ccác thiết bị đèn và ổ cắm cho các thiết bị này.</seg>
       </tuv>
     </tu>
