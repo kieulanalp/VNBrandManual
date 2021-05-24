@@ -28700,6 +28700,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70937] Tất cả khăn hoặc vải lanh được sử dụng trên ghế trong phòng thư giãn khô phải được thay đổi sau mỗi lần khách sử dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T041038Z" creationid="LanHK" creationdate="20210524T041038Z">
+        <seg>[70937] Tất cả khăn hoặc đồ vải được sử dụng trên ghế lounge trong phòng thư giãn khô phải được thay sau mỗi lần khách sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70947] Trang phục cho cabin / khu vực nhiệt nên phụ thuộc vào độ nhạy cảm văn hóa địa phương và tính sẵn có của giới tính đơn lẻ hoặc các cơ sở nhiệt hỗn hợp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
