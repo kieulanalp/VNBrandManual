@@ -28567,10 +28567,23 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70922] Phải được giữ an toàn hoặc giám sát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70923] mặt hàng bán lẻ phải được cập nhật và trong tình trạng hoàn toàn mới.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T035332Z" creationid="LanHK" creationdate="20210524T035314Z">
         <seg>[70923] Sản phẩm bán lẻ phải còn hạn sử dụng và mới hoàn toàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70924] Phải dọn dẹp sạch sẽ và bảo trì tốt tất cả các quầy trang trí và/ hoặc bán lẻ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035851Z" creationid="LanHK" creationdate="20210524T035851Z">
+        <seg>[70924] Phải dọn dẹp sạch sẽ và bảo trì tốt tất cả các quầy trưng bày sản phẩm hoặc vật trang trí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31425,10 +31438,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[91399] Bất kỳ mặt hàng để bán lẻ phải đáp ứng các hướng dẫn hợp pháp và hợp đồng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035814Z" creationid="LanHK" creationdate="20210524T035814Z">
+        <seg>[91399] Bất kỳ sản phẩm bán lẻ nào cũng phải đáp ứng các yêu cầu pháp luật và hợp đồng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[91442] Phải trưng bày các tài liệu bán hàng menu/ danh sách như tài liệu spa hoặc luôn sẵn có cho các nhân viện tại điểm bán hàng POS hoặc trong khu vực bán lẻ.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T035517Z" creationid="LanHK" creationdate="20210524T035517Z">
         <seg>[91442] Phải trưng bày menu/ danh sách sản phẩm như một ấn phẩm spa hoặc luôn sẵn có cho các nhân viện tại quầy POS hoặc trong cửa hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91443]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035734Z" creationid="LanHK" creationdate="20210524T035734Z">
+        <seg>[91443] Giá sản phẩm trên danh sách/menu phải ghi bằng đơn vị tiền tệ địa phương</seg>
       </tuv>
     </tu>
     <tu>
