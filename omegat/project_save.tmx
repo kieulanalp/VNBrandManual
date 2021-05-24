@@ -27937,6 +27937,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[66951] Hàng tồn kho khăn nên được bổ sung tối thiểu hai lần mỗi ngày, sau thời gian sử dụng cao điểm vào sáng sớm và buổi tối.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T030232Z" creationid="LanHK" creationdate="20210524T030232Z">
+        <seg>[66951] Tủ khăn nên được bổ sung tối thiểu hai lần mỗi ngày, sau thời gian sử dụng cao điểm vào sáng sớm và buổi tối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[66] Tiền đặt cọc trước không được vượt quá giá phòng, bao gồm thuế và chỉ có thể được thực hiện trong tối đa 99 đêm.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T033323Z" creationid="Kieu Lan" creationdate="20210422T033323Z">
