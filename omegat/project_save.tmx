@@ -6404,8 +6404,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Fitness &amp; Giải trí -&gt; Bể bơi -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>Fitness &amp; Giải trí -&gt; Bể bơi -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T032018Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Bể bơi -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -12448,6 +12448,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One style and coordinate with the design of the pool area [243050]     Một phong cách và phối hợp với thiết kế của khu vực hồ bơi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034406Z" creationid="LanHK" creationdate="20210524T034406Z">
+        <seg>One style and coordinate with the design of the pool area [243050]     Cùng một phong cách và phối hợp với thiết kế của khu vực hồ bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One task light [56855]      Một đèn bổ sung</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T085929Z" creationid="LanHK" creationdate="20210510T085929Z">
@@ -13140,6 +13148,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210405T095459Z" creationid="LanHK" creationdate="20210405T095459Z">
         <seg>Pool Bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool loungers are required and must meet the following: [243048] Yêu cầu ghế hồ bơi và phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T032029Z" creationid="LanHK" creationdate="20210524T032029Z">
+        <seg>Pool loungers are required and must meet the following: [243048] Yêu cầu ghế lounge hồ bơi và phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14438,6 +14454,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210416T080654Z" creationid="LanHK" creationdate="20210416T080654Z">
         <seg>Separated from the hotel with construction providing a fire resistance rating of at least 90-minutes [56010] Được ngăn cách khỏi khách sạn bằng kết cấu chống cháy ít nhất 90 phút</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separated from the main pool by a minimum of 3m (9.1ft) [91607] Tách khỏi bể chính tối thiểu là 3 m (9.1ft)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T032007Z" creationid="LanHK" creationdate="20210524T032007Z">
+        <seg>Separated from the main pool by a minimum of 3m (9.1ft) [91607] Cách bể chính tối thiểu 3 m (9.1ft)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17444,6 +17468,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152115Z" creationid="Kieu Lan" creationdate="20210517T151547Z">
         <seg>Where a business center is provided, it must meet the following: [91128] Trường hợp cung cấp business center, nó phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where a children's pool is provided it must meet the following: [91606]    Trường hợp cung cấp một bể bơi trẻ em, nó phải đáp ứng những điều sau đây:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T032000Z" creationid="LanHK" creationdate="20210524T032000Z">
+        <seg>Where a children's pool is provided it must meet the following: [91606]    Trường hợp cung cấp bể bơi trẻ em, phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21452,6 +21484,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T023411Z" creationid="LanHK" creationdate="20210522T023411Z">
         <seg>[2420] Phải cung cấp một phòng tập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[243049]     Phải có chất lượng thương mại và tính toán để sử dụng bên ngoài.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T032045Z" creationid="LanHK" creationdate="20210524T032045Z">
+        <seg>[243049]     Phải có chất lượng thương mại và được chứng nhận phù hợp sử dụng ngoài trời.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27757,6 +27797,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[64625] Khách phải được cung cấp các lựa chọn giao hàng cho việc trả lại (các) mặt hàng của họ và không được tính phí nhiều hơn chi phí bưu chính/giao hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[65010] Không cho phép xoáy nước.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T032012Z" creationid="LanHK" creationdate="20210524T032012Z">
+        <seg>[65010] Không cho phép có xoáy nước.</seg>
       </tuv>
     </tu>
     <tu>
