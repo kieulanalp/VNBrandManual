@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 201)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035032Z" creationid="LanHK" creationdate="20210524T035032Z">
+        <seg>(Trang 199)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 46)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030152Z" creationid="Kieu Lan" creationdate="20210510T030152Z">
@@ -4999,6 +5007,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current information [241048] Thông tin hiện tại</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035237Z" creationid="LanHK" creationdate="20210524T035237Z">
+        <seg>Current information [241048] Thông tin cập nhật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curtain partitions and portable partitions are not permitted [82913]      Không cho phép các vách ngăn di động và rèm ngăn</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T040237Z" creationid="Kieu Lan" creationdate="20210518T040237Z">
@@ -6503,6 +6519,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T023837Z" creationid="LanHK" creationdate="20210524T023837Z">
         <seg>Fitness &amp; Recreation -&gt; Pool Bể bơi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Spa -&gt; General Fitness &amp; Giải trí -&gt; Spa -&gt; Fitness chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035025Z" creationid="LanHK" creationdate="20210524T035025Z">
+        <seg>Fitness &amp; Recreation -&gt; Spa -&gt; General Thông tin chung</seg>
       </tuv>
     </tu>
     <tu>
@@ -10076,8 +10100,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Locker / dressing rooms [91448]     phòng thay đồ/ đựng quần áo</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Locker/dressing rooms [91448]     phòng thay đồ/ đựng quần áo</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035100Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Locker/dressing rooms [91448]     phòng thay đồ/ Locker</seg>
       </tuv>
     </tu>
     <tu>
@@ -13705,6 +13729,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relaxation room [91454]     Phòng nghỉ ngơi</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035106Z" creationid="LanHK" creationdate="20210524T035106Z">
+        <seg>Relaxation room [91454]     Phòng thư giãn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remarks</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210504T072022Z" creationid="LanHK" creationdate="20210504T072022Z">
@@ -14874,6 +14906,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spa collateral must be provided and include the following: [70919] Cung cấp tài liệu spa và bao gồm như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035214Z" creationid="LanHK" creationdate="20210524T035204Z">
+        <seg>Spa collateral must be provided and include the following: [70919] Cung cấp các ấn phẩm spa và đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Space to park minimum three trolleys [98703] Không gian để đậu tối thiểu ba xe đẩy</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T092324Z" creationid="LanHK" creationdate="20210426T092324Z">
@@ -15894,6 +15934,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210506T105735Z" creationid="LanHK" creationdate="20210506T105735Z">
         <seg>The level of lighting in a Swimming Pool area must allow the entire bottom of the swimming pool to be clearly seen. Mức chiếu sáng trong khu vực bể bơi phải cho phép nhìn rõ toàn bộ đáy bể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lobby and reception must include the following: [91458] Tiền sảnh và quầy lễ tân phải bao gồm:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035112Z" creationid="LanHK" creationdate="20210524T035112Z">
+        <seg>The lobby and reception must include the following: [91458] Lobby và quầy lễ tân phải bao gồm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17576,6 +17624,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a spa is provided it must include the following: [91445] Trường hợp cung cấp một spa, phải bao gồm như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035045Z" creationid="LanHK" creationdate="20210524T035045Z">
+        <seg>Where a spa is provided it must include the following: [91445] Trường hợp cung cấp spa, phải bao gồm như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a wheel chair refuge is provided in staircases it must meet the following: [356095] Trường hợp cung cấp chỗ cho xe lăn trong cầu thang, nó phải đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210427T045053Z" creationid="Kieu Lan" creationdate="20210427T040607Z">
@@ -18234,6 +18290,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[100420]     Kết nối trực tiếp với hành lang BOH cho phòng ballroom/phòng chức năng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[101023] Phải được làm sạch không có nếp nhăn hoặc góc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035227Z" creationid="LanHK" creationdate="20210524T035227Z">
+        <seg>[101023] Phải sạch sẽ, không nhăn hoặc gấp góc trang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28495,6 +28559,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70921] Nếu cung cấp các mặt hàng bán lẻ spa, chúng phải được đặt gần quầy lễ tân spa hoặc tại một khu vực bán lẻ chuyên dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035252Z" creationid="LanHK" creationdate="20210524T035252Z">
+        <seg>[70921] Nếu cung cấp các mặt hàng bán lẻ spa, chúng phải được đặt gần quầy lễ tân spa hoặc tại một khu bán lẻ chuyên dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70926] Luôn có một danh sách / menu của các mặt hàng hiện đang được bán</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -31281,6 +31353,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[91332]      Khi cung cấp một spa, phải phân tách âm thanh và hình ảnh giữa trung tâm fitness và spa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035233Z" creationid="LanHK" creationdate="20210524T035153Z">
+        <seg>[91332]      Khi cung cấp một spa, phải đảm bảo cách âm và riêng tư giữa phòng tập và spa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[91333] Phải cung cấp các cơ sở thay đồ.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T024230Z" creationid="LanHK" creationdate="20210522T024230Z">
@@ -31325,6 +31405,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T023826Z" creationid="LanHK" creationdate="20210524T023826Z">
         <seg>[91393] Tối thiểu một tường với gương toàn thân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91446]     Sảnh và quầy lễ tân.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035048Z" creationid="LanHK" creationdate="20210524T035048Z">
+        <seg>[91446]     Lobby và quầy lễ tân.</seg>
       </tuv>
     </tu>
     <tu>
