@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 202)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040140Z" creationid="LanHK" creationdate="20210524T040140Z">
+        <seg>(Trang 200)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 46)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030152Z" creationid="Kieu Lan" creationdate="20210510T030152Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T031402Z" creationid="LanHK" creationdate="20210428T031402Z">
         <seg>(Ví dụ: vòi cảm biến hồng ngoại)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Ví dụ: các sản phẩm chăm sóc da mặt với chăm sóc da mặt, các sản phẩm chăm sóc cơ thể với các liệu pháp chăm sóc cơ thể spa, dầu massage với massage).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040012Z" creationid="LanHK" creationdate="20210524T040012Z">
+        <seg>(Ví dụ: các sản phẩm chăm sóc da mặt với liệu trình chăm sóc da mặt, các sản phẩm chăm sóc cơ thể với các liệu trình chăm sóc cơ thể, dầu massage với massage).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10898,6 +10914,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum of one robe hook [91486]     Tối thiểu một móc áo</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040149Z" creationid="LanHK" creationdate="20210524T040149Z">
+        <seg>Minimum of one robe hook [91486]     Tối thiểu một móc treo áo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum of tea bag and maximum of tea envelope served in individual pot to the table [67732] Tối thiểu túi trà và tối đa phong bì trà phục vụ trong bình cá nhân để bàn</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T044636Z" creationid="LanHK" creationdate="20210517T012117Z">
@@ -16492,6 +16516,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T032251Z" creationid="LanHK" creationdate="20210522T032251Z">
         <seg>Treadmill Example 2 Ví dụ máy chạy bộ 2 (thiếu link)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treatment rooms must meet the following: [91482] Phòng điều trị phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040018Z" creationid="LanHK" creationdate="20210524T040018Z">
+        <seg>Treatment rooms must meet the following: [91482] Phòng trị liệu phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28604,6 +28636,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70927] Đề nghị mỗi spa xác định các sản phẩm bán lẻ liên kết với từng trị liệu spa, bao gồm massage spa và phân loại chúng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T035952Z" creationid="LanHK" creationdate="20210524T035952Z">
+        <seg>[70927] Khuyến nghị mỗi spa xác định các sản phẩm có liên quan tới từng liệu trình spa, bao gồm massage, và phân loại chúng theo từng mục.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70947] Trang phục cho cabin / khu vực nhiệt nên phụ thuộc vào độ nhạy cảm văn hóa địa phương và tính sẵn có của giới tính đơn lẻ hoặc các cơ sở nhiệt hỗn hợp.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -31466,6 +31506,38 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T035048Z" creationid="LanHK" creationdate="20210524T035048Z">
         <seg>[91446]     Lobby và quầy lễ tân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91484]    Tổ hợp các phòng điều trị phải được thành lập để đáp ứng nhu cầu thị trường địa phương và phải được IHG® phê duyệt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040129Z" creationid="LanHK" creationdate="20210524T040129Z">
+        <seg>[91484]    Các loại phòng trị liệu phải được bố trí để đáp ứng nhu cầu thị trường địa phương và phải được IHG® phê duyệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91485]   Biển hiệu phải cho biết phòng đang có người dùng hay không.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040137Z" creationid="LanHK" creationdate="20210524T040137Z">
+        <seg>[91485]   Phải có biển báo cho biết phòng đang có người dùng hay không.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91488]     Được trang bị hệ thống âm thanh chuyên dụng của riêng mình.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040027Z" creationid="LanHK" creationdate="20210524T040027Z">
+        <seg>[91488]     Được trang bị hệ thống âm thanh chuyên dụng riêng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91490]     Ánh sáng phải được làm mờ dimmable.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T040040Z" creationid="LanHK" creationdate="20210524T040040Z">
+        <seg>[91490]     Chiếu sáng có thể điều chỉnh cường độ.</seg>
       </tuv>
     </tu>
     <tu>
