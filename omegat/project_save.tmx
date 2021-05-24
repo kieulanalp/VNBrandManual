@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 196)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015147Z" creationid="LanHK" creationdate="20210524T015147Z">
+        <seg>(Trang 194)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 20)</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T110805Z" creationid="LanHK" creationdate="20210406T110759Z">
@@ -15554,6 +15562,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following channels must be provided: [105411] kênh sau phải được cung cấp:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015158Z" creationid="LanHK" creationdate="20210524T015158Z">
+        <seg>The following channels must be provided: [105411] Các kênh sau phải được cung cấp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following conditions warrant replacement of the mattress: [78866] điều kiện sau bảo hành thay thế đệm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T082029Z" creationid="LanHK" creationdate="20210510T082029Z">
@@ -23425,6 +23441,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[43771] Phải cung cấp cân đĩa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015416Z" creationid="LanHK" creationdate="20210524T015416Z">
+        <seg>[43771] Phải cung cấp cân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[43] nền tảng đánh giá xã hội nổi bật khác (ví dụ: TripAdvisor) nên được theo dõi với tần suất tương tự và 80% đánh giá trung lập và tích cực được tìm thấy trên các trang web này cũng sẽ được phản hồi trong vòng 72 giờ.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210415T091837Z" creationid="LanHK" creationdate="20210415T091837Z">
@@ -29049,6 +29073,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[78428] Ít nhất phải cung cấp một thiết bị đựng nước rửa tay.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015322Z" creationid="LanHK" creationdate="20210524T015322Z">
+        <seg>[78428] Ít nhất phải cung cấp một hộp nước rửa tay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[7850] Khi trẻ em ngồi vào bàn ăn, phải cung cấp miếng vải lót dĩa cho trẻ.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T015222Z" creationid="LanHK" creationdate="20210513T015222Z">
@@ -30831,6 +30863,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T035235Z" creationid="LanHK" creationdate="20210522T035021Z">
         <seg>[91383]      tính năng công suất không đổi trong đó công suất luôn giữ nguyên; khi RPM (số vòng đạp/phút) giảm thì cản trở tăng, khi RPM tăng thì cản trở giảm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91391] Một chiếc đồng hồ kỹ thuật số được ưa tiên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015407Z" creationid="LanHK" creationdate="20210524T015407Z">
+        <seg>[91391] Ưu tiên đồng hồ kỹ thuật số.</seg>
       </tuv>
     </tu>
     <tu>
