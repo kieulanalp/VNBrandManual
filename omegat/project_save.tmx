@@ -6507,6 +6507,22 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Spa -&gt; Service Expectations Fitness &amp; Giải trí -&gt; Spa -&gt; Mong đợi dịch vụ</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034730Z" creationid="LanHK" creationdate="20210524T034730Z">
+        <seg>Fitness &amp; Recreation -&gt; Spa -&gt; Service Expectations Kỳ vọng về dịch vụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Spa Fitness &amp; Giải trí -&gt; Spa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034707Z" creationid="LanHK" creationdate="20210524T034707Z">
+        <seg>Fitness &amp; Recreation -&gt; Spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation Fitness &amp; Giải trí</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T023404Z" creationid="LanHK" creationdate="20210522T023314Z">
@@ -17799,6 +17815,12 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <note>skip phần dịch vụ</note>
+      <tuv lang="EN-US">
+        <seg>Where possible access to the spa software booking system should be available at hotel reception and the hotel reception team empowered to make a reservation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Where possible guests should be able to make / see spa reservations / appointment availability via the electronic guest directory.</seg>
       </tuv>
@@ -20020,6 +20042,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T034654Z" creationid="LanHK" creationdate="20210524T034654Z">
         <seg>[116948] Nhiều loại ghế ngồi. bao gồm ghế cao tại quầy bar và ghế thấp gần đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[116949]     Một điện thoại chính có hiển thị tên khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034703Z" creationid="LanHK" creationdate="20210524T034703Z">
+        <seg>[116949]     Một điện thoại chính có thể hiển thị tên khách.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28377,6 +28407,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[69219] Spa phải mở và sẵn sàng cho khách vào giờ mở cửa được quảng cáo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034849Z" creationid="LanHK" creationdate="20210524T034849Z">
+        <seg>[69219] Spa phải mở và sẵn sàng phục vụ khách vào giờ mở cửa được quảng cáo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[6922] Yêu cầu các ví thẻ hoặc ống bọc thẻ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210426T080944Z" creationid="LanHK" creationdate="20210426T080944Z">
@@ -28433,6 +28471,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70442] Mỗi spa nên có một danh sách cập nhật, bao gồm tất cả các nhiệm vụ mở hàng ngày và kiểm tra trực quan bắt buộc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034933Z" creationid="LanHK" creationdate="20210524T034933Z">
+        <seg>[70442] Mỗi spa nên có một checklist cập nhật bao gồm tất cả các nhiệm vụ hàng ngày khi mở cửa và và các mục yêu cầu kiểm tra hình thức.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70473] Mỗi quầy lễ tân spa nên có một cài đặt chiếu sáng ban ngày và buổi tối / đêm riêng biệt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -28465,10 +28511,26 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70987] Luôn có tài liệu thực đơn trị liệu spa trong tất cả các phòng khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034747Z" creationid="LanHK" creationdate="20210524T034747Z">
+        <seg>[70987] Luôn có bản in menu dịch vụ spa trong tất cả các phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70988] Phải phổ biến.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034753Z" creationid="LanHK" creationdate="20210524T034753Z">
+        <seg>[70988] Phải cập nhật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70994] Nếu có thể, khách sẽ có thể đặt / xem đặt phòng spa / phòng hẹn thông qua thư mục khách điện tử.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[70994] Nếu có thể, khách sẽ có thể đặt/xem đặt phòng spa/phòng hẹn thông qua thư mục khách điện tử.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T034840Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[70994] Nếu có thể, khách nên có thể đặt/xem booking spa thông qua thư mục khách điện tử.</seg>
       </tuv>
     </tu>
     <tu>
