@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A purpose built unit must be provided to store the following: [78420] Phải cung cấp thiết bị cho các mục địch để đựng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T020023Z" creationid="LanHK" creationdate="20210524T020023Z">
+        <seg>A purpose built unit must be provided to store the following: [78420] Phải cung cấp tủ chuyên dụng để chứa các vật dụng sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rubbish / recycling area must be provided and the following zones must be considered: [136141] Phải cung cấp một khu vực rác / tái chế và phải xem xét các khu vực sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -13237,6 +13245,14 @@ See also ID number 212 Xem thêm số ID 212</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110519Z" creationid="LanHK" creationdate="20210419T110519Z">
         <seg>Professionally fabricated [289054]       Sản xuất chuyên nghiệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Professionally prepared signage must be provided: [582] Phải cung cấp biển báo chuẩn bị chuyên nghiệp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015821Z" creationid="LanHK" creationdate="20210524T015821Z">
+        <seg>Professionally prepared signage must be provided: [582] Phải cung cấp biển báo được chế tạo chuyên nghiệp</seg>
       </tuv>
     </tu>
     <tu>
@@ -26425,6 +26441,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[583] Phải thông báo thời gian vận hành tại lối vào phòng fitness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015909Z" creationid="LanHK" creationdate="20210524T015909Z">
+        <seg>[583] Phải  có thông báo về thời gian hoạt động tại lối vào phòng tập.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[58412]    Yêu cầu đường dốc lối lề đường tại các lối vào chính cho tất cả các tòa nhà được khách truy cập và gần tất cả các bãi đỗ xe cho người khuyết tật.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210422T100029Z" creationid="LanHK" creationdate="20210422T100029Z">
@@ -29133,6 +29157,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T103348Z" creationid="LanHK" creationdate="20210511T103348Z">
         <seg>[78350]   Trên các tầng hút thuốc và không hút thuốc, phải cung cấp biển báo ở khu vực sảnh thang máy hoặc bên ngoài mỗi cửa phòng khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78399]     Với các cạnh hoặc khung được đánh bóng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T023817Z" creationid="LanHK" creationdate="20210524T023817Z">
+        <seg>[78399]     Với các rìa gương hoặc khung được đánh bóng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78415] Lối vào trung tâm fitness phải được đánh dấu rõ ràng bằng biển báo.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T015808Z" creationid="LanHK" creationdate="20210524T015808Z">
+        <seg>[78415] Lối vào phòng tập phải có biển báo rõ ràng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[78422]      chai nước nếu được cung cấp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210524T020029Z" creationid="LanHK" creationdate="20210524T020029Z">
+        <seg>[78422]      chai nước nếu có.</seg>
       </tuv>
     </tu>
     <tu>
