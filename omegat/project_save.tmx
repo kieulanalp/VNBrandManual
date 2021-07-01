@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 207)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084933Z" creationid="LanHK" creationdate="20210701T084933Z">
+        <seg>(Trang 205)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 46)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030152Z" creationid="Kieu Lan" creationdate="20210510T030152Z">
@@ -3919,10 +3927,18 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Business Services -&gt; Business Service Centre Dịch vụ kinh doanh -&gt; Trung tâm dịch vụ văn phòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T085250Z" creationid="LanHK" creationdate="20210701T085250Z">
+        <seg>Business Services -&gt; Business Service Centre Trung tâm Dịch vụ cho khách doanh nhân </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Business Services -&gt; Fixtures and Fittings dịch vụ kinh doanh -&gt; Đồ đạc và Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210524T015727Z" creationid="LanHK" creationdate="20210524T015727Z">
-        <seg>Business Services -&gt; Fixtures and Fittings dịch vụ kinh doanh -&gt; Chiếu sáng và Linh kiện</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084943Z" creationid="LanHK" creationdate="20210524T015727Z">
+        <seg>Business Services -&gt; Fixtures and Fittings Dịch vụ cho khách doanh nhân -&gt; Chiếu sáng và Linh kiện</seg>
       </tuv>
     </tu>
     <tu>
@@ -11852,6 +11868,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>Máy làm lạnh screw chiller dưới 500 TR (Nhiệt độ vào/ra 14/7 độ C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Máy tính có thể được cung cấp trên bàn độc lập hoặc được gắn vào một đồ nội thất khác trong sảnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T085050Z" creationid="LanHK" creationdate="20210701T085043Z">
+        <seg>[44454] Máy tính có thể được bố trí trên bàn độc lập hoặc gắn liền với một đồ nội thất khác trong sảnh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24355,6 +24379,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[44450]      Tối thiểu hai máy tính có truy cập internet phải được cung cấp cho khách sử dụng chuyên dụng trong sảnh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T085007Z" creationid="LanHK" creationdate="20210701T085007Z">
+        <seg>[44450]      Tối thiểu hai máy tính có internet phải được cung cấp chuyên dành cho khách sử dụng trong lobby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[44454]</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T085048Z" creationid="LanHK" creationdate="20210701T085048Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[44502] Tất cả các món ăn phải được bày biện trên đồ sành hoặc sứ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210514T091557Z" creationid="LanHK" creationdate="20210514T091557Z">
@@ -28263,6 +28303,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210420T022310Z" creationid="Kieu Lan" creationdate="20210420T022239Z">
         <seg>[62876] Nhân viên làm việc trong các khu vực cung cấp dịch vụ doanh nghiệp nên thành thạo trong việc giúp khách kết nối và sử dụng các thiết bị cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[63298] Phải cung cấp một danh sách các dịch vụ kinh doanh, bao gồm chi phí và thời gian quay vòng</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084903Z" creationid="LanHK" creationdate="20210701T084903Z">
+        <seg>[63298] Phải cung cấp một danh sách các dịch vụ dành cho khách doanh nhân, bao gồm chi phí và thời gian quay vòng</seg>
       </tuv>
     </tu>
     <tu>
