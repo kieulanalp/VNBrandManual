@@ -15610,6 +15610,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tasklighting [91469]     Chiếu sáng bổ sung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T024012Z" creationid="LanHK" creationdate="20210701T024012Z">
+        <seg>Tasklighting [91469]     Đèn làm việc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tay cầm / nút xả nên được đặt thuận tiện và dễ nhìn cho khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -31686,6 +31694,30 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[91466]     Tủ đựng tài liệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023855Z" creationid="LanHK" creationdate="20210701T023814Z">
+        <seg>[91466]     Có tủ đựng tài liệu/ấn phẩm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91468]     Tất cả các thiết bị kỹ thuật và hệ thống cáp phải được che khuất khỏi đối diện khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023912Z" creationid="LanHK" creationdate="20210701T023912Z">
+        <seg>[91468]     Tất cả các thiết bị kỹ thuật và dây cáp phải được che khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91471]    Vật liệu hoàn thiện phối hợp với sơ đồ thiết kế nội thất của spa.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T024024Z" creationid="LanHK" creationdate="20210701T024024Z">
+        <seg>[91471]    Vật liệu hoàn thiện đồng bộ với ý tưởng thiết kế nội thất của spa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[91479]     Ánh sáng phải được làm mờ</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T040446Z" creationid="LanHK" creationdate="20210524T040446Z">
@@ -31770,6 +31802,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T023728Z" creationid="LanHK" creationdate="20210701T023728Z">
         <seg>[91697] Chiếu sáng ban ngày và bên ngoài phải có công tắc điều chỉnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91698] Phải cung cấp tính bảo mật trực quan.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023737Z" creationid="LanHK" creationdate="20210701T023737Z">
+        <seg>[91698] Phải đảm bảo riêng tư.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33834,6 +33874,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T044445Z" creationid="Kieu Lan" creationdate="20210518T044445Z">
         <seg>•  This can be achieved with sheers, sun shades, horizontal blinds etc. [88237] Điều này có thể đạt được với rèm vải sheer, rèm che nắng, rèm lá ngang, vv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•  This can be achieved with sheers, sun shades, horizontal blinds etc. [91699] Có thể dùng vải sheer, vải che nắng, rèm ngang, vv</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023756Z" creationid="LanHK" creationdate="20210701T023756Z">
+        <seg>•  This can be achieved with sheers, sun shades, horizontal blinds etc. [91699] Có thể dùng rèm sheer, rèm che nắng, rèm lá lật, vv</seg>
       </tuv>
     </tu>
     <tu>
