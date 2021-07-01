@@ -17629,6 +17629,12 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
     </tu>
     <tu>
+      <note>lại là grooming area :v</note>
+      <tuv lang="EN-US">
+        <seg>Wet grooming areas must meet the following: [92561] Phải đáp ứng các khu vực chải chuốt ướt như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>When folded away be stored within a concealed stacking alcove [105002]   Khi gấp lại được lưu trữ trong một hốc xếp kín</seg>
       </tuv>
@@ -20792,6 +20798,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T020916Z" creationid="LanHK" creationdate="20210522T020916Z">
         <seg>[136130]    Chiều rộng thông thủy tối thiểu là 1,8m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[136164]     Gương dài toàn phần tại lối vào/ lối thoát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025226Z" creationid="LanHK" creationdate="20210701T025226Z">
+        <seg>[136164]     Gương toàn thân tại lối vào/ lối thoát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31916,6 +31930,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[91739] Nhà vệ sinh phòng thay đồ nên được đặt ở khu vực khô ráo của tủ khóa và khu vực phòng thay đồ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025414Z" creationid="LanHK" creationdate="20210701T025407Z">
+        <seg>[91739] Toilet phòng locker nên được đặt ở khu vực khô ráo của khu tủ và thay đồ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[91798] Phải để dép trong tủ đựng.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210510T075142Z" creationid="LanHK" creationdate="20210510T075142Z">
@@ -31976,6 +31998,62 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T020907Z" creationid="LanHK" creationdate="20210522T020907Z">
         <seg>[92544] Khuyến nghị chiều rộng thông thủy tối thiểu 1m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92553]     Cung cấp tối thiểu hai khối.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025453Z" creationid="LanHK" creationdate="20210701T025453Z">
+        <seg>[92553]     Cung cấp tối thiểu hai khoang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92554] Một tủ bổ sung cứ mỗi năm phòng trị liệu trên tám.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025508Z" creationid="LanHK" creationdate="20210701T025508Z">
+        <seg>[92554] Một khoang bổ sung cho mỗi năm phòng trị liệu trên tám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92556]     Phải cung cấp tối thiểu hai tủ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025420Z" creationid="LanHK" creationdate="20210701T025420Z">
+        <seg>[92556]     Phải cung cấp tối thiểu hai khoang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92557]     Một tủ bổ sung cứ mỗi năm phòng trị liệu trên 15.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025431Z" creationid="LanHK" creationdate="20210701T025431Z">
+        <seg>[92557]     Một khoang bổ sung cho mỗi năm phòng trị liệu trên 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92558]     Tối thiểu hai bồn tiểu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025438Z" creationid="LanHK" creationdate="20210701T025438Z">
+        <seg>[92558]     Tối thiểu hai bồn tiểu đứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92559]    Ba bồn tiểu cho các spa với hơn 12 phòng trị liệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025443Z" creationid="LanHK" creationdate="20210701T025443Z">
+        <seg>[92559]    Ba bồn tiểu đứng cho các spa với hơn 12 phòng trị liệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92560]     Bốn bồn tiểu cho các spa với hơn 20 phòng trị liệu.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025448Z" creationid="LanHK" creationdate="20210701T025448Z">
+        <seg>[92560]     Bốn bồn tiểu cho đứng các spa với hơn 20 phòng trị liệu.</seg>
       </tuv>
     </tu>
     <tu>
