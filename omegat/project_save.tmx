@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amenities shelf [92584]     Giá các tiện ích</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082304Z" creationid="LanHK" creationdate="20210701T082304Z">
+        <seg>Amenities shelf [92584]     Giá đựng đồ tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amenity Caddy Design 1 Thiết Kế caddy chứa nhiều ngăn 1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063736Z" creationid="Kieu Lan" creationdate="20210510T063736Z">
@@ -6556,8 +6564,8 @@ Engineering Kỹ thuật</seg>
       <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Nội thất, Hoàn thiện, Đồ đạc &amp; Thiết bị</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210514T033122Z" creationid="LanHK" creationdate="20210514T033110Z">
-        <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082318Z" creationid="LanHK" creationdate="20210514T033110Z">
+        <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; Furniture, Finishes, Fixtures &amp; Equipment Nội thất, Hoàn thiện, Chiếu sáng &amp; Thiết bị</seg>
       </tuv>
     </tu>
     <tu>
@@ -10254,6 +10262,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T024509Z" creationid="LanHK" creationdate="20210701T024504Z">
         <seg>Lockers [91731]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lockers must meet the following: [92545] tủ đựng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082334Z" creationid="LanHK" creationdate="20210701T082334Z">
+        <seg>Lockers must meet the following: [92545] Locker phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
