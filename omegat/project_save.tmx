@@ -3919,6 +3919,30 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Business Services -&gt; General Dịch Vụ Kinh Doanh -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084428Z" creationid="LanHK" creationdate="20210701T084404Z">
+        <seg>Business Services -&gt; General Dịch Vụ cho khách Doanh nhân -&gt; Thông tin chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Business Services Dịch Vụ Kinh Doanh</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084424Z" creationid="LanHK" creationdate="20210701T084424Z">
+        <seg>Business Services Dịch Vụ cho khách Doanh nhân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Business services must be provided at the front desk or dedicated business centre and include the following: [28068] Phải cung cấp các dịch vụ kinh doanh tại quầy lễ tân hoặc trung tâm dịch vụ văn phòng chuyên dụng và bao gồm như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084518Z" creationid="LanHK" creationdate="20210701T084502Z">
+        <seg>Business services must be provided at the front desk or dedicated business centre and include the following: [28068] Phải cung cấp các dịch vụ cho khách Doanh nhân tại quầy lễ tân hoặc business center chuyên dụng và bao gồm các hạng mục sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Business: 1.5 persons per room [309072]     Kinh doanh: 1,5 người / phòng</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -10222,6 +10246,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T044701Z" creationid="LanHK" creationdate="20210514T085309Z">
         <seg>Local or regional tea is recommended [51485] Khuyến nghị trà địa phương hoặc vùng miền</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Located as close as possible [92590]     Đặt gần như có thể</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084356Z" creationid="LanHK" creationdate="20210701T084356Z">
+        <seg>Located as close as possible [92590]     Bố trí gần nhất có thể</seg>
       </tuv>
     </tu>
     <tu>
@@ -32327,6 +32359,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T084333Z" creationid="LanHK" creationdate="20210701T084333Z">
         <seg>[92586] Trường hợp cung cấp phòng xông hơi, phòng tắm hơi hoặc bồn tạo sóng, cung cấp cả phòng máy cơ chuyên dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92589] Lối vào nên từ khu vực BOH.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084348Z" creationid="LanHK" creationdate="20210701T084348Z">
+        <seg>[92589] Lối vào nên nằm tại khu vực BOH.</seg>
       </tuv>
     </tu>
     <tu>
