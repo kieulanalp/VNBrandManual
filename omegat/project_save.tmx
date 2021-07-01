@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 203)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023458Z" creationid="LanHK" creationdate="20210701T023458Z">
+        <seg>(Trang 188)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 46)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030152Z" creationid="Kieu Lan" creationdate="20210510T030152Z">
@@ -6210,6 +6218,22 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facial Tissue Example Ví dụ về khăn lau</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023248Z" creationid="LanHK" creationdate="20210701T023248Z">
+        <seg>Facial Tissue Example Ví dụ về khăn giấy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facial tissues [91421] Khăn lau</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023244Z" creationid="LanHK" creationdate="20210701T023244Z">
+        <seg>Facial tissues [91421] Khăn giấy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Facial tissues must be two-ply [57359] Khăn giấy phải hai lớp</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T065057Z" creationid="Kieu Lan" creationdate="20210510T065057Z">
@@ -7811,10 +7835,26 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hand lotion [101025] Chăm sóc tay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023231Z" creationid="LanHK" creationdate="20210701T023231Z">
+        <seg>Hand lotion [101025] Kem dưỡng tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hand soap at the hand wash basin and bath soap at the shower or bath tub [6389] Xà phòng rửa tay tại bồn rửa tay và xà phòng tắm khi tắm hoặc bồn tắm</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063412Z" creationid="Kieu Lan" creationdate="20210510T063412Z">
         <seg>Hand soap at the hand wash basin and bath soap at the shower or bath tub [6389] Xà phòng rửa tay tại bồn rửa tay và xà phòng tắm tại khoang tắm sen hoặc bồn tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hand wash [101026] Rửa tay</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023235Z" creationid="LanHK" creationdate="20210701T023235Z">
+        <seg>Hand wash [101026] Xà phòng rửa tay</seg>
       </tuv>
     </tu>
     <tu>
@@ -28607,6 +28647,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70456] Tất cả các bộ phận của spa phải luôn sạch sẽ và được bảo trì tốt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023315Z" creationid="LanHK" creationdate="20210701T023315Z">
+        <seg>[70456] Tất cả các khu vực spa phải luôn sạch sẽ và được bảo trì tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70461] Tất cả đồ nội thất, thiết bị và dụng cụ phòng trị liệu phải được giữ sạch sẽ và bảo trì tốt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023321Z" creationid="LanHK" creationdate="20210701T023321Z">
+        <seg>[70461] Tất cả đồ nội thất, thiết bị và dụng cụ phòng trị liệu phải sạch sẽ và bảo trì tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70473] Mỗi quầy lễ tân spa nên có một cài đặt chiếu sáng ban ngày và buổi tối / đêm riêng biệt.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -28712,6 +28768,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
         <seg>[70947] Trang phục cho cabin/khu vực nhiệt nên phụ thuộc vào độ nhạy cảm văn hóa địa phương và tính sẵn có của giới tính đơn lẻ hoặc các cơ sở nhiệt hỗn hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70986] Tối thiểu các tiện nghi cho khách trong nhà vệ sinh và quầy rửa tay phải bao gồm như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023226Z" creationid="LanHK" creationdate="20210701T023226Z">
+        <seg>[70986] Tối thiểu các tiện nghi cho khách trong nhà vệ sinh và bồn rửa tay phải bao gồm như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32474,6 +32538,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T103624Z" creationid="LanHK" creationdate="20210511T103624Z">
         <seg>[965] Tối thiểu hai ổ cắm trên mặt bàn làm việc hoặc phía trên mặt bàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[96797] Yêu cầu có các túi vệ sinh chỉ trong các cơ sở cho nữ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023305Z" creationid="LanHK" creationdate="20210701T023305Z">
+        <seg>[96797] Yêu cầu có các sản phẩm vệ sinh trong các khu vệ sinh nữ.</seg>
       </tuv>
     </tu>
     <tu>
