@@ -18084,6 +18084,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where a reception desk is provided for the business center it must meet the following: [91139] Trường hợp cung cấp bàn tiếp tân cho trung tâm dịch vụ văn phòng thì phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T100051Z" creationid="LanHK" creationdate="20210701T100051Z">
+        <seg>Where a reception desk is provided for the business center it must meet the following: [91139] Trường hợp cung cấp bàn tiếp tân cho business center thì phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where a shower rail is installed, it must be the brand approved curved shower rail and meet the following: [79106]    Nếu lắp đặt thanh treo nhà tắm, nó phải là thanh cong nhà tắm được phê duyệt và đáp ứng như sau:</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210512T031426Z" creationid="Kieu Lan" creationdate="20210512T031426Z">
@@ -31897,10 +31905,24 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[91140]     Tối thiểu một trạm dịch vụ cho một thành viên của nhân viên.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T100130Z" creationid="LanHK" creationdate="20210701T100130Z">
+        <seg>[91140]     Tối thiểu một trạm POS cho 1 nhân viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[91148]     Một điện thoại với hiển thị tên khách.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T090034Z" creationid="LanHK" creationdate="20210701T090034Z">
         <seg>[91148]     Một điện thoại có hiển thị tên khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Credit card clearing facility  là gì ????</note>
+      <tuv lang="EN-US">
+        <seg>[91151] Cơ sở thanh toán bù trừ thẻ tín dụng để cho phép đăng phí cho cư dân cũng như khách không cư trú.</seg>
       </tuv>
     </tu>
     <tu>
