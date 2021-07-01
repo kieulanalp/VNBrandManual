@@ -15674,6 +15674,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task lighting in the vanity area [92572]     Chiếu sáng bổ sung trong khu vực trang điểm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T081132Z" creationid="LanHK" creationdate="20210701T081132Z">
+        <seg>Task lighting in the vanity area [92572]     Chiếu sáng tập trung trong khu vực vanity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tasklighting [91469]     Chiếu sáng bổ sung</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T024012Z" creationid="LanHK" creationdate="20210701T024012Z">
