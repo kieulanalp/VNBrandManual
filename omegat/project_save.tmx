@@ -3334,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bench seat in the drying area [92581]     Ghế băng trong khu vực sấy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082200Z" creationid="LanHK" creationdate="20210701T082200Z">
+        <seg>Bench seat in the drying area [92581]     Ghế băng trong khu vực lau người</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Benefits Table Bảng Lợi Ích</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T035806Z" creationid="LanHK" creationdate="20210406T035806Z">
@@ -6719,6 +6727,14 @@ Engineering Kỹ thuật</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T035819Z" creationid="LanHK" creationdate="20210522T035819Z">
         <seg>Five programme options with quick start feature [91388]     Năm chương trình với tính năng bắt đầu nhanh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixed "Drench" type shower head [92583]   Vòi hoa sen kiểu "Ướt" cố định</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082254Z" creationid="LanHK" creationdate="20210701T082254Z">
+        <seg>Fixed "Drench" type shower head [92583]   Vòi sen gắn trần cố định</seg>
       </tuv>
     </tu>
     <tu>
@@ -14906,6 +14922,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shower cubicles must meet the following: [92578] phòng tắm phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082144Z" creationid="LanHK" creationdate="20210701T082144Z">
+        <seg>Shower cubicles must meet the following: [92578] Khoang tắm sen phải đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Showers [56533]       nhà tắm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075748Z" creationid="LanHK" creationdate="20210419T075748Z">
@@ -16848,6 +16872,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two compartments: drying area and shower area [92579]     Hai ngăn: khu vực sấy và khu vực tắm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082154Z" creationid="LanHK" creationdate="20210701T082154Z">
+        <seg>Two compartments: drying area and shower area [92579]     Hai ngăn: khu vực lau người và khu vực tắm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two highlighter pens [2333] Hai bút dạ quang</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T025234Z" creationid="Kieu Lan" creationdate="20210518T025234Z">
@@ -16874,8 +16906,8 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       <tuv lang="EN-US">
         <seg>Two robe / towel hooks in the drying area [92582]     Hai móc khăn tắm / áo tắm trong khu vực sấy</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>Two robe/towel hooks in the drying area [92582]     Hai móc khăn tắm/áo tắm trong khu vực sấy</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T082207Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>Two robe/towel hooks in the drying area [92582]     Hai móc khăn tắm/áo tắm trong khu vực lau người</seg>
       </tuv>
     </tu>
     <tu>
