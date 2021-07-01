@@ -5159,6 +5159,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decorative and make up mirrors [92571]     gương trang điểm và trang trí.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T031223Z" creationid="LanHK" creationdate="20210701T031223Z">
+        <seg>Decorative and make up mirrors [92571]     gương trang trí và gương trang điểm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dedicated meeting facilities must be provided and include: [2288] Phải cung cấp các cơ sở họp chuyên dụng và bao gồm:</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T100444Z" creationid="LanHK" creationdate="20210517T100444Z">
@@ -17196,6 +17204,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210508T023113Z" creationid="LanHK" creationdate="20210508T023113Z">
         <seg>Vanities must meet the following: [58442] Vanity đáp ứng như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vanity [92570]     Trang điểm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T031204Z" creationid="LanHK" creationdate="20210701T031204Z">
+        <seg>Vanity [92570]</seg>
       </tuv>
     </tu>
     <tu>
