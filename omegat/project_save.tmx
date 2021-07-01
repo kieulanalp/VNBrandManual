@@ -11546,6 +11546,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be sound isolated from other areas [123052]       Phải cách ly âm thanh với các khu vực khác</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T083939Z" creationid="LanHK" creationdate="20210701T083939Z">
+        <seg>Must be sound isolated from other areas [123052]       Phải cách âm với các khu vực khác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must be unbranded [67538] Không dán thương hiệu</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T063202Z" creationid="Kieu Lan" creationdate="20210510T063202Z">
@@ -20538,6 +20546,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[123051]       Tầm nhìn bên ngoài vào phòng là bắt buộc.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T083933Z" creationid="LanHK" creationdate="20210701T083933Z">
+        <seg>[123051]       Bắt buộc bố trí sao cho có thể nhìn từ bên ngoài vào phòng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[123053] Nên kín đáo để giảm thiểu sự xâm nhập thị giác cho môi trường công cộng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084021Z" creationid="LanHK" creationdate="20210701T084021Z">
+        <seg>[123053] Nên bố trí ở vị trí kín đáo để tránh ảnh hưởng đến mỹ quan không gian công cộng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[12323] Không cho phép gương an ninh ở quầy lễ tân.</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210426T034854Z" creationid="Kieu Lan" creationdate="20210426T034719Z">
@@ -24263,6 +24287,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210518T020332Z" creationid="Kieu Lan" creationdate="20210518T020332Z">
         <seg>[44352]    Nên cung cấp không gian chứa đồ bên dưới quầy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[44442]       Bao gồm nhưng không giới hạn ở video, bi-a hoặc bất kỳ trò chơi trên bàn nào.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T083953Z" creationid="LanHK" creationdate="20210701T083953Z">
+        <seg>[44442]       Bao gồm nhưng không giới hạn ở video, bi-a hoặc bất kỳ trò chơi table game nào.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32287,6 +32319,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T081228Z" creationid="LanHK" creationdate="20210701T081228Z">
         <seg>[92574]     Chiều cao lắp đặt vanity nên phù hợp cho cả người đứng và người ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92586] Trường hợp cung cấp phòng xông hơi, phòng tắm hơi hoặc bồn tạo sóng, cung cấp cả phòng cơ khí chuyên dụng.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084333Z" creationid="LanHK" creationdate="20210701T084333Z">
+        <seg>[92586] Trường hợp cung cấp phòng xông hơi, phòng tắm hơi hoặc bồn tạo sóng, cung cấp cả phòng máy cơ chuyên dụng.</seg>
       </tuv>
     </tu>
     <tu>
