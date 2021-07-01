@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(có thể in chung)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T090138Z" creationid="LanHK" creationdate="20210701T090138Z">
+        <seg>(có thể dùng chung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Represents the entire Holiday Inn brand family: Holiday Inn, Holiday Inn Express, Holiday Inn club Vacation and Holiday Inn Resort Đại diện cho toàn bộ gia đình thương hiệu Holiday Inn: Holiday Inn, Holiday Inn Express, Holiday Inn club Holiday và Holiday Inn Resort</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T013229Z" creationid="LanHK" creationdate="20210406T013229Z">
@@ -5757,6 +5765,14 @@ See also ID number Xem thêm số ID 26944</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T110223Z" creationid="LanHK" creationdate="20210419T110223Z">
         <seg>Each lift is required to have a house telephone or intercom and meet the following requirements: [56752] Mỗi thang máy phải có điện thoại hoặc máy liên lạc nội bộ và đáp ứng các yêu cầu sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each point of service at the reception desk of the business centre must meet the following: [91147] Mỗi điểm phục vụ tại quầy lễ tân của trung tâm dịch vụ văn phòng phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T090028Z" creationid="LanHK" creationdate="20210701T090028Z">
+        <seg>Each point of service at the reception desk of the business centre must meet the following: [91147] Mỗi điểm phục vụ tại quầy lễ tân của busines center phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14594,6 +14610,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scanner [115559]     Máy scanner</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T085937Z" creationid="LanHK" creationdate="20210701T085937Z">
+        <seg>Scanner [115559]     Máy scan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scanning [28072] Scanning</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T084530Z" creationid="LanHK" creationdate="20210701T084530Z">
@@ -18040,6 +18064,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210505T061851Z" creationid="LanHK" creationdate="20210505T061851Z">
         <seg>Where a hotel is not protected by a Fixed Fire Suppression System, guest rooms equipped with stove type cooking equipment must have a Fixed Fire Suppression System. Nếu khách sạn không được bảo vệ bởi hệ thống chữa cháy cố định, phòng khách có bếp nấu phải được trang bị hệ thống chữa cháy cố định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where a manned business centre is provided it must meet the following: [115557] Trường hợp cung cấp một trung tâm kinh doanh có quản lý, nó phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T085927Z" creationid="LanHK" creationdate="20210701T085927Z">
+        <seg>Where a manned business centre is provided it must meet the following: [115557] Nếu có một business center với nhân viên trực, phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31861,6 +31893,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210517T152132Z" creationid="Kieu Lan" creationdate="20210517T151816Z">
         <seg>[91130]    Tối thiểu hai bàn máy tính cho khách sử dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91148]     Một điện thoại với hiển thị tên khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T090034Z" creationid="LanHK" creationdate="20210701T090034Z">
+        <seg>[91148]     Một điện thoại có hiển thị tên khách.</seg>
       </tuv>
     </tu>
     <tu>
