@@ -840,8 +840,8 @@
       <tuv lang="EN-US">
         <seg>(Trang 203)</seg>
       </tuv>
-      <tuv lang="VI" changeid="LanHK" changedate="20210701T023458Z" creationid="LanHK" creationdate="20210701T023458Z">
-        <seg>(Trang 188)</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023546Z" creationid="LanHK" creationdate="20210701T023458Z">
+        <seg>(Trang 189)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28663,10 +28663,42 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[70462] Tường và sàn phải không có nấm mốc, bụi bẩn, trầy xước và vết bẩn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023600Z" creationid="LanHK" creationdate="20210701T023600Z">
+        <seg>[70462] Tường và sàn không được có nấm mốc, bám bụi, trầy xước và vết bẩn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70463] Tất cả vải lanh spa phải được bảo quản trong điều kiện cho phép vải lanh sạch và không bị ẩm.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023618Z" creationid="LanHK" creationdate="20210701T023618Z">
+        <seg>[70463] Tất cả đồ vải cho spa phải được bảo quản sao cho đồ vải luôn sạch và không bị ẩm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70469] Phải vệ sinh khu vực spa hàng ngày khi có khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023657Z" creationid="LanHK" creationdate="20210701T023657Z">
+        <seg>[70469] Không được dọn vệ sinh trong khu vực spa khi có khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[70473] Mỗi quầy lễ tân spa nên có một cài đặt chiếu sáng ban ngày và buổi tối / đêm riêng biệt.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
-        <seg>[70473] Mỗi quầy lễ tân spa nên có một cài đặt chiếu sáng ban ngày và buổi tối/đêm riêng biệt.</seg>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023709Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
+        <seg>[70473] Mỗi quầy lễ tân spa nên có một chế độ chiếu sáng ban ngày và buổi tối/đêm riêng biệt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[70475] Nếu có thể, tất cả hệ thống dây điện cho các thiết bị điện như máy tính và điện thoại nên được khuất khỏi tầm nhìn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023719Z" creationid="LanHK" creationdate="20210701T023719Z">
+        <seg>[70475] Nếu có thể, tất cả hệ thống dây điện cho các thiết bị điện như máy tính và điện thoại nên khuất khỏi tầm nhìn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31730,6 +31762,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T025342Z" creationid="LanHK" creationdate="20210524T025342Z">
         <seg>[91608] Bể bơi chính phải có một quầy khăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91697] Chiếu sáng ban ngày và bên ngoài phải được kiểm soát.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T023728Z" creationid="LanHK" creationdate="20210701T023728Z">
+        <seg>[91697] Chiếu sáng ban ngày và bên ngoài phải có công tắc điều chỉnh.</seg>
       </tuv>
     </tu>
     <tu>
