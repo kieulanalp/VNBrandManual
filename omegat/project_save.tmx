@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Trang 205)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T081253Z" creationid="LanHK" creationdate="20210701T081253Z">
+        <seg>(Trang 203)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Trang 46)</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210510T030152Z" creationid="Kieu Lan" creationdate="20210510T030152Z">
@@ -14890,6 +14898,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shower cubicles [92576] phòng tắm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T081302Z" creationid="LanHK" creationdate="20210701T081302Z">
+        <seg>Shower cubicles [92576] Khoang tắm sen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Showers [56533]       nhà tắm</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T075748Z" creationid="LanHK" creationdate="20210419T075748Z">
@@ -17652,6 +17668,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210331T070614Z" creationid="LanHK" creationdate="20210331T052657Z">
         <seg>Well., Cork &amp; Kale, HUALUXE, HUALUXE &amp; Design, Fu Lin, Aspire Rewards, IHG, IHG Rewards Club, Great Hotels Guests Love, Green Engage, Holidex là những thương hiệu hoặc chi nhánh của IHG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wet areas must meet the following: [92575] khu vực ướt phải đáp ứng như sau:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T081233Z" creationid="LanHK" creationdate="20210701T081233Z">
+        <seg>Wet areas must meet the following: [92575] Khu vực ướt phải đáp ứng như sau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32102,6 +32126,23 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T025732Z" creationid="LanHK" creationdate="20210701T025732Z">
         <seg>[92563] Khu vực vanity phải liền kề với nhà vệ sinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>lại chải chuốt ướt??? wet grooming area</note>
+      <tuv lang="EN-US">
+        <seg>[92573]     Quầy trang điểm nên được thiết kế như một phần mở rộng của khu vực chải chuốt ướt.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T081205Z" creationid="LanHK" creationdate="20210701T081205Z">
+        <seg>[92573]     Vanity nên được thiết kế như một phần mở rộng của khu vực chải chuốt ướt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92574]     Lắp đặt chiều cao quầy trang điểm sao cho cả đúng cả ngồi.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T081228Z" creationid="LanHK" creationdate="20210701T081228Z">
+        <seg>[92574]     Chiều cao lắp đặt vanity nên phù hợp cho cả người đứng và người ngồi</seg>
       </tuv>
     </tu>
     <tu>
