@@ -5400,6 +5400,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display storage for fresh towels [92566]     Tủ đựng bày biện các khăn mới</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025743Z" creationid="LanHK" creationdate="20210701T025743Z">
+        <seg>Display storage for fresh towels [92566]     Tủ bày khăn mới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distress alarm with direct connection to an on-site location that is permanently staffed [56408] Một báo động sự cố với kết nối trực tiếp đến một vị trí trên hiện trường có bố trí nhân viên cố định</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210419T043330Z" creationid="LanHK" creationdate="20210419T043330Z">
@@ -32054,6 +32062,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T025448Z" creationid="LanHK" creationdate="20210701T025448Z">
         <seg>[92560]     Bốn bồn tiểu cho đứng các spa với hơn 20 phòng trị liệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92562]     Khu vực trang điểm với bồn rửa tay.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025728Z" creationid="LanHK" creationdate="20210701T025728Z">
+        <seg>[92562]     Khu vực vanity với bồn rửa tay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92563] Khu vực trang điểm phải liền kề với nhà vệ sinh.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025732Z" creationid="LanHK" creationdate="20210701T025732Z">
+        <seg>[92563] Khu vực vanity phải liền kề với nhà vệ sinh.</seg>
       </tuv>
     </tu>
     <tu>
