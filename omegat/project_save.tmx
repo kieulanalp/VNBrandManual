@@ -7227,6 +7227,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full length mirror [91738]     Gương dài toàn phần</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025204Z" creationid="LanHK" creationdate="20210701T025204Z">
+        <seg>Full length mirror [91738]     Gương toàn thân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Function rooms / ballrooms [331156]     phòng chức năng/ phòng ballroom</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210422T070316Z" creationid="Kieu Lan" creationdate="20210422T070316Z">
@@ -17188,6 +17196,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210428T025923Z" creationid="LanHK" creationdate="20210428T025923Z">
         <seg>Vanity area [20166]     bàn vanity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vanity area [91737]     Khu vực trang điểm</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T025048Z" creationid="LanHK" creationdate="20210701T025048Z">
+        <seg>Vanity area [91737]     Khu vực vanity</seg>
       </tuv>
     </tu>
     <tu>
