@@ -6514,6 +6514,14 @@ Engineering Kỹ thuật</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; General Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Chung</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T024242Z" creationid="LanHK" creationdate="20210701T024242Z">
+        <seg>Fitness &amp; Recreation -&gt; Changing Rooms -&gt; General Fitness &amp; Giải trí -&gt; Phòng thay đồ -&gt; Thông tin chung </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fitness &amp; Recreation -&gt; Fitness Facilities -&gt; Fixtures and Fittings Fitness &amp; Giải trí -&gt; cơ sở fitness -&gt; Đồ đạc và Thiết bị</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210524T015609Z" creationid="LanHK" creationdate="20210524T015609Z">
@@ -20166,6 +20174,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[116600]    Đối với các spa có hơn mười phòng trị liệu, phải cung cấp thêm một trạm cho năm phòng một hoặc một phần trong số đó.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T024203Z" creationid="LanHK" creationdate="20210701T024203Z">
+        <seg>[116600]    Đối với các spa có hơn mười phòng trị liệu, phải cung cấp thêm một quầy POS mỗi cho năm phòng hoặc riêng cho một số phòng trong đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[116877] Nằm ở trung tâm và chung giữa các phòng họp cá nhân.</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210522T015327Z" creationid="LanHK" creationdate="20210522T015327Z">
@@ -31810,6 +31826,22 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T023737Z" creationid="LanHK" creationdate="20210701T023737Z">
         <seg>[91698] Phải đảm bảo riêng tư.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91701] Tất cả các dịch vụ và quầy hàng của họ phải khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T024226Z" creationid="LanHK" creationdate="20210701T024226Z">
+        <seg>[91701] Tất cả các dịch vụ và quầy hàng phải khuất khỏi tầm nhìn của khách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[91702]     Chiếu sáng phải không trực tiếp.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T024235Z" creationid="LanHK" creationdate="20210701T024235Z">
+        <seg>[91702]     Không chiếu sáng trực tiếp.</seg>
       </tuv>
     </tu>
     <tu>
