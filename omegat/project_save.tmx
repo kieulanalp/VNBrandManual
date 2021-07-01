@@ -3382,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Binding services [63254] dịch vụ liên kết</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084602Z" creationid="LanHK" creationdate="20210701T084602Z">
+        <seg>Binding services [63254] dịch vụ đóng quyển tài liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bircher muesli is required [582063] Yêu cầu bircher muesli</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210513T093511Z" creationid="LanHK" creationdate="20210513T093511Z">
@@ -4979,6 +4987,14 @@ Sample water bottle security label sticker Mẫu sticker an toàn chai nước (
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210406T090214Z" creationid="LanHK" creationdate="20210406T090214Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying [28070] Sao chép</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084527Z" creationid="LanHK" creationdate="20210701T084527Z">
+        <seg>Copying [28070] photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14542,6 +14558,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210517T045848Z" creationid="LanHK" creationdate="20210517T045848Z">
         <seg>Sauvignon Blanc or a blend where it is the main grape variety OR Chardonnay or a blend where it is the maingrape variety [53397] Sauvignon Blanc hoặc một hỗn hợp nho trong đó nó là giống nho chính HOẶC Chardonnay hoặc một hỗn hợp nho trong đó nó là giống nho chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning [28072] Scanning</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T084530Z" creationid="LanHK" creationdate="20210701T084530Z">
+        <seg>Scanning [28072] Scan</seg>
       </tuv>
     </tu>
     <tu>
