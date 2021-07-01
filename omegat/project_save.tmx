@@ -9146,6 +9146,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Include seating in front of the lockers at a minimum of one seat for every four lockers [92550]  Bao gồm chỗ ngồi trước tủ khóa tối thiểu một chỗ ngồi cứ mỗi bốn tủ khóa</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T083458Z" creationid="LanHK" creationdate="20210701T083458Z">
+        <seg>Include seating in front of the lockers at a minimum of one seat for every four lockers [92550]  Bao gồm chỗ ngồi trước locker, tối thiểu một chỗ ngồi cho mỗi bốn locker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indicated by tent card or door signage [78346]     Được chỉ định bởi thẻ tent card hoặc biển báo cửa</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210511T100959Z" creationid="LanHK" creationdate="20210510T075718Z">
@@ -32134,6 +32142,14 @@ See also ID number 7009 Xem thêm số ID 7009</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210701T083354Z" creationid="LanHK" creationdate="20210701T083344Z">
         <seg>[92546]    Phải được cung cấp với tỷ lệ 2,5-3 locker cho mỗi phòng trị liệu nữ và 1,5-1,75 locker cho mỗi phòng trị liệu nam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[92551]    Nên kết hợp tủ khóa kích thước toàn phần và một nửa, dựa trên các tiêu chí spa riêng biệt và văn hóa của vị trí khách sạn.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LanHK" changedate="20210701T083552Z" creationid="LanHK" creationdate="20210701T083546Z">
+        <seg>[92551]    Khuyến nghị kết hợp locker full size và nửa size, dựa trên các tiêu chí của từng spa riêng và văn hóa tại địa điểm khách sạn.</seg>
       </tuv>
     </tu>
     <tu>
